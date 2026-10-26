@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import type { Entry } from '../lib/derive';
 import { siteData } from '../lib/load';
-import { CATEGORY_LABELS, SITE_NAME, href } from '../lib/util';
+import { CATEGORY_LABELS, SITE_NAME, href, wbr } from '../lib/util';
 
 const { entries, stats } = siteData();
 const cats = Object.keys(CATEGORY_LABELS).filter((c) => stats.categories[c]);
@@ -57,9 +57,9 @@ const searchText = (e: Entry) =>
         {
           entries.map((e) => (
             <tr data-s={searchText(e)} data-cat={e.categories.join(' ')} data-flags={e.flags.join(' ')} data-v={e.verified ? '1' : '0'}>
-              <td><a href={href(`b/${e.slug}/`)}>{e.name}</a></td>
+              <td><a href={href(`b/${e.slug}/`)} set:html={wbr(e.name)} /></td>
               <td class="mono">
-                {e.primary ? e.primary : <span class="none">none</span>}
+                {e.primary ? <Fragment set:html={wbr(e.primary)} /> : <span class="none">none</span>}
                 {e.distinct_values.length > 1 && <span class="more" title={e.distinct_values.join(', ')}>+{e.distinct_values.length - 1}</span>}
               </td>
               <td class="hide-sm desc">{e.description}</td>

@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { siteData } from '../lib/load';
-import { href } from '../lib/util';
+import { href, wbr } from '../lib/util';
 
 const { entries, stats, pairs } = siteData();
 const slugOf = new Map(entries.map((e) => [e.name, e.slug]));
@@ -68,8 +68,8 @@ Filter:    tracked && !expected`;
         <tbody>
           {rows.map((r) => (
             <tr data-s={[r.key, ...r.names].join(' ')}>
-              <td class="mono">{r.spellings.join(', ')}</td>
-              <td>{r.names.map((n, i) => <>{i > 0 && ', '}<a href={href(`b/${slugOf.get(n) ?? n}/`)}>{n}</a></>)}</td>
+              <td class="mono" set:html={wbr(r.spellings.join(', '))} />
+              <td>{r.names.map((n, i) => <>{i > 0 && ', '}<a href={href(`b/${slugOf.get(n) ?? n}/`)} set:html={wbr(n)} /></>)}</td>
             </tr>
           ))}
         </tbody>

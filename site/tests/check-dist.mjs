@@ -9,7 +9,8 @@ const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const BASE = (process.env.BASE_PATH || '/').replace(/\/?$/, '/');
 let failures = 0;
 const fail = (msg) => { failures++; console.error(`FAIL ${msg}`); };
-const read = (p) => readFileSync(join(DIST, p), 'utf8');
+// <wbr> break hints are invisible; match on the text a reader sees
+const read = (p) => readFileSync(join(DIST, p), 'utf8').replace(/<wbr>/g, '');
 
 function expectPage(path, needles) {
   const file = join(path, 'index.html');
@@ -44,6 +45,10 @@ for (const gone of ['rename', 'search', 'exports']) {
 const index = read('index.html');
 const rows = (index.match(/<tr data-s=/g) || []).length;
 if (rows < 1000) fail(`index has only ${rows} rows`);
+
+// long names must carry break points, or they overflow multi-column lists (gotchas page)
+const rawGotchas = readFileSync(join(DIST, 'gotchas', 'index.html'), 'utf8');
+if (!rawGotchas.includes('microsoft.<wbr>data.<wbr>usageandqualityinsights.<wbr>')) fail('long names on /gotchas/ have no break points');
 
 // exports
 const csv = read('exports/ofn.csv');

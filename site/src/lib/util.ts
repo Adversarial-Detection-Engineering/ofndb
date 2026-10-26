@@ -31,6 +31,9 @@ export const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ESC[c]);
 /** Escape, then render `code` spans. Gotchas and notes use only backticks. */
 export const md = (s: string) => esc(s).replace(/`([^`]+)`/g, '<code>$1</code>');
 
+/** Escape, then allow line breaks after . _ - so long file names wrap at sensible points. */
+export const wbr = (s: string) => esc(s).replace(/([._-])/g, '$1<wbr>');
+
 export const PLATFORMS = [
   { key: 'sigma', label: 'Sigma', hint: 'process_creation logsource. Sigma string matching is case-insensitive.' },
   {

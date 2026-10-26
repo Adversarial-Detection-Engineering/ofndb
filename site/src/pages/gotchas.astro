@@ -2,7 +2,7 @@
 import Base from '../layouts/Base.astro';
 import type { Entry } from '../lib/derive';
 import { siteData } from '../lib/load';
-import { href, md } from '../lib/util';
+import { href, md, wbr } from '../lib/util';
 
 const { entries } = siteData();
 const byFlag = (f: string) => entries.filter((e) => e.flags.includes(f));
@@ -54,7 +54,7 @@ const mui = [
       <a href={href('b/pwsh.exe/')}><code>pwsh.exe</code></a> logs <code>pwsh.dll</code>.
     </p>
     <ul class="cols">
-      {apphost.map((e) => <li><a href={href(`b/${e.slug}/`)}>{e.name}</a> → <code>{e.distinct_values.find((v) => v.toLowerCase().endsWith('.dll'))}</code></li>)}
+      {apphost.map((e) => <li><a href={href(`b/${e.slug}/`)} set:html={wbr(e.name)} /> → <code set:html={wbr(e.distinct_values.find((v) => v.toLowerCase().endsWith('.dll')) ?? '')} /></li>)}
     </ul>
 
     <h2 id="drift">3. The value changes between builds</h2>
@@ -63,7 +63,7 @@ const mui = [
       or its casing, between Windows releases or architectures. A rule listing one value silently misses the other builds.
     </p>
     <ul class="stack">
-      {drift.map((e) => <li><a href={href(`b/${e.slug}/`)} class="mono">{e.name}</a>: <span set:html={md(driftGotcha(e))} /></li>)}
+      {drift.map((e) => <li><a href={href(`b/${e.slug}/`)} class="mono" set:html={wbr(e.name)} />: <span set:html={md(driftGotcha(e))} /></li>)}
     </ul>
 
     <h2 id="none">4. Some binaries have no OriginalFilename at all</h2>
@@ -73,7 +73,7 @@ const mui = [
       rules can't see these binaries; use the image path, hash or signer.
     </p>
     <ul class="cols">
-      {noOfn.map((e) => <li><a href={href(`b/${e.slug}/`)}>{e.name}</a></li>)}
+      {noOfn.map((e) => <li><a href={href(`b/${e.slug}/`)} set:html={wbr(e.name)} /></li>)}
     </ul>
 
     <h2 id="differs">5. The value often isn't the file name</h2>
@@ -86,7 +86,7 @@ const mui = [
         <thead><tr><th>File name</th><th>OriginalFilename</th></tr></thead>
         <tbody>
           {differs.slice(0, 40).map((e) => (
-            <tr><td><a href={href(`b/${e.slug}/`)}>{e.name}</a></td><td class="mono">{e.distinct_values.join(', ')}</td></tr>
+            <tr><td><a href={href(`b/${e.slug}/`)} set:html={wbr(e.name)} /></td><td class="mono" set:html={wbr(e.distinct_values.join(', '))} /></tr>
           ))}
         </tbody>
       </table>

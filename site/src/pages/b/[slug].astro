@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import type { Entry } from '../../lib/derive';
 import { siteData } from '../../lib/load';
-import { CATEGORY_LABELS, FLAG_LABELS, PLATFORMS, href, md } from '../../lib/util';
+import { CATEGORY_LABELS, FLAG_LABELS, PLATFORMS, href, md, wbr } from '../../lib/util';
 
 export function getStaticPaths() {
   return siteData().entries.map((e) => ({ params: { slug: e.slug }, props: { e } }));
@@ -29,7 +29,7 @@ const desc = e.primary
   <article>
     <p class="crumbs"><a href={href('')}>Library</a> / {CATEGORY_LABELS[e.category]}</p>
     <header class="entry-head">
-      <h1 class="mono">{e.name}</h1>
+      <h1 class="mono" set:html={wbr(e.name)} />
       {(e.description || e.company) && <p class="entry-sub">{[e.description, e.company].filter(Boolean).join(' · ')}</p>}
       <div class="badges">
         {e.categories.map((c) => <span class={`cat cat-${c}`}>{CATEGORY_LABELS[c]}</span>)}
