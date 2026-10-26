@@ -1,0 +1,44 @@
+{
+ "name": "tcblaunch.exe",
+ "builds": [
+  {
+   "sha256": "0195b18a5f5db86d6bba9b8585c1383ff36c5b08792a6a612762e6024f71156c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tcblaunch.exe",
+   "internal_name": "tcblaunch.exe",
+   "file_description": "TCB Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tcblaunch.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "tcblaunch.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

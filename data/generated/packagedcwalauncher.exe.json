@@ -1,0 +1,64 @@
+{
+ "name": "packagedcwalauncher.exe",
+ "builds": [
+  {
+   "sha256": "654416cb5808ef6990aaf87166c55c4459fc5ddb753b730f7e2da8f49f20e50e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PackagedCWALauncher.exe",
+   "internal_name": "Packaged CWA Launcher",
+   "file_description": "Packaged CWA Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\PackagedCWALauncher.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "4c59d2979a562dd18197669549e52ab993ab3bb776732ed5c3316d7579d2e2d6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "PackagedCWALauncher.exe",
+   "internal_name": "Packaged CWA Launcher",
+   "file_description": "Packaged CWA Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\PackagedCWALauncher.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "PackagedCWALauncher.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

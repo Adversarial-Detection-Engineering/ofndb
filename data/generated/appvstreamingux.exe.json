@@ -1,0 +1,44 @@
+{
+ "name": "appvstreamingux.exe",
+ "builds": [
+  {
+   "sha256": "9c607948a2d238d09723961f857c17673cda655e5e3f4e73cb40d773cee982ff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AppVStreamingUX.exe",
+   "internal_name": "AppVStreamingUX.exe",
+   "file_description": "Microsoft Application Virtualization Client Streaming UX",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AppV\\AppVStreamingUX.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AppVStreamingUX.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

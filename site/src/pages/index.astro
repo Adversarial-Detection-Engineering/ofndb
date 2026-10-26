@@ -1,0 +1,127 @@
+---
+import Base from '../layouts/Base.astro';
+import type { Entry } from '../lib/derive';
+import { siteData } from '../lib/load';
+import { CATEGORY_LABELS, SITE_NAME, href } from '../lib/util';
+
+const { entries, stats } = siteData();
+const cats = Object.keys(CATEGORY_LABELS).filter((c) => stats.categories[c]);
+const quickFlags = [
+  ['drift', 'Changed across builds'],
+  ['no-ofn', 'No OriginalFilename'],
+  ['differs-from-name', 'Differs from file name'],
+  ['apphost', '.NET apphost'],
+];
+const searchText = (e: Entry) =>
+  [e.name, ...e.distinct_values, e.description ?? '', e.company ?? '', ...e.internal_names].join(' ').toLowerCase();
+---
+
+<Base title={SITE_NAME}>
+  <section class="hero">
+    <h1>OriginalFilename, as sensors log it</h1>
+    <p class="lede">
+      The <code>OriginalFileName</code> value Sysmon, Defender and Elastic report for {stats.entries.toLocaleString('en-US')}
+      LOLBins, Windows binaries and admin tools. Parsed from the PE itself across {stats.builds.toLocaleString('en-US')} builds,
+      then checked against real Sysmon events. Not the <code>.MUI</code> value Explorer shows you.
+    </p>
+  </section>
+
+  <section class="finder" aria-label="Find a binary">
+    <div class="search-row">
+      <input
+        id="q"
+        type="search"
+        placeholder="Search: pwsh, nltest, psexec.c, Process Monitor…"
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search binaries and OriginalFilename values"
+      />
+      <span id="count" class="count" aria-live="polite">{entries.length} binaries</span>
+    </div>
+    <div class="chips" role="group" aria-label="Category">
+      <button class="chip" aria-pressed="true" data-cat="">All</button>
+      {cats.map((c) => <button class="chip" aria-pressed="false" data-cat={c}>{CATEGORY_LABELS[c]} <span>{stats.categories[c]}</span></button>)}
+    </div>
+    <div class="chips flags" role="group" aria-label="Only show">
+      {quickFlags.map(([f, label]) => <button class="chip chip-flag" aria-pressed="false" data-flag={f}>{label} <span>{stats.flags[f] ?? 0}</span></button>)}
+      <button class="chip chip-flag" aria-pressed="false" data-verified>Sysmon-confirmed <span>{stats.verified_entries}</span></button>
+    </div>
+  </section>
+
+  <div class="table-wrap">
+    <table class="lib" id="lib">
+      <thead>
+        <tr><th>Binary</th><th>OriginalFilename</th><th class="hide-sm">Description</th><th class="hide-sm">Category</th><th title="Confirmed against a live Sysmon event">Sysmon</th></tr>
+      </thead>
+      <tbody>
+        {
+          entries.map((e) => (
+            <tr data-s={searchText(e)} data-cat={e.categories.join(' ')} data-flags={e.flags.join(' ')} data-v={e.verified ? '1' : '0'}>
+              <td><a href={href(`b/${e.slug}/`)}>{e.name}</a></td>
+              <td class="mono">
+                {e.primary ? e.primary : <span class="none">none</span>}
+                {e.distinct_values.length > 1 && <span class="more" title={e.distinct_values.join(', ')}>+{e.distinct_values.length - 1}</span>}
+              </td>
+              <td class="hide-sm desc">{e.description}</td>
+              <td class="hide-sm"><span class={`cat cat-${e.category}`}>{CATEGORY_LABELS[e.category]}</span></td>
+              <td class="ok">{e.verified ? <span title="Confirmed against Sysmon">✓</span> : ''}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    <p id="empty" class="empty" hidden>No match. Try part of a name or value, or clear the filters.</p>
+  </div>
+
+  <script is:inline>
+    (() => {
+      const q = document.getElementById('q');
+      const rows = [...document.querySelectorAll('#lib tbody tr')];
+      const count = document.getElementById('count');
+      const empty = document.getElementById('empty');
+      let cat = '';
+      const flags = new Set();
+      let verified = false;
+
+      const apply = () => {
+        const terms = q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+        let shown = 0;
+        for (const r of rows) {
+          const ok =
+            terms.every((t) => r.dataset.s.includes(t)) &&
+            (!cat || r.dataset.cat.split(' ').includes(cat)) &&
+            [...flags].every((f) => r.dataset.flags.split(' ').includes(f)) &&
+            (!verified || r.dataset.v === '1');
+          r.hidden = !ok;
+          if (ok) shown++;
+        }
+        count.textContent = `${shown} binar${shown === 1 ? 'y' : 'ies'}`;
+        empty.hidden = shown > 0;
+        const url = new URL(location.href);
+        q.value ? url.searchParams.set('q', q.value) : url.searchParams.delete('q');
+        history.replaceState(null, '', url);
+      };
+
+      document.querySelectorAll('button[data-cat]').forEach((b) => b.addEventListener('click', () => {
+        cat = b.dataset.cat;
+        document.querySelectorAll('button[data-cat]').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+        apply();
+      }));
+      document.querySelectorAll('button[data-flag]').forEach((b) => b.addEventListener('click', () => {
+        const on = b.getAttribute('aria-pressed') !== 'true';
+        b.setAttribute('aria-pressed', String(on));
+        on ? flags.add(b.dataset.flag) : flags.delete(b.dataset.flag);
+        apply();
+      }));
+      document.querySelector('button[data-verified]').addEventListener('click', (ev) => {
+        verified = !verified;
+        ev.currentTarget.setAttribute('aria-pressed', String(verified));
+        apply();
+      });
+      q.addEventListener('input', apply);
+      const initial = new URLSearchParams(location.search).get('q');
+      if (initial) { q.value = initial; apply(); }
+      q.focus();
+    })();
+  </script>
+</Base>

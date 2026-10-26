@@ -1,0 +1,47 @@
+{
+ "name": "adinsight.exe",
+ "builds": [
+  {
+   "sha256": "032dc03fa3e7b3df5714aea96ddacc0da1e4d41ef4d24de2f2103ad03932f194",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ADInsight",
+   "internal_name": "ADInsight",
+   "file_description": "Active directory LDAP monitor",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "ADInsight",
+   "file_version": "1.20",
+   "fixed_file_version": "1.20.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "ADInsight",
+   "release": "2020-09-14",
+   "last_seen": "2020-09-14",
+   "download_url": "https://live.sysinternals.com/ADInsight.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ADInsight",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.20.0.0",
+   "max_version": "1.20.0.0",
+   "first_seen": "2020-09-14",
+   "last_seen": "2020-09-14",
+   "provenance": "parsed"
+  }
+ ]
+}

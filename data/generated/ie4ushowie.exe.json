@@ -1,0 +1,44 @@
+{
+ "name": "ie4ushowie.exe",
+ "builds": [
+  {
+   "sha256": "7df3d1620ada6b81f6ca2f7248c895b68c7c8811c8117674d3f1e0ee8c9d5987",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IE4USHOWIE.EXE",
+   "internal_name": "IE4USHOWIE",
+   "file_description": "IE Per-User Show IE Icon Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ie4ushowIE.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IE4USHOWIE.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.9549",
+   "max_version": "11.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "name": "wuaucltcore.exe",
+ "builds": [
+  {
+   "sha256": "0861ca92e1f76b1513321698899a542ffc1fbeee808fd4113f0701f88c73e397",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuaucltcore.exe",
+   "internal_name": "wuaucltcore.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1510.2610.1012.0",
+   "fixed_file_version": "1510.2610.1012.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuaucltcore.exe/BD155C8952000/wuaucltcore.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wuaucltcore.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "min_version": "1510.2610.1012.0",
+   "max_version": "1510.2610.1012.0",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "89a46580ea3d99f137c5c99dd99a39c486288e403c63b9b92d598899ba42fe6a",
+   "error": "89a46580ea3d: symbol server returned unindexed build b3ed82702089; 16b39116981c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=145368); 364304a1f8cb: symbol server returned unindexed build 1f42dbf8e9f8; 58696a5bd1a2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=145368)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b7ec7c2d18fa1fab0f9dded1dfc9dc91144500ea33d162f7837e48db56ba99ce",
+   "error": "b7ec7c2d18fa: UnindexedBuild: symbol server returned unindexed build (unindexed:size=301408); e3e4d3a73c73: UnindexedBuild: symbol server returned unindexed build (unindexed:size=174040); 5a33c6f6a12e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=145368); 89a46580ea3d: symbol server returned unindexed build b3ed82702089"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "65626439b37b5d8a6362dcdebeeb39e4f4438de59829104e2758e3cdac2145ed",
+   "error": "65626439b37b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=199664); eb1216a6c337: UnindexedBuild: symbol server returned unindexed build (unindexed:size=185296)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "806e8b38c0bba84564165b505de201cdc4f44ee548f5905e7d53b01fef169236",
+   "error": "806e8b38c0bb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=334216); 892a5c5bd41b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=204272); ddaba2faebfc: symbol server returned unindexed build 6de686163997; e2c834cad619: UnindexedBuild: symbol server returned unindexed build (unindexed:size=204272)"
+  }
+ ]
+}

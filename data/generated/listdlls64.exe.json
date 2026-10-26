@@ -1,0 +1,47 @@
+{
+ "name": "listdlls64.exe",
+ "builds": [
+  {
+   "sha256": "641405893f7966a065897758f8edf611610d764175d2bc4d96fbeda96409d058",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Listdlls.exe",
+   "internal_name": "Listdlls",
+   "file_description": "Listdlls",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals Listdlls",
+   "file_version": "3.3",
+   "fixed_file_version": "3.30.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Listdlls",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/Listdlls64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Listdlls.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "3.30.0.0",
+   "max_version": "3.30.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

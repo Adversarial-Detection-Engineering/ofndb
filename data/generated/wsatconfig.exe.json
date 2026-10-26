@@ -1,0 +1,44 @@
+{
+ "name": "wsatconfig.exe",
+ "builds": [
+  {
+   "sha256": "857fca8ff5090e0098093dc7d111caf541921ee7c28192dd29f4bdf7f1ccd72f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WsatConfig.exe",
+   "internal_name": "WsatConfig.exe",
+   "file_description": "WsatConfig.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\WsatConfig.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WsatConfig.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

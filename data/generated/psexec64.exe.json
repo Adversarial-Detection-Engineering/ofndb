@@ -1,0 +1,47 @@
+{
+ "name": "psexec64.exe",
+ "builds": [
+  {
+   "sha256": "edfae1a69522f87b12c6dac3225d930e4848832e3c551ee1e7d31736bf4525ef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "psexec.c",
+   "internal_name": "PsExec",
+   "file_description": "Execute processes remotely",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsExec",
+   "file_version": "2.43",
+   "fixed_file_version": "2.43.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsExec",
+   "release": "2023-04-11",
+   "last_seen": "2023-04-11",
+   "download_url": "https://live.sysinternals.com/PsExec64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psexec.c",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.43.0.0",
+   "max_version": "2.43.0.0",
+   "first_seen": "2023-04-11",
+   "last_seen": "2023-04-11",
+   "provenance": "parsed"
+  }
+ ]
+}

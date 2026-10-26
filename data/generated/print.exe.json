@@ -1,0 +1,480 @@
+{
+ "name": "print.exe",
+ "builds": [
+  {
+   "sha256": "b6f6f9f0a39939e3718bf0336f147f0335edd29bc7492c5b177c4493d8c37ce0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/DFE7DE937000/print.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\print.exe"
+  },
+  {
+   "sha256": "2206ce4bd1b694649a74610c32c30b7f72cfa5a2e4d5f492ce6d1e6cbdd151ee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/B7E37F4Aa000/print.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\print.exe"
+  },
+  {
+   "sha256": "8f963a4d7e142fa33a083b968a923918fa27ab33ae334623e1fa27e7aadc9e1c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/760106557000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9b9da94da7f0ba47192d04ae027f7197758dd8cdb4367fdb79b52b999f608154",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/DCF3C71D9000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "daaa0966cce2cead029755024e0fefb64a9832de845d125f9efc5b3abf25e315",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/578999919000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a936f6b1eea36876aa26cb02b3e52270f1361de77847adb170121c83385aa77e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/57898EAD7000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "de37d012aba22d68b25e97a90b6e340325410b978cdbc77424a3e54f8aa2e376",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/5632D8207000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a13df2cda0bbedf06b2aa951e783ad4c30851c7c392ef34d8d9f31c385df0464",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/5632D8839000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e7ab05d8baadcd3b5502cfa66c6fc8ede7042a5c0e85644735ac180eeb1a532",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/559F38C19000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1522693683c6eaa437a3da57655fcf414f4e55ad2e1caf0d1a6e171239290788",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Print.Exe",
+   "internal_name": "Print",
+   "file_description": "Print Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/print.exe/559F3B317000/print.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Print.Exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "68f237875b9b42f86dcdc962e68d64a868b3aee331ddb5e981ef5c4144c0b0a9",
+   "error": "68f237875b9b: symbol server returned unindexed build c0483c459ee6; 5b7699393037: symbol server returned unindexed build 9bbaf81176d5; b51e02238ef4: symbol server returned unindexed build 9bbaf81176d5; 18ad33ea5179: symbol server returned unindexed build 48b394a2283b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "aeecaedeccc9dcb0a8d910503f876ef8b9a75f0f2dca1363992befa0f6d11c15",
+   "error": "aeecaedeccc9: symbol server returned unindexed build aa42e75d0848"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "aeecaedeccc9dcb0a8d910503f876ef8b9a75f0f2dca1363992befa0f6d11c15",
+   "error": "aeecaedeccc9: symbol server returned unindexed build aa42e75d0848"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ace73ff40038458e851157f8c86329b56a5685216879f27b5364b3876e8b78b3",
+   "error": "ace73ff40038: symbol server returned unindexed build ba38625dad14"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "cb373a2774373d5ad1b20634b906bd10e0a415969564ec56cbfe799cf63f1db3",
+   "error": "cb373a277437: symbol server returned unindexed build ee50608c179a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "16c7c773bf7cb099132d30d1ed5160d10918db0101f5cc3d4d197e1e4d0d4cca",
+   "error": "16c7c773bf7c: symbol server returned unindexed build 037ebfe17814"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "ee6f8bbde72bde2e7b28e80370c61e6adc4789103ee6c94b9584a0190c0f71a7",
+   "error": "ee6f8bbde72b: symbol server returned unindexed build e3f73359d6ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "ee6f8bbde72bde2e7b28e80370c61e6adc4789103ee6c94b9584a0190c0f71a7",
+   "error": "ee6f8bbde72b: symbol server returned unindexed build e3f73359d6ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "388d6761e678c66eeda7085a05e10b13abf88f855b753300c0f9b0d94ddb4db0",
+   "error": "388d6761e678: symbol server returned unindexed build d4318d515bc2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "41413bac79cc6a0c90f670be88658bf7967cdc62dc2fceb27e47af1c72b74994",
+   "error": "41413bac79cc: symbol server returned unindexed build 300a686b55ba; 388d6761e678: symbol server returned unindexed build d4318d515bc2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "388d6761e678c66eeda7085a05e10b13abf88f855b753300c0f9b0d94ddb4db0",
+   "error": "388d6761e678: symbol server returned unindexed build d4318d515bc2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "5b13be2f03989571679de0a4706510fd270950b53dd96cbe57ced49df7687937",
+   "error": "5b13be2f0398: symbol server returned unindexed build 704fb92c1e1c; 08cd7b1b1d58: symbol server returned unindexed build 704fb92c1e1c; 41413bac79cc: symbol server returned unindexed build 300a686b55ba; 388d6761e678: symbol server returned unindexed build d4318d515bc2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "5b13be2f03989571679de0a4706510fd270950b53dd96cbe57ced49df7687937",
+   "error": "5b13be2f0398: symbol server returned unindexed build 704fb92c1e1c; 41413bac79cc: symbol server returned unindexed build 300a686b55ba"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "d053f4ef1bff072e476589e4c60968e663fc3901d5ae08f93c6bae5eafbee665",
+   "error": "d053f4ef1bff: symbol server returned unindexed build ab0815ebe01a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "d053f4ef1bff072e476589e4c60968e663fc3901d5ae08f93c6bae5eafbee665",
+   "error": "d053f4ef1bff: symbol server returned unindexed build ab0815ebe01a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "122fb7bfe86f61833d8419a2e38d9010d8991f04221f7cfabc8edba654cb6c50",
+   "error": "122fb7bfe86f: symbol server returned unindexed build 79bcbdf66fa9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "55d49801389c70d8429196eba54d703d33c24d159214913b3f1fe2e070374bcd",
+   "error": "55d49801389c: symbol server returned unindexed build 5114fcefd397"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "09b82e469b2ccf8454150e8a6758970b16b4d90b6edfb0027f81b21371482b74",
+   "error": "09b82e469b2c: symbol server returned unindexed build c9ad267eae75"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "9eb93fbde0a661888a0ace44906dc7da3872fe610a348cafa81e56f8b8ea4975",
+   "error": "9eb93fbde0a6: symbol server returned unindexed build de7efeabca8b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "3a30d8e24ce0306ce442235c4d60423cea3ba5369b744afc384d502d97cfaa6a",
+   "error": "3a30d8e24ce0: symbol server returned unindexed build 9bfe07d119dd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "3a30d8e24ce0306ce442235c4d60423cea3ba5369b744afc384d502d97cfaa6a",
+   "error": "3a30d8e24ce0: symbol server returned unindexed build 9bfe07d119dd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "76cd31a70770af4ff2db5f84f174d9740d2fe6603628bc07d6689e60edff5935",
+   "error": "76cd31a70770: symbol server returned unindexed build a3f66feb0b36"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "b380def5476060307e718b5c565dc0336af18135e10f090bfcb5821e68a4edc4",
+   "error": "b380def54760: symbol server returned unindexed build 95c9a50a5f78; 76cd31a70770: symbol server returned unindexed build a3f66feb0b36"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "76cd31a70770af4ff2db5f84f174d9740d2fe6603628bc07d6689e60edff5935",
+   "error": "76cd31a70770: symbol server returned unindexed build a3f66feb0b36"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "f862725865f9d1af926eb81262f5ab069c1bf0149419629988952e1ee732246a",
+   "error": "f862725865f9: symbol server returned unindexed build 4cf36a14db0a; 9631052b6d0e: symbol server returned unindexed build 4cf36a14db0a; b380def54760: symbol server returned unindexed build 95c9a50a5f78; 76cd31a70770: symbol server returned unindexed build a3f66feb0b36"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "f862725865f9d1af926eb81262f5ab069c1bf0149419629988952e1ee732246a",
+   "error": "f862725865f9: symbol server returned unindexed build 4cf36a14db0a; b380def54760: symbol server returned unindexed build 95c9a50a5f78"
+  }
+ ]
+}

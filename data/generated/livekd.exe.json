@@ -1,0 +1,47 @@
+{
+ "name": "livekd.exe",
+ "builds": [
+  {
+   "sha256": "278a2613910adc75e09d24e61ae1570947042b0d912ab8cfaba3cae126f12cb9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "livekd.exe",
+   "internal_name": "livekd",
+   "file_description": "livekd",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals LiveKd",
+   "file_version": "5.65",
+   "fixed_file_version": "5.65.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals LiveKd",
+   "release": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "download_url": "https://live.sysinternals.com/livekd.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "livekd.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "5.65.0.0",
+   "max_version": "5.65.0.0",
+   "first_seen": "2026-07-09",
+   "last_seen": "2026-07-09",
+   "provenance": "parsed"
+  }
+ ]
+}

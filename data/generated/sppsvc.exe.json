@@ -1,0 +1,166 @@
+{
+ "name": "sppsvc.exe",
+ "builds": [
+  {
+   "sha256": "779808070ff2d9a64246e43a4a108cae78cf89b0ad7bdceaf6d7316e271646c4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sppsvc.exe",
+   "internal_name": "sppsvc",
+   "file_description": "Microsoft Software Protection Platform Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sppsvc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sppsvc.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "338d01fc6bc22c03fb3f09026ca210673d677a04496f3987fec8968eb23c6a89",
+   "error": "338d01fc6bc2: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/F17A759D477000/sppsvc.exe; d5aa3d52b36f: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/5CA48C1C477000/sppsvc.exe; 00a5e3e41793: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/1800C046477000/sppsvc.exe; 4e006f31a3ad: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/5CA48C1C477000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "c1299a5a878871b0da32bbc89239307054dd1b55092cfa53523cea3041903fca",
+   "error": "c1299a5a8788: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/492AE2CA482000/sppsvc.exe; 626e919fdcb9: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/16C3AD4C482000/sppsvc.exe; 3c39261fefde: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/CBE412B8482000/sppsvc.exe; 0b8430c4e288: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/10798E52482000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "cf970d904263c45ceda97b10af1a342c25ed122172a7b2c72d20acca4cc47305",
+   "error": "cf970d904263: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/4D9E41EC489000/sppsvc.exe; 9cbbc43adc4b: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/53641DEE482000/sppsvc.exe; 9e2ca7f63ddf: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/AFDFCAAE482000/sppsvc.exe; 68ad423d2c2b: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/3E0586A2482000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "779808070ff2d9a64246e43a4a108cae78cf89b0ad7bdceaf6d7316e271646c4",
+   "error": "779808070ff2: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/F70A3BD3490000/sppsvc.exe; acefa6239f8f: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/9864C3C148f000/sppsvc.exe; 3af9625287a5: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/35F73426490000/sppsvc.exe; dd659eaf5623: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/7AB46956490000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "8940986c6abca966d645c0b1146932cc6f6caf6eec5a2e2bc3f4ab82d372502e",
+   "error": "8940986c6abc: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/7E1A1A87490000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "86ed730709bc5a715c06f9e73df33d3539b642995a890d3459c1a96dccf34a03",
+   "error": "86ed730709bc: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/B021807948c000/sppsvc.exe; 32faa3404199: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/CE322E3248b000/sppsvc.exe; 01ca2712b482: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/3F9266B448c000/sppsvc.exe; e52385c5fe32: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/87E97FF948c000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1507",
+   "sha256": "b13fb14565eec3ac0d665d42b01798c055f8ff9154a2668fe172a9f5d21d7e47",
+   "error": "b13fb14565ee: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/68E6794262e000/sppsvc.exe; 43cd5304d253: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/68B12B1062e000/sppsvc.exe; 54727c2f8d83: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/688DAA0C62e000/sppsvc.exe; c8b62eac1334: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6863848B62e000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "68963810c50342ade32ed0177d10e9905518a648dce2518990611870e0674489",
+   "error": "68963810c503: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/5A97922E630000/sppsvc.exe; 68ee3e129352: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/5A7E7B38630000/sppsvc.exe; 7a418b25ec33: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/5A5BC833630000/sppsvc.exe; 8cfbdaccc112: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/59AE29CA630000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "db1a4d2d84aebed3cf5a6307fbac28b655cb03fbdbe8297713b769260cbca3c8",
+   "error": "db1a4d2d84ae: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6AC8D48C555000/sppsvc.exe; e0b0a68acf8f: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6A979462554000/sppsvc.exe; 4e3f6afa3975: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6A775240554000/sppsvc.exe; adb3edc25c2b: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6A51BF34554000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "c7305e721e85ee5903666e59cd66783c02e86b325f31732f456c1b8c162b65d7",
+   "error": "c7305e721e85: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/1F128FD8457000/sppsvc.exe; a1bc46512c6c: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/49E2E987457000/sppsvc.exe; 49b76c9fcc77: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/1B9F0121457000/sppsvc.exe; c575f5245565: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/E301A793457000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "e7f2f7baf65fdaa0840aeee1ba97a9dc601e03ad3f5421a17ac7b89e374ccab3",
+   "error": "e7f2f7baf65f: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/D3F351D9446000/sppsvc.exe; 0e129265c0a8: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/C16A6414446000/sppsvc.exe; 36dbfc5050b3: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/25596BB9446000/sppsvc.exe; 48704c2461d1: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6BF7F31B446000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "1c33b33568f855261698abed7538a0622a1d6d7373a142f9d86be4f98f0f25c3",
+   "error": "1c33b33568f8: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6652DD1944b000/sppsvc.exe; c6a451fa0c18: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6F17B59444b000/sppsvc.exe; 7b97777c4c76: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6652DD1944b000/sppsvc.exe; f1aaa29b60dc: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/BD9F39F244b000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "dc022c5c9d8cf34bdbe727e1325c266c6805cb9cc14ab26d1ef60e2c4a9132a6",
+   "error": "dc022c5c9d8c: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/65C1432F464000/sppsvc.exe; 09fb9a84d035: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/998D9D35464000/sppsvc.exe; 220134c7247a: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/9165DD07464000/sppsvc.exe; 56de79be3568: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/90F1F819464000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "b8894298ac2e15c2f8382411f19ec979f73cc8eb609d64ec84e55f435b1e7aeb",
+   "error": "b8894298ac2e: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/B2983970453000/sppsvc.exe; 0eab934c1d2e: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/7BF5D97B453000/sppsvc.exe; 57ef82c78b8f: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/75D838EF453000/sppsvc.exe; 7567e455ba5f: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/75D838EF453000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "df54c4912c38e15efacf2eeae9a48dcad93ea0382d3ef2c2897125a42ce6e1a3",
+   "error": "df54c4912c38: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/8F7D4704453000/sppsvc.exe; e5daa8befde5: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/18DD89C5453000/sppsvc.exe; fb3530e0b244: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/8F7D4704453000/sppsvc.exe; 05ec307141c1: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/0C46BBE0453000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "1905bfe26adc74f15cd099774b5c0072e6fb28e1037a77b2b02d0d501bc43b50",
+   "error": "1905bfe26adc: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/3C756910463000/sppsvc.exe; f7db353c7f32: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/79AD2437463000/sppsvc.exe; 82c59a2f606e: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/4E09C57C463000/sppsvc.exe; b73916e2b4d8: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/9438BA78463000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "1a2ebf45f7055c014b7a982c1d3483522c0c7f7eb5e6308381eef44a842db416",
+   "error": "1a2ebf45f705: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/D4C252C9463000/sppsvc.exe; 51420c81250d: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/C741FA29463000/sppsvc.exe; f8d6bdd0aae3: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/4C4F4614463000/sppsvc.exe; 2e967cae4323: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/375FB68F463000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "cc584e1de3229e4f45d9cc37b007acf04f1fa43b99afcc0f2a946ff1d92450fc",
+   "error": "cc584e1de322: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/9C93A258463000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "4d035671bf224b2393828154a68bfd2d58f1ce1981c630e412e6a660f16b3ec8",
+   "error": "4d035671bf22: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/3F38C3C646e000/sppsvc.exe; 3659880dc77b: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/A5B59C7B46e000/sppsvc.exe; 1f83ba2388c1: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/6F46BECA46e000/sppsvc.exe; b2ed1c895ac1: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/4A05C90F46e000/sppsvc.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "306c08038c49127296b210fc86c82a31ede1d1acfd9fa5ea593bdee26e1abcb3",
+   "error": "306c08038c49: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/A7B4F8AB46e000/sppsvc.exe; cc58529d87a5: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/F161898646e000/sppsvc.exe; d90e099ccb85: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/44A1C1A046e000/sppsvc.exe; 97f88611e18e: NotFound: https://msdl.microsoft.com/download/symbols/sppsvc.exe/BC3F098146e000/sppsvc.exe"
+  }
+ ]
+}

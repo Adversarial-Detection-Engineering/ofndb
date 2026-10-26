@@ -1,0 +1,577 @@
+{
+ "name": "pathping.exe",
+ "builds": [
+  {
+   "sha256": "cf755c161116fc9c46989828b0c566573f648b9f7a13fbcaee0b3bbbb5006109",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/0801C46615000/pathping.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\PATHPING.EXE"
+  },
+  {
+   "sha256": "a140ff224af1fedd53c5e9695c06dd425d305d04587154ef1e0a5b5f4e819f72",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/889EF4D311000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "678a9f5494ac0909e92b41f06023cdcb2fc8822f683d30c83d373c7340123220",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/C649E75B11000/pathping.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\PATHPING.EXE"
+  },
+  {
+   "sha256": "0444c98f8ba5244bf1235135937fffe84de8fa1178c952780eb8706324e48c7e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/12A124B515000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0adf9e5b96bfb46b51833719d540424cc3af8afc71fe926352d0f824f1d6afa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/7696CF4A12000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d3f6b3c7c3357e942bab66da3c9b4c5584b97d140b1ffad3f5c2fae15f7110c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/6FE3756E15000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "42765a6607f2dfaa307c050ed1077327f629aa719db1be49609de28081e45659",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/5789913611000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3b2271e94d1479d553477756dbb71b40bbbc1579ad0dafd63e135699ee77f12e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/57899B9314000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b37b1da47ef68fe31cfabbf49a7407f59d7426289ee1fcf1f78adf8d0527a2b0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/5632D87314000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b2f55c0ba1d1801d0ed05cab90c57a30d33db02cf39bcdf5484a95a8327fde93",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/5632D80D11000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a6fa32d23e5c3d57bb73cd84823be29fa0aaa0890663325484deb1ead6edc518",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/559F3D4411000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "53d9e2f0c61f951e013025d2f9e01031b4e98f5d125335a7aff5dc9010dd75d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pathping.exe",
+   "internal_name": "pathping.exe",
+   "file_description": "TCP/IP PathPing Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pathping.exe/559F3AA514000/pathping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pathping.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "f725138077092044bc5c564fe80cad7427d7577e15da4e6190041e20dcdbd87d",
+   "error": "f72513807709: symbol server returned unindexed build 8b4f7053c8dc; cb4c6f6e4b8c: symbol server returned unindexed build 01b3e8853d8d; 4eea3639eff6: symbol server returned unindexed build 01b3e8853d8d; eab195d9ec21: symbol server returned unindexed build 434dad66a095"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7037a67ca7cd962b61f1008101ad7fba106871996ed8eeba7a8867d677dc6e29",
+   "error": "7037a67ca7cd: symbol server returned unindexed build 0c94518eb9e7; be16a824e4de: symbol server returned unindexed build 0a08823028d0; 020ae33aed2d: symbol server returned unindexed build 81b717142175; f2be6759b3bd: symbol server returned unindexed build 905b702281f4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7037a67ca7cd962b61f1008101ad7fba106871996ed8eeba7a8867d677dc6e29",
+   "error": "7037a67ca7cd: symbol server returned unindexed build 0c94518eb9e7; 020ae33aed2d: symbol server returned unindexed build 81b717142175"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "aece5ede188c2474bb0700dd2da002cbf0c87cddcacf757698563edeba493b03",
+   "error": "aece5ede188c: symbol server returned unindexed build b1044942478f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "f90dc35a9d8454b72132597ef5c7964dbc569c486138f8dd1ccc0457b6a01899",
+   "error": "f90dc35a9d84: symbol server returned unindexed build 472273023aa5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "d4ce91bb31432a5109a36172b0edf157e51ea9a1e43e0b84eabd75649e70f3e8",
+   "error": "d4ce91bb3143: symbol server returned unindexed build 87afe9e218cc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "96a0fa913d1688d61496b0001f5264fc1727c9a7af9232d1eb02811252ed1908",
+   "error": "96a0fa913d16: symbol server returned unindexed build 12815ea61c71"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "9bf3289456e40a0f8bc5c4b1920f764bb5a45c19bc92d2b4d348fd64ee367460",
+   "error": "9bf3289456e4: symbol server returned unindexed build d427d0ac1164"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "9bf3289456e40a0f8bc5c4b1920f764bb5a45c19bc92d2b4d348fd64ee367460",
+   "error": "9bf3289456e4: symbol server returned unindexed build d427d0ac1164"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "348fb606016a1d9d7a1791a2fd561cf58b2b22165cf3c204ff9c541911078f59",
+   "error": "348fb606016a: symbol server returned unindexed build 69d9bd000fbb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "348fb606016a1d9d7a1791a2fd561cf58b2b22165cf3c204ff9c541911078f59",
+   "error": "348fb606016a: symbol server returned unindexed build 69d9bd000fbb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "348fb606016a1d9d7a1791a2fd561cf58b2b22165cf3c204ff9c541911078f59",
+   "error": "348fb606016a: symbol server returned unindexed build 69d9bd000fbb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "348fb606016a1d9d7a1791a2fd561cf58b2b22165cf3c204ff9c541911078f59",
+   "error": "348fb606016a: symbol server returned unindexed build 69d9bd000fbb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "348fb606016a1d9d7a1791a2fd561cf58b2b22165cf3c204ff9c541911078f59",
+   "error": "348fb606016a: symbol server returned unindexed build 69d9bd000fbb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "c9fc0a9b27a8a89b0568eaf02b7d633c87e40b2ea179782acb26aee462e9376c",
+   "error": "c9fc0a9b27a8: symbol server returned unindexed build bc8001adebf3; 6a5965205cb1: symbol server returned unindexed build 82b1c2761f6a; 02c915ca5499: symbol server returned unindexed build 82b1c2761f6a; 7ba8874cac5a: symbol server returned unindexed build 29bba333f6fc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "502010b059b3bbb33c3a0992d02f053099173acf09bf8630947b3f13ad060715",
+   "error": "502010b059b3: symbol server returned unindexed build 91f8e500ee66; f66df9f23db6: symbol server returned unindexed build 35333791cf60; 20407a2e4bf5: symbol server returned unindexed build f2968a9bb4f2; 50fe31beeaa1: symbol server returned unindexed build 993020a9989b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "502010b059b3bbb33c3a0992d02f053099173acf09bf8630947b3f13ad060715",
+   "error": "502010b059b3: symbol server returned unindexed build 91f8e500ee66; 20407a2e4bf5: symbol server returned unindexed build f2968a9bb4f2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "130b41204796daf47a826ceb0323207a753062b8287514619b7075ee14b64193",
+   "error": "130b41204796: symbol server returned unindexed build f1a37b961ad0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "49cfe2250da8f2f18d714dc5160165814df8d8798976f5eceab14e52504c0caa",
+   "error": "49cfe2250da8: symbol server returned unindexed build 21f8f6164e5f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "ea12c9a5201de216f656c3a6ef2e66c1d360d5032bed2ff4f4f4d968be38334a",
+   "error": "ea12c9a5201d: symbol server returned unindexed build 2a209959c74a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "58037e8767caff16722c3dbc1e3b733b9fd269c5a244ce1fa3973e3d31c13fa8",
+   "error": "58037e8767ca: symbol server returned unindexed build 0bf1079919d5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "a1028d6da126819232510226a030491b9d824acf930928f5841ebdd4141b9e34",
+   "error": "a1028d6da126: symbol server returned unindexed build 4599867b1fb2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "a1028d6da126819232510226a030491b9d824acf930928f5841ebdd4141b9e34",
+   "error": "a1028d6da126: symbol server returned unindexed build 4599867b1fb2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "bb6753327aecdcc1e9c44e75be44ae94fedddabef038411d510d861a1527e79e",
+   "error": "bb6753327aec: symbol server returned unindexed build 8be86e2a217d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "bb6753327aecdcc1e9c44e75be44ae94fedddabef038411d510d861a1527e79e",
+   "error": "bb6753327aec: symbol server returned unindexed build 8be86e2a217d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "bb6753327aecdcc1e9c44e75be44ae94fedddabef038411d510d861a1527e79e",
+   "error": "bb6753327aec: symbol server returned unindexed build 8be86e2a217d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "bb6753327aecdcc1e9c44e75be44ae94fedddabef038411d510d861a1527e79e",
+   "error": "bb6753327aec: symbol server returned unindexed build 8be86e2a217d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "bb6753327aecdcc1e9c44e75be44ae94fedddabef038411d510d861a1527e79e",
+   "error": "bb6753327aec: symbol server returned unindexed build 8be86e2a217d"
+  }
+ ]
+}

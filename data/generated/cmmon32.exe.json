@@ -1,0 +1,64 @@
+{
+ "name": "cmmon32.exe",
+ "builds": [
+  {
+   "sha256": "ff71267f116db665e6cccc4d9b00c9ae4546fdf462ed2dc7ad4d134cc5dac21c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CMMON32.exe",
+   "internal_name": "CMMON32",
+   "file_description": "Microsoft Connection Manager Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft(R) Connection Manager",
+   "file_version": "7.2.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.2.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\cmmon32.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "46407d982cf87e908e0b58421c408a31e1a5d59c44fd4e7b4cb0f5209732bdcf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CMMON32.exe",
+   "internal_name": "CMMON32",
+   "file_description": "Microsoft Connection Manager Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft(R) Connection Manager",
+   "file_version": "7.2.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.2.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cmmon32.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CMMON32.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "7.2.26100.7705",
+   "max_version": "7.2.26100.7705",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

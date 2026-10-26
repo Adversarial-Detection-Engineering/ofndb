@@ -1,0 +1,64 @@
+{
+ "name": "wwahost.exe",
+ "builds": [
+  {
+   "sha256": "e380daf6fcb93e9741e302cb29760adf90f3d8625eedba604cc7e29aa4673c4b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WWAHost.exe",
+   "internal_name": "WWAHost",
+   "file_description": "Microsoft WWA Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WWAHost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "91ebf1a20242bd837ec7a3b458a96e214b4f7292e330413fcd4179c50aeda32b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WWAHost.exe",
+   "internal_name": "WWAHost",
+   "file_description": "Microsoft WWA Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WWAHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WWAHost.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

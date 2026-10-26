@@ -1,0 +1,64 @@
+{
+ "name": "wampluginhost.exe",
+ "builds": [
+  {
+   "sha256": "b944a394eb094e7928d61727a20a3c17a3835aecff5e389c29d6427af0a5c8bf",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WamPluginHost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "9b0c0ed141719b49861356ec33ea7e4658a4fafd3054e542685392871690ddeb",
+   "machine": "x86",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WamPluginHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

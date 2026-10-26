@@ -1,0 +1,64 @@
+{
+ "name": "wecutil.exe",
+ "builds": [
+  {
+   "sha256": "e2b4913c64915e7fe52507018ab2da81e7d708ff336a1430f8cf84b2b1426b3c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WECUTIL.EXE",
+   "internal_name": "WECUTIL.EXE",
+   "file_description": "Event Collector Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wecutil.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2b0d622a9d6222b2c524eb0ef0efa631aa35f48ccef89a0213e717e89b1eca1f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WECUTIL.EXE",
+   "internal_name": "WECUTIL.EXE",
+   "file_description": "Event Collector Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9168 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9168",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wecutil.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WECUTIL.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9168",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

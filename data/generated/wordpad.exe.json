@@ -1,0 +1,1103 @@
+{
+ "name": "wordpad.exe",
+ "builds": [
+  {
+   "sha256": "aa25510696505eab2bab1f0b5d5264025b1799f634cdc998d4513b93f06b8cff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.7426 (rs1_release.240926-1524)",
+   "fixed_file_version": "10.0.14393.7426",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/66F60194451000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "88b487659cf2d1c6e204aaea78d2c97bb438d874def8e413061aedc846a940c2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/CF90AF6B420000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "45f127b3d7f8ee60aeb6277b3653f48ee358d7705fa63f3008ff144502b5876a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.7426 (rs1_release.240926-1524)",
+   "fixed_file_version": "10.0.14393.7426",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/66F601F341f000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e3967d28e694dd14d56cdb5a021caa589e0fa92d9ecbff3947408f34d2f5c02e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/859E565C2dc000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fafa79b770b4af4e4bd43eac66ad4f32d2c077080c5a320b286d39877d61573c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.5328 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.5328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2024-01-09",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "17763.5329",
+    "17763.5458",
+    "17763.5576",
+    "17763.5579",
+    "17763.5696",
+    "17763.5820",
+    "17763.5830",
+    "17763.5936",
+    "17763.6054",
+    "17763.6189",
+    "17763.6293",
+    "17763.6414",
+    "17763.6532",
+    "17763.6659",
+    "17763.6775",
+    "17763.6893",
+    "17763.7009",
+    "17763.7136",
+    "17763.7240",
+    "17763.7249",
+    "17763.7314",
+    "17763.7322",
+    "17763.7434",
+    "17763.7558",
+    "17763.7678",
+    "17763.7683",
+    "17763.7792",
+    "17763.7919",
+    "17763.8027",
+    "17763.8146",
+    "17763.8148",
+    "17763.8276",
+    "17763.8280",
+    "17763.8281",
+    "17763.8389",
+    "17763.8511",
+    "17763.8644",
+    "17763.8647",
+    "17763.8755",
+    "17763.8880"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/7248969245e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f5fdb5142b82ff8e993016428ae2157fe2e108b07cf06d3497b02684ce43b5b7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20232 (th1.231005-0938)",
+   "fixed_file_version": "10.0.10240.20232",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2023-10-10",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/651F2721455000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4c7cf877c46235fb67fb3048599cffe971a39726fd5e2ee8dd87848210b1b266",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20232 (th1.231005-0938)",
+   "fixed_file_version": "10.0.10240.20232",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2023-10-10",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/651F233641e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "af177478bf59bbe7bc65029d5fe5ad2869ae4679f477b3fa99c130aa011e95b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/9529879D2ed000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b18354c7148d191ee2dbdcca327e47afae452a64ff600467ed2a65ff3618b230",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.3733 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.3733",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2024-06-11",
+   "os_builds": [
+    "22621.3737"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/71E68A742ce000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "15c40cba32736dec4bcc81d98053b8882426b3b8ca735388249b3e21a3e4009b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.3672 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.3672",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2024-05-29",
+   "last_seen": "2024-06-11",
+   "os_builds": [
+    "22621.3672",
+    "22621.3737"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/A86F411129e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ac345cb597e9e4f096758aadb2348723a94097ede015a08643e3c76665e8d627",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1682 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1682",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-04-25",
+   "last_seen": "2023-07-11",
+   "os_builds": [
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/BD5F039F2f1000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d5317a5e4611ca39765cce433d06564ddcc2bb5aeeac909a89bf7a78ad3bc298",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1714 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1714",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-07-29",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/53813C10420000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5997aeb4a0b73ad163103208acb0b6e552a12be9ed76f6e1fd49e9451c2d9b26",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1714 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1714",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-07-29",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/B965E21445e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9410ab205282cbd32382e60a15d13692552b4efb339432789e9743651604c4b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/0C2C55EA44e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4ccf678470705caf1614734b37f7ae80d7350afe05e03efeac061370fbc3bb27",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/C9E187B641d000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c8254e06bfc25b58d49e608234f5b9de3a327ad12fcd679cbb3f547340272b7d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/3D80532744e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f39ed7d8d9e5559390ce7fcf5c6cc815aa513c333d2ce5b8affe5c009fe1b14a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1110 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1110",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-09-16",
+   "last_seen": "2021-02-11",
+   "os_builds": [
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/5CCA1461420000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1f75a3e5f3257a3459d80ce8485353380a9dd77c1d5eb8532633dc7b73edd1cc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1110 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1110",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-09-16",
+   "last_seen": "2021-02-11",
+   "os_builds": [
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/ED26FBA345e000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a548ba4450ebb0faa1b821121aac8d7803491479c0bec9718672da0cd885a9fb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.547 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.547",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2018-07-10",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.547",
+    "16299.551",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/A218D20A44f000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "328fd2c7b0d2dfeb69ec8e0e06b69ab230ed9c52d842c3328e5e620274fb6df4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.547 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.547",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2018-07-10",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.547",
+    "16299.551",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/CEBC371441c000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "08c8744c8ca82bd68075265276eb064ee4c4583eb7839021be81d36219dc58bb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.483 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.483",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-07-11",
+   "last_seen": "2018-06-21",
+   "os_builds": [
+    "15063.1058",
+    "15063.1112",
+    "15063.1182",
+    "15063.483",
+    "15063.502",
+    "15063.540",
+    "15063.608",
+    "15063.632",
+    "15063.675",
+    "15063.726",
+    "15063.729",
+    "15063.877",
+    "15063.936"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/C2D01B4C41c000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bced363817936b9f963c62c328fd80e8f5a35615cbd165cbb1e57e8ecd653c7b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1007 (th2_release.170706-2002)",
+   "fixed_file_version": "10.0.10586.1007",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-07-11",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/595F2C7C41f000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4ba192bb17e80477b6be25b0f0df886d0639e6df9c1e14691efd9a5d0398617a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WORDPAD.EXE",
+   "internal_name": "wordpad",
+   "file_description": "Windows Wordpad Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1007 (th2_release.170706-2002)",
+   "fixed_file_version": "10.0.10586.1007",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-07-11",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wordpad.exe/595F364A455000/wordpad.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WORDPAD.EXE",
+   "builds": 23,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20232",
+   "max_version": "10.0.22621.3733",
+   "first_seen": "2017-07-11",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "402a4217c552d884d9afab5a35f4299bedaa8d77d778c014e24306715a5cf0ec",
+   "error": "402a4217c552: symbol server returned unindexed build 6cb91b830e04; 3812720243a0: symbol server returned unindexed build 302973ddcb3a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "44a6d65442c80b5db26742ff1f2a2a2363177f232917b714947b5cc520a4b5a7",
+   "error": "44a6d65442c8: symbol server returned unindexed build a5892c7ccac6; 8d9f54ccce17: symbol server returned unindexed build 722732370a65; f2f824571ee2: symbol server returned unindexed build 2efdfc76f56d; 719c4af711f1: symbol server returned unindexed build bf59754c66b9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "719c4af711f19ae8912b47daba94b645aa83aac567e7662bdf5f0f54f0431c1b",
+   "error": "719c4af711f1: symbol server returned unindexed build bf59754c66b9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "9d9984ac259921d4c3f4599caf4f1bf6eceb4cbe39b7155ebd69a115bb04072f",
+   "error": "9d9984ac2599: symbol server returned unindexed build dcdfee2e6f0d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "ee566449d7d1485ca61a29e8952450e35c7e149695ca46e8927ef6b66b38b9ef",
+   "error": "ee566449d7d1: symbol server returned unindexed build 6518fb58de2d; 0e1b4c09142d: symbol server returned unindexed build cd952bf20ed2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "09f10e7344ca61b53a080e4d54c7cb6ecd4e3308254b350906437e29e7a7d9b2",
+   "error": "09f10e7344ca: symbol server returned unindexed build 887d95839085"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "09f10e7344ca61b53a080e4d54c7cb6ecd4e3308254b350906437e29e7a7d9b2",
+   "error": "09f10e7344ca: symbol server returned unindexed build 887d95839085"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "09f10e7344ca61b53a080e4d54c7cb6ecd4e3308254b350906437e29e7a7d9b2",
+   "error": "09f10e7344ca: symbol server returned unindexed build 887d95839085"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "09f10e7344ca61b53a080e4d54c7cb6ecd4e3308254b350906437e29e7a7d9b2",
+   "error": "09f10e7344ca: symbol server returned unindexed build 887d95839085"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "09f10e7344ca61b53a080e4d54c7cb6ecd4e3308254b350906437e29e7a7d9b2",
+   "error": "09f10e7344ca: symbol server returned unindexed build 887d95839085"
+  }
+ ]
+}

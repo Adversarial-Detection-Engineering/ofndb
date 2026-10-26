@@ -1,0 +1,44 @@
+{
+ "name": "mdres.exe",
+ "builds": [
+  {
+   "sha256": "be7f7f06d4390f4afd75e515674ba13a82b3ce0eafaa3b3c50fe5412ae7ed067",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MdRes.exe",
+   "internal_name": "MdRes.exe",
+   "file_description": "Windows Memory Diagnostic",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MdRes.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MdRes.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

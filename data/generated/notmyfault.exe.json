@@ -1,0 +1,47 @@
+{
+ "name": "notmyfault.exe",
+ "builds": [
+  {
+   "sha256": "a4e1b83a841f3c301e4e3892891de1f6bba715902add3939c450251ebe93ce1d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "NotMyfault.exe",
+   "internal_name": "Sysinternals NotMyfault",
+   "file_description": "Driver Bug Test Program",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals NotMyfault",
+   "file_version": "4.60",
+   "fixed_file_version": "4.60.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals NotMyfault",
+   "release": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "download_url": "https://live.sysinternals.com/notmyfault.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NotMyfault.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "4.60.0.0",
+   "max_version": "4.60.0.0",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "provenance": "parsed"
+  }
+ ]
+}

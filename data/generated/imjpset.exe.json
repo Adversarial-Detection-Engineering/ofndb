@@ -1,0 +1,64 @@
+{
+ "name": "imjpset.exe",
+ "builds": [
+  {
+   "sha256": "6d27196e149e7023b61466b8bc88251c7deba4323d73441be988d677c40f63ae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IMJPSET.exe",
+   "internal_name": "IMJPSET.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\IMEJP\\IMJPSET.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2191578c0ad6ab0e445fa55214827a3b708aeebe20519d388d8d233b0e4114cd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IMJPSET.exe",
+   "internal_name": "IMJPSET.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\IMEJP\\IMJPSET.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IMJPSET.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

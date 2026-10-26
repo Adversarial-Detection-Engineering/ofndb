@@ -1,0 +1,47 @@
+{
+ "name": "coreinfo.exe",
+ "builds": [
+  {
+   "sha256": "a8ad5cbd2d57979b370053ebedb4508eb8da3c9c423f6989b3ac07d231c73ea5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "coreinfo",
+   "internal_name": "Coreinfo",
+   "file_description": "Dump information on system CPU and memory topology",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "coreinfo",
+   "file_version": "4.02",
+   "fixed_file_version": "4.0.2.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "coreinfo",
+   "release": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "download_url": "https://live.sysinternals.com/Coreinfo.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "coreinfo",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "4.0.2.0",
+   "max_version": "4.0.2.0",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "psinfo.exe",
+ "builds": [
+  {
+   "sha256": "e29666f97057ff8e64ad6520bc7091608908b6eb85d84f16c6dadf8e1cc28efc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Psinfo.exe",
+   "internal_name": "PsInfo",
+   "file_description": "Local and remote system information viewer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsInfo",
+   "file_version": "1.8",
+   "fixed_file_version": "1.80.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsInfo",
+   "release": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "download_url": "https://live.sysinternals.com/PsInfo.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Psinfo.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.80.0.0",
+   "max_version": "1.80.0.0",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "provenance": "parsed"
+  }
+ ]
+}

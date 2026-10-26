@@ -1,0 +1,44 @@
+{
+ "name": "dmomacpmo.exe",
+ "builds": [
+  {
+   "sha256": "5b386f630cd540b80becbe9248cfd37a7e8c6fda6f5dc3615f1e7ddb43e39218",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DmOmaCpMo.exe",
+   "internal_name": "DmOmaCpMo",
+   "file_description": "Host Process for OMA-CP Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\DmOmaCpMo.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DmOmaCpMo.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9444",
+   "max_version": "10.0.26100.9444",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

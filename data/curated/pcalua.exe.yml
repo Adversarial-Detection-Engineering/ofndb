@@ -1,0 +1,4 @@
+notes: >-
+  pcalua.exe (`pcalua -a <file>` proxy execution) has an OriginalFilename key
+  whose value is empty, and an empty InternalName. Sensors log no value, so
+  detections need the image path and command line.

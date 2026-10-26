@@ -1,0 +1,621 @@
+{
+ "name": "ntoskrnl.exe",
+ "builds": [
+  {
+   "sha256": "b97b77c9345f9ab323388ade683d98f7e30836810b59a0a69fc499b33e2426c0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/6AC8D4F281f000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6a94366b060c53b9127ff10e0578493dd48c1609731363d24d0e39963dd1d837",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/8ADF311C1047000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4a6af9a3dbbeb440c4a9fbe8a4d6832eae751ac3a85860d860b8313a737a2e3a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/AFF6531F1450000/ntoskrnl.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ntoskrnl.exe"
+  },
+  {
+   "sha256": "15231cca3b38ca34942e2f4bf2201ce562d564318eabb185628b14d3543f256c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/E0F54299a6d000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e04b67c16f05f14e046a275097769a29ca88692ce3278eebc39ad476d922a76",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/A4C8E3D31459000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "01abce537185bf0f1654eac888b2a32bc0516ccb9b324d27a3fc92c1b868a6d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/AEEE138F1045000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "48cb578d39c0012f060834c824fa590d6e016c9254ee029556a52d9fc4f8497c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/68E67FC8859000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3255a69b65c23e1356b247aa8c05e93f6a4868268c878952af60c520d887596b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6060",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/9323179B1047000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e64c39474974c5f7b07eeb6845994e949e76d7dd5970991e25025e5d55d61873",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/D8A9F461144f000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c53302f17112b1a2cfd589e96439b0e69027a83cee3b6474c2ffcb67de5d92b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6392",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/629F5A081046000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "913bc1ae4f89554145e75968e8de1084bca5682d00fcf77415097fe5f713f50a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/58BAD9EE1047000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eace65a06bab6b67461ed29783cde9367c3ddd2a31b2594c59d22d77460d4f4b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2965 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2965",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-05-09",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/F71F414A1046000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "96880d2301204dd76b315ab35ae17e962ac20a169870bcdc397a2465c06cfd90",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2274",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/42750DE0ab4000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "919599fa3c8e350791eb5cd79df4dfbe18fb9bb4c658acad740198efd498c476",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1415 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1415",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-12-14",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1415"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/FA45FA211046000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fd167e59573a944b4170e9e167861484a74d79d84c39202bc7d87890a85f175b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.928 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.928",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-04-13",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/0EA0877A1046000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44b4ed38258580f0b5db439efb4f4dda362965c4049ec83be855a174a087cf11",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2208",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/6095BF3F952000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "73657a669929e8128786db034f7be53d956f6c8a0943bf381e786a2d849b0fdb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2679 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2679",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/6039DB6088c000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e4acc215a3584deaed9bd5fa6e6a9a5adce56fe21efa149e736424c8e4f77c65",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1256 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1256",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-12-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/9B5F0A62ab5000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "21aaf1aabe51a50a915ea7fc8a4a78b7ca53615022bb2dfdf9454b7162883512",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2166",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/5F743B328dc000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b59339803bc68ba5a22687dad8e8594309d09f07213bcbd671486b0bd6270fca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntkrnlmp.exe",
+   "internal_name": "ntkrnlmp.exe",
+   "file_description": "NT Kernel & System",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "10.0.10586.1540",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ntoskrnl.exe/5AB4A1037ce000/ntoskrnl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ntkrnlmp.exe",
+   "builds": 20,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-04-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "1507",
+   "sha256": "680ff9d7d9aa0b4b80099d88a651440ec56b0bc5288358d671720e2358e2e365",
+   "error": "680ff9d7d9aa: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  }
+ ]
+}

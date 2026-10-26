@@ -1,0 +1,44 @@
+{
+ "name": "licensingdiag.exe",
+ "builds": [
+  {
+   "sha256": "b9563058871edbba4628a2357ffb5ba3a51f4f001c0b46a78d92558261bf8422",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LicensingDiag.exe",
+   "internal_name": "LicensingDiag",
+   "file_description": "Licensing Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\licensingdiag.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "LicensingDiag.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

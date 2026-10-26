@@ -1,0 +1,1126 @@
+{
+ "name": "werfault.exe",
+ "builds": [
+  {
+   "sha256": "e388ae22ca7302f92ef926a4f640bc264191537916bc132894db8ea7b2c65d34",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9514 (rs1_release_inmarket.260912-0430)",
+   "fixed_file_version": "10.0.14393.9514",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/6AA53CF04f000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dfe3ab06c7437fb58b5ddc227777b596098d3c553a07ee52e1e51179b82318bd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/0A512AA96f000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cb7d0571c54e61d7f04071526a21dbd6c9312a1695e3fa3eb060bee29388c646",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/A68801E589000/werfault.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WerFault.exe"
+  },
+  {
+   "sha256": "c653831ab6e033552acefb556608ba7a2a18649ec3ac535e441325627eefa51e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/2C0955A39e000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bc7b9099b067d9b69023d7b30242bae1defdd36d0104c63579ed8c588fef8da3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/D1E7F2B77d000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "760f6fa663fde5847838382a70221545c2c658296fdce521bc73fe3e62153f63",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/38A6A46281000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d9cf6cd662a7609d02c50d42959eef62ebc86b39a2c2532719b38a618fd0aca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/867782679c000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4bc7c9ec509f70ec85036903241a073c44dfaa53efc603e4bd39597726e2c3ab",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/3BFBC29688000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "306505700906462630a9a484c44bfd9f0c04086e22c405225a4f6369a4630668",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/EB3D24D892000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "28e789784c903f60e525f3cc1298e08383f9e8d62e6c44b5b42a9335e83a0207",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9514 (rs1_release_inmarket.260912-0401)",
+   "fixed_file_version": "10.0.14393.9514",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/6AA535BC46000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2151b449e2f917b5d352845302d9326ff1e270dfef2a2336dc01f3ae28bc54c4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/ABF4BD35a1000/werfault.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WerFault.exe"
+  },
+  {
+   "sha256": "205fe45d33e6f5c276e4aec8c1bc200fdb0d33a6a1f9a5cd39c5f99353924624",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/4038E47685000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7047c8a0bb793d9c1e1aa9b059f830d8e0f519c6a1ea8ef51ac7e77dfacafba2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20680 (th1.240606-1641)",
+   "fixed_file_version": "10.0.10240.20680",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/6662832F4e000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "00dc04d110236b2d9b59588d57ff4b56cee1558b8d44263b078f4b12d6b85304",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20680 (th1.240606-1641)",
+   "fixed_file_version": "10.0.10240.20680",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/6662822D45000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8a525e5d8037f73a31d274881d45590aa6292a3770a9b0ed0a6e4fd9f14aad7a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/547D8C9984000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18fa07fd37233135c2938a809e001b47936d7bdb7783cc0263bdc31c57d02900",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/679EF6B99c000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d5845d8dbf4dacefb4eec723b5bf1883694cd437bd5990272e08a8806d7ef2ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-01-19",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/E11453307a000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a538526a8d692aefaff9613d42b709aa7cd6ef475522ced5419d4af616257eda",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-01-19",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/A89F10998e000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bd6a13d11475268e68bb2d0d22d3047c3566959e8cf133b8d0188ade3bd94c81",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.867 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.867",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/5B8901F37a000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2b385be819454fcfba4463d60943867d9c59c974cf6e75beaac13937d90ebe75",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.867 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.867",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/7B8232718e000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "739ecf1360e3a3f639f9fb53d5f385f293436cb47ebdd1c0686bd5785785b0d9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1440 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1440",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-06-08",
+   "os_builds": [
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/6E9C890472000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "af396587eb7f7e933d58b2b404408546c03909a62ff6f6743f343e1bfb444e24",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1845 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1845",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/4D8E6EDE7d000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "695180d1f663832d155df2a3947c7ce9586b90e579f4fd3bd8d0a9d42a5c6ad2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1845 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1845",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/82BDB2976d000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "313ce0c7d84cbac5a5977f17cbf20fe56abc2b2f7e522688f3e4dfa5a3664c8e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2554 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2554",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/04FA3B7849000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a9a03b6cbb8360da801fedd8f0d9d9285d70d646f1426568652aed4f3b5edffd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1377 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1377",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-02-09",
+   "last_seen": "2021-02-16",
+   "os_builds": [
+    "18363.1377",
+    "18363.1379",
+    "18363.1411"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/BE4F941B83000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "be3432808a859966d06ae583eb8ec1705c84216e60d909d989e85810e69ff802",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1198 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1198",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-01-21",
+   "os_builds": [
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/53E94FFF72000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6efa84dc4e1f0ad302538325c4703283fb4a12e30d268a7eb7998245ae6ade95",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1198 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1198",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-01-21",
+   "os_builds": [
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/A61E3BB483000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d9ef98896d668e7b2fe0767cf5d77b60af9ec788b8bc78b379f2e5e4b00bfd93",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2166",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/414D204E4d000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "783279e72d0eb5e81fea6c8921452cc928d3b9b87d664fb0ba33d61d462e14a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2166",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/5A0B9F1C57000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0fcb4170dc0a2307299206c06e6cb7fc5d9b845d6b2bda05aa27cfc625c07bd4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2525 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2525",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "15063.2525"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/1A26286D53000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8d5e1ea8a012cbc4f00f08af59dc8a73d736bdf479f8428312fe6851f9df0cdf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/59AE3F6A4b000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6b2caa014acc992eeba4695ca504aaf7c58a4538fd59307b91f2d76306fea61e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFault.exe",
+   "internal_name": "WerFault",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfault.exe/59AE2F7B43000/werfault.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WerFault.exe",
+   "builds": 32,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20680",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-09-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "1789d4069c2bc432c3f7cf0445d66bd07e76fb653df8a4f0f4457c1e5b231884",
+   "error": "1789d4069c2b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=591328); 56e2378575ab: UnindexedBuild: symbol server returned unindexed build (unindexed:size=599512); 477b210b6bb3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=599512); 96383e49b487: UnindexedBuild: symbol server returned unindexed build (unindexed:size=591192)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "634ec9f8d8fa70c8ae65d838fd66ce76f2894c884bf45890428890c4fc27e92d",
+   "error": "634ec9f8d8fa: UnindexedBuild: symbol server returned unindexed build (unindexed:size=636392); 4ae948d4e913: symbol server returned unindexed build d52bef77d605; 19431731071b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=636360); bccb8c3fe839: symbol server returned unindexed build 8a6c24c1b9ba"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "faed494053baa483f77e60dab6b84dabd5c99ae8d3fb7461f669ce4a5e0ba105",
+   "error": "faed494053ba: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493536); c453e4c1aea3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=501208); c1cd21c79382: UnindexedBuild: symbol server returned unindexed build (unindexed:size=501208); 690fcfd493df: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493384)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "b9c5a0dd5867b007f9c7214c6dbb7d0958298da3cd93261d637cbd8739eb927a",
+   "error": "b9c5a0dd5867: UnindexedBuild: symbol server returned unindexed build (unindexed:size=530384); e77f2947ba3a: symbol server returned unindexed build 48875b346401; cabd182f60d3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=530376); e4bfea178657: symbol server returned unindexed build 7120ae5d9930"
+  }
+ ]
+}

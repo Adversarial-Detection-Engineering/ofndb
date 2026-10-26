@@ -1,0 +1,442 @@
+{
+ "name": "takeown.exe",
+ "builds": [
+  {
+   "sha256": "9b2f62598734608f0c6bfa65756627d42bbcfa0c233ec9633ff18ef4842b00e3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/9C2D342616000/takeown.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\takeown.exe"
+  },
+  {
+   "sha256": "182479f3c4f75b00bd4ec4b2e044e7233706659290d9e0ece512431561c4ea33",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/8E546F7F12000/takeown.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\takeown.exe"
+  },
+  {
+   "sha256": "876cba540d52698112e0e8ae4601f9812fffe8522c951795ad0386b894dbedf2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/32DA884914000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5bea010e3b1e6ecb86811e71d7a783a4df557562b4bab26a4fb1d1b941c4788d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/EAB19AC311000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dfabefdba0976dac4552238da3e0ee15eae604a813b78b2105f9c5ef1662cbd1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/5789997915000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7c450a381842bd8d526bf29780b2bf953d748801435ff402ae89927837f2d32d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/57898E8F11000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4ffdc0271f530d25319ae157804a2c4e1f6d33b1606cb263f7394cdc7c04a69d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/5632D72B11000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "34fac0ea2551ea1878ab4d1c1d538a004d6aa19b9450d604a36f4a9309fc2ff9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/5632D7AA15000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a0f1af25e013611231a5223021caedd4f09bd4da64ab47288cd58edf738a5dab",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/559F38C015000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3fb239d7ac7719328c58a1eb3ce2abd900949b6f6e5d5db4f95852325bf67473",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "takeown.exe",
+   "internal_name": "takeown.exe",
+   "file_description": "Takes ownership of a file",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/takeown.exe/559F3B3010000/takeown.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "takeown.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "79c1d4f805e0a214b56d9ea47f3422db1c925ef2a7ac89bf0ab3eec4bac5655b",
+   "error": "79c1d4f805e0: symbol server returned unindexed build 52c163186e76; 456a15d2816c: symbol server returned unindexed build e9d36e966d6f; e1b21cb137c7: symbol server returned unindexed build e9d36e966d6f; 9ce1d32186f0: symbol server returned unindexed build b8a7571c3865"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "f5832c2c13921c60b787ffc725780c9136ad2efe74ae92908d91533229c81078",
+   "error": "f5832c2c1392: symbol server returned unindexed build dbeb1346b8f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "f5832c2c13921c60b787ffc725780c9136ad2efe74ae92908d91533229c81078",
+   "error": "f5832c2c1392: symbol server returned unindexed build dbeb1346b8f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "1f8f36461a914c6cc2527d5ef98a7e1753278c48139b777741049f92dd266e20",
+   "error": "1f8f36461a91: symbol server returned unindexed build f66a76fc48e7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "ad147dd93f97283de08ddb13d69fbb39460275cf21bb5c9f3d8c7b108285c9aa",
+   "error": "ad147dd93f97: symbol server returned unindexed build 77e81b632392"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "820bf585a941580590caaa0b4ad767ca7ec91549006dd949ccde9e550398b9c1",
+   "error": "820bf585a941: symbol server returned unindexed build d1230b833a7e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "90d519a81f59590742362461a730a67fa032806fcc53ee387b840ff04d056791",
+   "error": "90d519a81f59: symbol server returned unindexed build 193e6c1f7b98"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "90d519a81f59590742362461a730a67fa032806fcc53ee387b840ff04d056791",
+   "error": "90d519a81f59: symbol server returned unindexed build 193e6c1f7b98"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "57b3cfa9993e52866a2fb489edf079bf4f1c78fa7525bdf59affa8f9cb4023f8",
+   "error": "57b3cfa9993e: symbol server returned unindexed build 470c0b904845"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "57b3cfa9993e52866a2fb489edf079bf4f1c78fa7525bdf59affa8f9cb4023f8",
+   "error": "57b3cfa9993e: symbol server returned unindexed build 470c0b904845"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "57b3cfa9993e52866a2fb489edf079bf4f1c78fa7525bdf59affa8f9cb4023f8",
+   "error": "57b3cfa9993e: symbol server returned unindexed build 470c0b904845"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "57b3cfa9993e52866a2fb489edf079bf4f1c78fa7525bdf59affa8f9cb4023f8",
+   "error": "57b3cfa9993e: symbol server returned unindexed build 470c0b904845"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "57b3cfa9993e52866a2fb489edf079bf4f1c78fa7525bdf59affa8f9cb4023f8",
+   "error": "57b3cfa9993e: symbol server returned unindexed build 470c0b904845"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "cf8cd41c1bf9b00a669a037e264c52e628336fe4cf3d64f7ccb855cd190478ff",
+   "error": "cf8cd41c1bf9: symbol server returned unindexed build a929a564ca3b; 16bbfad5e118: symbol server returned unindexed build 1632d549b63c; b119d11303fd: symbol server returned unindexed build 1632d549b63c; 6a4834f2b4ca: symbol server returned unindexed build f379dfe137fd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "10892c9149d641891681ea71307efa4a68becf28da55360c3262510911de6143",
+   "error": "10892c9149d6: symbol server returned unindexed build 23b108629c13"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "10892c9149d641891681ea71307efa4a68becf28da55360c3262510911de6143",
+   "error": "10892c9149d6: symbol server returned unindexed build 23b108629c13"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "a26306669fc002e59b169a9c164622cf4aa1328dd231e6aa04aa383a8b8d4c7b",
+   "error": "a26306669fc0: symbol server returned unindexed build 50f8a025bf4a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "e5d718bc90af344e7ea2b27bc0b795e8f8a543c5baf17d62d19ea24a3f798ae3",
+   "error": "e5d718bc90af: symbol server returned unindexed build 014eb3dc2a20"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "5c865d2d1012ebf9f2503f06f2c4b8afccae063d1e79421e0244e0cf627e5ff1",
+   "error": "5c865d2d1012: symbol server returned unindexed build dac8228a0507"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "a6780dc8d060dc4c629efbe5ffe4b545e5476a80017d86b7a79bc5ccc1de47ad",
+   "error": "a6780dc8d060: symbol server returned unindexed build ca5d4da0387b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "a6780dc8d060dc4c629efbe5ffe4b545e5476a80017d86b7a79bc5ccc1de47ad",
+   "error": "a6780dc8d060: symbol server returned unindexed build ca5d4da0387b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "c7159144c6403c38aaf3def4c2fc5759b6df824af003b304d4b77c6d72353b3e",
+   "error": "c7159144c640: symbol server returned unindexed build 57db8a3f158f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "c7159144c6403c38aaf3def4c2fc5759b6df824af003b304d4b77c6d72353b3e",
+   "error": "c7159144c640: symbol server returned unindexed build 57db8a3f158f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "c7159144c6403c38aaf3def4c2fc5759b6df824af003b304d4b77c6d72353b3e",
+   "error": "c7159144c640: symbol server returned unindexed build 57db8a3f158f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "c7159144c6403c38aaf3def4c2fc5759b6df824af003b304d4b77c6d72353b3e",
+   "error": "c7159144c640: symbol server returned unindexed build 57db8a3f158f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "c7159144c6403c38aaf3def4c2fc5759b6df824af003b304d4b77c6d72353b3e",
+   "error": "c7159144c640: symbol server returned unindexed build 57db8a3f158f"
+  }
+ ]
+}

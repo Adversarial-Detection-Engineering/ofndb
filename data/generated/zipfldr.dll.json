@@ -1,0 +1,1317 @@
+{
+ "name": "zipfldr.dll",
+ "builds": [
+  {
+   "sha256": "ec7de7f5aa22285b9bc74924f57ffbeb8e0a63daf24677f0d1909a4cf4fd9953",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/262664A175000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0775323460046571d12f6204b458751e6bcd27db633b9513e762f859d49fa2b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/6AC8D5F25a000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c1ddc7d76ef75840b258425e8723c9d20f66a1d8b660c414673c247a31df5a2c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/91E68D0B7b000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bc26fe34a7f3c7145871586ff9fb24b5cc65658f5bfb2d81574c7df5564b7588",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/199131FF9c000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "751e7d03addfd358f19244e49146ba841a99d770caf0fe64ec1ea2eba433a0f8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/8713393053000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4dc02af295f774c60777040e06b8c5cf6b0df8ef4d8bad7c8650b10b244c133b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/59093ACE99000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "079e71266fcfed5baf0967d9681e96ab84dd62aa0ef4bb3f69eb87b7e2a55b61",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/6AC8D7E764000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "041202f4a1753c8dcb4a435e372342a328ea43ad97d4398bc6305bd316502160",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/C710909E5f000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4bc2ec505641c2593151faf5127116414cb4cfedfe451f68f8d5da38a5203ce3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/292E165977000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8515d0b425034a57a7879dbaedbc8aa23adcbca6e149c295de6e1453097e94d4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/93F21FD170000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "381211668b4537ef94509b42afd066b1fae3f66a0488792081d60db93bdadca6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7725 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7725",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "19045.7725",
+    "19045.7727"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/D677884340000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "939d5b8386f229248055772128ca3752ddd162c94795e3ac0f9039136a9a4403",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20747 (th1.240801-2004)",
+   "fixed_file_version": "10.0.10240.20747",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-08-13",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/66AC88BE53000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "66f7754ef617a65f298ae24249942b8d604407790bb03ced0a7ed3347ff779ac",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20747 (th1.240801-2004)",
+   "fixed_file_version": "10.0.10240.20747",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-08-13",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/66AC8B035e000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1e1e4419e109f4d75e60566adfd5556d507b14a4e0284b558c83de0d211cf542",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/60B11A0B7a000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "13db1267d3c30c26cdf7755c15983bd3eebd9e603a2fb052f272afcd4b23fa94",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/B3714A4897000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ea3782d2e24f1e6a045b56d7cffbab73af54003d21b41368f7c6bec9a0cd9efe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/2EBA668299000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "046fb99b81df19cb9cac88f627755ed7185e1795644b6b89ac97cd7c9bc21222",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/CFE1B4F775000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3d24f89bf8af75aa5337a81b1fb47c7cf45d885546b36869babc6cd801824b7e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.4648 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.4648",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-05-27",
+   "os_builds": [
+    "19044.4651",
+    "19044.4780",
+    "19044.4894",
+    "19044.5011",
+    "19044.5131",
+    "19044.5247",
+    "19044.5371",
+    "19044.5487",
+    "19044.5608",
+    "19044.5737",
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19045.4717",
+    "19045.4842",
+    "19045.4957",
+    "19045.5073",
+    "19045.5198",
+    "19045.5440",
+    "19045.5555",
+    "19045.5679",
+    "19045.5796"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/D398ACC64f000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f3babdc8a31869769d15e39ec086de4d74527b74424042741918b12595a2431a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.2295 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.2295",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-08-08",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/F257A90155000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "10619f77062d534ab6a956336530cbfd79c3b662fb159930c22bbcf90418ef14",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.2295 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.2295",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-08-08",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/C78BCEFB41000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a4636e3fccc0cfa3048f751da607214e137db856325a0c677c78758f7c657365",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.789 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.789",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-02-02",
+   "last_seen": "2023-07-25",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/DBAAB3953b000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3a8ecbffaab7282936f1c1d1a3af4ade1aee19976b299875c545cd040e0b1b83",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.789 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.789",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-02-02",
+   "last_seen": "2023-07-25",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/34E59B2649000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8641f10622058aced493b937593208127a9cc4079524d8c9161d9d53ec890355",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1350 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1350",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-21",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/A1213F513f000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3a0600412147b351bd0a6532d9e90015e42944712603b6d2f35a0afc58250915",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1350 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1350",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-21",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/80C379534c000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9e5458e110b56cb4c7e46f352fdca62d9be5f0f34f40ddc8933d088a723c3a37",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/D46A752A62000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1fff54bc2cee52ee1260119d7a056511a79500afe75ed595448f62c015ddcd45",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/E91797BF58000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f5ed5629fcc53b5824054b51e585852af99e5233f4f5430bfca334f1d03e19db",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/0CCB3C8763000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0e9ab9bd202badce6b41e0c9b993235a69505a52501816d65636fe111ccc4f0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/4C1918BB58000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5eac04b8bcf456c1aba18fca56d1fcef8ff17a9d884b3377a1fe1da09d4a84f5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.547 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.547",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2018-07-10",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.547",
+    "16299.551",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/9EB2617658000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "47c9f490a9eaf485677d03b814189fd4f820894048e4dfff98c6d3a85934e568",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.547 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.547",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2018-07-10",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.547",
+    "16299.551",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/E9A5A34F63000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e1dc0e02d765fc34fdc154174e18a5eb5ddfd57de42a39196bb8232b794a7580",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1478 (th2_release_sec.180228-1828)",
+   "fixed_file_version": "10.0.10586.1478",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-03-13",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/5A979A1A59000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7457a488efb2c9f034bdef548e637b7f4252848d740b78da98d76f57d0a2ec4d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ZIPFLDR.DLL",
+   "internal_name": "Compressed (zipped) Folders Shell Extension",
+   "file_description": "Compressed (zipped) Folders",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1478 (th2_release_sec.180228-1828)",
+   "fixed_file_version": "10.0.10586.1478",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-03-13",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/zipfldr.dll/5A97A3D065000/zipfldr.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ZIPFLDR.DLL",
+   "builds": 32,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20747",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-03-13",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b5753440494ef19c3e06b8dfb010ed212083dc4200adbd74052a43e7d6ce60f5",
+   "error": "b5753440494e: NotFound: no timestamp/image size in winbindex, no symbol server URL; ca0be3450c56: symbol server returned unindexed build 7cab65082c36; 725410a5b243: symbol server returned unindexed build ba89a09735c4; c59683e3ae6a: symbol server returned unindexed build 8b32740c823a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "decd7c77b340716663027ec6e3ecc458970f0d768bdaac67ab940b36d4fa0e99",
+   "error": "decd7c77b340: symbol server returned unindexed build 4f020799dfc8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "87dbfb8da2452492921d304986c7f323a8d18a6c33f928d7e276d8e4e7376fb3",
+   "error": "87dbfb8da245: symbol server returned unindexed build 0bbd8c88dcf5"
+  }
+ ]
+}

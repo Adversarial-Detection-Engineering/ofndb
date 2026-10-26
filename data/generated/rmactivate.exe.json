@@ -1,0 +1,64 @@
+{
+ "name": "rmactivate.exe",
+ "builds": [
+  {
+   "sha256": "81b7205e9825fec25eeab1c074c04db16daa4c5ea433631959ea5ef90d7e787f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rmactivate.exe",
+   "internal_name": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "file_description": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RMActivate.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "089509b99abf743c2553d15db963caf73aab03103fa613ccdd2c86c8bc015a92",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rmactivate.exe",
+   "internal_name": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "file_description": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RMActivate.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rmactivate.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

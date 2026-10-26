@@ -1,0 +1,44 @@
+{
+ "name": "eoaexperiences.exe",
+ "builds": [
+  {
+   "sha256": "bd675e89c2f72937e5b76881d246455dcd93a2de5bde3e64bdd37c33b3797250",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EoaExperiences.exe",
+   "internal_name": "EoaExperiences.exe",
+   "file_description": "Ease of access experiences",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\EoAExperiences.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "EoaExperiences.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

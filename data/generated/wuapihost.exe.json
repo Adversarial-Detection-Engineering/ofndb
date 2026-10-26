@@ -1,0 +1,44 @@
+{
+ "name": "wuapihost.exe",
+ "builds": [
+  {
+   "sha256": "fc213f8616574201cde1f4b5dbc246cee0732342cdc3d93b690bd3db65f092a7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuapihost.exe",
+   "internal_name": "wuapihost",
+   "file_description": "wuapihost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1507.2604.4012.0",
+   "fixed_file_version": "1507.2604.4012.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wuapihost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wuapihost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1507.2604.4012.0",
+   "max_version": "1507.2604.4012.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

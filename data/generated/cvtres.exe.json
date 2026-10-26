@@ -1,0 +1,332 @@
+{
+ "name": "cvtres.exe",
+ "builds": [
+  {
+   "sha256": "f99e7a9d152f3d84fb4e303a64e16311c6fe280b248cbd9a562b608eb1c4fd42",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.29.30154.0 built by: cloudtest",
+   "fixed_file_version": "14.29.30154.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/65B2B4A5b000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1502b95d0203ffdd269fc0880fb9dd1ff56166d0a9b06abc3502a2fd3ca40e41",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.29.30154.0 built by: cloudtest",
+   "fixed_file_version": "14.29.30154.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/65B2B1ADe000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fd3ef1b4c91b2e85ccd05724a7cd527a3a27d7d549b0dcdb70d3d78be120c560",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.32.31326.0",
+   "fixed_file_version": "14.32.31326.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/8D9B87BBe000/cvtres.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\cvtres.exe"
+  },
+  {
+   "sha256": "d87971e7479deee3f54cdbe3522ee606c346991155b9a63b10c6789bb6d19192",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.32.31326.0",
+   "fixed_file_version": "14.32.31326.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/4EBA1CAFb000/cvtres.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\cvtres.exe"
+  },
+  {
+   "sha256": "e4dbdbf7888ea96f3f8aa5c4c7f2bcf6e57d724dd8194fe5f35b673c6ef724ea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.10.25028.0 built by: VCTOOLSD15RTM",
+   "fixed_file_version": "14.10.25028.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/5BAC1A01b000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1fe531eac592b480aa4bd16052b909c3431434f17e7ae163d248355558ce43a6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.10.25028.0 built by: VCTOOLSD15RTM",
+   "fixed_file_version": "14.10.25028.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/5BAC1AC8e000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e24570abd130832732d0dd3ec4efb6e3e1835064513c8b8a2b1ae0d530b04534",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "12.00.52519.0 built by: VSWINSERVICING",
+   "fixed_file_version": "12.0.52519.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703",
+    "1709",
+    "1803",
+    "1809"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/5849FA21a000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "54315fd2b69c678eb7d8c145f683c15f41fa9f7b9abf7bf978667df4158f43c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "12.00.52519.0 built by: VSWINSERVICING",
+   "fixed_file_version": "12.0.52519.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703",
+    "1709",
+    "1803",
+    "1809"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/5849FA75c000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8c8cd0c7b0c492b57f6be76c0cfb898649ab8897009d1f50fc14f367647577b5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "12.00.52512.0 built by: VSWINSERVICING",
+   "fixed_file_version": "12.0.52512.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/5525F24Ac000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4878c77955611f9641100aae97867c5d3bd4183aa8ddf4b45ca453990f5f51fa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CVTRES.EXE",
+   "internal_name": "CVTRES.EXE",
+   "file_description": "Microsoft® Resource File To COFF Object Conversion Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "12.00.52512.0 built by: VSWINSERVICING",
+   "fixed_file_version": "12.0.52512.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/cvtres.exe/5525F207a000/cvtres.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CVTRES.EXE",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "12.0.52512.0",
+   "max_version": "14.32.31326.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

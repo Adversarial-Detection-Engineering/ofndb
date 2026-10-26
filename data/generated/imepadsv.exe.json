@@ -1,0 +1,64 @@
+{
+ "name": "imepadsv.exe",
+ "builds": [
+  {
+   "sha256": "b2e6134c7cbf4fd68439814511e8993334050ee55c1288e33c3742f05a4948ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Microsoft IME",
+   "internal_name": "Microsoft IME",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\SHARED\\IMEPADSV.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "59510a11fa7774aac3062b5ebe2dd7f4df876b4b070c1be9df626fb032065866",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Microsoft IME",
+   "internal_name": "Microsoft IME",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\SHARED\\IMEPADSV.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Microsoft IME",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

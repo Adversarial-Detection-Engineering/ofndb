@@ -1,0 +1,44 @@
+{
+ "name": "axinstui.exe",
+ "builds": [
+  {
+   "sha256": "e4e896f8a1387eb8913e97e20e084234ccaeac76a4c4cde5ecf2a4c7d712e923",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AxInstUI.exe",
+   "internal_name": "AxInstUI",
+   "file_description": "ActiveX Installer Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AxInstUI.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AxInstUI.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

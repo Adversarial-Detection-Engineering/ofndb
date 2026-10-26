@@ -1,0 +1,47 @@
+{
+ "name": "diskview64.exe",
+ "builds": [
+  {
+   "sha256": "120ba05e5447a2d51589ab7d53c57ed769bfcf10a3f3a83e2c9740776da37ede",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DiskView",
+   "internal_name": "DiskView",
+   "file_description": "Sysinternals Diskview",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "DiskView",
+   "file_version": "2.41",
+   "fixed_file_version": "2.41.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "DiskView",
+   "release": "2020-10-15",
+   "last_seen": "2020-10-15",
+   "download_url": "https://live.sysinternals.com/DiskView64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DiskView",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.41.0.0",
+   "max_version": "2.41.0.0",
+   "first_seen": "2020-10-15",
+   "last_seen": "2020-10-15",
+   "provenance": "parsed"
+  }
+ ]
+}

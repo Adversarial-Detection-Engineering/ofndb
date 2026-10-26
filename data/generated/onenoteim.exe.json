@@ -1,0 +1,132 @@
+{
+ "name": "onenoteim.exe",
+ "builds": [
+  {
+   "sha256": "bd58c70d3469796c62d160c113c7b8c9311da84a44ea92b1646983cde4ddfb1c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OneNoteIm.exe",
+   "internal_name": "Microsoft OneNote",
+   "file_description": "OneNote",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft OneNote",
+   "file_version": "16.0.4201.1009",
+   "fixed_file_version": "16.0.4201.1009",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/onenoteim.exe/5593239910000/onenoteim.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "OneNoteIm.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1507"
+   ],
+   "min_version": "16.0.4201.1009",
+   "max_version": "16.0.4201.1009",
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "53346ca0537187d5365345b75dfd74379fbb2162dee01ba99288f4ac03243ab4",
+   "error": "53346ca05371: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/55F95A5611000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "771f017d92e7d18ec4bcb5167f1eb5efd4a71e15a7592dda7086215648396e09",
+   "error": "771f017d92e7: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/57678BD710000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "d9975dd1af815dddec59836f225ab755007681fa7fc277fbb19c1cf872cf0dba",
+   "error": "d9975dd1af81: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/589E9DFB25e000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "272139a6d27cd242594fc985c4ff95a0de5ec6a5967b1c5b6c8f3d0bde7ab73d",
+   "error": "272139a6d27c: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5966A35C2a3000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "9e3281acb80ba4d08edde5fb3f9b42f8ea1273b031a1afe481b2d9388ef090bb",
+   "error": "9e3281acb80b: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5A3951F327d000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "519c2c60e043cd80f54ba34f6b7c7a6b937a2f8fc1d32686114c1534e8e5be3e",
+   "error": "519c2c60e043: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5B0BC28A27f000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c751097d22510f7ea3ad0c475cd546463bf81a4811bdb9f9e3c98a2aa2fbb778",
+   "error": "c751097d2251: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5C109FAA309000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c751097d22510f7ea3ad0c475cd546463bf81a4811bdb9f9e3c98a2aa2fbb778",
+   "error": "c751097d2251: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5C109FAA309000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "be28b354497c31f2813a97217a3d61e075b03439d4d055c2ce904913de7080be",
+   "error": "be28b354497c: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5D6ED14334a000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "be28b354497c31f2813a97217a3d61e075b03439d4d055c2ce904913de7080be",
+   "error": "be28b354497c: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5D6ED14334a000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "be28b354497c31f2813a97217a3d61e075b03439d4d055c2ce904913de7080be",
+   "error": "be28b354497c: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5D6ED14334a000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "be28b354497c31f2813a97217a3d61e075b03439d4d055c2ce904913de7080be",
+   "error": "be28b354497c: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5D6ED14334a000/onenoteim.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "be28b354497c31f2813a97217a3d61e075b03439d4d055c2ce904913de7080be",
+   "error": "be28b354497c: NotFound: https://msdl.microsoft.com/download/symbols/onenoteim.exe/5D6ED14334a000/onenoteim.exe"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "iechooser.exe",
+ "builds": [
+  {
+   "sha256": "838a209e1a4691c79d58e3f69b9a4210397fa22641f96943f6e9c1801bf7145b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "F12Chooser.exe",
+   "internal_name": "F12Chooser.exe",
+   "file_description": "F12 Attach Chooser executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\F12\\IEChooser.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "628304b7daf3608a560d26b97c783103960eb65c0473ec2765449b37861d3dea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "F12Chooser.exe",
+   "internal_name": "F12Chooser.exe",
+   "file_description": "F12 Attach Chooser executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.8328 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.8328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\F12\\IEChooser.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "F12Chooser.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.5074",
+   "max_version": "11.0.26100.8328",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

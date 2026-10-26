@@ -1,0 +1,44 @@
+{
+ "name": "ssh-add.exe",
+ "builds": [
+  {
+   "sha256": "69d8aa7e2adc47694689b87eb1fcb33b2700ae70f036211a9d6052d2195db634",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": "OpenSSH for Windows",
+   "file_version": "9.5.6.4",
+   "fixed_file_version": "9.5.6.4",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\OpenSSH\\ssh-add.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "9.5.6.4",
+   "max_version": "9.5.6.4",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,886 @@
+{
+ "name": "atbroker.exe",
+ "builds": [
+  {
+   "sha256": "fb3934585b19d55de848ab1d927fa84901ee1dea713bd97fde9baaa0c2b6404b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/57FD266720000/atbroker.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\AtBroker.exe"
+  },
+  {
+   "sha256": "fa8b7af859ba92bdcf9e15e1c45bc2333f3824077d8f335605cc8663b8ec72b9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/B41BEDC815000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc7afcb6a7bddd3eadd25072d4c6ef4961d2fb161fd562550de513d305e06473",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9234 (rs1_release.260605-1835)",
+   "fixed_file_version": "10.0.14393.9234",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/6A23A653e000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc2470f82467b71eafc1ff2200d0b7c20a062472719db4a390148c454b1b2396",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/5F26FAAA29000/atbroker.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AtBroker.exe"
+  },
+  {
+   "sha256": "bb818e762328b5cbc3e4df29fbc3258b0f445acb5d78c4a419d6114e76b7cdbb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/47290DC71d000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9cc0f257a6d224f07b74f0ab2394e2bbba6e1d773601797d7a6f226251d5790",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/2D34772520000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9cfa85da6ab93780ed9e21ca313c4200aa1c72dd81c4c7ebdec4a293eada2c32",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9234 (rs1_release.260605-1835)",
+   "fixed_file_version": "10.0.14393.9234",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/6A23A82012000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ba907d2c1dbf08db0194e021919b58819fe747a55e0775b2c1d57d5a53aa7b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/20D8F09D29000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ca9f8c767caea440560c94879626ab9eafdc1648ec547c856153d5a2230b36da",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/7223A8F726000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4ca120457e4f416ef2658cb4bc62be782a58eb64954b4002f1ab53546d686218",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/12ABE6BE1e000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e54bce96572f17b4dad28689a5c4fcb55042830bf167ffa91005b0748d11c0b5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1023 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1023",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-05-25",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/64D651DC15000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ae7b1e298a6e38f0a3428151bfc5565ede50a8d98dafaa147b13cf89c61f2ddd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1023 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1023",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-05-25",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/C73F090C1c000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "76c53555be607d3867a2ff2b0cb6bca6b344095e04f32fb1eb05e81601a5f599",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.789 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.789",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-02",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/3DBE31F319000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "41a69232f1be32f82eda14e951f475ecbf6ca1e3a5c365ca06abdefe2b932428",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1350 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1350",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-21",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/6F012CC917000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a4924c3a207b8f1c55318b0012d0e99d06cdeef8709296ce25881cc46b31aec1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.449 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.449",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-10-24",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997",
+    "18363.1316"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/81ED61831a000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7b0f4d776a38238147b1f79daeaf21047b0dcabe212bef8bfe92f5ffe9a88de2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.449 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.449",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-10-24",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997",
+    "18363.1316"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/BAC49A4B13000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c29ca003848336e581f57bfe947fcdc11c768c828c0032e2e0e23578a4a8cb4a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/5632D739d000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "78ff9af3b2319b2776b8937df584ad6899433fd10dea64d8081f2f69b0d567b2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/5632D7B711000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f7df2fc6c007aa22af62210420d1f16df04f3cfd9ada02d29952af3d3783556e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/559F3DBCd000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3741bd4bf928c97dd67d9ecc7b5ea30543fb611f5adc320fef71e97602e6ef4e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATBroker.exe",
+   "internal_name": "ATBroker.exe",
+   "file_description": "Windows Assistive Technology Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/atbroker.exe/559F3B3211000/atbroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ATBroker.exe",
+   "builds": 20,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "faf47d67040d7dffb6a59a2389b81a431540e765eb2e54189598e95fdfc0b97c",
+   "error": "faf47d67040d: symbol server returned unindexed build 2f15b9cf115a; d6a253d79b82: symbol server returned unindexed build 6cecbc9819e6; e5ccad0ce175: symbol server returned unindexed build 6cecbc9819e6; a6546a974199: symbol server returned unindexed build 58d241d154aa"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "ee157236d4330d28abec2134fcd011fb5b4b34d0266daf9b2ce77279c77de090",
+   "error": "ee157236d433: symbol server returned unindexed build fe9ca714c732; bc742c8d99be: symbol server returned unindexed build a5f1d8d0fdd0; 0453d437c6ab: symbol server returned unindexed build 9c78901402b9; cf9c0c74f0dc: symbol server returned unindexed build a79166e23777"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "49c866dab87f3f0a2e4ba5ed62c094848f6c2920ef95c717b97c50c2953331ec",
+   "error": "49c866dab87f: symbol server returned unindexed build c9a50c90ccee; 132f3a054190: symbol server returned unindexed build 5050e3a1f612; ee157236d433: symbol server returned unindexed build fe9ca714c732; a2ab6e42fbd2: symbol server returned unindexed build 27205dedd5fd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "f7686ec25aaf67724cd6170a9d7a20cd987ea32f35ef654ae56fdcea16180c5d",
+   "error": "f7686ec25aaf: symbol server returned unindexed build dfad77fb572b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "c8d67389d90381efda4bfc7e198c6423ed8146803d0b6b8556714bf706789383",
+   "error": "c8d67389d903: symbol server returned unindexed build a456003b9c46"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "80cc3fb17d8cbb4a68f27c607a8d1c0208cee892f6d2a2e222e18b23d4e0fc76",
+   "error": "80cc3fb17d8c: symbol server returned unindexed build 5ee762e51c6f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "86dce772795bf52ae5920bfd993f12406723607be693ba6803694644c9fb6e25",
+   "error": "86dce772795b: symbol server returned unindexed build 396342e177f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "c18b8ebf9abf6198d00a9b060c9960c809d68f5523be35adf02f1b28908f0c79",
+   "error": "c18b8ebf9abf: symbol server returned unindexed build 2367cff08994; 780b993cfba4: symbol server returned unindexed build 085fa9ffd34b; 8ebfd6821d4a: symbol server returned unindexed build 085fa9ffd34b; 020736ca188d: symbol server returned unindexed build 8e67bffc47bb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "e0598b7c3f1195e335e851643d067cda4358dea8258b0868fb0cca28acdbda84",
+   "error": "e0598b7c3f11: symbol server returned unindexed build e0e73611cbaa; f38d87fa5c42: symbol server returned unindexed build 2e0af6fab9b9; 1a92b8b4d344: symbol server returned unindexed build 6c01afb6dce4; 3117b0b22c22: symbol server returned unindexed build ce376535aef6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "8663375c11c4833ad551efc09e75bdbae2ccf0d9031082e4577bc2b322c596eb",
+   "error": "8663375c11c4: symbol server returned unindexed build f6380a0dcb38; 486eda64215d: symbol server returned unindexed build 40a575b08d56; 7fce0a21deb7: symbol server returned unindexed build 419b4bd2f8e4; e0598b7c3f11: symbol server returned unindexed build e0e73611cbaa"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "251cec1aab36e53828fda8cd7a2805b67b6bc8cae15ddeb76919b3512add7fd8",
+   "error": "251cec1aab36: symbol server returned unindexed build 1b654481e6af"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "1d51be86ebd68016d3e0744c1fa9cc8e6be9ab3b14da98e12a4fa5e30ef23d4a",
+   "error": "1d51be86ebd6: symbol server returned unindexed build 502de1c68674"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "2f56aed1a7b87b4503d68685f54f9f4c96d3f1b143969dc691be71ac51398c79",
+   "error": "2f56aed1a7b8: symbol server returned unindexed build 33d879acff10"
+  }
+ ]
+}

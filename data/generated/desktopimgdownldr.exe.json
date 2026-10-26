@@ -1,0 +1,427 @@
+{
+ "name": "desktopimgdownldr.exe",
+ "builds": [
+  {
+   "sha256": "2e899ada672ecee67dacebf3d1f5ac80e2053ef4cac9e0e5325e408a8d6b6b31",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/09D327C127000/desktopimgdownldr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\desktopimgdownldr.exe"
+  },
+  {
+   "sha256": "2e38ee93918ce49b8ed2a95c9bc6b73c32ce8b72b1000c9f099a684345a015a3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/E71A59CC27000/desktopimgdownldr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "28d82cdadbe9a1aab727184dd10b812a607c0d72f20a0bf23f4cfc3cb314527c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.2989 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.2989",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2022-05-24",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.2989",
+    "17763.3046",
+    "17763.3113",
+    "17763.3165",
+    "17763.3232",
+    "17763.3287",
+    "17763.3346",
+    "17763.3406",
+    "17763.3469",
+    "17763.3532",
+    "17763.3534",
+    "17763.3650",
+    "17763.3653",
+    "17763.3770",
+    "17763.3772",
+    "17763.3887",
+    "17763.4010",
+    "17763.4131",
+    "17763.4252",
+    "17763.4377",
+    "17763.4499",
+    "17763.4645",
+    "17763.4737",
+    "17763.4851",
+    "17763.4974",
+    "17763.5122",
+    "17763.5206",
+    "17763.5329",
+    "17763.5458",
+    "17763.5576",
+    "17763.5579",
+    "17763.5696",
+    "17763.5820",
+    "17763.5830",
+    "17763.5936",
+    "17763.6054",
+    "17763.6189",
+    "17763.6293",
+    "17763.6414",
+    "17763.6532",
+    "17763.6659",
+    "17763.6775",
+    "17763.6893",
+    "17763.7009",
+    "17763.7136",
+    "17763.7240",
+    "17763.7249",
+    "17763.7314",
+    "17763.7322",
+    "17763.7434",
+    "17763.7558",
+    "17763.7678",
+    "17763.7683",
+    "17763.7792",
+    "17763.7919",
+    "17763.8027",
+    "17763.8146",
+    "17763.8148",
+    "17763.8276",
+    "17763.8280",
+    "17763.8281",
+    "17763.8389",
+    "17763.8511",
+    "17763.8644",
+    "17763.8647",
+    "17763.8755",
+    "17763.8880",
+    "17763.9020",
+    "17763.9121",
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/8A4C249A18000/desktopimgdownldr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e640fb60386d86b59c9fbe9f90dcf9526ef18c0797a6e8e5c3f7729832ffccf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/00A03DCB26000/desktopimgdownldr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "68ec8d58aa6c6c5b93768e9b95318c97a04403a05775eb0870a7e94e1c8af8e2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/D0C58D4B1b000/desktopimgdownldr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "88bcec243f734ed9fe7a821887cd17c027e09b1ef703c396aec3c2c3d4517f38",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/5CBDA9A217000/desktopimgdownldr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0fc1680e84f3cbd4c1e303dd582e8bc8518380c408cb2a356994bff1bc0da30f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "desktopimgdownldr.exe",
+   "internal_name": "desktopimgdownldr.exe",
+   "file_description": "desktopimgdownldr.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desktopimgdownldr.exe/3A93EA4117000/desktopimgdownldr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "desktopimgdownldr.exe",
+   "builds": 7,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1703",
+    "1803",
+    "1809",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.15063.2614",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2021-01-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "8abdb26264fea2529fe91d355128e283b93a66144c76ff96e1c1f9cddffc75a7",
+   "error": "8abdb26264fe: symbol server returned unindexed build 9c77444bfd4a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "2408197ab43f6b4851a7867fd7b22da09e5affed6b12eda4053ce047ba9cd144",
+   "error": "2408197ab43f: symbol server returned unindexed build b81e79765fa2; 6067cf8060e2: symbol server returned unindexed build 51a93388d7cd; d2348669ed96: symbol server returned unindexed build 89322000be9e; fa8cfdd25c0d: symbol server returned unindexed build 23cd78911f42"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "2408197ab43f6b4851a7867fd7b22da09e5affed6b12eda4053ce047ba9cd144",
+   "error": "2408197ab43f: symbol server returned unindexed build b81e79765fa2; 0deb92929676: symbol server returned unindexed build 1669e1763eb9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "6fc32861e462573452c4c48e4c66bfaba52947880c39dfc3b4500717c5822b77",
+   "error": "6fc32861e462: symbol server returned unindexed build 4a52a89fb468"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "aaada36880e08c0b37ed6a1f6ff605144c650d987c0f8049347e9dd5a04cdb4e",
+   "error": "aaada36880e0: symbol server returned unindexed build 835d32a1dd95"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "745e2c2c44f59c0fdc8a0aa2bdccd23c57c964e56d3cc67f2ffb07871060ffeb",
+   "error": "745e2c2c44f5: symbol server returned unindexed build 4923971c1525; aaada36880e0: symbol server returned unindexed build 835d32a1dd95"
+  }
+ ]
+}

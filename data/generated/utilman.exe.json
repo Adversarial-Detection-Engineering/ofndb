@@ -1,0 +1,64 @@
+{
+ "name": "utilman.exe",
+ "builds": [
+  {
+   "sha256": "e9d2c4a388d28444929607297315cbbfec87893ab8b758d42cfbd9a9bcb1d2f1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "utilman2.exe",
+   "internal_name": "utilman2.exe",
+   "file_description": "Utility Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Utilman.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "967bac48cda7400d9c68b0ab6f85b8b25c4debb6b8831413e8bdb706cc7c6513",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "utilman2.exe",
+   "internal_name": "utilman2.exe",
+   "file_description": "Utility Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Utilman.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "utilman2.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,503 @@
+{
+ "name": "verclsid.exe",
+ "builds": [
+  {
+   "sha256": "cd351e3cae10edd594c9d92e79f8b8c590a7de8e607f4104bd16539971b4099d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/2300BAA08000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c269297af14ff61346613eed9b4286eeb75f337d9cb7ea7cc1a57845723031c9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/E8B7AE75b000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9bc1499c7e266ea01b615c89180f4e106d610e76b84f52d374fe306fd542120f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/4CE2FF4D8000/verclsid.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\verclsid.exe"
+  },
+  {
+   "sha256": "389094266638afb54ace5fd70407104b3942df9f4ef3e0ec16d53a870f2fe6b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/7F358579b000/verclsid.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\verclsid.exe"
+  },
+  {
+   "sha256": "3ee33c6afffccb94dc642943ec071cd062bf0b4f5cc5474c4250149e08e06bd3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/25126D808000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a8e467fe242727bdd80dde990e9cbde008e2c0c50a404b4d4b6db76fdf7eafea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/5789918B8000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9c95ef6902dcd9b9c825a44142d3e7e6af3f265fc76da38726dee98b0c7e1127",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/57899B969000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a713afcfd1d728d79bfa8a01a4e6a158958cfa8cca1f4a2c2c6cf4491725768c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/5632D8598000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "45bbc795ca7962389292cb25090ef31627f516f76bf4f8f49a8e4d8b364c5753",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/5632D8B89000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "22e8f45732748169f0431424fdccef7b7f1d32ea06388847fb8fb4151f559af1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/559F3C1E8000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e45ae96cbc54e57262c287421199718f1463c4b792f9189c8f0b76cba0eec92",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verclsid.exe",
+   "internal_name": "verclsid.exe",
+   "file_description": "Extension CLSID Verification Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/verclsid.exe/559F39A69000/verclsid.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "verclsid.exe",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "cc6a47869fdba5ec67a20e0714b9b3162881462e36457c08b1b13b84683889e0",
+   "error": "cc6a47869fdb: symbol server returned unindexed build 1b46449ed658"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "4dfee721ff49f16696ce2c9a4ba066c4c7acafd8d3ce7609e417b0a0cfeaa72e",
+   "error": "4dfee721ff49: symbol server returned unindexed build 77ff46095986"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "4dfee721ff49f16696ce2c9a4ba066c4c7acafd8d3ce7609e417b0a0cfeaa72e",
+   "error": "4dfee721ff49: symbol server returned unindexed build 77ff46095986"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "8614efbf351984bb416f5ce7825d1aeedfa368110c551810fbe33941b6ec9b46",
+   "error": "8614efbf3519: symbol server returned unindexed build 732ac9984482"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "bd061706d94afd7a809f0ea613a236c9ecae8488c39446d0843284ae4a2c6027",
+   "error": "bd061706d94a: symbol server returned unindexed build b7083d0f5700"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "18c4e76431643aaf2113a5c4556cbe1d79cbc8113e4b0904a6205d73a8926045",
+   "error": "18c4e7643164: symbol server returned unindexed build 8c5ccece7612"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "69da38c640682d46377fe8a6cb304da97893ab8d4989e5fa54edfd397a50c00b",
+   "error": "69da38c64068: symbol server returned unindexed build 514f8027ee21"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "69da38c640682d46377fe8a6cb304da97893ab8d4989e5fa54edfd397a50c00b",
+   "error": "69da38c64068: symbol server returned unindexed build 514f8027ee21"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "ac6e1f614cb902c0abe4297646e21c70590624b652a080bfbb8407b1ab52609d",
+   "error": "ac6e1f614cb9: symbol server returned unindexed build 0b8de6d264d9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "ac6e1f614cb902c0abe4297646e21c70590624b652a080bfbb8407b1ab52609d",
+   "error": "ac6e1f614cb9: symbol server returned unindexed build 0b8de6d264d9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "ac6e1f614cb902c0abe4297646e21c70590624b652a080bfbb8407b1ab52609d",
+   "error": "ac6e1f614cb9: symbol server returned unindexed build 0b8de6d264d9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "ac6e1f614cb902c0abe4297646e21c70590624b652a080bfbb8407b1ab52609d",
+   "error": "ac6e1f614cb9: symbol server returned unindexed build 0b8de6d264d9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "ac6e1f614cb902c0abe4297646e21c70590624b652a080bfbb8407b1ab52609d",
+   "error": "ac6e1f614cb9: symbol server returned unindexed build 0b8de6d264d9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "f499395681a7f49bd9b265b26c747109f5dc4c7ad5dcacf46bfac4540e447733",
+   "error": "f499395681a7: symbol server returned unindexed build b5915c9e3323"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "dbb51c69359a30e87b3f5f013e4b03d5cb38d5f58bc9ddfbcd441c783a704ee8",
+   "error": "dbb51c69359a: symbol server returned unindexed build c5ea90aff267"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "dbb51c69359a30e87b3f5f013e4b03d5cb38d5f58bc9ddfbcd441c783a704ee8",
+   "error": "dbb51c69359a: symbol server returned unindexed build c5ea90aff267"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "78db9d1d5de27ab37d2aaa55be0d4b4ad40452b7aa5b29d3b42e43f16ded8c9d",
+   "error": "78db9d1d5de2: symbol server returned unindexed build 7a724ea368d5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "9f0346bd4d61dac7cf75fb4453bae82bba15365b10ed3a954ac02904479af8f9",
+   "error": "9f0346bd4d61: symbol server returned unindexed build 76b3d7d7db0b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "15a6774d03e5e60bf69d41e8fe44277c6080bf8de879ef2efd1e1961b53cfc4d",
+   "error": "15a6774d03e5: symbol server returned unindexed build 958d805a1e13"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "50259658b30d267db199a0805e0986798dd799e18700fd198b894ce9e04db851",
+   "error": "50259658b30d: symbol server returned unindexed build 594fb56322ab"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "29e65e002297c3e4358354965e062c3a4eb421a7a72c3e8e5ad9982b770ae16e",
+   "error": "29e65e002297: symbol server returned unindexed build e62b5140851b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "29e65e002297c3e4358354965e062c3a4eb421a7a72c3e8e5ad9982b770ae16e",
+   "error": "29e65e002297: symbol server returned unindexed build e62b5140851b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "5f6fd0bc72eb2e71918241213e97dcd8fd0de2887a36be58b769e8c5a4ff8598",
+   "error": "5f6fd0bc72eb: symbol server returned unindexed build af2cd23c0e31"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "5f6fd0bc72eb2e71918241213e97dcd8fd0de2887a36be58b769e8c5a4ff8598",
+   "error": "5f6fd0bc72eb: symbol server returned unindexed build af2cd23c0e31"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "5f6fd0bc72eb2e71918241213e97dcd8fd0de2887a36be58b769e8c5a4ff8598",
+   "error": "5f6fd0bc72eb: symbol server returned unindexed build af2cd23c0e31"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "5f6fd0bc72eb2e71918241213e97dcd8fd0de2887a36be58b769e8c5a4ff8598",
+   "error": "5f6fd0bc72eb: symbol server returned unindexed build af2cd23c0e31"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "5f6fd0bc72eb2e71918241213e97dcd8fd0de2887a36be58b769e8c5a4ff8598",
+   "error": "5f6fd0bc72eb: symbol server returned unindexed build af2cd23c0e31"
+  }
+ ]
+}

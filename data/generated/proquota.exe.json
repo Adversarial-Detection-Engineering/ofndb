@@ -1,0 +1,540 @@
+{
+ "name": "proquota.exe",
+ "builds": [
+  {
+   "sha256": "f8637c67ad1aedbf2e98ea16f0e7c57d1d33b085e80da096e119c0d46884c0af",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9168 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9168",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/64CC33B212000/proquota.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\proquota.exe"
+  },
+  {
+   "sha256": "8bee048eb7086eb5c4f339adb988ad990b28dba4b4fedbe4aa6635b49234c5f8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2704 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2704",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/7CDD3A02f000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7f065e44f370dde88418023f4d82669a3ab2b1cfa8e30e765f64d1e9b1f7112c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9168 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9168",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/150B7655f000/proquota.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\proquota.exe"
+  },
+  {
+   "sha256": "5bab1e356c71a442e8f814bb3e4d3aee6ddcf15be576553b0873a242760a0ac2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2704 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2704",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/E84BE02912000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a2eac79be1006a0f6cb33ca89cf893ae142fd6ece4e386b774c9a75b41499e19",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/452684F6f000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "49665cff176301d0dc85fa5341a3915fb710655227b6ad58c252b94ca821bb5a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/6805187912000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ffcc77959a2bb841d3b51b66535008964f0a28674dc0b449a510a5d9a7b70a27",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/57899B81d000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5e73fe417a3655a5e730b28748f1b5389f038f7896a17022e53eb2a14c064e96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/578990FAb000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b62c30d9200b45252f899073bc0771eee30481e55eb740421eb4786e6fb0e860",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/5632D7E5b000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "76718eb4bc3a3fa9132ada1caa72e1e2d2dece83be2d0d3d389e1475b04a6837",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/5632D854d000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e97e456a161e82009e528e209841cdf30cff6b09383210ee507867b379fe6ed8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/559F3C07b000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3f3fe9ecad7f30fc80cdfb678d7ca27a30d0575a73818746e98be9170d3be348",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "proquota.exe",
+   "internal_name": "proquota",
+   "file_description": "ProQuota",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/proquota.exe/559F3994d000/proquota.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "proquota.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2704",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "ffaf379a1864e4bc75810dedfc53f2956657dc13b67f4c2534d11528c4107e1a",
+   "error": "ffaf379a1864: symbol server returned unindexed build 2f502d819b41; cf3e09acc6df: symbol server returned unindexed build f1770f9f3756; 804ac0232ef8: symbol server returned unindexed build f1770f9f3756; ee9e1ef68feb: symbol server returned unindexed build 2f502d819b41"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "4c06554634e0019b258e564a365b8f564d88f41366497bc79b5627eeb8415e07",
+   "error": "4c06554634e0: symbol server returned unindexed build ef3b653049e8; 134bf0e9a9c8: symbol server returned unindexed build 0a9505a7424a; 61673fc28b28: symbol server returned unindexed build c472966ef27a; dac03ef0429e: symbol server returned unindexed build 58524505d684"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "724b93472cfc68c95daa5da7cdd6ab975989f35ec30538b28989e6cd680173a7",
+   "error": "724b93472cfc: symbol server returned unindexed build c54786bf8dd7; 4c06554634e0: symbol server returned unindexed build ef3b653049e8; dac03ef0429e: symbol server returned unindexed build 58524505d684"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ac6d1860df97456adefa2ceda464d298883ffe0b450f3cca8da7206d1eac9d04",
+   "error": "ac6d1860df97: symbol server returned unindexed build 9f31d9432169"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "5588b43d71aebb17065812a39eff1dd482642016091ac472715baaeb7eb834b7",
+   "error": "5588b43d71ae: symbol server returned unindexed build ee355cc3db68"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "014c8a22f94942ad13ba076eafa5cbabc96ee2e5201a4e085ebca2b96b6889af",
+   "error": "014c8a22f949: symbol server returned unindexed build f92239ef62c8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "5cfd021b0e2d250f6396cf7d63fddf0d126ec3ffe4e99304e63df6868f0bf491",
+   "error": "5cfd021b0e2d: symbol server returned unindexed build fcdc278ede24"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c3f52b893578a49c36af3c0c15a2a5ed4e44f1f8669136712f607ebb28acf268",
+   "error": "c3f52b893578: symbol server returned unindexed build f26e6680fdfc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c3f52b893578a49c36af3c0c15a2a5ed4e44f1f8669136712f607ebb28acf268",
+   "error": "c3f52b893578: symbol server returned unindexed build f26e6680fdfc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "817ed06c7bec832cd3b574491d149cec61d3d33f86af93607893f76d349bc38f",
+   "error": "817ed06c7bec: symbol server returned unindexed build 38f2f310c96d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "817ed06c7bec832cd3b574491d149cec61d3d33f86af93607893f76d349bc38f",
+   "error": "817ed06c7bec: symbol server returned unindexed build 38f2f310c96d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "817ed06c7bec832cd3b574491d149cec61d3d33f86af93607893f76d349bc38f",
+   "error": "817ed06c7bec: symbol server returned unindexed build 38f2f310c96d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c414679ba4f998fbe1d2083b6f0d0e06c1f1ae9626ef23e0c664ec81343696c0",
+   "error": "c414679ba4f9: symbol server returned unindexed build fe8709656774; 9c3ebfb4bdff: symbol server returned unindexed build 917011a4a7eb; d115dd59e9d0: symbol server returned unindexed build 8708102e4141; 6986de3e0b50: symbol server returned unindexed build 9a1723f4c585"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9c3ebfb4bdff110fcdfdf1011bdc52dec33a7c753e59d7b100f5e8595549c1ae",
+   "error": "9c3ebfb4bdff: symbol server returned unindexed build 917011a4a7eb; d115dd59e9d0: symbol server returned unindexed build 8708102e4141; 6986de3e0b50: symbol server returned unindexed build 9a1723f4c585; 7a9543a9f9ba: symbol server returned unindexed build 9a1723f4c585"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "3c6abee4f8ef132b4705a132540a291a0a6c5982f2263002d4a54bd31a929045",
+   "error": "3c6abee4f8ef: symbol server returned unindexed build 7e962751fda9; 48ce84300b2f: symbol server returned unindexed build 327504e8ec33; e5ae576b5299: symbol server returned unindexed build 327504e8ec33; f20a8a605555: symbol server returned unindexed build 7e962751fda9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "3bb2c6dba5ac9c319eb22be5ba90be72c6b80a91d06691a496f4dbf2505d9430",
+   "error": "3bb2c6dba5ac: symbol server returned unindexed build 4d09529c2d89; 3e795c6546a2: symbol server returned unindexed build dc40e8baf640; 3ba9505a6765: symbol server returned unindexed build 486e9a7ec846; d27cdaadc310: symbol server returned unindexed build 51cb817e3be6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "5809f6d217bfb455096ec481343596fb95085b98c97233b2a3b2b631112f2dd9",
+   "error": "5809f6d217bf: symbol server returned unindexed build a652bba7f530; 3bb2c6dba5ac: symbol server returned unindexed build 4d09529c2d89; d27cdaadc310: symbol server returned unindexed build 51cb817e3be6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "8363f465af88a59514ce6942d1b69b6a6d4ae90d8dc135de974554e9dca0e3a6",
+   "error": "8363f465af88: symbol server returned unindexed build 45cdd83345db"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "6a3f88f5ccc26ed48e6dd81847519e24d9402d4262dd4f86a213cebfbe214379",
+   "error": "6a3f88f5ccc2: symbol server returned unindexed build 539902ae7355"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "b231c2d49e8ab8252c48ccb2f861c689f150dd4898a613126f738d648fda79b1",
+   "error": "b231c2d49e8a: symbol server returned unindexed build 701959da35a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "cd0f437d9658f06e19fe93809270e2906148807314703475457c70c59d54c354",
+   "error": "cd0f437d9658: symbol server returned unindexed build 9501cee16a16"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "edb9cf9b6559f09865260c78561defdfb1a8df9ab7e019e6f7a7791d5b4ed7ab",
+   "error": "edb9cf9b6559: symbol server returned unindexed build d124c6f57ba6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "edb9cf9b6559f09865260c78561defdfb1a8df9ab7e019e6f7a7791d5b4ed7ab",
+   "error": "edb9cf9b6559: symbol server returned unindexed build d124c6f57ba6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "a5c199413a4800a0d5260aed37f0b923a52c9f1e69a584d153cbe04d58ce5600",
+   "error": "a5c199413a48: symbol server returned unindexed build b81f5ee73c89"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "a5c199413a4800a0d5260aed37f0b923a52c9f1e69a584d153cbe04d58ce5600",
+   "error": "a5c199413a48: symbol server returned unindexed build b81f5ee73c89"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "a5c199413a4800a0d5260aed37f0b923a52c9f1e69a584d153cbe04d58ce5600",
+   "error": "a5c199413a48: symbol server returned unindexed build b81f5ee73c89"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "15244e848fc918ebefb83cc0fc39d2a17c160b62bf88465cdaa9611fa3c9313e",
+   "error": "15244e848fc9: symbol server returned unindexed build 8658c5d7d7c0; 81e29289ed40: symbol server returned unindexed build 85532b7a1809; 09253209d64f: symbol server returned unindexed build 8fd22bd428f7; 832015cf60fa: symbol server returned unindexed build b75a6c7e0c0d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "81e29289ed407caf4aff1663210e398c14279f2da8db7b9bcb5130198ea7c2ab",
+   "error": "81e29289ed40: symbol server returned unindexed build 85532b7a1809; 09253209d64f: symbol server returned unindexed build 8fd22bd428f7; 832015cf60fa: symbol server returned unindexed build b75a6c7e0c0d; 9be62dee5f29: symbol server returned unindexed build b75a6c7e0c0d"
+  }
+ ]
+}

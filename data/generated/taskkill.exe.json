@@ -1,0 +1,522 @@
+{
+ "name": "taskkill.exe",
+ "builds": [
+  {
+   "sha256": "f80391cd84f3505a2a6563f33f0d8d705ff13b147e98a61f944d74f7d3f728b4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/1B1CEAD516000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0267809c188d517d99a644e28a099c8f599fd2659b3ddd48ca9db4e51f205209",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/DE0A0F5C1d000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "806fcd3ba14d4d7d9c5c0e4eb6cb75cf87d6ef2f8593f379ca3617de3715209c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/03582CDE16000/taskkill.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\taskkill.exe"
+  },
+  {
+   "sha256": "1249717315fc8f4d2df17d5db9da0444795fdb9fb83dfb1f763c3f39282244f7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/9B4D18C21d000/taskkill.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\taskkill.exe"
+  },
+  {
+   "sha256": "26b9b184c2f7f60811c0c4cb25c12568d996ac1ece0ef64aa1b9e8f39aea74d7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/1D7AB37F1b000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ea3a07c527f431d3c1ae733cf0f1a1c2e221079fdd36f1c56bf71e5eeb96ff1b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/E1FA570515000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2e14a03c36069cd771b7296dbd3bb5b2194d6753d3d5ae1bc50a7d29aeecb667",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/5789916716000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ea8c0267a76b543302c4258b78bc477aa8876767b7a526549cce34eef6d859f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/57899B5A1b000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4fedf08ad24433b5d30489c07c67ce9ef9aced5a65590df7a1f6249cf191a235",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/5632D7FF1c000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "34d1d050d8bfc779e11161e3c0bc99f26deb4fba45f401bd60e0e3a5b297231a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/5632D78B16000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a31b431146b5e3750e48adb29f5d4d3448ce7eea9a76c1eedbbf279357799db6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/559F3D5F16000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f7b36dbf97cb52d5746eff6cbce669fc9bcb4ab30f02f36d3899127c68eab5e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "taskkill.exe",
+   "internal_name": "taskkill.exe",
+   "file_description": "Terminates Processes",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/taskkill.exe/559F3AD91c000/taskkill.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "taskkill.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709",
+    "1803"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "98bc3edadeff7ed754e94db862b0e7330b19da7818af9f0c6d47358640694d65",
+   "error": "98bc3edadeff: symbol server returned unindexed build d6a4d0d87516; 640a44278ac9: symbol server returned unindexed build a0b56b3b2792; 994e942f15e5: symbol server returned unindexed build a0b56b3b2792; 786585721778: symbol server returned unindexed build ef5d34f12a81"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "75f4aed9bf21d8f9b2b1a2ddbc1f2c7e4e0aef8b3b94bd5eda02d9d84c34f33f",
+   "error": "75f4aed9bf21: symbol server returned unindexed build 3fc04382bce3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "75f4aed9bf21d8f9b2b1a2ddbc1f2c7e4e0aef8b3b94bd5eda02d9d84c34f33f",
+   "error": "75f4aed9bf21: symbol server returned unindexed build 3fc04382bce3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "6ad8a1f2e5412cdd146243b7be25f955cc3f52c193f56d8a4e9b03ba68261db5",
+   "error": "6ad8a1f2e541: symbol server returned unindexed build 27a07ea5001b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "d3723916e8f8ab3ed3c7c261d33111b0124f47a901ecffd744513cb4f4890577",
+   "error": "d3723916e8f8: symbol server returned unindexed build c0f90b7492d6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "9472f2da48163a7bf36af3d5a923957788721dce35a3da543cc5e7a1f5ca5475",
+   "error": "9472f2da4816: symbol server returned unindexed build 41207366af8c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d9e29313d2127ff1983a050d84626765d01682edb2c1c5d5f209dda20c3eab87",
+   "error": "d9e29313d212: symbol server returned unindexed build 5e3591194c84"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d9e29313d2127ff1983a050d84626765d01682edb2c1c5d5f209dda20c3eab87",
+   "error": "d9e29313d212: symbol server returned unindexed build 5e3591194c84"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "56f8cc2c1790c389394733b84c3fb55e10977e9f0fe0c08110ac11f0fe47f05e",
+   "error": "56f8cc2c1790: symbol server returned unindexed build c51cb973b0ba"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "56f8cc2c1790c389394733b84c3fb55e10977e9f0fe0c08110ac11f0fe47f05e",
+   "error": "56f8cc2c1790: symbol server returned unindexed build c51cb973b0ba"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "56f8cc2c1790c389394733b84c3fb55e10977e9f0fe0c08110ac11f0fe47f05e",
+   "error": "56f8cc2c1790: symbol server returned unindexed build c51cb973b0ba"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "56f8cc2c1790c389394733b84c3fb55e10977e9f0fe0c08110ac11f0fe47f05e",
+   "error": "56f8cc2c1790: symbol server returned unindexed build c51cb973b0ba"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "56f8cc2c1790c389394733b84c3fb55e10977e9f0fe0c08110ac11f0fe47f05e",
+   "error": "56f8cc2c1790: symbol server returned unindexed build c51cb973b0ba"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "55d184169e90f5cc5a93f2f9f5b636fcf458bd88e3da0428d3f8f58017518f64",
+   "error": "55d184169e90: symbol server returned unindexed build dfeae2aed309; a78771ba588b: symbol server returned unindexed build 7d724c25e998; 296d2c4e354b: symbol server returned unindexed build 7d724c25e998; 705ec4a1b9fd: symbol server returned unindexed build 0fe779b57419"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "bf1f32a3aaa946bb295b182c14482721dfb431e1c4e5622b6f4207f3b5c3d9e0",
+   "error": "bf1f32a3aaa9: symbol server returned unindexed build 5e326d49afa9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "bf1f32a3aaa946bb295b182c14482721dfb431e1c4e5622b6f4207f3b5c3d9e0",
+   "error": "bf1f32a3aaa9: symbol server returned unindexed build 5e326d49afa9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "b36a0aeaba2e33ec75a7eab39e364214b4f85b30a6c029c73fdae91963011b2c",
+   "error": "b36a0aeaba2e: symbol server returned unindexed build 0a51005e9c0c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "f328d587561beed3c19289fba43e284fb57bce1a4c202c7379673964f9b8610d",
+   "error": "f328d587561b: symbol server returned unindexed build 255a67aa0a91"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "942e94f84340fa275fecfe87bc1caec8f667e9eea29e67f72e3f2e2546bb3197",
+   "error": "942e94f84340: symbol server returned unindexed build 991eb720a487"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "89d9bdf537ec43228448187779299ac347449361e067b0ad453bb54ad7edb37e",
+   "error": "89d9bdf537ec: symbol server returned unindexed build 7895080a323a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "89d9bdf537ec43228448187779299ac347449361e067b0ad453bb54ad7edb37e",
+   "error": "89d9bdf537ec: symbol server returned unindexed build 7895080a323a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "4e664b35e8de6c6b38e3231dfaf00744435ffb806e00355fece1e0cc1d2121c1",
+   "error": "4e664b35e8de: symbol server returned unindexed build 7a56e776816a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4e664b35e8de6c6b38e3231dfaf00744435ffb806e00355fece1e0cc1d2121c1",
+   "error": "4e664b35e8de: symbol server returned unindexed build 7a56e776816a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "4e664b35e8de6c6b38e3231dfaf00744435ffb806e00355fece1e0cc1d2121c1",
+   "error": "4e664b35e8de: symbol server returned unindexed build 7a56e776816a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "4e664b35e8de6c6b38e3231dfaf00744435ffb806e00355fece1e0cc1d2121c1",
+   "error": "4e664b35e8de: symbol server returned unindexed build 7a56e776816a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "4e664b35e8de6c6b38e3231dfaf00744435ffb806e00355fece1e0cc1d2121c1",
+   "error": "4e664b35e8de: symbol server returned unindexed build 7a56e776816a"
+  }
+ ]
+}

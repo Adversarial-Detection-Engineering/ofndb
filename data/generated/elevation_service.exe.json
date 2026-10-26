@@ -1,0 +1,63 @@
+{
+ "name": "elevation_service.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "83b01f997a60c0025a018e23d5703cad3b3250d4dddad9149af3c1f03f4fccae",
+   "error": "83b01f997a60: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/60A5B12718e000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3631ce71c2c39bfbc79dcf894ae62336226c58086d5925211eaa4e39891eb74f",
+   "error": "3631ce71c2c3: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/624DFEB119b000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3631ce71c2c39bfbc79dcf894ae62336226c58086d5925211eaa4e39891eb74f",
+   "error": "3631ce71c2c3: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/624DFEB119b000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "95601990813b287d5c1c88a1acbc7cc8e1db549b6a2a8c827e7a23a6879010b9",
+   "error": "95601990813b: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/65FB328D1b7000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "d5fe5e612cf8c023cad8514de05458fadf1da332bbba93a9ad994d28253a6994",
+   "error": "d5fe5e612cf8: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/68C20E6A25c000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "0ab2be45cf9a28573f9d8c102830ff85f08cc59d82a115c4e1b8bc920bff33b0",
+   "error": "0ab2be45cf9a: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/5F2535D418c000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "760d48627259e3a8d871dbd0e180dabd00fa72b12bcf10214c7637f95605f476",
+   "error": "760d48627259: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/6065256B18c000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "680bfbad603e96590d9afd84e8d7b71c2a3ae3ec3875cba08e590e12917479b2",
+   "error": "680bfbad603e: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/610B5A4019d000/elevation_service.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "680bfbad603e96590d9afd84e8d7b71c2a3ae3ec3875cba08e590e12917479b2",
+   "error": "680bfbad603e: NotFound: https://msdl.microsoft.com/download/symbols/elevation_service.exe/610B5A4019d000/elevation_service.exe"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "chkntfs.exe",
+ "builds": [
+  {
+   "sha256": "daeee58bb05b613f5bcccedcd97be1fae4898cd9d26bd232f3ee331c3517e578",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CHKNTFS.EXE",
+   "internal_name": "chkntfs",
+   "file_description": "NTFS Volume Maintenance Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\chkntfs.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "c571f4867a2aaee70b8548b9bb220360b6f347d6413d55212d120ebf5bb2b4fd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHKNTFS.EXE",
+   "internal_name": "chkntfs",
+   "file_description": "NTFS Volume Maintenance Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\chkntfs.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CHKNTFS.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

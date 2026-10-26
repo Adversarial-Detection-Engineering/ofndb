@@ -1,0 +1,47 @@
+{
+ "name": "zoomit.exe",
+ "builds": [
+  {
+   "sha256": "e5c55414879086ac6b0b8ac7cb8e739c3615135421a870ab7806cc5f019d55ee",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ZoomIt.exe",
+   "internal_name": "ZoomIt",
+   "file_description": "Sysinternals Screen Magnifier",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals ZoomIt",
+   "file_version": "12.3",
+   "fixed_file_version": "12.30.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals ZoomIt",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/ZoomIt.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ZoomIt.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "12.30.0.0",
+   "max_version": "12.30.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+notes: >-
+  AnyDesk 9.8.2 has a version resource (description, company, product) but no
+  OriginalFilename key; Sysmon logs `-`. LOLRMM's PEMetadata lists
+  `AnyDesk.exe`, which current builds don't carry. Key on the signer
+  (AnyDesk Software GmbH) or the image path instead.

@@ -1,0 +1,212 @@
+{
+ "name": "csvde.exe",
+ "builds": [
+  {
+   "sha256": "ef43435084b8d64c83cd4ee3bdd1e6369d65a8eefe8c5dd27e5a4ceafda94e21",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "csvde.exe",
+   "internal_name": "csvde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/csvde.exe/E49B7146e000/csvde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ac6001bc7cd8a31f55b79d80ee03402d4ab44899cb27bef8312a62983bb11184",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "csvde.exe",
+   "internal_name": "csvde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/csvde.exe/EBDEF00512000/csvde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1e68260d70936424980d0e169c99bfed916af55ff545e8173cbcdc451100676a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "csvde.exe",
+   "internal_name": "csvde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/csvde.exe/EBBD0FC311000/csvde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "019c1945e52ea33a987285c6026d513ef1777e44072c17fffc64683b79dd19df",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "csvde.exe",
+   "internal_name": "csvde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/csvde.exe/9F0828BFd000/csvde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "csvde.exe",
+   "builds": 4,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.7920",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "d55b11b10da4187565be26849413ba7084a6b9c63b052f7608e20d6e8a66336b",
+   "error": "d55b11b10da4: symbol server returned unindexed build 2dfff91ef669; 2d2f342d1dd8: symbol server returned unindexed build fd77536e4f57; 831ead75266c: symbol server returned unindexed build fd77536e4f57"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "352d29fefca9d78ed0d1c1f038b1e46145fa9b499a2c8af7cd97b233dc5c8d70",
+   "error": "352d29fefca9: symbol server returned unindexed build bcad93f62ca0; d29e9eadbf58: symbol server returned unindexed build 708c99b3b27b; 0b4c33d5c46a: symbol server returned unindexed build 708c99b3b27b"
+  }
+ ]
+}

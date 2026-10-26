@@ -1,0 +1,64 @@
+{
+ "name": "mcbuilder.exe",
+ "builds": [
+  {
+   "sha256": "cb6f9b4ef926d4b62a33cba78ac1c581733f49a8f4255e9a0518589263e89a32",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mcbuilder.exe",
+   "internal_name": "mcbuilder",
+   "file_description": "Resource cache builder tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\mcbuilder.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "7f6058a0c4fefa5e1abcc3fc92326c49500384188870f7ddad7e6f210e5620ef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mcbuilder.exe",
+   "internal_name": "mcbuilder",
+   "file_description": "Resource cache builder tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3037 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3037",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mcbuilder.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mcbuilder.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.3037",
+   "max_version": "10.0.26100.3624",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

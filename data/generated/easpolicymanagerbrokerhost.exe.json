@@ -1,0 +1,44 @@
+{
+ "name": "easpolicymanagerbrokerhost.exe",
+ "builds": [
+  {
+   "sha256": "fddcc6a930aa564f854b83b01c65fbe97d70821a1db1ccae79a02f632f2cb2b4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EASPolicyManagerBrokerHost.exe",
+   "internal_name": "EASPolicyManagerBrokerHost",
+   "file_description": "Exchange Active Sync Policy Manager Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\EASPolicyManagerBrokerHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "EASPolicyManagerBrokerHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

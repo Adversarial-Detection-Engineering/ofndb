@@ -1,0 +1,44 @@
+{
+ "name": "autocathost.exe",
+ "builds": [
+  {
+   "sha256": "d6acdf0724c294cf11efffd8e9a4f948fb7d5230a2274c3f7fc18ea83bb0e636",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AutoCatHost.exe",
+   "internal_name": "AutoCatHost",
+   "file_description": "Windows Auto Categorization Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AutoCatHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AutoCatHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

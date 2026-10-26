@@ -1,0 +1,44 @@
+{
+ "name": "pnpunattend.exe",
+ "builds": [
+  {
+   "sha256": "b8e4332a052f7cac9609b5004217ba0b0c27d70051af1f0990f8c3748b721a00",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PnPUnattend.exe",
+   "internal_name": "PnPUnattend.exe",
+   "file_description": "PnP unattend action",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\PnPUnattend.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "PnPUnattend.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8521",
+   "max_version": "10.0.26100.8521",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

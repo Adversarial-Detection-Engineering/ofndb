@@ -1,0 +1,991 @@
+{
+ "name": "certutil.exe",
+ "builds": [
+  {
+   "sha256": "ffc92062f1b85065856b1e593cafaf3eb7063d287779be5c78f1d52fc2d5d306",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/D597496B141000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "98adea8ed098985b26dbaab07c7068dc726186bc40f94ff008506b9b888bf01e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/6AC8D4F1163000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "89fc17e411fc5b296f4c619768b8771ee1d839d2456b7ce100314334b1f600eb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/6AC8D5C7123000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "78b46729dc86c96c008a30f6b1a3eac72b5fcfa88cd8d182e1b118b45a7d3088",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/211663041aa000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "76dcb34bc7888548fdbba0dba9558c2010bb6c3576a307214c3d91034949b4b5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/78343323145000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "71bd529126d96c2ff91768b18b3c61345d3d7fa3b3c131de0c001340aeefc707",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/F288B834148000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b9a2b38761468976db520c9acd2dd6a80a19ff92bf3762f9fef7b285f345665",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/FBE464CB141000/certutil.exe",
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\certutil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ce54b2382db371e41ecc6eb314617e07d0f75091b53de8bc8874b1d8cb46984",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/B2ED4B2018a000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "16d0e3543975b89a560c929bc0f4fb73a54164ac5c93f536ddd2d4befc5e4c86",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/25666CE9187000/certutil.exe",
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\certutil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6630aa08681aacd8e8afba276f32d4db5ab92762465e90993b62d2f10f058382",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9121",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-08-11",
+   "os_builds": [
+    "17763.9121"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/F34BBF4A1a6000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f7289fbf9af5f2c11b0873823ae6bd4ac2668d1d661be98a34c5b79d482e1957",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20708 (th1.240626-1933)",
+   "fixed_file_version": "10.0.10240.20708",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/667D0CB6158000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c603a43983df225761b34e6b50048e023710ca07fba1adb8578a678167cc7113",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20708 (th1.240626-1933)",
+   "fixed_file_version": "10.0.10240.20708",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/667D0B0E11d000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ebc1d6fe958f7c551617d87e7012acc6c11b0659eb58bc2de26861102709f019",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/2E27668A186000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "151b2b7e34d2eeaac9a8e695e04adc23d8e8b6a9757e323facb85d1a74e703b4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/4CCB28C6140000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6af299712fe257bf7a51cba7e86206e43452040d82cf28180ad9f9ef13488692",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.1992",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2023-07-11",
+   "last_seen": "2023-10-31",
+   "os_builds": [
+    "22621.1992",
+    "22621.2070",
+    "22621.2134",
+    "22621.2215",
+    "22621.2283",
+    "22621.2361",
+    "22621.2428"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/BB973A3017a000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44d75cedb20165f50f0b2054de8240aaa98ac49a75f26acc1d0f39dae44726e6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.434 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.434",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-06-28",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/A349AE70134000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "16fe23a142fe13342950b255d1713b922a9a88e5aa7551584b5034e0c635bdb5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-06-28",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/4C032D2A182000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ebf75f835cb0d1f550d5410a3a82d52708b091d018af031014b923dc90ed98a6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2075 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2075",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2023-06-27",
+   "os_builds": [
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/EBB3ED56147000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "22d1471ed17c681aa5580c59712005e1c70ef9c306cbcad245a64f7dfae47847",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2075 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2075",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2023-06-27",
+   "os_builds": [
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/DD0A62081a7000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c8b3a3fb102404eb5ce3ca1017ba568046573de33bc1383db62cbefba6f79ed6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/07D7C8AE184000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "643cd8fac7e482948b08060a7839fbe498f4d425fa627722568573761fe4a2f5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/5D56EBC113e000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ce927ceb4cb2e3a33e52362cfcdcd9886486445f9e1a33c47de87fa63b22a3f5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/0542469E123000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ce7d405d2471553e2c626a07439c994496f0bc84454831931bc27516f62fec4d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/59AE3ACF162000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8bf7c45abc99bed7a8e058411752257fae644cb3c4a9f00b14b13c07920eef7a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/59AE2BEC11f000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c3371d31fd252a2c3f4107965c5cd7501d9e5932c71870cfefa48672f1e5577b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertUtil.exe",
+   "internal_name": "CertUtil.exe",
+   "file_description": "CertUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.447 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.447",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-06-27",
+   "last_seen": "2018-01-17",
+   "os_builds": [
+    "15063.447",
+    "15063.483",
+    "15063.502",
+    "15063.540",
+    "15063.608",
+    "15063.632",
+    "15063.675",
+    "15063.726",
+    "15063.729",
+    "15063.877"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certutil.exe/CF4A345A163000/certutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "original_filenames": [
+  {
+   "value": "CertUtil.exe",
+   "builds": 25,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1803",
+    "1809",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20708",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2017-06-27",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "4e650bc37722437fd089ec5d56d786445fff36c4d5d3a5190b14232f70d6ecf1",
+   "error": "4e650bc37722: symbol server returned unindexed build 7f1be39de6a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "12f06d3b1601004db3f7f1a07e7d3af4cc838e890e0ff50c51e4a0c9366719ed",
+   "error": "12f06d3b1601: symbol server returned unindexed build 98570de8a853"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "12f06d3b1601004db3f7f1a07e7d3af4cc838e890e0ff50c51e4a0c9366719ed",
+   "error": "12f06d3b1601: symbol server returned unindexed build 98570de8a853"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "8de7b4eb1301d6cbe4ea2c8d13b83280453eb64e3b3c80756bbd1560d65ca4d2",
+   "error": "8de7b4eb1301: symbol server returned unindexed build 8aee50138382"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "8de7b4eb1301d6cbe4ea2c8d13b83280453eb64e3b3c80756bbd1560d65ca4d2",
+   "error": "8de7b4eb1301: symbol server returned unindexed build 8aee50138382"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "e6a0ea9a7c3b13c52b3d009d8be64a9ba2f319878fa8171e05ab25a400bd5dec",
+   "error": "e6a0ea9a7c3b: symbol server returned unindexed build 2668f0f088ad; 41ebc63e56e9: symbol server returned unindexed build 9876c3c2fec4; c1e19ac80bfc: symbol server returned unindexed build 2a5180bdeaed; 28c0590bc460: symbol server returned unindexed build 97b088d82296"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "9a24cbd7834337fb2eb448b705aafeb2c6b664b5dd6006d180acb8e47fa90b54",
+   "error": "9a24cbd78343: symbol server returned unindexed build 771c5c734eeb; 3f88be10a405: symbol server returned unindexed build a8ce79550906; e6a0ea9a7c3b: symbol server returned unindexed build 2668f0f088ad; c1e19ac80bfc: symbol server returned unindexed build 2a5180bdeaed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "bc52cdb25f103e86690ea9fd798eaa8395d44654ee381ae476ae8b1a83ab0b79",
+   "error": "bc52cdb25f10: symbol server returned unindexed build 4b0de9d87fa7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "484851169c45b1324b6dedeabd0df73472b69011de5042a88a377be471f7556c",
+   "error": "484851169c45: symbol server returned unindexed build e67f872fd5a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "484851169c45b1324b6dedeabd0df73472b69011de5042a88a377be471f7556c",
+   "error": "484851169c45: symbol server returned unindexed build e67f872fd5a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "1c010bfbf42a6a32ec9bff5a3a559b51c983d77ce47d30074aa170417fa4cf1d",
+   "error": "1c010bfbf42a: symbol server returned unindexed build f97197927c7c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "1c010bfbf42a6a32ec9bff5a3a559b51c983d77ce47d30074aa170417fa4cf1d",
+   "error": "1c010bfbf42a: symbol server returned unindexed build f97197927c7c"
+  }
+ ],
+ "updated": "2026-10-26"
+}

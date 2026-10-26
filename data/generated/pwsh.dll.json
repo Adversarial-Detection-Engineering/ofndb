@@ -1,0 +1,46 @@
+{
+ "name": "pwsh.dll",
+ "builds": [
+  {
+   "sha256": "682c403fd13e667ff9c67f28750c8fedec8ad60f962662d83642b48a6c3f2154",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pwsh.dll",
+   "internal_name": "pwsh.dll",
+   "file_description": "PowerShell 7",
+   "company_name": "Microsoft Corporation",
+   "product_name": "PowerShell",
+   "file_version": "7.6.9.500",
+   "fixed_file_version": "7.6.9.500",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "product": "PowerShell 7",
+   "vendor": "Microsoft",
+   "release": "v7.6.9",
+   "download_url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.9/PowerShell-7.6.9-win-x64.zip",
+   "sources": [
+    "vendor"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "generated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pwsh.dll",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "vendor"
+   ],
+   "windows_versions": [],
+   "min_version": "7.6.9.500",
+   "max_version": "7.6.9.500",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

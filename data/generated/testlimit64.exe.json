@@ -1,0 +1,47 @@
+{
+ "name": "testlimit64.exe",
+ "builds": [
+  {
+   "sha256": "f1564b3c3eee87d62ef04ccf2c6b453020d3547faa2ccc5c9e2cef94fe659f2f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Testlimit",
+   "internal_name": "Testlimit",
+   "file_description": "Test Windows Limits",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Testlimit",
+   "file_version": "5.24",
+   "fixed_file_version": "5.24.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Testlimit",
+   "release": "2016-11-18",
+   "last_seen": "2016-11-18",
+   "download_url": "https://live.sysinternals.com/Testlimit64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Testlimit",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "5.24.0.0",
+   "max_version": "5.24.0.0",
+   "first_seen": "2016-11-18",
+   "last_seen": "2016-11-18",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "dotnet.exe",
+ "builds": [
+  {
+   "sha256": "c16771e660235d63ae509966c0908664c1c2850dff3869aece8b8d060dafd773",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": ".NET Host",
+   "internal_name": ".NET Host",
+   "file_description": ".NET Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": ".NET",
+   "file_version": "9,0,2226,52218 @Commit: faaecba82df8933d7af60972138ce25f9c776cbd",
+   "fixed_file_version": "9.0.2226.52218",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Program Files\\dotnet\\dotnet.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": ".NET Host",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "9.0.2226.52218",
+   "max_version": "9.0.2226.52218",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

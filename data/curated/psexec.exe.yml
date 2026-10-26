@@ -1,0 +1,4 @@
+notes: >-
+  `psexec.c` is the long-standing OriginalFilename for PsExec and PsExec64
+  (the source file name, not a binary name). The PSEXESVC service binary
+  that PsExec drops on the target is a separate image with its own value.

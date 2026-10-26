@@ -1,0 +1,44 @@
+{
+ "name": "refsdedupsvc.exe",
+ "builds": [
+  {
+   "sha256": "bb6bfe9e40ca10ba35115c2fe4e0847c9de4a5f85a47cd597d7d2b186373d3b6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ReFsDedupSvc.exe",
+   "internal_name": "Windows ReFS Dedup Service EXE",
+   "file_description": "Windows ReFS Dedup Service EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ReFsDedupSvc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ReFsDedupSvc.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

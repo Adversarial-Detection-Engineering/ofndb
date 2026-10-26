@@ -1,0 +1,564 @@
+{
+ "name": "whoami.exe",
+ "builds": [
+  {
+   "sha256": "bf803e9a7a7f4499c5b4e8b59756905de8a238c5aed3ad6c93665e047c473e01",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/67B59AFA12000/whoami.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\whoami.exe"
+  },
+  {
+   "sha256": "23240ef9f8b0a9a324110b1c2331de31dc1b0e08f5359cb707e51a939af56cd3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/D6B86F5118000/whoami.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\whoami.exe"
+  },
+  {
+   "sha256": "6c7c2450a80f401b8d3b33754c45d91d60d4a2055533542389551c0c609261d2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/492CF80816000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "26d64193736e8a6220567832e98b1e456cf856bc9533ea42f52b5bcce2651546",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/4F9A705B12000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8ecffcce38d4ee87abaee6cbe843d94d4f8fb98fab3c356c7f6b70e60b10f88a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/578999C816000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "72c2b9733d3d143cb23ba5d6f3d5b690d39ed458b6c430557ff7b50fe6c3f28f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/57898EDA11000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3b5efc1fceff0d7f4197db5cfcb37539123469454bdb2d223f8c798fcd45a21b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/5632D82116000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18b9b2edd0ca2fe90a6dbed1e49b68a3a2fafeeda0cefe699c0ac6b454cb93b6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/5632D7B011000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8fbdc065f9081172475779d739424b399948b506771b9b84afe75c1b4768048c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/559F389B16000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "54e26855769ea12c6fc9d4d3ea5c8e8a09cc4ea3a11865adba124f6d77d48de5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "whoami.exe",
+   "internal_name": "whoami.exe",
+   "file_description": "whoami - displays logged on user information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/whoami.exe/559F3B0D11000/whoami.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "whoami.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1882",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "5246f10763d5403205c7a204e114463958cb62c2115896927f88220be86f4958",
+   "error": "5246f10763d5: symbol server returned unindexed build a02b61fa0b5f; 22630753e4c7: symbol server returned unindexed build 6d8109e1e21c; 4e1333d51b0c: symbol server returned unindexed build 6d8109e1e21c; 0defec618334: symbol server returned unindexed build 33ec7032c3b1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "574bc2a2995fe2b1f732ccd39f2d99460ace980af29efdf1eb0d3e888be7d6f0",
+   "error": "574bc2a2995f: symbol server returned unindexed build 466b424b514c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "574bc2a2995fe2b1f732ccd39f2d99460ace980af29efdf1eb0d3e888be7d6f0",
+   "error": "574bc2a2995f: symbol server returned unindexed build 466b424b514c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "a10e7146462d500583452373f8b02f8a9011c9034d8ff8580e16720b4c824bb2",
+   "error": "a10e7146462d: symbol server returned unindexed build 86899d65615f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "59d6065c2dd2d1466ef8bae087197f1222c7d7eff84a12c8db74c42f4efbeb5d",
+   "error": "59d6065c2dd2: symbol server returned unindexed build c1e7de9b54c8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "1d5491e3c468ee4b4ef6edff4bbc7d06ee83180f6f0b1576763ea2efe049493a",
+   "error": "1d5491e3c468: symbol server returned unindexed build 8ed6c89f6ce4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "a8a4c4719113b071bb50d67f6e12c188b92c70eeafdfcd6f5da69b6aaa99a7fd",
+   "error": "a8a4c4719113: symbol server returned unindexed build 62d60f11ef47"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "a8a4c4719113b071bb50d67f6e12c188b92c70eeafdfcd6f5da69b6aaa99a7fd",
+   "error": "a8a4c4719113: symbol server returned unindexed build 62d60f11ef47"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "1d4902a04d99e8ccbfe7085e63155955fee397449d386453f6c452ae407b8743",
+   "error": "1d4902a04d99: symbol server returned unindexed build b9d62fb53c86"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "1d4902a04d99e8ccbfe7085e63155955fee397449d386453f6c452ae407b8743",
+   "error": "1d4902a04d99: symbol server returned unindexed build b9d62fb53c86"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "1d4902a04d99e8ccbfe7085e63155955fee397449d386453f6c452ae407b8743",
+   "error": "1d4902a04d99: symbol server returned unindexed build b9d62fb53c86"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "1d4902a04d99e8ccbfe7085e63155955fee397449d386453f6c452ae407b8743",
+   "error": "1d4902a04d99: symbol server returned unindexed build b9d62fb53c86"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "1d4902a04d99e8ccbfe7085e63155955fee397449d386453f6c452ae407b8743",
+   "error": "1d4902a04d99: symbol server returned unindexed build b9d62fb53c86"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "2b16f82533ab3f1bf85ed2e3e2dfc280d813830310191034de77c7dbd27ba784",
+   "error": "2b16f82533ab: symbol server returned unindexed build 80d5d6b499f1; b2069742d7b2: symbol server returned unindexed build 5334cb4cda1d; 85231476a5d8: symbol server returned unindexed build 5334cb4cda1d; 9156e5eb17d1: symbol server returned unindexed build 73cde2b532c8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "ad9a026b57916c1b973b481debd160cf5cdec26eeb21ee8b237d4bad7f698e18",
+   "error": "ad9a026b5791: symbol server returned unindexed build 2601c4855d42"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "ad9a026b57916c1b973b481debd160cf5cdec26eeb21ee8b237d4bad7f698e18",
+   "error": "ad9a026b5791: symbol server returned unindexed build 2601c4855d42"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "be3bb3da5e6bd98276c9d77bd096b16e00b3b4aaeed8df34a238823c9f840389",
+   "error": "be3bb3da5e6b: symbol server returned unindexed build 4012594aedbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "9ff82a081dea8479100b5040c67e8d9c23674023c176bd203b3d662d8fad85f5",
+   "error": "9ff82a081dea: symbol server returned unindexed build 8c38bff618d1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "075fa41e449213910f6d45f5713fef8ed71ea913c1ebe594407894141f103d64",
+   "error": "075fa41e4492: symbol server returned unindexed build 3a9b18d2bacb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "aa1583d770c6774f8d8fcec099cf7bdc05beb0f08f6db387f5b37cca860771d7",
+   "error": "aa1583d770c6: symbol server returned unindexed build 9500434d9fdd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "aa1583d770c6774f8d8fcec099cf7bdc05beb0f08f6db387f5b37cca860771d7",
+   "error": "aa1583d770c6: symbol server returned unindexed build 9500434d9fdd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "91d257ec8800204642d96d2a0fb87937529c36debd5c3ad4380f79acc91b62cf",
+   "error": "91d257ec8800: symbol server returned unindexed build dd6d1756669f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "91d257ec8800204642d96d2a0fb87937529c36debd5c3ad4380f79acc91b62cf",
+   "error": "91d257ec8800: symbol server returned unindexed build dd6d1756669f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "91d257ec8800204642d96d2a0fb87937529c36debd5c3ad4380f79acc91b62cf",
+   "error": "91d257ec8800: symbol server returned unindexed build dd6d1756669f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "91d257ec8800204642d96d2a0fb87937529c36debd5c3ad4380f79acc91b62cf",
+   "error": "91d257ec8800: symbol server returned unindexed build dd6d1756669f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "91d257ec8800204642d96d2a0fb87937529c36debd5c3ad4380f79acc91b62cf",
+   "error": "91d257ec8800: symbol server returned unindexed build dd6d1756669f"
+  }
+ ]
+}

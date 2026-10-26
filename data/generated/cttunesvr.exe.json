@@ -1,0 +1,64 @@
+{
+ "name": "cttunesvr.exe",
+ "builds": [
+  {
+   "sha256": "3ad27fc6d50f5ad75b0c3e0378c7a32d062d3e95fa5d7259c0601dfcada8d3f3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTTUNESVR.EXE",
+   "internal_name": "CtTuneSvr",
+   "file_description": "ClearType Tuner",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cttunesvr.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2cf15fce80ab449592da0b458489d88c8daa83d562dc79d32b0df1bbddd018de",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTTUNESVR.EXE",
+   "internal_name": "CtTuneSvr",
+   "file_description": "ClearType Tuner",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\cttunesvr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CTTUNESVR.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

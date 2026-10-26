@@ -1,0 +1,44 @@
+{
+ "name": "omadmclient.exe",
+ "builds": [
+  {
+   "sha256": "d311fccc6ebac62d7192233ff6d0d94883e33f2e736a78712a6579f38f3c691e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "omadmclient.exe",
+   "internal_name": "omadmclient",
+   "file_description": "Host Process for OMA-DM Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\omadmclient.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "omadmclient.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "strings.exe",
+ "builds": [
+  {
+   "sha256": "a7553d77edca85bec980e38e69bf0e9f36962f20be0ee759e9a96030d519c5a0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "strings.exe",
+   "internal_name": "Strings",
+   "file_description": "Search for ANSI and Unicode strings in binary images.",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Strings",
+   "file_version": "2.54",
+   "fixed_file_version": "2.54.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Strings",
+   "release": "2021-06-22",
+   "last_seen": "2021-06-22",
+   "download_url": "https://live.sysinternals.com/strings.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "strings.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.54.0.0",
+   "max_version": "2.54.0.0",
+   "first_seen": "2021-06-22",
+   "last_seen": "2021-06-22",
+   "provenance": "parsed"
+  }
+ ]
+}

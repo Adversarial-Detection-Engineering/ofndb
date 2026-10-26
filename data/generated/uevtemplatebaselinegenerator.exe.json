@@ -1,0 +1,44 @@
+{
+ "name": "uevtemplatebaselinegenerator.exe",
+ "builds": [
+  {
+   "sha256": "40c56ed3a2af416df9794019734bd2e717779a0ef0c243ee916e7860be1f2d87",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "UevTemplateBaselineGenerator.exe",
+   "internal_name": "UevTemplateBaselineGenerator.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "0.0.0.0",
+   "fixed_file_version": "0.0.0.0",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UevTemplateBaselineGenerator.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UevTemplateBaselineGenerator.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "0.0.0.0",
+   "max_version": "0.0.0.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

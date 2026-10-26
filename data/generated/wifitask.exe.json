@@ -1,0 +1,44 @@
+{
+ "name": "wifitask.exe",
+ "builds": [
+  {
+   "sha256": "828985c661c1120521b210504fa5c6953717a0f841cdb9bce4507c3cde94e4f6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WiFiTask.exe",
+   "internal_name": "WiFiTask.exe",
+   "file_description": "Wireless Background Task",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wifitask.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WiFiTask.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8521",
+   "max_version": "10.0.26100.8521",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "applicationframehost.exe",
+ "builds": [
+  {
+   "sha256": "a3c03c4f0982daac75c61712fa59a00617a007d0c555979138ecfaf1c2c1c042",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ApplicationFrameHost.exe",
+   "internal_name": "Application Frame Host",
+   "file_description": "Application Frame Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ApplicationFrameHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ApplicationFrameHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

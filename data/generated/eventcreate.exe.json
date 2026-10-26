@@ -1,0 +1,64 @@
+{
+ "name": "eventcreate.exe",
+ "builds": [
+  {
+   "sha256": "d64cf3d8c86118900ebbba675668290d7b78a4501e0db5242959503c1947f9ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "evcreate.exe",
+   "internal_name": "eventcreate.exe",
+   "file_description": "Event Create - Creates a custom event in an event log",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\eventcreate.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "a8f4aebba033814cf5a7cb3bc0805284ba749404d0a7804093c3b517559aee4a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "evcreate.exe",
+   "internal_name": "eventcreate.exe",
+   "file_description": "Event Create - Creates a custom event in an event log",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\eventcreate.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "evcreate.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,780 @@
+{
+ "name": "reg.exe",
+ "builds": [
+  {
+   "sha256": "ef37663b44ac66920c6f33694deea01acb78ae3f3012884819373fa04c3eb5f0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/7A3ED44D5b000/reg.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\reg.exe"
+  },
+  {
+   "sha256": "b905d255e8913952b0f05eb17cfb43f5311278c19596d12d91c613d6be4d89fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/306272D05b000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "91b607a875e9e2798adf4709d020e4694fa01a89c52ada9b2aa828c477c37a6b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/7C77E31754000/reg.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\reg.exe"
+  },
+  {
+   "sha256": "4c91d5a369c3bbb2e1296a6409bccc867c07ff1fffc4fef77777cd6c3586289c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/4E2A8A4A54000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fa035fe1340cdd439131258b4895ab4d0c8bfe2424fbfd0a44611eb9d2da68e7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/15076D9C53000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4ed2a27860fa154415f65452ff1f94bd6af762982e2f3470030c504dc3c8a354",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.476 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.476",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-11-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/8720E9B856000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "45eff48450c110b8a6d2a4c0fe31323423851298f6dadf32d73df91df7ecb797",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.476 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.476",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-11-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/FA335CF452000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e3046d83040d114af09c6b7738f69b14ec180ece999573489a7d3386e4ababb5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/2C91264F52000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cbb9f8d012cb0af2ca87ac74abb5c77a7743c64697c8d92104d3eba27a699ab0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/5789913352000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9e28034ce3aeea6951f790f8997df44cfbf80beff9fb17413dba317016a716ad",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/57899B8F56000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "35c036facafbf95a974f67e7029fde6078d1f3699b7117f2734b971bc551ffad",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/5632D81656000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "34ab0dd6d0659b49a84fcf1c4459add2c465fecefbc0de7bb83114a170a2f885",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/5632D7A353000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e4721b35e0b27aa9596ad2abe3c9fa617f79b654e1b92b424d8aa3bb77c04d46",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/559F389956000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6b7560636f1b207bbaac464067a88abe6419b82b3ae741666ece3dc13096b05c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "reg.exe",
+   "internal_name": "reg.exe",
+   "file_description": "Registry Console Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/reg.exe/559F3B0C53000/reg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "reg.exe",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1809",
+    "1903",
+    "1909"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "6b9dfcb565b6e15595a8c7c04c24750893a1f1c2cd7404cfdc2ada87c67d0232",
+   "error": "6b9dfcb565b6: symbol server returned unindexed build cea3f811ffec; bd95ad77f1cf: symbol server returned unindexed build 945b0182e8fa; 8794e815c06e: symbol server returned unindexed build 945b0182e8fa; ef7d2e4387bc: symbol server returned unindexed build da883c1044de"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "411ae446fe37b30c0727888c7fa5e88994a46dafd41aa5b3b06c9e884549afde",
+   "error": "411ae446fe37: symbol server returned unindexed build a391fede7c15"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "411ae446fe37b30c0727888c7fa5e88994a46dafd41aa5b3b06c9e884549afde",
+   "error": "411ae446fe37: symbol server returned unindexed build a391fede7c15"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "e15ed545e21b304df6a31e8c01f74495b43ac275ea9572911c1fd286a363e4af",
+   "error": "e15ed545e21b: symbol server returned unindexed build f3fe8020d520"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "6b3ef0286b7f12b6dbd3bfe07f2473de16b30f2496a45985901f035cb509435f",
+   "error": "6b3ef0286b7f: symbol server returned unindexed build 598debec4619"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "928693d84d652dc15b3fcdc6576d790053755c5181ce6708b1110de12adae4a1",
+   "error": "928693d84d65: symbol server returned unindexed build a17b374a2f5f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "19316d4266d0b776d9b2a05d5903d8cbc8f0ea1520e9c2a7e6d5960b6fa4dcaf",
+   "error": "19316d4266d0: symbol server returned unindexed build 2a363f884f2d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "c0e25b1f9b22de445298c1e96ddfcead265ca030fa6626f61a4a4786cc4a3b7d",
+   "error": "c0e25b1f9b22: symbol server returned unindexed build 3a21d35af7ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "c0e25b1f9b22de445298c1e96ddfcead265ca030fa6626f61a4a4786cc4a3b7d",
+   "error": "c0e25b1f9b22: symbol server returned unindexed build 3a21d35af7ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "c0e25b1f9b22de445298c1e96ddfcead265ca030fa6626f61a4a4786cc4a3b7d",
+   "error": "c0e25b1f9b22: symbol server returned unindexed build 3a21d35af7ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c0e25b1f9b22de445298c1e96ddfcead265ca030fa6626f61a4a4786cc4a3b7d",
+   "error": "c0e25b1f9b22: symbol server returned unindexed build 3a21d35af7ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "c0e25b1f9b22de445298c1e96ddfcead265ca030fa6626f61a4a4786cc4a3b7d",
+   "error": "c0e25b1f9b22: symbol server returned unindexed build 3a21d35af7ed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "90d39f2e2e40129817f2778feb1e315d344f0175ab0d7f4243458876b9805839",
+   "error": "90d39f2e2e40: symbol server returned unindexed build e01169aa29d2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "90d39f2e2e40129817f2778feb1e315d344f0175ab0d7f4243458876b9805839",
+   "error": "90d39f2e2e40: symbol server returned unindexed build e01169aa29d2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "e0e01d87ae1b9e6f5246d95bffb2ee58f8a2fbd720ad94fa596863ded915ef5e",
+   "error": "e0e01d87ae1b: symbol server returned unindexed build 5b10fec83f02"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "405a70c2b6081e6fed2a4bab7b0c233fff022acbbb3d2cc92cb8876d052db9e4",
+   "error": "405a70c2b608: symbol server returned unindexed build 30ba57e9b6aa"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "829206fb125010140c40f9a8d08ecebcbd437a50b351d420b473c13f931191cc",
+   "error": "829206fb1250: symbol server returned unindexed build cf79fb76d4f7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "224a746aee2957c3fca376f4457cfc044c1ec99e75756195b27cab396174e2db",
+   "error": "224a746aee29: symbol server returned unindexed build 555cc9b23653"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "224a746aee2957c3fca376f4457cfc044c1ec99e75756195b27cab396174e2db",
+   "error": "224a746aee29: symbol server returned unindexed build 555cc9b23653"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "224a746aee2957c3fca376f4457cfc044c1ec99e75756195b27cab396174e2db",
+   "error": "224a746aee29: symbol server returned unindexed build 555cc9b23653"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "224a746aee2957c3fca376f4457cfc044c1ec99e75756195b27cab396174e2db",
+   "error": "224a746aee29: symbol server returned unindexed build 555cc9b23653"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "224a746aee2957c3fca376f4457cfc044c1ec99e75756195b27cab396174e2db",
+   "error": "224a746aee29: symbol server returned unindexed build 555cc9b23653"
+  }
+ ]
+}

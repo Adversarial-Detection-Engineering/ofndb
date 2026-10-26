@@ -1,0 +1,550 @@
+{
+ "name": "lsaiso.exe",
+ "builds": [
+  {
+   "sha256": "922600e6f5ee14c433fbd78f692db7f93859368340b094b1207c79bf8b40f8ca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/AA1CCFC24d000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "73363b8c1eddf9bd6ce97aa1a6698f918dcbe11e6011f30682dbe4765c318312",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/E950DED553000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7278271b063d38890c38951404fafb4478974ce80df22609dc50413868a6cff2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/6AC8D99B37000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5a01f8a7dfd455ed36a03412cc65a24a4063401e206ea4c10482d33c7fcaa0d4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & VBS Key Isolation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/D65E4C6961000/lsaiso.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\LsaIso.exe"
+  },
+  {
+   "sha256": "0c694994bfe18b077c31f070dc0f9a3145839c00febbb582ab0d195d1113ae81",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & VBS Key Protection",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/F0B5418961000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0df1ddf120e5f8d56ca51a203a5c9f45a2cc8a91244de40779f744687c713f3e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20883 (th1.241211-1818)",
+   "fixed_file_version": "10.0.10240.20883",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-01-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/675A879141000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "93f35cb172ff630a22af20c1d709a222b96eddabe54ad7e329c773899233b5f3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & VBS Key Isolation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/5FA106A25e000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5c8006cad3834528025f6d9ce308ea68e6d759a4166b4a3e6de03297490e3eed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2486 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2486",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-01-10",
+   "last_seen": "2023-04-11",
+   "os_builds": [
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/0B777FEC54000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e8287988be7c58429dd4499073db9659f73613762b35ac72217cedf86bcb322",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1456 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1456",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-04-21",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/76BB5F0946000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9610808d82a12f4227df7ceab1dd5172b120e0fb19f660b394185d1c17f297cc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.488 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.488",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2020-09-03",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "19041.488",
+    "19041.508",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/F8991BD54c000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2e5fb6b74e671df2e1107fce403eb55af13ab08d799880396a60e191bd6e604c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.815 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.815",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-04-21",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997",
+    "18363.1316"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/C0ECFA2546000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "83df395cf7f393e52c038df03b96dbced314cfb1a345356f46a16b5d6d536313",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1868 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1868",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-05-12",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/844D204144000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ad2e612d5f4f5df90b3fd2b9a131ba64f4755289413124e2de49249b241dfca9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard & Key Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2313 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2313",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-03-10",
+   "last_seen": "2020-03-10",
+   "os_builds": [
+    "15063.2313"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/78613C0F43000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f46ad2545a52039ef3bcfbd9ec6babb1ed4266c71a967a7439922e7e28605c0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LsaIso.exe",
+   "internal_name": "LsaIso.exe",
+   "file_description": "Credential Guard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.873 (th2_release_sec.170327-1830)",
+   "fixed_file_version": "10.0.10586.873",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-04-11",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lsaiso.exe/58DA13FE42000/lsaiso.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "LsaIso.exe",
+   "builds": 14,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H2"
+   ],
+   "min_version": "10.0.10240.20883",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2017-04-11",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "de05126e2997911be73a9fddecade94250fd60bcfb4ee9a92b53d383db3a7249",
+   "error": "de05126e2997: symbol server returned unindexed build 45856d021d0e; db795f29bb4d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=365064); 025c16bf50c6: symbol server returned unindexed build d87425d3236b; d121c3322d91: UnindexedBuild: symbol server returned unindexed build (unindexed:size=356904)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "4635d4cad245bf171a50c469b2dbdf021c145f7a401c9610040491c30b3731b2",
+   "error": "4635d4cad245: symbol server returned unindexed build 7eee38ce1a07; 2e016c342c7f: symbol server returned unindexed build 1729d1888989; f1335707afa1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=356832); a3300c5f7edf: UnindexedBuild: symbol server returned unindexed build (unindexed:size=356832)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "f79a18ff438397a0481bdf4c075037cb852e354d2b8cb1ee58e1c606c9ec6af4",
+   "error": "f79a18ff4383: UnindexedBuild: symbol server returned unindexed build (unindexed:size=382696); a123abf842dc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=369328); cf777dfdcd7d: symbol server returned unindexed build 79ab85626dc8; ab0c8236ad19: UnindexedBuild: symbol server returned unindexed build (unindexed:size=373424)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "828116872412502ea07dcb46066790f00f7aafcfe1065ecbacafcd5f49d22db1",
+   "error": "828116872412: symbol server returned unindexed build 43f34233a64e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "72147e57795b564bc265dc5efdc0d44b24c9b192a5c76669fd4b1cad066ce280",
+   "error": "72147e57795b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=343048); 4284b85b4ac8: UnindexedBuild: symbol server returned unindexed build (unindexed:size=334208); 62847759c507: UnindexedBuild: symbol server returned unindexed build (unindexed:size=334304); 5a4df139092f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=340992)"
+  }
+ ]
+}

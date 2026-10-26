@@ -1,0 +1,47 @@
+{
+ "name": "pslist.exe",
+ "builds": [
+  {
+   "sha256": "ed05f5d462767b3986583188000143f0eb24f7d89605523a28950e72e6b9039a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pslist.exe",
+   "internal_name": "PsList",
+   "file_description": "Process information lister",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsList",
+   "file_version": "1.41",
+   "fixed_file_version": "1.41.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsList",
+   "release": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "download_url": "https://live.sysinternals.com/pslist.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pslist.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.41.0.0",
+   "max_version": "1.41.0.0",
+   "first_seen": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "provenance": "parsed"
+  }
+ ]
+}

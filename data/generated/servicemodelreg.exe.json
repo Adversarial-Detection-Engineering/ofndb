@@ -1,0 +1,64 @@
+{
+ "name": "servicemodelreg.exe",
+ "builds": [
+  {
+   "sha256": "eb61e00b0ddc7383bc342aedcd4596a045c0b115b0c6618f954e678eab278b3f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ServiceModelReg.exe",
+   "internal_name": "ServiceModelReg.exe",
+   "file_description": "WCF Generic Command for Vista Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\ServiceModelReg.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "7bcf1b26ae8bd5b238e383b06b3d75f076aba0d9039c083a834c6d3ac990d7ba",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ServiceModelReg.exe",
+   "internal_name": "ServiceModelReg.exe",
+   "file_description": "WCF Generic Command for Vista Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ServiceModelReg.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ServiceModelReg.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

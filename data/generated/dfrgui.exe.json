@@ -1,0 +1,64 @@
+{
+ "name": "dfrgui.exe",
+ "builds": [
+  {
+   "sha256": "fb229970fedc678c81e139ecbfbf162a3399d33a0ced96ffb3f2eae8f86f3d97",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "lhdfrgui.exe",
+   "internal_name": "lhdfrgui.exe",
+   "file_description": "Microsoft® Drive Optimizer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dfrgui.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "97d677bd8db79c47d77052cd2ef6635da6d2fb0730b037951ee79349a4d91489",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "lhdfrgui.exe",
+   "internal_name": "lhdfrgui.exe",
+   "file_description": "Microsoft® Drive Optimizer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\dfrgui.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "lhdfrgui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8972",
+   "max_version": "10.0.26100.8972",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

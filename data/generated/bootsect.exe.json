@@ -1,0 +1,44 @@
+{
+ "name": "bootsect.exe",
+ "builds": [
+  {
+   "sha256": "896e7edb5c8b1d6ab794427640ddeea33c1dded54469a0c2ce2aceb56f0c0408",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bootsect.exe",
+   "internal_name": "bootsect.exe",
+   "file_description": "Boot Sector Manipulation Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bootsect.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "bootsect.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

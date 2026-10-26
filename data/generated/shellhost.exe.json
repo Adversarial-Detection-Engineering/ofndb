@@ -1,0 +1,44 @@
+{
+ "name": "shellhost.exe",
+ "builds": [
+  {
+   "sha256": "371163ba43b42d1f1c13ab7ea200f15ef5e60ea8d3514d00d3ffc572e53a436d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ShellHost.exe",
+   "internal_name": "ShellHost",
+   "file_description": "ShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ShellHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ShellHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "pskill64.exe",
+ "builds": [
+  {
+   "sha256": "803c1027e7810eeedb6434b08709052ba784404e8b4e189f3518a9c5d1829d16",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pskill.exe",
+   "internal_name": "PsKill",
+   "file_description": "Terminates processes on local or remote systems",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsKill",
+   "file_version": "1.18",
+   "fixed_file_version": "1.18.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsKill",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/pskill64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pskill.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.18.0.0",
+   "max_version": "1.18.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

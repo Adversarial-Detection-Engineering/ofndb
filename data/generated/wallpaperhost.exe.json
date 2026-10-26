@@ -1,0 +1,44 @@
+{
+ "name": "wallpaperhost.exe",
+ "builds": [
+  {
+   "sha256": "13ab915972f558f7f004b64a24e86bb987acaa0c3121f252d65b5dbb1215e036",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WallpaperHost.EXE",
+   "internal_name": "WallpaperHost",
+   "file_description": "Wallpaper Host Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WallpaperHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WallpaperHost.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

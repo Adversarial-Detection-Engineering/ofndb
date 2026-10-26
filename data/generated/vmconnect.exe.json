@@ -1,0 +1,44 @@
+{
+ "name": "vmconnect.exe",
+ "builds": [
+  {
+   "sha256": "192e9a95ac139e1d352fcb19bea96f7176f8493674498544d0816c73d3aad2c9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VMConnect.exe",
+   "internal_name": "VMConnect.exe",
+   "file_description": "Virtual Machine Connection",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\vmconnect.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "VMConnect.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

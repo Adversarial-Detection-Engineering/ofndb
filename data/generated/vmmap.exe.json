@@ -1,0 +1,47 @@
+{
+ "name": "vmmap.exe",
+ "builds": [
+  {
+   "sha256": "a834987f7b6098027e3392366f3985f5644bbe7396406e2a43e5688ddc00bbdf",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Vmmap",
+   "internal_name": "Vmmap",
+   "file_description": "Vmmap - process memory analyzer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Vmmap",
+   "file_version": "3.4",
+   "fixed_file_version": "3.40.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Vmmap",
+   "release": "2023-10-18",
+   "last_seen": "2023-10-18",
+   "download_url": "https://live.sysinternals.com/vmmap.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Vmmap",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "3.40.0.0",
+   "max_version": "3.40.0.0",
+   "first_seen": "2023-10-18",
+   "last_seen": "2023-10-18",
+   "provenance": "parsed"
+  }
+ ]
+}

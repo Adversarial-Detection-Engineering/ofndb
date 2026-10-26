@@ -1,0 +1,307 @@
+{
+ "name": "browsercore.exe",
+ "builds": [
+  {
+   "sha256": "77f70e1998158abe265aec33b0af8bc3882594c66d048d9974fb281de6013df2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BrowserCore.exe",
+   "internal_name": "BrowserCore.exe",
+   "file_description": "BrowserCore",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/browsercore.exe/5BFB409C4f000/browsercore.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "188b9028f83b739b02a8b96ebeaad168d9927707d140b8e975b39f97f9f81517",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BrowserCore.exe",
+   "internal_name": "BrowserCore.exe",
+   "file_description": "BrowserCore",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/browsercore.exe/4065AD7C4e000/browsercore.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "32b55f23616eaf436633b26e6f8eb8c307ecbcb9e78133a2e850a3a39fdb51f5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BrowserCore.exe",
+   "internal_name": "BrowserCore.exe",
+   "file_description": "BrowserCore",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-05-28",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/browsercore.exe/D383CB9E2d000/browsercore.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "000b053b3fc3abfd16df9b49c716ee063d5a96090c12f225d9f22327671cd027",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BrowserCore.exe",
+   "internal_name": "BrowserCore.exe",
+   "file_description": "BrowserCore",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1852 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1852",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2021-03-25",
+   "last_seen": "2022-09-13",
+   "os_builds": [
+    "17763.1852",
+    "17763.1879",
+    "17763.1911",
+    "17763.1935",
+    "17763.1971",
+    "17763.1999",
+    "17763.2028",
+    "17763.2029",
+    "17763.2061",
+    "17763.2090",
+    "17763.2091",
+    "17763.2114",
+    "17763.2145",
+    "17763.2183",
+    "17763.2210",
+    "17763.2237",
+    "17763.2268",
+    "17763.2300",
+    "17763.2305",
+    "17763.2330",
+    "17763.2366",
+    "17763.2369",
+    "17763.2452",
+    "17763.2458",
+    "17763.2510",
+    "17763.2565",
+    "17763.2628",
+    "17763.2686",
+    "17763.2746",
+    "17763.2803",
+    "17763.2867",
+    "17763.2928",
+    "17763.2931",
+    "17763.2989",
+    "17763.3046",
+    "17763.3113",
+    "17763.3165",
+    "17763.3232",
+    "17763.3287",
+    "17763.3346",
+    "17763.3406"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/browsercore.exe/70A3E73F19000/browsercore.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f6fcf468ff94e2fb43b2383142b93581b83cdad898a4b1f0d71a76a5106a621a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BrowserCore.exe",
+   "internal_name": "BrowserCore.exe",
+   "file_description": "BrowserCore",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-07-13",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/browsercore.exe/E747733F19000/browsercore.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BrowserCore.exe",
+   "builds": 5,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1809",
+    "2004",
+    "21H1"
+   ],
+   "min_version": "10.0.17763.1852",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2021-03-25",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "1cd6847c213d1efba9d6e20fcbde80ee0a9ab43f9851f9a1f772216ef1acc23f",
+   "error": "1cd6847c213d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=120288); 4aeb65828b4e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=120128); d77947f3a5b5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=119112)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "f7d6a94eb80890908d8c72429e983382bb669d8a1eec6d4ed052b97989dc4c80",
+   "error": "f7d6a94eb808: UnindexedBuild: symbol server returned unindexed build (unindexed:size=177576); 6096900aee8f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=177520); 7d54e256daa1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=177520); 7f5341b1ff9b: symbol server returned unindexed build 1bd74e19c114"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "f7d6a94eb80890908d8c72429e983382bb669d8a1eec6d4ed052b97989dc4c80",
+   "error": "f7d6a94eb808: UnindexedBuild: symbol server returned unindexed build (unindexed:size=177576); aab1fc1d3128: UnindexedBuild: symbol server returned unindexed build (unindexed:size=172256)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "9435f2f1d87523c13439887d0a76259cbb44dd6a37760fc353b7f1f023567160",
+   "error": "9435f2f1d875: UnindexedBuild: symbol server returned unindexed build (unindexed:size=80280)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "e3f71683b8154448b8a29eb1f0b792ce8b38043919a89bbe5838519476ccffaf",
+   "error": "e3f71683b815: symbol server returned unindexed build ce2b0a2c729c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "662ee3641d0c2c8ed7c3e779b764311a57cba18742c53fc3fff98f64623f4ae3",
+   "error": "662ee3641d0c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=87960)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "04f40f39ad9bf68c2a48c475b42bd952530f01d7e3a1cdc83214129df247f7de",
+   "error": "04f40f39ad9b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=127800); 6cc45fbf6809: symbol server returned unindexed build ad17bb9f2f97"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "3711aef272f07fb25906e88c6fe7a32fe3556d202a5bc501d235b76416c1bd49",
+   "error": "3711aef272f0: UnindexedBuild: symbol server returned unindexed build (unindexed:size=91464); 04f40f39ad9b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=127800); 6cc45fbf6809: symbol server returned unindexed build ad17bb9f2f97"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "c1b9bf6b56f4aca7d6e19767c7a186d0239c1865c9621154157e79ad791a5a4e",
+   "error": "c1b9bf6b56f4: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93056); a76d230e57f7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93024); 17ed5618b83b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=87328)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "91a9aec409c3ff1f4738827e4068d4d5a99e3e22b3261cffc685bca151697b3f",
+   "error": "91a9aec409c3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93656); 84ea9b05d022: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93664); b15ca0e12efb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93664); 6674d1499ea3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93664)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "91a9aec409c3ff1f4738827e4068d4d5a99e3e22b3261cffc685bca151697b3f",
+   "error": "91a9aec409c3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93656); 84ea9b05d022: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93664); 6674d1499ea3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93664); c1b9bf6b56f4: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93056)"
+  }
+ ]
+}

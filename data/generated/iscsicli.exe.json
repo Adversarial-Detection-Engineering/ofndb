@@ -1,0 +1,64 @@
+{
+ "name": "iscsicli.exe",
+ "builds": [
+  {
+   "sha256": "5b58025e2d61f535a1712d8e331c33b27a7d924a12d3db407dc882e0475be342",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicli.exe",
+   "internal_name": "iscsicli",
+   "file_description": "iSCSI Discovery tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\iscsicli.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "3faf656a511c43178ad5c152f53dc60ba0cd456a5d457a82d8a7eca30d287b53",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicli.exe",
+   "internal_name": "iscsicli",
+   "file_description": "iSCSI Discovery tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\iscsicli.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "iscsicli.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7019",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

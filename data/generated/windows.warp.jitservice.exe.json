@@ -1,0 +1,64 @@
+{
+ "name": "windows.warp.jitservice.exe",
+ "builds": [
+  {
+   "sha256": "6f5e1f070ee29281bc0e749f6ccb71409e3a5d0491c7a2e1407f7ca6fccad95e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Windows.WARP.JITService.exe",
+   "internal_name": "Windows.WARP.JITService.exe",
+   "file_description": "D3D10Warp JIT Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Windows.WARP.JITService.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "670d755a5f6ad7d5a416b982b4dd232bd08cb59091e4d4e286572b35f63517c9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Windows.WARP.JITService.exe",
+   "internal_name": "Windows.WARP.JITService.exe",
+   "file_description": "D3D10Warp JIT Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Windows.WARP.JITService.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Windows.WARP.JITService.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8972",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

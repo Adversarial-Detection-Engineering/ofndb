@@ -1,0 +1,44 @@
+{
+ "name": "uevtemplateconfigitemgenerator.exe",
+ "builds": [
+  {
+   "sha256": "0351385e2ae1092113d802e88b8fb93800c7b6ccf1438077b399796e18d66799",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "UevTemplateConfigItemGenerator.exe",
+   "internal_name": "UevTemplateConfigItemGenerator.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "0.0.0.0",
+   "fixed_file_version": "0.0.0.0",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UevTemplateConfigItemGenerator.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UevTemplateConfigItemGenerator.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "0.0.0.0",
+   "max_version": "0.0.0.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "procmon.exe",
+ "builds": [
+  {
+   "sha256": "a7a2adcb8353e4fad8d7f408b7f14f5d2bf4912ab556e6bdb5887682701a917e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Process Monitor",
+   "internal_name": "Process Monitor",
+   "file_description": "Process Monitor",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Procmon",
+   "file_version": "4.12",
+   "fixed_file_version": "4.12.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Procmon",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/Procmon.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Process Monitor",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "4.12.0.0",
+   "max_version": "4.12.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "timeout.exe",
+ "builds": [
+  {
+   "sha256": "fa69a5d4c04e81356290f79bef8887dbfd0a599828571fba1cf1a6deafdc132a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "timeout.exe",
+   "internal_name": "timeout.exe",
+   "file_description": "timeout - pauses command processing",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\timeout.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "106490870753d87d0c5a1b4fe83045a06518d415ec595bd1d0c30fe3ed4149c1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "timeout.exe",
+   "internal_name": "timeout.exe",
+   "file_description": "timeout - pauses command processing",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\timeout.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "timeout.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

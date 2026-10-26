@@ -1,0 +1,44 @@
+{
+ "name": "dbinstaller.exe",
+ "builds": [
+  {
+   "sha256": "ee95f171ce78deb4ae8ed38686291cc7b348ceadfbca9e5183bb18e37f1644cf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dbInstaller.exe",
+   "internal_name": "DBInstaller",
+   "file_description": "DBInstall Application",
+   "company_name": "NVIDIA Corporation",
+   "product_name": "GPU Settings DBInstall Application",
+   "file_version": "32.0.16.2101",
+   "fixed_file_version": "32.0.16.2101",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\drivers\\NVIDIA Corporation\\Drs\\dbInstaller.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dbInstaller.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "32.0.16.2101",
+   "max_version": "32.0.16.2101",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

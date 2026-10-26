@@ -1,0 +1,722 @@
+{
+ "name": "dllhost.exe",
+ "builds": [
+  {
+   "sha256": "f1e28e38fe3c693aa78dfc0e370e149da5f59ff50557cb51980af9de117e3d45",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/3A46FC108000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "abee3c2607c26494f903f9b59a7063ae106d7d33701d69db3864e42e9b019c7c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/DF4BB50312000/dllhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dllhost.exe"
+  },
+  {
+   "sha256": "4448086368fa337b69eb639582c465c83cf9c2b3ebe1d76b3618845b0a156620",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/E6FB1D00b000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "215233077d8715ecf84f59dd77cf350460571bdff7f9986c0e95b9e7049ece89",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/7A8693DBd000/dllhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\dllhost.exe"
+  },
+  {
+   "sha256": "d5181106f8251741f86275839912ad6080006c408903f88e7f6d48615497d7a5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/807E878C7000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "50c9c2edea6c51f1aad2dd80a59f4edb32637f51714f8472d216e5b9bdacdabf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/B0D0FF3Aa000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e7fc40b41aa8b83841a0b96d169eaf0800aa784733e636935374d56536253f10",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-10-01",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/F25621F09000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ed69caab035258e008efbcf40db305891b40ba02ca2737e20defa7c2d4afaf7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-10-01",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/B850DE5D7000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "204fd3da29e9197a7e82ab628e017a74082934e87092afe18d253446608e0971",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/2D8914FB8000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ee8364c07b3f4f71fa649e0e6c4c73c15d285130e4b16e79890eebbf89c2164e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/57899B699000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5137c324038ab2e8eab4f98a20bee9f121346d62e4d907ca1e4a860f4c54eae8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/5789917A7000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f91760ed5de4c69f370d8f91c370ce45887a1d9e4a7a041019257ff6a1d3af66",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/5632D89F6000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "da2a486f74498e403b8f28da7b0d1bd76930bfaff840c60ca4591340fbeceaf6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/5632D8F47000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d17414e03a595a81d5925cadb099b71335ed54d836b1fdee3bd0ee28b19ec3ea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/559F3C756000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7f5e20d3a1b0a546a007edc346ad463114b659f4aebcf0cab6449026794513a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhost.exe",
+   "internal_name": "dllhost.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhost.exe/559F39E97000/dllhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dllhost.exe",
+   "builds": 15,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1803",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "7bc7d4062bb3f8271dbc93b5d55011219ad2d8ed0d67aced925e46e7eda9b438",
+   "error": "7bc7d4062bb3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=41248)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "fdfad08eadd54a431e431febe60e87b574ce90e5502ed0be2f026a1828120fc6",
+   "error": "fdfad08eadd5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=41184)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "fdfad08eadd54a431e431febe60e87b574ce90e5502ed0be2f026a1828120fc6",
+   "error": "fdfad08eadd5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=41184)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "79756ab8344c31a55223a51625f2379525428cebd53531f11c26544a34621d81",
+   "error": "79756ab8344c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=21400)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "3652b86125c77d7dd9fd72fc597d7bddfef4c6c2ea27a992a0b9d44aeb32f6d3",
+   "error": "3652b86125c7: symbol server returned unindexed build 29d29975fd1a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "c4e078607db2784be7761c86048dffa6f3ef04b551354a32fcdec3b6a3450905",
+   "error": "c4e078607db2: symbol server returned unindexed build 85ae78feea8f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "6a8f00c4bf7ce696edeba9e6c401ff9dd7eb59f34af25d7eee591b4837d67c7c",
+   "error": "6a8f00c4bf7c: symbol server returned unindexed build a1881689588c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6a8f00c4bf7ce696edeba9e6c401ff9dd7eb59f34af25d7eee591b4837d67c7c",
+   "error": "6a8f00c4bf7c: symbol server returned unindexed build a1881689588c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "39a4819265d67c89919672d415e22edb5f74a47bcf28ceef49f1ace80a721874",
+   "error": "39a4819265d6: symbol server returned unindexed build 980a12a4a11e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "d9b3874aa63f62699d5ae1ade9959b45860d55233e93a1064d83b63307ea7435",
+   "error": "d9b3874aa63f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=15584)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "d9b3874aa63f62699d5ae1ade9959b45860d55233e93a1064d83b63307ea7435",
+   "error": "d9b3874aa63f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=15584)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "d7993cdbca3c02485b935479c3b4f8db30e4e4dc1ff6ed914650aae817e084b6",
+   "error": "d7993cdbca3c: symbol server returned unindexed build 960b60baab41"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "6eee0bba5afb762b96e605b4a7eebd3b22f4c8696ad0b6119aab0fcdb119ffbb",
+   "error": "6eee0bba5afb: symbol server returned unindexed build 0614d07e87e6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "92cb5c8ab93952a7a5755276cdab2f052ac9ae32964eac2371cc056ac7b34e9b",
+   "error": "92cb5c8ab939: symbol server returned unindexed build c5a1f3384af0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "f95b7ba752c6452da9d83f84ca7307ae079d220718bcb2babf145903bac894dd",
+   "error": "f95b7ba752c6: symbol server returned unindexed build 364c5d99374d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "4b878483eb200c8731f95096eef036f285bd36ab916fe550dd484b872e60d037",
+   "error": "4b878483eb20: symbol server returned unindexed build c2717675bf99"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "4b878483eb200c8731f95096eef036f285bd36ab916fe550dd484b872e60d037",
+   "error": "4b878483eb20: symbol server returned unindexed build c2717675bf99"
+  }
+ ]
+}

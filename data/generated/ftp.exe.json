@@ -1,0 +1,549 @@
+{
+ "name": "ftp.exe",
+ "builds": [
+  {
+   "sha256": "f8ca342aaa8496e009907fa12feff11578123326945cc1ad665057df67981405",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/7256E48820000/ftp.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ftp.exe"
+  },
+  {
+   "sha256": "9f056b3d9f49bfcb13c80e627dd0e065d12858efc94700d3d58ea34376b445c8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/58C4617518000/ftp.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ftp.exe"
+  },
+  {
+   "sha256": "4a156d85b8d7b1cb837a00f1b954bca9fabfce83c813be951665c16a87f64a41",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2605 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2605",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/B1224F2A18000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2b4cbd71e6e9a201fc58508cc558942610c77ecfffd24fecf1d05d5de3d2267e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2605 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2605",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/B99EB97720000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "59e47e56dc39ece4a4685cd67075d4f4887cdfad3c9bef12f1908948f186dcb3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1301 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1301",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-30",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/B55B3F5818000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "42f18d21d381f6eb0ad4eb9d057de87a98dc16f2a8eae3386dc2f08892ab23b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1301 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1301",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-30",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/F6F4503C1f000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b51ba41e045bc3cced03bd690280958f6e79fa615c909cde67a5e416824a342a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/5789912F16000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4d30f463695d25ce3aaf9c51e9b7be4823fbb79b6e31847deb2ba1111755b2d6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/57899B991c000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5c254064f0be79f03e3c2badbb13713e5698139bcc7691b12cd813e1b018d377",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/5632D8361c000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f9f5d66e70c81f218c72bdb8e069458a4caef2be5b6450dd095af3355a71061",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/5632D7C816000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9b5b24b8772e6e2d979c6bb3ea82d09d249ab80429f521ee88d6f4a671c9b7b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/559F3AAD1c000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3069656c32874d84e7cad06b4c0c39fb43393bfa8c57c1afe806eb9990f91c07",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ftp.exe",
+   "internal_name": "ftp.exe",
+   "file_description": "File Transfer Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ftp.exe/559F3D2C16000/ftp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ftp.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2605",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "c637db0f32a55b7f218f45c83a9ca3f63239a546dfa076b09188ec9ad3bc7f9a",
+   "error": "c637db0f32a5: symbol server returned unindexed build 96ceaa7de05f; d43021ae6ab0: symbol server returned unindexed build 604e45af6047; ca38fffab7b4: symbol server returned unindexed build 604e45af6047; 427da615df8c: symbol server returned unindexed build 5e011f10f3d0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "243f1692bebecd61ffb994c84a15c7ca0700b40404c60190e0d3c67f2c1d55c2",
+   "error": "243f1692bebe: symbol server returned unindexed build bd45ce443e0d; a2589d861f5c: symbol server returned unindexed build a9bc877fbedb; 20f865c37b8c: symbol server returned unindexed build 7b4e16f071de; 7a346c7ee4d5: symbol server returned unindexed build c36babd67027"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "243f1692bebecd61ffb994c84a15c7ca0700b40404c60190e0d3c67f2c1d55c2",
+   "error": "243f1692bebe: symbol server returned unindexed build bd45ce443e0d; 20f865c37b8c: symbol server returned unindexed build 7b4e16f071de"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "e79b2bf5f0b36f767ff5c3314e62f396aed2f6e1fa82e1e46f863a7134beaf37",
+   "error": "e79b2bf5f0b3: symbol server returned unindexed build 5e1c2551980d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "39738cfbf3afd986bab44e5a596865b32258c2a6b7c03c439e235ce08bce3720",
+   "error": "39738cfbf3af: symbol server returned unindexed build 392b8ebb2c48"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "66b991ce5acf689cc0d796e91928381024960d61ac0ccfc1ec14d02d32f3cac1",
+   "error": "66b991ce5acf: symbol server returned unindexed build 505c2ebafebf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "d7fb0e7e7e6c653e0db554433dfa6aad8be33b99431dd0a31e25943d0efb91f0",
+   "error": "d7fb0e7e7e6c: symbol server returned unindexed build e4bcfdc0ef7f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "f2e90d24ac7b15725750a7532ca52c596eab980ca199f7580fd7fa4fb0c351b1",
+   "error": "f2e90d24ac7b: symbol server returned unindexed build 2c7492c7701d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "f2e90d24ac7b15725750a7532ca52c596eab980ca199f7580fd7fa4fb0c351b1",
+   "error": "f2e90d24ac7b: symbol server returned unindexed build 2c7492c7701d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "9728a3b5755a67a4ebe91a04730efcc2cabebacbb41ffca75a71b42502e3d7d5",
+   "error": "9728a3b5755a: symbol server returned unindexed build 71fe4de3b7d5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "9728a3b5755a67a4ebe91a04730efcc2cabebacbb41ffca75a71b42502e3d7d5",
+   "error": "9728a3b5755a: symbol server returned unindexed build 71fe4de3b7d5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "9728a3b5755a67a4ebe91a04730efcc2cabebacbb41ffca75a71b42502e3d7d5",
+   "error": "9728a3b5755a: symbol server returned unindexed build 71fe4de3b7d5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "9728a3b5755a67a4ebe91a04730efcc2cabebacbb41ffca75a71b42502e3d7d5",
+   "error": "9728a3b5755a: symbol server returned unindexed build 71fe4de3b7d5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9728a3b5755a67a4ebe91a04730efcc2cabebacbb41ffca75a71b42502e3d7d5",
+   "error": "9728a3b5755a: symbol server returned unindexed build 71fe4de3b7d5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "330dda30db7b41742154bd31983d5d9bd31b43f184c9dbddcf79e0f60794ac63",
+   "error": "330dda30db7b: symbol server returned unindexed build 41a129656bbb; 46e477fe3faf: symbol server returned unindexed build 6e363c3cad33; 01260851d1d8: symbol server returned unindexed build 6e363c3cad33; d2596d134142: symbol server returned unindexed build 2ddd0d451a95"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "32ca8d3860f7916eade2efe2c9c839332468ed754d06902473fcb44d85cfe303",
+   "error": "32ca8d3860f7: symbol server returned unindexed build f201f6eb7443; a04c8b00a325: symbol server returned unindexed build e1473cc7d118; b0971c955964: symbol server returned unindexed build 6dd054b61a45; 7af87d260074: symbol server returned unindexed build ac4f78582dc8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "32ca8d3860f7916eade2efe2c9c839332468ed754d06902473fcb44d85cfe303",
+   "error": "32ca8d3860f7: symbol server returned unindexed build f201f6eb7443; b0971c955964: symbol server returned unindexed build 6dd054b61a45"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "90a1c7087b802c939ee00e256a548e3e920ea07c0c3d1c9457da9316a2d3533b",
+   "error": "90a1c7087b80: symbol server returned unindexed build 41fb51b7676c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "4eab7421b89d497e1cab5ed64d4df52faeec66e32fe8ae3754905afd7a5e48b6",
+   "error": "4eab7421b89d: symbol server returned unindexed build 05b69185a21d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "822274ca6ca55e83e10c5c9f246a84c7cfb96851d38d78a2270e735fbd048c5e",
+   "error": "822274ca6ca5: symbol server returned unindexed build 655ebac4e63e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "be279f10d7ff4c18d69724ef0eb04c91d8a34aac0db610e638b000991dfb8b02",
+   "error": "be279f10d7ff: symbol server returned unindexed build 70168c1b46d5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "a0a27b65b1359b659568ed59637f36f216377a7f2066d15db5be7024eb48863d",
+   "error": "a0a27b65b135: symbol server returned unindexed build 55a87ccf0f67"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "a0a27b65b1359b659568ed59637f36f216377a7f2066d15db5be7024eb48863d",
+   "error": "a0a27b65b135: symbol server returned unindexed build 55a87ccf0f67"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "43784d61f7aba93cbd8127251229c66fe37b3af0759ca07e70ca7fa96b13cfb1",
+   "error": "43784d61f7ab: symbol server returned unindexed build afea5abe37f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "43784d61f7aba93cbd8127251229c66fe37b3af0759ca07e70ca7fa96b13cfb1",
+   "error": "43784d61f7ab: symbol server returned unindexed build afea5abe37f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "43784d61f7aba93cbd8127251229c66fe37b3af0759ca07e70ca7fa96b13cfb1",
+   "error": "43784d61f7ab: symbol server returned unindexed build afea5abe37f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "43784d61f7aba93cbd8127251229c66fe37b3af0759ca07e70ca7fa96b13cfb1",
+   "error": "43784d61f7ab: symbol server returned unindexed build afea5abe37f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "43784d61f7aba93cbd8127251229c66fe37b3af0759ca07e70ca7fa96b13cfb1",
+   "error": "43784d61f7ab: symbol server returned unindexed build afea5abe37f1"
+  }
+ ]
+}

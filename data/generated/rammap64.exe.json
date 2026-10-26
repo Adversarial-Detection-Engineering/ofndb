@@ -1,0 +1,47 @@
+{
+ "name": "rammap64.exe",
+ "builds": [
+  {
+   "sha256": "e970913798481432cd590991577089e68510b861dc669dcab24feb06aae0df52",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RamMap",
+   "internal_name": "RamMap",
+   "file_description": "RamMap - physical memory analyzer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "RamMap",
+   "file_version": "1.63",
+   "fixed_file_version": "1.63.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "RamMap",
+   "release": "2026-03-26",
+   "last_seen": "2026-03-26",
+   "download_url": "https://live.sysinternals.com/RAMMap64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RamMap",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.63.0.0",
+   "max_version": "1.63.0.0",
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-03-26",
+   "provenance": "parsed"
+  }
+ ]
+}

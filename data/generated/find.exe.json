@@ -1,0 +1,480 @@
+{
+ "name": "find.exe",
+ "builds": [
+  {
+   "sha256": "cf9cc5a552de280750b36743e80c33381e59d5ec8aa65a2dcfdd6a34198799bc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/38D9A347a000/find.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\find.exe"
+  },
+  {
+   "sha256": "74d5471785856875183c8c8a2aa4c9220731e8e15462f610287910b34f4a889c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/2240ED057000/find.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\find.exe"
+  },
+  {
+   "sha256": "e5db4d9779d79edf37ad735f5dbc60b63ac268a56ac5fb4f4772080640325a8f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/9C7854877000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "794b46b2613cb208760e69ea964a649d28fe9acd68110bec08a5ca557014b68a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/905F72EC9000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "40c0ec6d7371d316bc1f0abe80d0236f613c9fb88dce2d9b5d5fd4a1a59e8b49",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/57899A149000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1257a4ad54442b26d343abc2cedf73e9938ff5638b9f01581b4884e020c6f56a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/57898F217000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e50486e8c70a8a05db15c5fa32b30d9cf36bc72f739a8429b97174e92878dbd4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/5632D8267000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c77135ac8ffbf6bdfe71331c3d014b924d0e167608779d385823aa203bdd5636",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/5632D88B9000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "804c88997ab7097e35ff4f00f6cc99b4f718bb1b3dbe7eb1883b3e3a774afbde",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/559F3B2F7000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "775004baad9d203c840342261fe29afc733b1d8277af4763f0be10fe57aae363",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FIND.EXE",
+   "internal_name": "find",
+   "file_description": "Find String (grep) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/find.exe/559F38BA9000/find.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FIND.EXE",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "025dcf4ddfb999b9414ccd168b799b6f2af7523a4445edc8eca44300c5a1d320",
+   "error": "025dcf4ddfb9: symbol server returned unindexed build 32e1e6d270ce; 11e6db6d04a3: symbol server returned unindexed build 85ae527d6004; 07adb15ec1d4: symbol server returned unindexed build 85ae527d6004; a4af9ef6e345: symbol server returned unindexed build 9b372ed887be"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "403be24097601a89aff97e17b4834d06957fa0e395dd9f9c329a3afdf515875c",
+   "error": "403be2409760: symbol server returned unindexed build 01a299c0d592"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "403be24097601a89aff97e17b4834d06957fa0e395dd9f9c329a3afdf515875c",
+   "error": "403be2409760: symbol server returned unindexed build 01a299c0d592"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "af83f87cf95cc01d4ffb86a8cad8c11fe1581f64098681c68390cf2f4e64202d",
+   "error": "af83f87cf95c: symbol server returned unindexed build e5953cc2d623"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "9511d0a34d77da73c10b648cd5a832fe914c9eb37b5e4a391f5ae2399f099425",
+   "error": "9511d0a34d77: symbol server returned unindexed build ae4aa396c242"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "a3d85036bcb0b3b50691e02d1952821e7b943680d8f8e4cc16613d2c72f44e6c",
+   "error": "a3d85036bcb0: symbol server returned unindexed build e4985b93daaa"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e8a0628110df5468a8bb894e4efeea82e08e2149e4c8caa1f38a98cc2ad9d857",
+   "error": "e8a0628110df: symbol server returned unindexed build 853ba8062dcd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "e8a0628110df5468a8bb894e4efeea82e08e2149e4c8caa1f38a98cc2ad9d857",
+   "error": "e8a0628110df: symbol server returned unindexed build 853ba8062dcd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "1a1876c5eed2b8cd9e14ebff3f4eeb7e21552a4c6aab4bf392a55f8df3612dab",
+   "error": "1a1876c5eed2: symbol server returned unindexed build 3dc83af2a34d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "3796ecbf04e6a1162078ad914ac76cc41761166574b7a2f5e07e5e0d1e80d3dd",
+   "error": "3796ecbf04e6: symbol server returned unindexed build 57e4e1509ea0; 1a1876c5eed2: symbol server returned unindexed build 3dc83af2a34d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "1a1876c5eed2b8cd9e14ebff3f4eeb7e21552a4c6aab4bf392a55f8df3612dab",
+   "error": "1a1876c5eed2: symbol server returned unindexed build 3dc83af2a34d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "da020fbf74e1a08a5c21955a09b28ec62a6d160af648f6903ada401725a652b0",
+   "error": "da020fbf74e1: symbol server returned unindexed build 271f658288d1; 04ca45c55124: symbol server returned unindexed build 271f658288d1; 3796ecbf04e6: symbol server returned unindexed build 57e4e1509ea0; 1a1876c5eed2: symbol server returned unindexed build 3dc83af2a34d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "da020fbf74e1a08a5c21955a09b28ec62a6d160af648f6903ada401725a652b0",
+   "error": "da020fbf74e1: symbol server returned unindexed build 271f658288d1; 3796ecbf04e6: symbol server returned unindexed build 57e4e1509ea0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "be2cb3a3559aee3a9e7a6cc01a0f427883bb9b3d62d1baae3da0d5f55b239ff5",
+   "error": "be2cb3a3559a: symbol server returned unindexed build 21ccb11bfbf7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "be2cb3a3559aee3a9e7a6cc01a0f427883bb9b3d62d1baae3da0d5f55b239ff5",
+   "error": "be2cb3a3559a: symbol server returned unindexed build 21ccb11bfbf7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "8d00d5c82ffb3b67976fb797433f9cbfcea3d35a6574bfd58a6e2521e54576f7",
+   "error": "8d00d5c82ffb: symbol server returned unindexed build 5ab9caef8ffc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "6b78ed0bb79eafbfcac09d9a7bdc61657b1ea0e04d3b7e19411fd21426171b89",
+   "error": "6b78ed0bb79e: symbol server returned unindexed build e87b6eaa0566"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "3655283cb2f024e3016788ba0c3df60b89888a20d5be815b20477166097f89a7",
+   "error": "3655283cb2f0: symbol server returned unindexed build 471fb84842ff"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "6a42c41b345f3f8a22e5f3658b4673abae612242acf12042ec5de4dee57a98d8",
+   "error": "6a42c41b345f: symbol server returned unindexed build ca310a6c1299"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "68ebdc30bcab4a4773100267db191454dee42773d203c3516a56f4b61d96e9bd",
+   "error": "68ebdc30bcab: symbol server returned unindexed build 9ee8a99f0056"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "68ebdc30bcab4a4773100267db191454dee42773d203c3516a56f4b61d96e9bd",
+   "error": "68ebdc30bcab: symbol server returned unindexed build 9ee8a99f0056"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "63ddbcb0233ed7c8c90748869ec5879309a351ffc6d230af66ccde8372f00b34",
+   "error": "63ddbcb0233e: symbol server returned unindexed build 096232bb7aed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "b72ca92bcbb4f00ca82a0a397babf34a4e6602c509d513ecf8f66b3fb9a854d2",
+   "error": "b72ca92bcbb4: symbol server returned unindexed build ed5ef79db35c; 63ddbcb0233e: symbol server returned unindexed build 096232bb7aed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "63ddbcb0233ed7c8c90748869ec5879309a351ffc6d230af66ccde8372f00b34",
+   "error": "63ddbcb0233e: symbol server returned unindexed build 096232bb7aed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "5dc066f072df1d5da48be18c3212877b04c2f3542045b4641c03fa634309b677",
+   "error": "5dc066f072df: symbol server returned unindexed build 8eb6a5ec5386; 9d42e28ff940: symbol server returned unindexed build 8eb6a5ec5386; b72ca92bcbb4: symbol server returned unindexed build ed5ef79db35c; 63ddbcb0233e: symbol server returned unindexed build 096232bb7aed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "5dc066f072df1d5da48be18c3212877b04c2f3542045b4641c03fa634309b677",
+   "error": "5dc066f072df: symbol server returned unindexed build 8eb6a5ec5386; b72ca92bcbb4: symbol server returned unindexed build ed5ef79db35c"
+  }
+ ]
+}

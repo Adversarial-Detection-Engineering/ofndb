@@ -1,0 +1,373 @@
+{
+ "name": "datasvcutil.exe",
+ "builds": [
+  {
+   "sha256": "0a6c72945337e51085b5fca38b39fbdbb67fd473b1003ffa34a51ec66dfd824f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/6853215F14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b54b96321e7a82b139562093b8cde43fc692fe3c02e5eecf885c23f76aa1b90",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/6250AB0814000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "09165924ff4da0bc6f58ba60c9eff597907929b200a4a18ff1978263f5a40631",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/5DDA3E4A14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eb1249c734e60c918d4538d497696481229343d09f9a05d689588ff18ba5bf94",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/5E5E972614000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3cbf357fc31885370c4be447db4c6323e2015cd797dbe44e34ce8084bad556ce",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/5C7A246E14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "922cb6b6311d7f448c15ac2ae09e26408d8594d1513393a9851bb14f18cb7045",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/5B6947EE14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1bec45c4f693420cd0ad64764af526fa44f7e9cc8e861f64b7276cc1a152b84d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/5A8E5A1F14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3765fb3d311df07f0b102edf395bb445d53aee80ead550d47780a579787c5224",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/59B8361B14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3cb41fe774bae7a8f86d21158a5c2d961cfaba5a182e2915a5ad6b358eb779f6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/589C06F614000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ea61697773895d845aa7f91bdda27e4b295b66c9bfd110239c0a2218f0ac769",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/575A142D14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "10b8bf3167ad870e86aa5b8d43a4962b46e113ed6222989da40a8bfa9a84b00d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/5615C2C614000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "96ac9773d4a99ff327f6efc9fb49bf08be77be4aeb108ae7c546f30449411009",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/datasvcutil.exe/556BC62F14000/datasvcutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2d21ec895f5c08218be2263e3cd159f9c25d810870e35f8573b1cf38e9b27311",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DataSvcUtil.exe",
+   "internal_name": "DataSvcUtil.exe",
+   "file_description": "DataSvcUtil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\DataSvcUtil.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DataSvcUtil.exe",
+   "builds": 13,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.6.79.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

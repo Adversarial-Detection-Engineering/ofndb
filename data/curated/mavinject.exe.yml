@@ -1,0 +1,4 @@
+notes: >-
+  The value depends on architecture: x86 builds (SysWOW64) report
+  `mavinject32.exe`, x64 builds report `mavinject64.exe`. Neither matches
+  the file name `mavinject.exe`.

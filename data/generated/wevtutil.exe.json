@@ -1,0 +1,1038 @@
+{
+ "name": "wevtutil.exe",
+ "builds": [
+  {
+   "sha256": "f9eb9fde8ca3d6ade83f6ceaaac8f5a162453c76df8f38c2c37bb242d0d5e12e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/6A9798393f000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e69300fcac94898e315b384dd7291935b5a10813af746bbb0fe5308490983f7e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/A6C61CA153000/wevtutil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wevtutil.exe"
+  },
+  {
+   "sha256": "de2e59d41b6286ba2b11cd134aa87049f56a777a210c9bb96ea8b2222071a534",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/6A979ACA2e000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "856423ce37ee280e3c3c170843b984aec187f1baef5690ce4f128ad649ac914f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/26BD3B253e000/wevtutil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wevtutil.exe"
+  },
+  {
+   "sha256": "768cae635be2592c27fc5c8ee5703cfca5f3838ae4981511379e09e1df81aa1b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2952 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2952",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/65A422F53e000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "32295369e61ad3e0f6d5af844aaeb7662b3bc91c2d230f8e652e70957ffedd83",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2952 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2952",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/28229D5254000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b8a025e51c64e98c672c6de882f817a14993679c313f54eeb13b6067d84e38aa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20973 (th1.250321-1753)",
+   "fixed_file_version": "10.0.10240.20973",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-04-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/67DE482741000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "322844efa47ae898911959c64053f26d9c7ad7841507d1f2a4fd869abd7caa13",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20973 (th1.250321-1753)",
+   "fixed_file_version": "10.0.10240.20973",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-04-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/67DE45342f000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "63605f73083a5040de63c1b721fc4513cf75b9fd8c45750b74154f2154666909",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1000 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1000",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-06-28",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1000",
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/D8D3499E36000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ea582d5a4eb48096b40c2f7a102e465daea69c816c8faea481b68d8fd0929d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/CD42EDCB49000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6a8610238a14c16a03d3d4ab604d3faa31b01243ea809cc2066066cf35519837",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2193 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2193",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-10-25",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/58E9A8C632000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1256a1e89815aa5ade26a8fddddeebf056eb3d3a81ebfe0dd73636cc677a3d38",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1682 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1682",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2022-04-25",
+   "last_seen": "2022-10-18",
+   "os_builds": [
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/411C11E749000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c0e4f94f0814ef6d03950a54ef702ca262f4efdf03c752fb96de80fefc0a5bcb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Windows Event Log Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.469 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.469",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-01-25",
+   "last_seen": "2022-10-17",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/3ECBC4CE38000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "be25116a08cca0d57e9247f2aace033bfa1ffb6aa9852f9a9f24dbc2bc32d187",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/E95041BE4d000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4191846a1d80afcb9050711b89593dc3c505c659345def25113efa7163ad22ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/65C7097339000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "31a3e1ed57c59d6a987a9238f97da2ffada55c5eb920fb9eb680cd621b53cc47",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1411 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1411",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-02-16",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/4ADA4FB338000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06072e2300d1c4eb03c34061055a541f3cf407989f7dc4e9942face8572c388a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1411 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1411",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-02-16",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/9296C0654e000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bc37b19b110e9b78dd975ec9f9d98271b68b1039995e46c2e8d7c7c3938147b7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.81 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.81",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-05-23",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.112",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.137",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.165",
+    "17134.1667",
+    "17134.167",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.191",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.228",
+    "17134.254",
+    "17134.285",
+    "17134.286",
+    "17134.320",
+    "17134.345",
+    "17134.376",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.81",
+    "17134.829",
+    "17134.83",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/D6CF44CB2d000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ab86c6c090fa85c2920a637d2be274335a86fbc0a7fb706e893493b50840dc0a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.81 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.81",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-05-23",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.112",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.137",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.165",
+    "17134.1667",
+    "17134.167",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.191",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.228",
+    "17134.254",
+    "17134.285",
+    "17134.286",
+    "17134.320",
+    "17134.345",
+    "17134.376",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.81",
+    "17134.829",
+    "17134.83",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/F6A9730D3e000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "322752ecdc85d26276aa1aa34f50e30926885989468d7a2e73751fc700da549c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.545 (th2_release.160802-1857)",
+   "fixed_file_version": "10.0.10586.545",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-08-09",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/57A1BA0A41000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "306379b601dbc32eb646478e9daa47f49fbd3a9ee0d1ef281c0329e331de27ff",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wevtutil.exe",
+   "internal_name": "wevtutil.exe",
+   "file_description": "Eventing Command Line Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.545 (th2_release.160802-1857)",
+   "fixed_file_version": "10.0.10586.545",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-08-09",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wevtutil.exe/57A1749930000/wevtutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wevtutil.exe",
+   "builds": 21,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1803",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20973",
+   "max_version": "10.0.28000.2952",
+   "first_seen": "2016-08-09",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "7a63bf779e73daa0c36a311c693c1a327dcf4ab4b002b66cf2b6975c5c2d8189",
+   "error": "7a63bf779e73: symbol server returned unindexed build f3b3f8f6c8de; 22ff87a993cc: symbol server returned unindexed build a0ae3af61cbc; 3d690d90635b: symbol server returned unindexed build af5fb64fe9a2; a9a79b986ff4: symbol server returned unindexed build af5fb64fe9a2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "97afbe889bb9879a43e313097ebac19522412f254049b07b70cd7c15500c3fc6",
+   "error": "97afbe889bb9: symbol server returned unindexed build 24560c58d89a; 0fbb4b8092e8: symbol server returned unindexed build 3667a9af8c02; 7db1f9c9334d: symbol server returned unindexed build 3667a9af8c02; 3635324aa002: symbol server returned unindexed build c643402cfeb1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "18ff204ae20778f73f9e0524a6defbd09d22b65b070501bd841dcb97ae6a990c",
+   "error": "18ff204ae207: symbol server returned unindexed build 10ccfe556888; 97afbe889bb9: symbol server returned unindexed build 24560c58d89a; 7db1f9c9334d: symbol server returned unindexed build 3667a9af8c02"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "d86860e5946922212ff2392c2ee0d8ce8c01ef3f40365f426e8e04dcc689d016",
+   "error": "d86860e59469: symbol server returned unindexed build cf155767b627"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "5de1d5b18e24a8f7294dad0911733f985ae4f9baa01eba9632ce45163d467c92",
+   "error": "5de1d5b18e24: symbol server returned unindexed build 316548d8a5a7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "e8ff519749c3d6536c26b2d530aa9d1f538718d163763035d0034a1068c69ced",
+   "error": "e8ff519749c3: symbol server returned unindexed build 4c36946ee385; f6c40d974d72: symbol server returned unindexed build d94901ae3c29; 6d279efc4251: symbol server returned unindexed build c0556fe4a980; 135c463428a4: symbol server returned unindexed build 5fb29d57bc3f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e16b9d201ec1d7e29b3ad532a9ad8f1ae0cb5821bb916a79f6dbeb1c6e6b85fa",
+   "error": "e16b9d201ec1: symbol server returned unindexed build a1cb19675669"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "ebace8617f9b790ea0d5efeae6bc9c31c631f9562a4336fd724f24bbcea737a7",
+   "error": "ebace8617f9b: symbol server returned unindexed build e94366440d92; 7535158bb7ef: symbol server returned unindexed build a10999cd00b8; 0b732d9ad576: symbol server returned unindexed build ceaa4b6d0201; 6eb98491fa6a: symbol server returned unindexed build f769a86e4104"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "0a90284ce5fd716b5a03307f69e3d50c7a99c4c2489c077da27097cb35fa58a7",
+   "error": "0a90284ce5fd: symbol server returned unindexed build 37c75ad08461; 2c913e1d25bb: symbol server returned unindexed build 979429d99157; 9b8981276dea: symbol server returned unindexed build 979429d99157; 7ac38a3655c7: symbol server returned unindexed build 07a0596e4bd3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "9fbe83f982a659fb7f26782522c08e5f03ca70145e28c645c249b25742a56d60",
+   "error": "9fbe83f982a6: symbol server returned unindexed build 4fce109be6b5; 0a90284ce5fd: symbol server returned unindexed build 37c75ad08461; 9b8981276dea: symbol server returned unindexed build 979429d99157"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "01443b7195c6d83e016075fdae80f3020685b07bf4aa776e9860a8a91a8abed2",
+   "error": "01443b7195c6: symbol server returned unindexed build 19a4d97ba4f3; 0cf694fcc243: symbol server returned unindexed build ce14e46d6104"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "c4618dc5b1f77d075b473ae838604acdde73787baab28370bd3efa8e6f70dc07",
+   "error": "c4618dc5b1f7: symbol server returned unindexed build 4760289c564c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "205e695dfff56ca36b6fdf04caef57122791c6e9a71b39c7706fbeab35bdf7fe",
+   "error": "205e695dfff5: symbol server returned unindexed build 4b6e33fc68fe; 332360bd96a3: symbol server returned unindexed build b60ddb96a4b3; f5e45796db34: symbol server returned unindexed build e1484a17dcaa; 89f14d5f5ed7: symbol server returned unindexed build e53de6d1c5c0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "8daad695cd42fe78fd7df497edebc48f56c3cfa1d9025df5580edcd835aef85d",
+   "error": "8daad695cd42: symbol server returned unindexed build e52733b53005"
+  }
+ ]
+}

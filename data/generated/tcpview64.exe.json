@@ -1,0 +1,47 @@
+{
+ "name": "tcpview64.exe",
+ "builds": [
+  {
+   "sha256": "0cbcb7ec4a042622b0d9d91b18f908e4208e4725ee1fa74a3555c4dcb622cfc1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TcpView.exe",
+   "internal_name": "TcpView",
+   "file_description": "Sysinternals TcpView",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "TcpView",
+   "file_version": "4.19",
+   "fixed_file_version": "4.19.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "TcpView",
+   "release": "2023-04-11",
+   "last_seen": "2023-04-11",
+   "download_url": "https://live.sysinternals.com/tcpview64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TcpView.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "4.19.0.0",
+   "max_version": "4.19.0.0",
+   "first_seen": "2023-04-11",
+   "last_seen": "2023-04-11",
+   "provenance": "parsed"
+  }
+ ]
+}

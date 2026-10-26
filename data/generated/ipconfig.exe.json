@@ -1,0 +1,526 @@
+{
+ "name": "ipconfig.exe",
+ "builds": [
+  {
+   "sha256": "afd8f807b1838308e9adf836fea613cea08801d4aec09bade3ae5aab4f761ca8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/716A9D47c000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a932e8b2739f570208826c2680e2bec581918dab800ee08dd0e37be1253a32c8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/043682E2f000/ipconfig.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ipconfig.exe"
+  },
+  {
+   "sha256": "8a68ecacb35b9aa569e2d91dd74dd16628a194bbc5529490682bcec0d0ac170c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/DE451486f000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b1b23ad6133fa17187798822c921a054299a6d28c6ebe6bcfe39ead998be389",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/78E730AFc000/ipconfig.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ipconfig.exe"
+  },
+  {
+   "sha256": "1393aa61ab98da1d008925a9866b465dc133ef11e37035d90ba55037de6124ed",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/BEF88B69c000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ef3d41fcd0f857f111098912613d41e470a3da151a4d39d28acf0a88c48ff02",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/473F1671f000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5f2ff9dfa80dcbae0301500b50f5bb10dda257be9c061b3cfcc9ba3c1fbc8891",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/5789916Cb000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5ee3fd7ca1ac876d0de539d469bfc333594fca3df9f377cc96c756d9648697f1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/57899B63d000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "385dba8b0d2ab3c6cc422d62f7a7045c4e9fe80c6c53a97317078735c9d78ff7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/5632D82Ad000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1acd7bb7b3df1482454d7fd6dbc57ffe327cc35a6ff5c8791a8896a257d9f42e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/5632D7B8b000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cdbec8a3cd83e81e894012f020f742edce0f846f2f3fc28739c6835a701ef851",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/559F3AA3d000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "203cc41a6c3f529b0f67b1bf30180ccf195a24dd7c4edded090f58f26adf3929",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ipconfig.exe",
+   "internal_name": "ipconfig.exe",
+   "file_description": "IP Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ipconfig.exe/559F3D2Eb000/ipconfig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ipconfig.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "2bb3c6a409ea13ffea98c91b140171817a24d108ceb934129458b540885dc0d7",
+   "error": "2bb3c6a409ea: symbol server returned unindexed build b93c739a8786; 82397e196b4f: symbol server returned unindexed build 9d959606ce2b; 8dfe1ba232b1: symbol server returned unindexed build 9d959606ce2b; 69ea4dcc4708: symbol server returned unindexed build e35f65f6d7df"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7f3b6d8dc0f4d70e6b2112d7129d7b32fd442a50dc68222cdc97c44cd0fd60b3",
+   "error": "7f3b6d8dc0f4: symbol server returned unindexed build 5f5cd9a02d1f; 83450f06ac03: symbol server returned unindexed build 072cbbd707eb; f952244cbfa0: symbol server returned unindexed build eddd3c6c7973; 3f74bae8be4e: symbol server returned unindexed build a9d89edbbf07"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7f3b6d8dc0f4d70e6b2112d7129d7b32fd442a50dc68222cdc97c44cd0fd60b3",
+   "error": "7f3b6d8dc0f4: symbol server returned unindexed build 5f5cd9a02d1f; f952244cbfa0: symbol server returned unindexed build eddd3c6c7973"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "7addcfb5b4f8017a4f01361852b0518067d16eeff21d90796cf6991836592f06",
+   "error": "7addcfb5b4f8: symbol server returned unindexed build 07e147c05c7d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "7d7d13e55b4431f42d1ff86189fb8bf27f93cfef4179271c4264a6f5a35a94f7",
+   "error": "7d7d13e55b44: symbol server returned unindexed build 59332d7f2a2d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "9f160078947d7daf42f02b541453ad143aef1f60f1eb5107c4345337f7f96525",
+   "error": "9f160078947d: symbol server returned unindexed build 2b4aa5de6feb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "c5dbbddd1193c7adca1e30cd17b8c7af6a76c406dd84dc164bb959c135f1aa70",
+   "error": "c5dbbddd1193: symbol server returned unindexed build 8f186b125bc4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "a4370c0cf81686c0b696fa6261c9d3e0d810ae704ab8301839dffd5d5112f476",
+   "error": "a4370c0cf816: symbol server returned unindexed build 846c8a9372ae"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "a4370c0cf81686c0b696fa6261c9d3e0d810ae704ab8301839dffd5d5112f476",
+   "error": "a4370c0cf816: symbol server returned unindexed build 846c8a9372ae"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "53e000f5aa9b3a00934319db8080bb99cb323bf48fc628a64f75d7847c265606",
+   "error": "53e000f5aa9b: symbol server returned unindexed build e1bc810ee3fd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "53e000f5aa9b3a00934319db8080bb99cb323bf48fc628a64f75d7847c265606",
+   "error": "53e000f5aa9b: symbol server returned unindexed build e1bc810ee3fd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "53e000f5aa9b3a00934319db8080bb99cb323bf48fc628a64f75d7847c265606",
+   "error": "53e000f5aa9b: symbol server returned unindexed build e1bc810ee3fd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "53e000f5aa9b3a00934319db8080bb99cb323bf48fc628a64f75d7847c265606",
+   "error": "53e000f5aa9b: symbol server returned unindexed build e1bc810ee3fd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "53e000f5aa9b3a00934319db8080bb99cb323bf48fc628a64f75d7847c265606",
+   "error": "53e000f5aa9b: symbol server returned unindexed build e1bc810ee3fd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "a00c0fa3bd96f90468d879d6307ca14c659ce9272cb81dcc6f8fed41733ad38d",
+   "error": "a00c0fa3bd96: symbol server returned unindexed build 1cd5cec3dc42; e88828d9e669: symbol server returned unindexed build ad8efdee5875; 6093f1a350b4: symbol server returned unindexed build ad8efdee5875; c962a9ef4597: symbol server returned unindexed build b5b3b337bc59"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "4f16406f50cbe21dca89bdfefe2f37277e87991adf21afca6c5a7e707eb8fdcf",
+   "error": "4f16406f50cb: symbol server returned unindexed build 6ab4eff2d417; 18e09f9267a0: symbol server returned unindexed build b4f5874ff836; 5989d3ee882f: symbol server returned unindexed build dd9f93951901; a04bc3d877db: symbol server returned unindexed build 41970f6ba78a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "4f16406f50cbe21dca89bdfefe2f37277e87991adf21afca6c5a7e707eb8fdcf",
+   "error": "4f16406f50cb: symbol server returned unindexed build 6ab4eff2d417; 5989d3ee882f: symbol server returned unindexed build dd9f93951901"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "01cbe910e5d343c25e9066ccc7f8777a79b0d3e210aa2fb7e4428ab259712469",
+   "error": "01cbe910e5d3: symbol server returned unindexed build 067a316e423c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "38da6edd1ccca56da0d603708bd0a4229019cbc35f9b9c2a8b50c6ada39effce",
+   "error": "38da6edd1ccc: symbol server returned unindexed build dbb0f5ad20bf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "08ecd499ca41c12cdb3522be42196812f383d1d8253f7b2a0736557a400c65ce",
+   "error": "08ecd499ca41: symbol server returned unindexed build f4907c1d7830"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "b0832dec07a4cb6228b7b392d6abafb79e9bf7327605ae3e86e1e617de7495a5",
+   "error": "b0832dec07a4: symbol server returned unindexed build 72624e9b7ca6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "1803f2b06149d09d568a0d83cab8017925aded03047791dc92d8254de7b2262a",
+   "error": "1803f2b06149: symbol server returned unindexed build 186b9fd0bbbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "1803f2b06149d09d568a0d83cab8017925aded03047791dc92d8254de7b2262a",
+   "error": "1803f2b06149: symbol server returned unindexed build 186b9fd0bbbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "87b036c720fbd5e63355b9920a2864feaf59b1584ebd8458651936ab8c7c1f81",
+   "error": "87b036c720fb: symbol server returned unindexed build ea297f9478de"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "87b036c720fbd5e63355b9920a2864feaf59b1584ebd8458651936ab8c7c1f81",
+   "error": "87b036c720fb: symbol server returned unindexed build ea297f9478de"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "87b036c720fbd5e63355b9920a2864feaf59b1584ebd8458651936ab8c7c1f81",
+   "error": "87b036c720fb: symbol server returned unindexed build ea297f9478de"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "87b036c720fbd5e63355b9920a2864feaf59b1584ebd8458651936ab8c7c1f81",
+   "error": "87b036c720fb: symbol server returned unindexed build ea297f9478de"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "87b036c720fbd5e63355b9920a2864feaf59b1584ebd8458651936ab8c7c1f81",
+   "error": "87b036c720fb: symbol server returned unindexed build ea297f9478de"
+  }
+ ]
+}

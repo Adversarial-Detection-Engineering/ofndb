@@ -1,0 +1,503 @@
+{
+ "name": "winver.exe",
+ "builds": [
+  {
+   "sha256": "e1902fc5f245c6ea9e0e35101703d8955723dd44b605b102b90999444fd69683",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/31346A8D8000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5f8c6324491563b6552fabfe63dec7df73b69d8e7c3b24ba9ad5bb5faae4999d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/DF1DB8266000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "53de1af89065816ccfad467e8fde2c2ed9dd5092c57af3b1b878c20e7d424001",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/3B35A33C8000/winver.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\winver.exe"
+  },
+  {
+   "sha256": "3fa4b2e9bbdbdd3617109eafeaf22b9862b6e7f1f0c3421bbc313d90af0fcd71",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/4BFCA3A46000/winver.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\winver.exe"
+  },
+  {
+   "sha256": "e89a049ce5cb5ded0851305ce05c4f7127da8c35089419a44b762b45a7ff3ec4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/5530841213000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "92e878d7767fe6e6f21c8d8c064b9601a3e7fbffb9874f995038db406ac08aec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/5789913612000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "08183eae546c9ec534f42cae05b8182c241551e032e7363f2f6a058f10e0a060",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/57899B9613000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9fdf3b1f8b9273222e7e7e78d1ec02cb706433e164c4f2107d4c313a707853bb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/5632D87F13000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6c22fca467d04d89879258e605fc0428d5ce5e729ddc1b0c2c31fe2f34d682ac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/5632D81912000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7743a61d4997d623f662a9b509b3d079d919e11c2747097f524bee07972fc99d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/559F3C2812000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1d2d450742e4ed4fb8486fd7e3892828dd97bbf63f0e23b0975725bdc18ce766",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINVER.EXE",
+   "internal_name": "winver",
+   "file_description": "Version Reporter Applet",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winver.exe/559F39AF13000/winver.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WINVER.EXE",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "9d3b7af75ad2cea3ed7b41b9bb68b795c44e06b0a2a755e215a3a53893c9bc5c",
+   "error": "9d3b7af75ad2: symbol server returned unindexed build 373de1e64b1b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "d1d050efbae74c970ba6e666de004405b21f60f34ff0886000026763fe117cf0",
+   "error": "d1d050efbae7: symbol server returned unindexed build 34698e43a565"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "d1d050efbae74c970ba6e666de004405b21f60f34ff0886000026763fe117cf0",
+   "error": "d1d050efbae7: symbol server returned unindexed build 34698e43a565"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "8486d1bd8ee893bef1c75f1f41373d8ff744b988131e291f3319a2da9d6980e7",
+   "error": "8486d1bd8ee8: symbol server returned unindexed build ce4d82203e7a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "91d8984c81bdf8a31755ea7ce522f7507e41812d2a3e6429c82a7072514fd5f4",
+   "error": "91d8984c81bd: symbol server returned unindexed build dc503c9ad55b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "71e5e4b68b93e8b557fe0651e3d39c57279e694d07b42c67269224e2fc603aee",
+   "error": "71e5e4b68b93: symbol server returned unindexed build 4f1a028470b8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "fe85e2b4a47940585a29c4680d1331a85ece3bdfb8ded7a28875e6aff2c13048",
+   "error": "fe85e2b4a479: symbol server returned unindexed build 9d84eeaa9a6a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "fe85e2b4a47940585a29c4680d1331a85ece3bdfb8ded7a28875e6aff2c13048",
+   "error": "fe85e2b4a479: symbol server returned unindexed build 9d84eeaa9a6a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "0f588a098af640a29c1651d17cafe662814943a4aad3bf4d043177f8298ede68",
+   "error": "0f588a098af6: symbol server returned unindexed build de4b04e69ad0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "0f588a098af640a29c1651d17cafe662814943a4aad3bf4d043177f8298ede68",
+   "error": "0f588a098af6: symbol server returned unindexed build de4b04e69ad0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "0f588a098af640a29c1651d17cafe662814943a4aad3bf4d043177f8298ede68",
+   "error": "0f588a098af6: symbol server returned unindexed build de4b04e69ad0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "0f588a098af640a29c1651d17cafe662814943a4aad3bf4d043177f8298ede68",
+   "error": "0f588a098af6: symbol server returned unindexed build de4b04e69ad0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "0f588a098af640a29c1651d17cafe662814943a4aad3bf4d043177f8298ede68",
+   "error": "0f588a098af6: symbol server returned unindexed build de4b04e69ad0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "d0a1bddf1896c08f460addaff63230a3fdec1eec5e78f93e369a82e23e61e874",
+   "error": "d0a1bddf1896: symbol server returned unindexed build bf55ceedbdec"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "a33e42292119801c0b425569aca5b7c8bbc8e9216f18a285aa3172109f4e7bc4",
+   "error": "a33e42292119: symbol server returned unindexed build 13737dc85d69"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "a33e42292119801c0b425569aca5b7c8bbc8e9216f18a285aa3172109f4e7bc4",
+   "error": "a33e42292119: symbol server returned unindexed build 13737dc85d69"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "17d8c978a27dec5d7f5edccaa1da30968d6d7d317738d89084857ffc42ea1c64",
+   "error": "17d8c978a27d: symbol server returned unindexed build 37e262a19cfd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "aac31317ee267fb9409ea99860465504a19ffa1b48a6f44f200a8f90270336df",
+   "error": "aac31317ee26: symbol server returned unindexed build afcbfa3e92de"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "9d9ad22df604450f17ea861a1cdc4efa80b087b74cc5f57ef7cd918e53827299",
+   "error": "9d9ad22df604: symbol server returned unindexed build 32dbb4ea32a9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "97c23b8888ffe8f4a9d9a0de8eda27cbe029049cf07e1164c2e79c3623139e42",
+   "error": "97c23b8888ff: symbol server returned unindexed build f96db28f3204"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "b690e2e5d88755c443bda539df1a5e4a7b8357ca2d3fdb2ac905ad97954183a3",
+   "error": "b690e2e5d887: symbol server returned unindexed build 3e2e34a969f5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "b690e2e5d88755c443bda539df1a5e4a7b8357ca2d3fdb2ac905ad97954183a3",
+   "error": "b690e2e5d887: symbol server returned unindexed build 3e2e34a969f5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "e8086c9fa7a33e4e6445dab05f79edf8e843945764b21b1024ad2fdb724037dc",
+   "error": "e8086c9fa7a3: symbol server returned unindexed build 42a0fa8c1ffb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "e8086c9fa7a33e4e6445dab05f79edf8e843945764b21b1024ad2fdb724037dc",
+   "error": "e8086c9fa7a3: symbol server returned unindexed build 42a0fa8c1ffb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "e8086c9fa7a33e4e6445dab05f79edf8e843945764b21b1024ad2fdb724037dc",
+   "error": "e8086c9fa7a3: symbol server returned unindexed build 42a0fa8c1ffb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "e8086c9fa7a33e4e6445dab05f79edf8e843945764b21b1024ad2fdb724037dc",
+   "error": "e8086c9fa7a3: symbol server returned unindexed build 42a0fa8c1ffb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "e8086c9fa7a33e4e6445dab05f79edf8e843945764b21b1024ad2fdb724037dc",
+   "error": "e8086c9fa7a3: symbol server returned unindexed build 42a0fa8c1ffb"
+  }
+ ]
+}

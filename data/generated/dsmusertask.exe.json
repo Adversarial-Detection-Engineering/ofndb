@@ -1,0 +1,44 @@
+{
+ "name": "dsmusertask.exe",
+ "builds": [
+  {
+   "sha256": "4ca522be6a9e4a4bc93ff4a6f78045a52dd0fb3fa7f72f9271be6fccd31d6c2d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DsmUserTask.exe",
+   "internal_name": "DsmUserTask.exe",
+   "file_description": "Device Setup Manager User Task Handler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\DsmUserTask.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DsmUserTask.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

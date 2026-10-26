@@ -1,0 +1,64 @@
+{
+ "name": "openfiles.exe",
+ "builds": [
+  {
+   "sha256": "ac9b1f4261a07f890764920f3acc51782e3cb74797b35a72a8420b123e5b5153",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "opnfiles.exe",
+   "internal_name": "openfiles.exe",
+   "file_description": "Displays the current open files list",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\openfiles.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2dd6dba5c159fb2357d943bbbe3331c0eb9f97ee22dcc7f412952a07c2440713",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "opnfiles.exe",
+   "internal_name": "openfiles.exe",
+   "file_description": "Displays the current open files list",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\openfiles.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "opnfiles.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

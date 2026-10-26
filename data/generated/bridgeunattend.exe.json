@@ -1,0 +1,44 @@
+{
+ "name": "bridgeunattend.exe",
+ "builds": [
+  {
+   "sha256": "f7501a55f3f3dc3704feab9bdb39e345e5dc9266f5ed9fed6f81ef3ca17a2844",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bridgeunattend.exe",
+   "internal_name": "bridgeunattend.exe",
+   "file_description": "Bridge Unattend Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.2454 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.2454",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bridgeunattend.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "bridgeunattend.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.2454",
+   "max_version": "10.0.26100.2454",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

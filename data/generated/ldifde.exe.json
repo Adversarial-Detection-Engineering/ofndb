@@ -1,0 +1,212 @@
+{
+ "name": "ldifde.exe",
+ "builds": [
+  {
+   "sha256": "3f60fba44d8e71a439facea098a0630d2aacf8ede115d7e46c5a3c9e2957aeaa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ldifde.exe",
+   "internal_name": "ldifde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ldifde.exe/CBADAD7419000/ldifde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "242516ca13ecae23221a4590c24327cf226ecff1ab3a074222cca2507758d591",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ldifde.exe",
+   "internal_name": "ldifde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ldifde.exe/078A925019000/ldifde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06bf910c95bb9b69562c1fceb8138454148dc92e2c705fc66461e3f1e54b9a07",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ldifde.exe",
+   "internal_name": "ldifde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/ldifde.exe/DA4C5E6222000/ldifde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06617ac1061865400db8192d689c7768759c335d64d160b469950bf50ec4f1ee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ldifde.exe",
+   "internal_name": "ldifde.exe",
+   "file_description": "NT5DS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ldifde.exe/17A6981821000/ldifde.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ldifde.exe",
+   "builds": 4,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.7920",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "5997e96fccf3b9a86fcfbdf8c0a77560533d4cc9bf8567cf1f36514c39ed63a3",
+   "error": "5997e96fccf3: symbol server returned unindexed build 0b709d42fabc; bee14cf1347a: symbol server returned unindexed build 1f9a8620cd28; e8e72dc6c48e: symbol server returned unindexed build 1f9a8620cd28"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "93689ea805260f6af26f78a9747a84ea7f9280bb30115c7fbca9783a55307397",
+   "error": "93689ea80526: symbol server returned unindexed build 357ad83d6c34; 6efe338601b7: symbol server returned unindexed build 36a986461a72; 3f8ea1bd7c7b: symbol server returned unindexed build 36a986461a72"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "bcdboot.exe",
+ "builds": [
+  {
+   "sha256": "11810a37e5a10f67c448bae41b7463cb56d6ca7a0d9b83e555cb76e80c2bdd93",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdboot.exe",
+   "internal_name": "bcdboot.exe",
+   "file_description": "Bcdboot utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bcdboot.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "bcdboot.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "name": "openconsole.exe",
+ "builds": [
+  {
+   "sha256": "b4fb03747dcb2893e8a9fb7d759abbe8afbd0d5d83763d79bdf5ca92abbf6e04",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OpenConsole.exe",
+   "internal_name": "Host.EXE",
+   "file_description": "OpenConsole.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows Terminal",
+   "file_version": "1.22.2503.25001",
+   "fixed_file_version": "1.22.2503.25001",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\Terminal\\ServiceHub\\os64\\OpenConsole.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "OpenConsole.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.22.2503.25001",
+   "max_version": "1.22.2503.25001",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "1a74450bd875c949b563aa31a1c8dd566b3ca8468af46b61b29e04af41ab0ca8",
+   "error": "1a74450bd875: NotFound: https://msdl.microsoft.com/download/symbols/openconsole.exe/60393F5D114000/openconsole.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "14e0857b37f6c5e5e90bab786a4db8fceb4166afe75e617519d942656976481e",
+   "error": "14e0857b37f6: NotFound: https://msdl.microsoft.com/download/symbols/openconsole.exe/62508DFD117000/openconsole.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "14e0857b37f6c5e5e90bab786a4db8fceb4166afe75e617519d942656976481e",
+   "error": "14e0857b37f6: NotFound: https://msdl.microsoft.com/download/symbols/openconsole.exe/62508DFD117000/openconsole.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "550dea7a75e6e38008dfdd9fa82a341a642f4ae73c8c3469387772653718f623",
+   "error": "550dea7a75e6: NotFound: https://msdl.microsoft.com/download/symbols/openconsole.exe/65B9ACCD13d000/openconsole.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "550dea7a75e6e38008dfdd9fa82a341a642f4ae73c8c3469387772653718f623",
+   "error": "550dea7a75e6: NotFound: https://msdl.microsoft.com/download/symbols/openconsole.exe/65B9ACCD13d000/openconsole.exe"
+  }
+ ]
+}

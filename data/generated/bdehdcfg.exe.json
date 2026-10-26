@@ -1,0 +1,44 @@
+{
+ "name": "bdehdcfg.exe",
+ "builds": [
+  {
+   "sha256": "051f5762f35f1b1b827481dd2de1a5d4022eaafcb2c71016b414e2980322f8a9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BdeHdCfg.exe",
+   "internal_name": "BdeHdCfg",
+   "file_description": "BitLocker Drive Encryption: Drive Preparation Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\BdeHdCfg.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BdeHdCfg.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

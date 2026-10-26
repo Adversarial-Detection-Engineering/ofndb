@@ -1,0 +1,44 @@
+{
+ "name": "uieorchestratorstub.exe",
+ "builds": [
+  {
+   "sha256": "413771957fcbac775abf005d121db426b1b6d60a353f6d2c1b58cc8068ffede8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UIEOrchestratorStub",
+   "internal_name": "UIEOrchestratorStub",
+   "file_description": "Undocked UIEOrchestrator Stub",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UIEOrchestratorStub.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UIEOrchestratorStub",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

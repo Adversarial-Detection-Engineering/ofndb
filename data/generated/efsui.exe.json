@@ -1,0 +1,484 @@
+{
+ "name": "efsui.exe",
+ "builds": [
+  {
+   "sha256": "d641fd2139d9edb41e96ed1d9c9746ca3925a4bb0e89d59fd213f0f437619869",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/A86D0B9Ba000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3130cde95fb932bc63e92d8b3c7b761f1bba85e97a166adb3189c01b18dfe2ab",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/9971748B7000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "39a5f4fc7476ba15f25e80e8ed7d7fa41144926cdea067c433ac0e7e8c9897b7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/6EF3B68Ea000/efsui.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\efsui.exe"
+  },
+  {
+   "sha256": "1eb074b2ab9574aece8d05c3ccfe69e6c7ae0b620e30319f2f292d2ce9c41be6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/C0F9DE647000/efsui.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\efsui.exe"
+  },
+  {
+   "sha256": "2e49f609b04a7bc6a521e33622f94c3e09f6ea961983064044c8812dd431b042",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/578991997000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1106ce6ae6edffa752d71f5eff9faab53360cffc6b224957760fbdc0a7d4ff17",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/57899BA89000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b631eefe9cf7ee1beeb0d7c165f896ba6db5424cd099dbdb1a2e76c962563e42",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/5632D89C7000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "519837b445876a51c79c994c70f91acfed80a42e017b43de86a11f9e62b93642",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/5632D8F39000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cc0dbb5392698abf9307e572de7e243688161a757f65e0e7dba2b1406b94ad7e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/559F3BF97000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6fa5b58ed6ea3f948163e14248b14902ab4cdc1fe01ab40074c935660b57f651",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "efsui.exe",
+   "internal_name": "efsui",
+   "file_description": "EFS UI Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/efsui.exe/559F39819000/efsui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "efsui.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "987739a924dd8d0eca0fbc1ea3896ed09db117f5435096b041317cae44cbea8d",
+   "error": "987739a924dd: symbol server returned unindexed build e7b22f6cf878; a53505da3b72: symbol server returned unindexed build 2e82afae1000; bf298cda19a3: symbol server returned unindexed build 2e82afae1000; 67152577ed80: symbol server returned unindexed build 4c05e5f5c7eb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "c2364495bb476b8e54cf350ea9bd338618591dc2c3161d9814fee2003dd61421",
+   "error": "c2364495bb47: symbol server returned unindexed build 5082b35a6a51"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "c2364495bb476b8e54cf350ea9bd338618591dc2c3161d9814fee2003dd61421",
+   "error": "c2364495bb47: symbol server returned unindexed build 5082b35a6a51"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "322665022dafb867daaef968f8416528fa6d21486021634bbbcdc7d3c9a291dc",
+   "error": "322665022daf: symbol server returned unindexed build 5554c42f8a28"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "28cf2b66ff376eb92a07aacaf5bdb4f6a591b942fc784424236b5c8e8fe65440",
+   "error": "28cf2b66ff37: symbol server returned unindexed build d7f118e2338a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "5f6e22d6d2e88b97278b8fd9adda56b3f54060d5637a2dbb8f3cc36130ac35d8",
+   "error": "5f6e22d6d2e8: symbol server returned unindexed build 71223c7531db"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "fe57813687d951ffa8acc02bd4ca2ad8d7d4bc70584072db66c46a404186ddf3",
+   "error": "fe57813687d9: symbol server returned unindexed build 6427e2476448"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "af4be58d137b6f7b316398cf7e79f9176ff3ab6112c7bf6f4247497360b9392f",
+   "error": "af4be58d137b: symbol server returned unindexed build 03a010e7efe7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "af4be58d137b6f7b316398cf7e79f9176ff3ab6112c7bf6f4247497360b9392f",
+   "error": "af4be58d137b: symbol server returned unindexed build 03a010e7efe7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "ec1dc1a2ee200da0c787328df4fb91a2b978fd09ca1f83f3e55994c0f9ba1d11",
+   "error": "ec1dc1a2ee20: symbol server returned unindexed build b4cc60cb7fa4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "ec1dc1a2ee200da0c787328df4fb91a2b978fd09ca1f83f3e55994c0f9ba1d11",
+   "error": "ec1dc1a2ee20: symbol server returned unindexed build b4cc60cb7fa4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "ec1dc1a2ee200da0c787328df4fb91a2b978fd09ca1f83f3e55994c0f9ba1d11",
+   "error": "ec1dc1a2ee20: symbol server returned unindexed build b4cc60cb7fa4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "ec1dc1a2ee200da0c787328df4fb91a2b978fd09ca1f83f3e55994c0f9ba1d11",
+   "error": "ec1dc1a2ee20: symbol server returned unindexed build b4cc60cb7fa4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "ec1dc1a2ee200da0c787328df4fb91a2b978fd09ca1f83f3e55994c0f9ba1d11",
+   "error": "ec1dc1a2ee20: symbol server returned unindexed build b4cc60cb7fa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "ab98c117f13fd7aa440a8ef680ebe32008d2b2489bccc96519554020e705d309",
+   "error": "ab98c117f13f: symbol server returned unindexed build 1d567e5fc9e8; 4cf3c8baf589: symbol server returned unindexed build 965707b95b27; ce77f4aa6d08: symbol server returned unindexed build 965707b95b27; 0199e1e3770b: symbol server returned unindexed build 51972c81058f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "7f2c563395004f8f3a6997f7d46da58a98627cb1fc6bbb0f0f035e3c7d395a60",
+   "error": "7f2c56339500: symbol server returned unindexed build 975609c73fdf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "7f2c563395004f8f3a6997f7d46da58a98627cb1fc6bbb0f0f035e3c7d395a60",
+   "error": "7f2c56339500: symbol server returned unindexed build 975609c73fdf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "16d487b42a264791ee77beb4557a8b8bde72d4e154def0d8a6773b1cbb82becd",
+   "error": "16d487b42a26: symbol server returned unindexed build cf3a911f68fe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "26bc224703c1feb2131598a02ac14ca41c23602c8927955a0d8dd58a4d9e3953",
+   "error": "26bc224703c1: symbol server returned unindexed build d228809f2d23"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "1101cc2453f8ea90708f4d1642edebd0ae403f87e088affb1c2abac4fac5f419",
+   "error": "1101cc2453f8: symbol server returned unindexed build 144245ecb4ad"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "7f9304a0b0492f3e18c46ea4d17ee1323b9ab27ee584ff4f25487f1d04820a6e",
+   "error": "7f9304a0b049: symbol server returned unindexed build f5f55b5079df"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "4c311f6a62818a0378238dab39eed6fa529b389d6c488358439f1cff0a8fed96",
+   "error": "4c311f6a6281: symbol server returned unindexed build 971e283610d0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "4c311f6a62818a0378238dab39eed6fa529b389d6c488358439f1cff0a8fed96",
+   "error": "4c311f6a6281: symbol server returned unindexed build 971e283610d0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "15d3d82211fe83fee501d2efacd0168301ce73dcb7cc08f1ca7bc2ee94a61fc7",
+   "error": "15d3d82211fe: symbol server returned unindexed build 8305be9dedc0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "15d3d82211fe83fee501d2efacd0168301ce73dcb7cc08f1ca7bc2ee94a61fc7",
+   "error": "15d3d82211fe: symbol server returned unindexed build 8305be9dedc0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "15d3d82211fe83fee501d2efacd0168301ce73dcb7cc08f1ca7bc2ee94a61fc7",
+   "error": "15d3d82211fe: symbol server returned unindexed build 8305be9dedc0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "15d3d82211fe83fee501d2efacd0168301ce73dcb7cc08f1ca7bc2ee94a61fc7",
+   "error": "15d3d82211fe: symbol server returned unindexed build 8305be9dedc0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "15d3d82211fe83fee501d2efacd0168301ce73dcb7cc08f1ca7bc2ee94a61fc7",
+   "error": "15d3d82211fe: symbol server returned unindexed build 8305be9dedc0"
+  }
+ ]
+}

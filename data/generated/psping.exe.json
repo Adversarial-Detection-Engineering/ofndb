@@ -1,0 +1,47 @@
+{
+ "name": "psping.exe",
+ "builds": [
+  {
+   "sha256": "26249b06420a6f96f361645545d6caa9209eaeb25e832900dcfc190baaf19c37",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "psping.exe",
+   "internal_name": "PsPing",
+   "file_description": "PsPing - ping, latency, bandwidth measurement utility",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsPing",
+   "file_version": "2.13",
+   "fixed_file_version": "2.13.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsPing",
+   "release": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "download_url": "https://live.sysinternals.com/psping.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psping.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.13.0.0",
+   "max_version": "2.13.0.0",
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-08-12",
+   "provenance": "parsed"
+  }
+ ]
+}

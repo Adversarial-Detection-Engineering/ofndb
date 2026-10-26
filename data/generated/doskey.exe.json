@@ -1,0 +1,461 @@
+{
+ "name": "doskey.exe",
+ "builds": [
+  {
+   "sha256": "7e593969455a03083089f4e917a899e785dd7c527068861a877073cc67b2a0e8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/F9E64F0Cb000/doskey.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\doskey.exe"
+  },
+  {
+   "sha256": "7975c00645f4e338d7c7b4de8d3f5ad16e94f82010df4fbd759e7964ff6de003",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/516698ED8000/doskey.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\doskey.exe"
+  },
+  {
+   "sha256": "81993a62d173d53880015bd81c8fc63c079e06ff3fe72cc8d2b78145d7b91cc7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/C21E377C8000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dbf2e1e11fd57dd0fbb2accb08778e6d838f272b3d5e814260044f0b0866b5a1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/578999D59000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "618d1a19d8ded46aad536216afdd5e5fc9787807435bb63fa130ab712b268d0c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/57898EE18000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e39514c59f14aa55fc6c8d405954463ed7f54b11725c36ef2f31f3c1ea6fe684",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/5632D845a000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "69c0c9431150ff46b0fbe0d677d085957475249f61852cb5bcc2ac75ac5d6fb6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/5632D7D68000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "64b9ea49c8a3e3c7c9daa00d4e10e988f6cfb31123e4ef0e5856c12b599d10ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/559F3B318000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "246f2dd2cdf16251cb0176b6610429f28a02b2c16b4bd595bf2558e0aab04b22",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DOSKEY.EXE",
+   "internal_name": "doskey",
+   "file_description": "Keyboard History Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/doskey.exe/559F38BAa000/doskey.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DOSKEY.EXE",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "8439225f46bd11c63f7e76b0974a660a3bc6ae45cf35af746f5f767b76c83ca9",
+   "error": "8439225f46bd: symbol server returned unindexed build be69435c38cb; 33927189b6fb: symbol server returned unindexed build ad2f70e1392e; 9bee7da90422: symbol server returned unindexed build ad2f70e1392e; ecbc5ae82c6e: symbol server returned unindexed build bdd1862ae0d6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "aeeda41f56f3ceb3e5b8c6b646d88b4d6ca888fe9b504c3fc723afa7b054f6d3",
+   "error": "aeeda41f56f3: symbol server returned unindexed build 6d82d00f7b61"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "aeeda41f56f3ceb3e5b8c6b646d88b4d6ca888fe9b504c3fc723afa7b054f6d3",
+   "error": "aeeda41f56f3: symbol server returned unindexed build 6d82d00f7b61"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "6e515b672cbfecea09af95315c9916f3f335d90a8bdae2ab58f7dafe8df22deb",
+   "error": "6e515b672cbf: symbol server returned unindexed build a78261bb7db6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "2cef464a853da7ba3410c20e37c60cb09205304029bc5829b86064ae2770ef26",
+   "error": "2cef464a853d: symbol server returned unindexed build 6560430e6bb4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "a7c74f63f7bd29ed63360061be468780d2593a428ae0a35ef56d352feed71c05",
+   "error": "a7c74f63f7bd: symbol server returned unindexed build e11d88081ace"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "65182ea1e90cba3c6369f6111afe050699966309010f72eba7707222d949d836",
+   "error": "65182ea1e90c: symbol server returned unindexed build 35b426d33143"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "4ec657b1f81e765637d6337e8f18159418921068ddffafd4d103e2f4c36c557d",
+   "error": "4ec657b1f81e: symbol server returned unindexed build 26501c0efe1b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "4ec657b1f81e765637d6337e8f18159418921068ddffafd4d103e2f4c36c557d",
+   "error": "4ec657b1f81e: symbol server returned unindexed build 26501c0efe1b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "543819e74fd619ea3d45d1ad1640907b16b576813f0f8df9ea0c63b48dc4e323",
+   "error": "543819e74fd6: symbol server returned unindexed build 5628dc2aec6c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "a1dbcadc2964dc2855e2bf09ae0e3c254b6a2c0a2122679f4576dce8e124bd2e",
+   "error": "a1dbcadc2964: symbol server returned unindexed build 9365635cd0e9; 543819e74fd6: symbol server returned unindexed build 5628dc2aec6c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "543819e74fd619ea3d45d1ad1640907b16b576813f0f8df9ea0c63b48dc4e323",
+   "error": "543819e74fd6: symbol server returned unindexed build 5628dc2aec6c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "238a87b25b6bff90dae703090cd3f07c1160decd307669df5e9185b9b09094bc",
+   "error": "238a87b25b6b: symbol server returned unindexed build 8d5bd94b9d97; 4d24a08d1b16: symbol server returned unindexed build 8d5bd94b9d97; a1dbcadc2964: symbol server returned unindexed build 9365635cd0e9; 543819e74fd6: symbol server returned unindexed build 5628dc2aec6c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "238a87b25b6bff90dae703090cd3f07c1160decd307669df5e9185b9b09094bc",
+   "error": "238a87b25b6b: symbol server returned unindexed build 8d5bd94b9d97; a1dbcadc2964: symbol server returned unindexed build 9365635cd0e9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "8f88cd2fb4702e8f15a5afcdf827e5655e8b9badf117be70a9914b3835909a9c",
+   "error": "8f88cd2fb470: symbol server returned unindexed build 96a3b2b8268d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "8f88cd2fb4702e8f15a5afcdf827e5655e8b9badf117be70a9914b3835909a9c",
+   "error": "8f88cd2fb470: symbol server returned unindexed build 96a3b2b8268d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "6f53fdd20605b2852580b3074ae88a993f8a36d176fad60f1240c26c42db8b03",
+   "error": "6f53fdd20605: symbol server returned unindexed build 4d8cf1b26cad"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "d680850b5cd3d994094a1b9226b3ae2f1b34b461907d1849e3467546ba90e968",
+   "error": "d680850b5cd3: symbol server returned unindexed build 9e57c27657cb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "a29c3ad530bd8fd10a56b9ba18e63ba721f94b5ba8176bf0663d2d2b2ca93a69",
+   "error": "a29c3ad530bd: symbol server returned unindexed build 7ccd9c7f964c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "59f8910653ef69dccd0e1c4ef13fd13e5162afd8eae96d8dd75f73a7f0a4d442",
+   "error": "59f8910653ef: symbol server returned unindexed build 02f3cd6262c3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "38ae625f758f29c77b225a152d970f6472896cd9763a958ad5101c9c08682803",
+   "error": "38ae625f758f: symbol server returned unindexed build caca685abeb1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "38ae625f758f29c77b225a152d970f6472896cd9763a958ad5101c9c08682803",
+   "error": "38ae625f758f: symbol server returned unindexed build caca685abeb1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "9d9568d16da949eedfe608e40f92433a3340a6676fc0d9ebd027d13ef18ac3cf",
+   "error": "9d9568d16da9: symbol server returned unindexed build 0a1ff7632764"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "3aaf2bd13c0a23773345bc0d150031a68da1ff10cce2de87cbb615bedbfb450d",
+   "error": "3aaf2bd13c0a: symbol server returned unindexed build 3a221e715b41; 9d9568d16da9: symbol server returned unindexed build 0a1ff7632764"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "9d9568d16da949eedfe608e40f92433a3340a6676fc0d9ebd027d13ef18ac3cf",
+   "error": "9d9568d16da9: symbol server returned unindexed build 0a1ff7632764"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "724ffb11062c681aa11923f212ae22739eb010e80b0650025504c5381134eba3",
+   "error": "724ffb11062c: symbol server returned unindexed build 6b0bf7a8e8d9; 173847be0de0: symbol server returned unindexed build 6b0bf7a8e8d9; 3aaf2bd13c0a: symbol server returned unindexed build 3a221e715b41; 9d9568d16da9: symbol server returned unindexed build 0a1ff7632764"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "724ffb11062c681aa11923f212ae22739eb010e80b0650025504c5381134eba3",
+   "error": "724ffb11062c: symbol server returned unindexed build 6b0bf7a8e8d9; 3aaf2bd13c0a: symbol server returned unindexed build 3a221e715b41"
+  }
+ ]
+}

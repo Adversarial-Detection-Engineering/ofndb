@@ -1,0 +1,591 @@
+{
+ "name": "wlanext.exe",
+ "builds": [
+  {
+   "sha256": "c269e97bf3f1832912a8f89a04b83658d8efb3be0978571cc400a71ddb1d8b2e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/52E483FC1d000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4af9bd1f84f2a7e0b14aaa1c6c3d803c868a9a203263548ea9465024e70dac56",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/204A167125000/wlanext.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wlanext.exe"
+  },
+  {
+   "sha256": "488e5808c21a60912b50ad0674f26874dd5fed554f403777cd3ba22a1de2e400",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/EDC94F3D25000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2e14dc3c21e4fba1386240ce9cd1119d326fa0c450c6c0bc614de65b6df914eb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/CDF3F54E1d000/wlanext.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wlanext.exe"
+  },
+  {
+   "sha256": "c3e3eb121b5249c9b466808561db6aa5830d130d976d35dba0293bd48731d17c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-05-28",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/916BD8D81d000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "318381ffe550b069f8aa88a72c1ac164e9ad8517722cf912a43e8f5aa3b4a5a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-05-28",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/6D80BA2D25000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ddb1ec5e7029d8d419ba365888ebf1494f4c5d5ffcd2f0161cefd1b01ded82bb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/6383D85517000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "90ba99f33f2e6e16479787fa752aac77efa5eab80187f3aa1e464223eb18f392",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/B0A313651e000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "812af9d4eed65108c869c667cee662e2efa7dfcc5885fc0fe79cbe3c88126c47",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/57899AEE1d000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3a326018b2b5c7fe108e85fe666fdb1c5e88e524050311456a730c4f715202b7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/578990CE18000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d23445822ae6287a31c965f8ccf89d886e0cb4729248fe92f9574c0ffbf5fe64",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/5632D7B91d000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "037fb4d789e83abdf053077d9640cabb4e588f2bfb690daef8f0b5b581b407a0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/5632D73D18000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f696bced4f6608ef898bdca29ba757a07900e4031e1de74c85bd18949e6479e8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/559F3D0A18000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8eace213bcb7ec3ec5ce7f0cecf1975bca325ca26ff56b29f390e438f83ca596",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wlanext.exe",
+   "internal_name": "wlanext.exe",
+   "file_description": "Windows Wireless LAN 802.11 Extensibility Framework",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wlanext.exe/559F3A941d000/wlanext.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wlanext.exe",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1809"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "4994498ef0adf31d0e72b5e8abeff0a890be6f6d8d69a590263ec76dea81c73e",
+   "error": "4994498ef0ad: symbol server returned unindexed build 8b7f387e029d; 77fba142961d: symbol server returned unindexed build 069fdc1f1eec; a388e8b312a9: symbol server returned unindexed build 069fdc1f1eec; 15e02869b1c8: symbol server returned unindexed build 997fbbcff7a2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7b22218e02e292ce656232f5d9c315865a194e7d0e5c908e12b48f7f8c6f29b3",
+   "error": "7b22218e02e2: symbol server returned unindexed build 43620ef32727"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7b22218e02e292ce656232f5d9c315865a194e7d0e5c908e12b48f7f8c6f29b3",
+   "error": "7b22218e02e2: symbol server returned unindexed build 43620ef32727"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b476038e8a77c0ff9e1d03b85dfa900c04462c0983187b4a9da011da5e894170",
+   "error": "b476038e8a77: symbol server returned unindexed build 2ea11940fb54"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "20a3b4e153a67dd5f1466ae0c01941999dcaf459ff59053177a1b14d400ba66d",
+   "error": "20a3b4e153a6: symbol server returned unindexed build 25fc343dc5e3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "ef2cd03fb45cb7c5815edfe6d2c7853057ce363305e644577bfe25dcb0cf35af",
+   "error": "ef2cd03fb45c: symbol server returned unindexed build 03b6e9557885"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d70707b830b7a0a4683ca2169328131a385da0f859b96704653d59c6afae04ad",
+   "error": "d70707b830b7: symbol server returned unindexed build b60293a6691a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d70707b830b7a0a4683ca2169328131a385da0f859b96704653d59c6afae04ad",
+   "error": "d70707b830b7: symbol server returned unindexed build b60293a6691a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52",
+   "error": "8456099deb99: symbol server returned unindexed build 087e6d28b81b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52",
+   "error": "8456099deb99: symbol server returned unindexed build 087e6d28b81b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52",
+   "error": "8456099deb99: symbol server returned unindexed build 087e6d28b81b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52",
+   "error": "8456099deb99: symbol server returned unindexed build 087e6d28b81b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52",
+   "error": "8456099deb99: symbol server returned unindexed build 087e6d28b81b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "897fc8a837a79b7888d360900b1572148df81e9d7fd20394615843632d00c5f6",
+   "error": "897fc8a837a7: symbol server returned unindexed build c5fdccc254ed; 08e811b03ab0: symbol server returned unindexed build 0043e8e74039; 1d729af33333: symbol server returned unindexed build 0043e8e74039; f7596065864b: symbol server returned unindexed build 2b1e02bf86d7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "99f5a6bdfd6af00197b446df990e9a8ca3ba4ea93a9fdc61677c0488a886a8d4",
+   "error": "99f5a6bdfd6a: symbol server returned unindexed build 93ddd78a60c9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "99f5a6bdfd6af00197b446df990e9a8ca3ba4ea93a9fdc61677c0488a886a8d4",
+   "error": "99f5a6bdfd6a: symbol server returned unindexed build 93ddd78a60c9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "e8683b22597634bc3de4608a36d2f684613276898127c0abd2bbc4a1f51ee598",
+   "error": "e8683b225976: symbol server returned unindexed build 57af550bfcec"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "ec1c6e86801652f8221cb69bbd08dfaac199a8e9bebb631808663f86a864dd8f",
+   "error": "ec1c6e868016: symbol server returned unindexed build e9911d6617c6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "8ebed9231f3b6f80d4d41e0d741f185635bb0f2379c552b94595bdb5f4c111f8",
+   "error": "8ebed9231f3b: symbol server returned unindexed build 41efef46411b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "eea910712ed819ab42d80833df0b0666de6d8971a03a791fc4d598aec75efa70",
+   "error": "eea910712ed8: symbol server returned unindexed build d4ef91ea4b11"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "eea910712ed819ab42d80833df0b0666de6d8971a03a791fc4d598aec75efa70",
+   "error": "eea910712ed8: symbol server returned unindexed build d4ef91ea4b11"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "3c928b9aff2e651aa35ea798c29fde398e9f7817e3451ae0f4c97c86630dc92b",
+   "error": "3c928b9aff2e: symbol server returned unindexed build d13cc074894e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "3c928b9aff2e651aa35ea798c29fde398e9f7817e3451ae0f4c97c86630dc92b",
+   "error": "3c928b9aff2e: symbol server returned unindexed build d13cc074894e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "3c928b9aff2e651aa35ea798c29fde398e9f7817e3451ae0f4c97c86630dc92b",
+   "error": "3c928b9aff2e: symbol server returned unindexed build d13cc074894e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "3c928b9aff2e651aa35ea798c29fde398e9f7817e3451ae0f4c97c86630dc92b",
+   "error": "3c928b9aff2e: symbol server returned unindexed build d13cc074894e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "3c928b9aff2e651aa35ea798c29fde398e9f7817e3451ae0f4c97c86630dc92b",
+   "error": "3c928b9aff2e: symbol server returned unindexed build d13cc074894e"
+  }
+ ]
+}

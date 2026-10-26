@@ -1,0 +1,564 @@
+{
+ "name": "ctfmon.exe",
+ "builds": [
+  {
+   "sha256": "ec87e76c638f871ad19d4553dce4619f23252f0902a70a764e2331cd37f83f76",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/EF238AE411000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d72a59e34b0fe2e3e4939b54945a92cc43779a85ea59b72583ba0b128a5b3308",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/D2ED375711000/ctfmon.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ctfmon.exe"
+  },
+  {
+   "sha256": "78bed55b69c3a92757bbb7c20a26204e653594b2425af630d9ff6ddb193bfb90",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/C7D5932Ed000/ctfmon.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ctfmon.exe"
+  },
+  {
+   "sha256": "593e26525851446f2ad4299bc39fd5ee8b741bc8bd143745ecf54f4e4d5159e4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/9A9CCDD6d000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f219f0975e70935d0bd4898bc568b146603c1d2e07ece027f5e5b5e4ead203d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-03-27",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/77F7A38D11000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "84488e0b4925f132a4ba36055b19728c5b02afa38bb16aa81a6bf8d04249d2c3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-03-27",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/A4431067d000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "171abacad96cd027317621fc8fb74aa3b8c13bf25eba79955b0e51bb90c6a843",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/578991486000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "103c028f6ed13fdf916b0b15138bdfe66cac0d667d735d853fc8e45341fe8a3a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/57899B6D7000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7d5a8cd92019711ddfdbb10e232951d62862ed66ea3278f31448f7568eadf6e3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/5632D8427000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ea5ab4040c17f56cc9edeed6b604e1d98848d463d8bbc58b00418f1520a183f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/5632D7D36000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f41cab5aa0055f88fee3e50d973395f264bee15434baf5a1cc59ef6e43ff67ac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/559F3B886000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cac1ff200fb483f24f4a10214dd1f00ed9632c27a4b23ecc27750262cf72141e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTFMON.EXE",
+   "internal_name": "CTFMON",
+   "file_description": "CTF Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ctfmon.exe/559F39017000/ctfmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CTFMON.EXE",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "0485b01bf15802441fe1671cae60cdf82697b121b8eb21c2d5205ce6aae7ffbe",
+   "error": "0485b01bf158: symbol server returned unindexed build af295835ef00"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7e067b7da5da60458b5f7d5a99bc7c7c1f41999cd2559985f09267b1ec2e56ec",
+   "error": "7e067b7da5da: symbol server returned unindexed build 7c6d6d9ce945"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7e067b7da5da60458b5f7d5a99bc7c7c1f41999cd2559985f09267b1ec2e56ec",
+   "error": "7e067b7da5da: symbol server returned unindexed build 7c6d6d9ce945"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b0a28a836bacd2a8f159935cd83c572ff78a6d381f7147692bf2562cc5f0023b",
+   "error": "b0a28a836bac: symbol server returned unindexed build db3cc0079150"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "2044761993128fd254e71e5fe35b404bf5212b5cb9093d7a985373fb45fe23cd",
+   "error": "204476199312: symbol server returned unindexed build 0293bd5e6d0c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "087f663d2755fbd1c8b8461bc12ee3957130c750126bd13cc69295913250b628",
+   "error": "087f663d2755: symbol server returned unindexed build 87908e9b226a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "2d88ab60714d7caa53b06653cdd31e14093121cebf3bb7eb7ca0f1b9f04a3a8a",
+   "error": "2d88ab60714d: symbol server returned unindexed build 12ea41ccd714"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "a0df21d82daa60f8181589f4ce96441891b6e13716f353e9d71c8b303cf398d2",
+   "error": "a0df21d82daa: symbol server returned unindexed build fd4f9205ecbf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "a0df21d82daa60f8181589f4ce96441891b6e13716f353e9d71c8b303cf398d2",
+   "error": "a0df21d82daa: symbol server returned unindexed build fd4f9205ecbf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012",
+   "error": "484fed5f039f: symbol server returned unindexed build 253bcb6ea47a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012",
+   "error": "484fed5f039f: symbol server returned unindexed build 253bcb6ea47a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012",
+   "error": "484fed5f039f: symbol server returned unindexed build 253bcb6ea47a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012",
+   "error": "484fed5f039f: symbol server returned unindexed build 253bcb6ea47a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012",
+   "error": "484fed5f039f: symbol server returned unindexed build 253bcb6ea47a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "30d7f3c7386c36c622f61fbe4eb51e8974f4ab3500c4b83291a19a120ee4fad6",
+   "error": "30d7f3c7386c: symbol server returned unindexed build 79673db362fb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "78c354a2e598a8db25df94f9e40521e3980bc40bc9f1755241aa8fea5dc15b9d",
+   "error": "78c354a2e598: symbol server returned unindexed build d299d6d202c4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "78c354a2e598a8db25df94f9e40521e3980bc40bc9f1755241aa8fea5dc15b9d",
+   "error": "78c354a2e598: symbol server returned unindexed build d299d6d202c4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "2c93315bcb6fc63c7afee7bfd0cb2118d8db9fc045b4077f76215c08ccbfc87d",
+   "error": "2c93315bcb6f: symbol server returned unindexed build 8c8e39ccea2b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "42886104033abb4724c891666c5fc6024dca6114c4b6955d6777edebbda333ca",
+   "error": "42886104033a: symbol server returned unindexed build 58a458e0046e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "8b344d2450dbd004a07433db12eb89aea0a24209d1e4829f881e1ee09db7f76b",
+   "error": "8b344d2450db: symbol server returned unindexed build b089f6a91da7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "81ca60464f7e079a3f3411968cfea5eade8085a5b96ef46621e07319dc404f1e",
+   "error": "81ca60464f7e: symbol server returned unindexed build 21ae75704808"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "ced6ea595e441b17dcac9109031215601728ed04cdada8d9e1893546ac3e1657",
+   "error": "ced6ea595e44: symbol server returned unindexed build 968f9c7c829c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "ced6ea595e441b17dcac9109031215601728ed04cdada8d9e1893546ac3e1657",
+   "error": "ced6ea595e44: symbol server returned unindexed build 968f9c7c829c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "33ad4738b6342c9cc2da01402b26a4424c0adfddde9936d8926a86bf8d80d44f",
+   "error": "33ad4738b634: symbol server returned unindexed build 436be23e3e87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "33ad4738b6342c9cc2da01402b26a4424c0adfddde9936d8926a86bf8d80d44f",
+   "error": "33ad4738b634: symbol server returned unindexed build 436be23e3e87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "33ad4738b6342c9cc2da01402b26a4424c0adfddde9936d8926a86bf8d80d44f",
+   "error": "33ad4738b634: symbol server returned unindexed build 436be23e3e87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "33ad4738b6342c9cc2da01402b26a4424c0adfddde9936d8926a86bf8d80d44f",
+   "error": "33ad4738b634: symbol server returned unindexed build 436be23e3e87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "33ad4738b6342c9cc2da01402b26a4424c0adfddde9936d8926a86bf8d80d44f",
+   "error": "33ad4738b634: symbol server returned unindexed build 436be23e3e87"
+  }
+ ]
+}

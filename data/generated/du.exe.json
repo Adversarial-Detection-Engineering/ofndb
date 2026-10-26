@@ -1,0 +1,47 @@
+{
+ "name": "du.exe",
+ "builds": [
+  {
+   "sha256": "f23c10c525f2273d53293c56821b7095732ace091b7825ed7b21bf79b05d52a9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "du.exe",
+   "internal_name": "DU",
+   "file_description": "Directory disk usage reporter",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Du",
+   "file_version": "1.62",
+   "fixed_file_version": "1.62.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Du",
+   "release": "2020-11-04",
+   "last_seen": "2020-11-04",
+   "download_url": "https://live.sysinternals.com/du.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "du.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.62.0.0",
+   "max_version": "1.62.0.0",
+   "first_seen": "2020-11-04",
+   "last_seen": "2020-11-04",
+   "provenance": "parsed"
+  }
+ ]
+}

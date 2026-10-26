@@ -1,0 +1,44 @@
+{
+ "name": "dsregcmd.exe",
+ "builds": [
+  {
+   "sha256": "78cfafc3329fe00c75151d8a5b8f4f8876971501c8b79f97d0e4e03d0f609d57",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dsregcmd.exe",
+   "internal_name": "dsregcmd.exe",
+   "file_description": "DSREG commandline tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dsregcmd.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dsregcmd.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

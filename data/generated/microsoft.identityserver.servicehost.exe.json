@@ -1,0 +1,71 @@
+{
+ "name": "microsoft.identityserver.servicehost.exe",
+ "builds": [
+  {
+   "sha256": "16269db8ed1e164bee5dc78903a430486cf408bcea6361d938672d0c4e67d0a0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Microsoft.IdentityServer.ServiceHost.exe",
+   "internal_name": "Microsoft.IdentityServer.ServiceHost.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.14393.9339",
+   "fixed_file_version": "10.0.14393.9339",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoft.identityserver.servicehost.exe/6A51BC1312000/microsoft.identityserver.servicehost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Microsoft.IdentityServer.ServiceHost.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1607"
+   ],
+   "min_version": "10.0.14393.9339",
+   "max_version": "10.0.14393.9339",
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "cca68152b06640ddede1fc2548d80d1946b12af5c19eee026648cfd9fb8b2e6a",
+   "error": "cca68152b066: symbol server returned unindexed build bcb66cf0afe8; db9f7171a0ef: symbol server returned unindexed build bcb66cf0afe8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "c53f9371e5d68452464e170350f4204b3035a2f1b5e3ab9bdd93ad0d0539dd91",
+   "error": "c53f9371e5d6: symbol server returned unindexed build 9a0d2296a8d7; 3cc940d4e1d4: symbol server returned unindexed build 0f25837b2f2a; ce48719530db: symbol server returned unindexed build 9925a7991fd2"
+  }
+ ]
+}

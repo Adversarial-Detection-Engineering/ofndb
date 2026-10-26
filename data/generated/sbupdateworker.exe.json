@@ -1,0 +1,44 @@
+{
+ "name": "sbupdateworker.exe",
+ "builds": [
+  {
+   "sha256": "4d4f91a8830a1cd419af85c398026f251c3302923ebf3d8dd501340049ed58b3",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SbUpdateWorker.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

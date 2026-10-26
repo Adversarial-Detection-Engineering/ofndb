@@ -1,0 +1,47 @@
+{
+ "name": "volumeid.exe",
+ "builds": [
+  {
+   "sha256": "22a2484d7fa799e6e71e310141614884f3bc8dad8ac749b6f1c475b5398a72f3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "volumeid.exe",
+   "internal_name": "VolumeId",
+   "file_description": "Set disk volume id",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals VolumeId",
+   "file_version": "2.1",
+   "fixed_file_version": "2.1.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals VolumeId",
+   "release": "2016-06-12",
+   "last_seen": "2016-06-12",
+   "download_url": "https://live.sysinternals.com/Volumeid.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "volumeid.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.1.0.0",
+   "max_version": "2.1.0.0",
+   "first_seen": "2016-06-12",
+   "last_seen": "2016-06-12",
+   "provenance": "parsed"
+  }
+ ]
+}

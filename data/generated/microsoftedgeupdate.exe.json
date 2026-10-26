@@ -1,0 +1,63 @@
+{
+ "name": "microsoftedgeupdate.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "bd9699e3da3de952145565d1825da68c3880c7e92af1d5ea94589d0a5820f668",
+   "error": "bd9699e3da3d: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/6084894237000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "54545f352215a9c0f370a01980aadcd5749a93589931662d89a974d7bd60f476",
+   "error": "54545f352215: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/622101ED37000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "54545f352215a9c0f370a01980aadcd5749a93589931662d89a974d7bd60f476",
+   "error": "54545f352215: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/622101ED37000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-24H2",
+   "sha256": "f3c7bab6a7652e58719ce96edfeff483316668bd48d912694f1175fb397b86fd",
+   "error": "f3c7bab6a765: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/65FCA5DE35000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "be2ed45d2b26d6841a9698bccc7d9d00aab5fa5a19061d667e1c0eb86475b464",
+   "error": "be2ed45d2b26: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/68B5E85E35000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "9991ba022173f283ee99068b708f60ac5143fe0c81c9e3673cc7835b108a4f44",
+   "error": "9991ba022173: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/5EFBFF3335000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "945f276f4055cbc95dd9dbd29aeec98ec746410be0a082e59bb97454ccf1fc98",
+   "error": "945f276f4055: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/602F529037000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "3096d8e82917a9b73f322f4b1743e52e9b0c8b3c5933a957e73e29d6973cdd5b",
+   "error": "3096d8e82917: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/60F8C6E637000/microsoftedgeupdate.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "3096d8e82917a9b73f322f4b1743e52e9b0c8b3c5933a957e73e29d6973cdd5b",
+   "error": "3096d8e82917: NotFound: https://msdl.microsoft.com/download/symbols/microsoftedgeupdate.exe/60F8C6E637000/microsoftedgeupdate.exe"
+  }
+ ]
+}

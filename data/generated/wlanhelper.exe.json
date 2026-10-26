@@ -1,0 +1,64 @@
+{
+ "name": "wlanhelper.exe",
+ "builds": [
+  {
+   "sha256": "b5184756bf86dc268f6dc4cef20e14a92679941747afb17568e4c438c4e18e07",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WlanHelper.exe",
+   "internal_name": "WlanHelper.exe",
+   "file_description": "A tool for wireless adapter settings",
+   "company_name": "Nmap Software LLC",
+   "product_name": "Npcap",
+   "file_version": "1.88",
+   "fixed_file_version": "5.1.88.504",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Npcap\\WlanHelper.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "abdcfca1a2d2017de34b993e912b27fad4d7e59e56ff82c252ba2a282688665a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WlanHelper.exe",
+   "internal_name": "WlanHelper.exe",
+   "file_description": "A tool for wireless adapter settings",
+   "company_name": "Nmap Software LLC",
+   "product_name": "Npcap",
+   "file_version": "1.88",
+   "fixed_file_version": "5.1.88.504",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Npcap\\WlanHelper.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WlanHelper.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "5.1.88.504",
+   "max_version": "5.1.88.504",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

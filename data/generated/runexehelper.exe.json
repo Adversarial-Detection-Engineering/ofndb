@@ -1,0 +1,585 @@
+{
+ "name": "runexehelper.exe",
+ "builds": [
+  {
+   "sha256": "f755d993d1e94f9d122a4fb138ed307e920c784bb5d7f8fb67e1d23ac12ea30f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RunExeHelper.exe",
+   "internal_name": "RunExeHelper",
+   "file_description": "Microsoft (R) Run Exe Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/02937B991a000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e03700015dcc2553907ab460afb59c2665ad747a477d23c60eddb3584cf7ea7b",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19044.5965",
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19044.6456",
+    "19044.6575",
+    "19044.6693",
+    "19045.5796",
+    "19045.5917",
+    "19045.5968",
+    "19045.6036",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396",
+    "19045.6691",
+    "19045.6809",
+    "19045.6811",
+    "19045.6812",
+    "19045.6937",
+    "19045.7548",
+    "19045.7663",
+    "19045.7725",
+    "19045.7727",
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/2A429F5914000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d461ceaf186f80b1e693231a8a3b6bc48611bd38ef357c53fd523c2dc345b4c",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-03-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.8511",
+    "17763.8644",
+    "17763.8647",
+    "17763.8755",
+    "17763.8880",
+    "17763.9020",
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/AB63B42313000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ab33284afb9b17b0d6983fb6b79e450c2a21be4a929a1dec40b1b50f56e70c5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RunExeHelper.exe",
+   "internal_name": "RunExeHelper",
+   "file_description": "Microsoft (R) Run Exe Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/439C54631a000/runexehelper.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\runexehelper.exe"
+  },
+  {
+   "sha256": "87fc66b4749e79b663231b9a95e5e74d94d9c85ea7ca2d92664854cb84fe3160",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RunExeHelper.exe",
+   "internal_name": "RunExeHelper",
+   "file_description": "Microsoft (R) Run Exe Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/E62C0AC91c000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "421b05232d8e20df114ce8498ca6d916981eb892a0cb539e2410d429ea30fc25",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-07-11",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.2600",
+    "22000.2652",
+    "22000.2713",
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/3D9E141514000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f6a6168bccb71fddce3f816f6003489378e851ec807ebc3ece2c7d4bce742bdb",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-10-11",
+   "last_seen": "2023-06-27",
+   "os_builds": [
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/77AF104D13000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2a3dc3ee65410a29ee0520aa456c30455c42f37bd5dfda744e11aaf264f48aab",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2021-11-09",
+   "last_seen": "2022-10-18",
+   "os_builds": [
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/AE364F3913000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18aac41761e25a70cabf3c86af1146b79f94e493f0e44b8df1e1f16e24fcb034",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-11-09",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/F42C38EB13000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fc3ddd32d1c88704cd51c8d83d61df02f94b88990305db9cbe0a7b91fc2e5458",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2021-06-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/7911DA8713000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d0426ae4bdf1c4910aba092396bb1d55eabbd8246b2977cf069d1bde0711cd4b",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2020-11-30",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/8C07E07F13000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "41bdf4d68ec3345f1bf7a3b40eabad29c877e36b3edd07125a48d9138ca7c1fe",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-04-14",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/9352378F11000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1bf69e28a2d2633f685c8870972b977507c7931d2b508d97adaba67c7cf3e21a",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-08-11",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runexehelper.exe/A7DE7A051c000/runexehelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 10,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": "2020-04-14",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  },
+  {
+   "value": "RunExeHelper.exe",
+   "builds": 3,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "1b61224137b93865c266893b56f5a8308d83d35c5baec9003461d1bc97484e50",
+   "error": "1b61224137b9: symbol server returned unindexed build 8390b2f98fde; 3a5eff235d34: symbol server returned unindexed build 9882340ee6c6; 287f47415fec: symbol server returned unindexed build 64f9341f55bf; cfa07a271a94: symbol server returned unindexed build 2cc81ae62145"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "49e0fb13f6e3df5ad116a51b7b0c0f68a83ed14037bbc2f6967244bfe4549397",
+   "error": "49e0fb13f6e3: symbol server returned unindexed build 7e090e823db9; 7666b5e73ff3: symbol server returned unindexed build 7e090e823db9; cd2f9f51052a: symbol server returned unindexed build 7e090e823db9; 8ffbfa755956: symbol server returned unindexed build 7e090e823db9"
+  }
+ ]
+}

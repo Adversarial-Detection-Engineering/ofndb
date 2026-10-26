@@ -1,0 +1,44 @@
+{
+ "name": "vdsldr.exe",
+ "builds": [
+  {
+   "sha256": "501982e060c1fd0b7c9ba39e2539eb32d58eef1e8c9a7631272e35691bf9a817",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vdsldr.exe",
+   "internal_name": "vdsldr.exe",
+   "file_description": "Virtual Disk Service Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\vdsldr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "vdsldr.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

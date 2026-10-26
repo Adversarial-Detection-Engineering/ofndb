@@ -1,0 +1,72 @@
+{
+ "name": "sqldumper.exe",
+ "builds": [
+  {
+   "sha256": "b11cf39ed7cdbb2f845e527c22c85b55251dbf6b63c9060b2dfcacdb7ae382ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SqlDumper.exe",
+   "internal_name": "SqlDumper",
+   "file_description": "SQL External minidumper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft SQL Server",
+   "file_version": "2014.0120.5214.06 ((SQL14_PCU_main).180109-1405)",
+   "fixed_file_version": "2014.120.5214.6",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-06-10",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sqldumper.exe/5A55495344000/sqldumper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SqlDumper.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "min_version": "2014.120.5214.6",
+   "max_version": "2014.120.5214.6",
+   "first_seen": "2025-06-10",
+   "last_seen": "2025-12-09",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

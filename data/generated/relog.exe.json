@@ -1,0 +1,64 @@
+{
+ "name": "relog.exe",
+ "builds": [
+  {
+   "sha256": "b6bf9bc18428459ec1f40016867f79b2adce39711bedb57a631c0a5a670d2c8d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Relog.exe",
+   "internal_name": "Relog.exe",
+   "file_description": "Performance Relogging Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\relog.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "0810f59a6b2924ad1768b55a9123eedc58f9ae25d2c1122f797c5c578e036c1d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Relog.exe",
+   "internal_name": "Relog.exe",
+   "file_description": "Performance Relogging Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\relog.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Relog.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

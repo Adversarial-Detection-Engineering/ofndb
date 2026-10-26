@@ -1,0 +1,927 @@
+{
+ "name": "net1.exe",
+ "builds": [
+  {
+   "sha256": "8489db35375d890314eb8f7cd9e0cbd3866475f4e252865f00f649b0a02fd757",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/FFD2978339000/net1.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\net1.exe"
+  },
+  {
+   "sha256": "627b9b6cc628cd5bc6d291a57c36d577b0ff9aa48627eae9b6dce1b1f43eab0f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/445D7E7439000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4f328003b5b6c70491a40728e0c6d4d086791590327b7dc7b65d5c97c72a8853",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/9F334E2C31000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0baad631c2f9eddb6e7d6b9abb43a5ce950515b9569c5d15aadbd1ba5725e131",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/680E1E0231000/net1.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\net1.exe"
+  },
+  {
+   "sha256": "647136c32e9e7639b251719cfe503f1bd482335aecec7ae7cb8a91b0a9805d49",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/31245CC631000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "15e3429ecce48fc6ab66371d040f4c40fb961f2ced4c7d40942279b19defe8c7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/4EBFCFD839000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "880acc6eca5fff3ebc1647b0e2832bee3face1497fec46ddf033c4a2b6c95362",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.434 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.434",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/2F88185C3e000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7a4b20eb88b6394177212c94edc172c0869739f547708bf28f7fa4675c89ba00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.434 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.434",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/2602DE5331000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18f76bc1f02a161ebdedf3142273c186d05a836addcaaee599194089fd59f398",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1466 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1466",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/13AE77B13e000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "253e6148ec7a95ea3950e032f9def1ec7c0e0cd172cc6d770d2807a64fc4a7ca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/CFF1570B3e000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0d150f5b9102dc65b71336d49d4f534324434efa2a8ce627a9da30c84343f486",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/0F17AA3E31000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2caa269271fef2afdae502a6dcbb16f241629208d7f0341eb08c5357483ca5af",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.997 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.997",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-21",
+   "last_seen": "2020-11-19",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/D48AEF1232000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "195a557e92a631e29ecf789c360a99c0f5d2d1becea33153cca60e63d04cee01",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.997 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.997",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-21",
+   "last_seen": "2020-11-19",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/021DCB993d000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e92a2fa67ad2f7367aba1abf237d245b5e36291c5a4a9f0fc04b3a0e32ff618e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/57899B243c000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "756f45004c4e80b3d3b9a1695ada3f0c46efede53a16ea29e5c8ae7dd2b568de",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/5789909632000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d2a23bb4aafdc4e130dc75dde6cf28e7961470a7243b9b5bc53d344fc6741f0f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/5632D71F32000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3d6de98341375c89660438934ebde5fd358030e9abc0b929c1bdf8d182fe7bff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/5632D79C3c000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "936b083485583872b7dbd143824c728ca6cc7cc9160a601da814837f58b03ffd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/559F3C0132000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1cf547eb8f935a7eda5a132c63728eeb5beb552ab3c6320f368f1d2d7aa7baeb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "net1.exe",
+   "internal_name": "net1.exe",
+   "file_description": "Net Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/net1.exe/559F398C3c000/net1.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "net1.exe",
+   "builds": 19,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1903",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "50e8ab76e511a917fd8ccf149ddac1447fd817ff703aa9fdcc51dc77ac0237be",
+   "error": "50e8ab76e511: symbol server returned unindexed build b16f7cc1f664; 1879db2abff7: symbol server returned unindexed build 6fc7a8c19baf; d3d27fdc7bd8: symbol server returned unindexed build 69d33a14d2da"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "50e8ab76e511a917fd8ccf149ddac1447fd817ff703aa9fdcc51dc77ac0237be",
+   "error": "50e8ab76e511: symbol server returned unindexed build b16f7cc1f664; 1879db2abff7: symbol server returned unindexed build 6fc7a8c19baf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "fa6c66ef1379e143a2dafd5b458796cbfe464ec88279a9bf34b085019e6bbf10",
+   "error": "fa6c66ef1379: symbol server returned unindexed build 0fc2477cfef4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "325158c8f4b250fe7438c88c8bac47aedebece852aac5926308ca7dc29d7e31c",
+   "error": "325158c8f4b2: symbol server returned unindexed build 85933aea4e30"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "ffc30745be3b6c2771fc4b2993cff50b5226b271c412467e97b1dc1086dea888",
+   "error": "ffc30745be3b: symbol server returned unindexed build 78440b1edba4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "c687157fd58eaa51757cda87d06c30953a31f03f5356b9f5a9c004fa4bad4bf5",
+   "error": "c687157fd58e: symbol server returned unindexed build f98a2803dcee"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6be60f7267948d5b6d733af0bfd29c20570bb42c0f28b997096689266f9262ab",
+   "error": "6be60f726794: symbol server returned unindexed build 33a968a9ff1d; 286e7f127b06: symbol server returned unindexed build a7974ce10822"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "fe9c3cb1d90a1f489daa71357ac7b1cbac9ef8e415ad441f70cf8cae9894a831",
+   "error": "fe9c3cb1d90a: symbol server returned unindexed build b70d128e1d61; e692c373c881: symbol server returned unindexed build 4e7b980e29c8; b73fd3990df0: symbol server returned unindexed build 26b5552ff178"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "fe9c3cb1d90a1f489daa71357ac7b1cbac9ef8e415ad441f70cf8cae9894a831",
+   "error": "fe9c3cb1d90a: symbol server returned unindexed build b70d128e1d61; e692c373c881: symbol server returned unindexed build 4e7b980e29c8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "7cedd01ce9b06ee1586a899b48fb734e5fe22a976f4d27bab81ed0ee9f833d90",
+   "error": "7cedd01ce9b0: symbol server returned unindexed build 1e7cf9b3c144"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "524061b58841210842f52b7863e51953fcff343b8c2ff46dfe9c8329bb439d46",
+   "error": "524061b58841: symbol server returned unindexed build f856b5806396"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "14cc5be4c833acc652195dead113e1c3b4ac0b98ea1aead11957836f9ae721cf",
+   "error": "14cc5be4c833: symbol server returned unindexed build a6fe58dce5f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "383ecc5dbcdd98163c556ca6e4486c5dc6a35c3f1cff88dcf12da2cdaba80970",
+   "error": "383ecc5dbcdd: symbol server returned unindexed build b6b65b5fd435"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "06beb43802d347390b9cdbfe63d1cffc35748a73f9266b2fc8bfe907d57c3247",
+   "error": "06beb43802d3: symbol server returned unindexed build ae1ff566c5ca; 912fc9a2d5b5: symbol server returned unindexed build 89bd0430c21a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "af471eb89c25cf2da61ff962d3d8f6dca3f7a804cf5eb0c473db1a16888b4cc3",
+   "error": "af471eb89c25: symbol server returned unindexed build 815f37d8236e; 13a5af915f75: symbol server returned unindexed build 8c2cc0342eeb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "b25cf32b7bb76d5a5121919c63e6ae77262347f4ad7b29ee3c43cbaa61f43957",
+   "error": "b25cf32b7bb7: symbol server returned unindexed build f43e3eb151f6; af471eb89c25: symbol server returned unindexed build 815f37d8236e"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "instnm.exe",
+ "builds": [
+  {
+   "sha256": "a42cfe174a3febb904d7ca6639e4567d88aded3d2d01533da1387d348142a07e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "instnm.exe",
+   "internal_name": "instnm.exe",
+   "file_description": "32-bit NetMeeting Installer for Win64",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\instnm.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "instnm.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

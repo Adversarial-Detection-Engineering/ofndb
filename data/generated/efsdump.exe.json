@@ -1,0 +1,47 @@
+{
+ "name": "efsdump.exe",
+ "builds": [
+  {
+   "sha256": "b78823c9c7a52b043f5fa6de376df685d6d8308c89973b667792987953ce3191",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "efsdump.exe",
+   "internal_name": "Sysinternals ESFDump",
+   "file_description": "EFS information dumper",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals EFSDump",
+   "file_version": "1.03",
+   "fixed_file_version": "1.0.3.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals EFSDump",
+   "release": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "download_url": "https://live.sysinternals.com/efsdump.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "efsdump.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.0.3.0",
+   "max_version": "1.0.3.0",
+   "first_seen": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "provenance": "parsed"
+  }
+ ]
+}

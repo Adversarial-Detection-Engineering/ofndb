@@ -1,0 +1,47 @@
+{
+ "name": "autorunsc64.exe",
+ "builds": [
+  {
+   "sha256": "093d1c6b91d280c9644635c667753e0aa0e78c656eb4082147bf30364787d96f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "autoruns.exe",
+   "internal_name": "Sysinternals Autoruns",
+   "file_description": "Autostart program viewer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals autoruns",
+   "file_version": "14.3",
+   "fixed_file_version": "14.30.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals autoruns",
+   "release": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "download_url": "https://live.sysinternals.com/autorunsc64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "autoruns.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "14.30.0.0",
+   "max_version": "14.30.0.0",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "provenance": "parsed"
+  }
+ ]
+}

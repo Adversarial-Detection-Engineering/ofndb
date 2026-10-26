@@ -1,0 +1,44 @@
+{
+ "name": "addinprocess32.exe",
+ "builds": [
+  {
+   "sha256": "b4507c780bd601be6eaa16ed42ae50122aa4bf38273be725f14a766fd564bbe6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AddInProcess32.exe",
+   "internal_name": "AddInProcess32.exe",
+   "file_description": "AddInProcess.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\AddInProcess32.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AddInProcess32.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

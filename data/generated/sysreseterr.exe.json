@@ -1,0 +1,44 @@
+{
+ "name": "sysreseterr.exe",
+ "builds": [
+  {
+   "sha256": "774cc1b53cb6167c9dc4e3392d7875a357d2869071d775bcfb9e47fa4e8b6cbb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SysResetErr.exe",
+   "internal_name": "SYSRESETERREXE",
+   "file_description": "Windows System Reset",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SysResetErr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SysResetErr.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

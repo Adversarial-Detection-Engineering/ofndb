@@ -1,0 +1,44 @@
+{
+ "name": "tzsync.exe",
+ "builds": [
+  {
+   "sha256": "e924bcf77b593d94219c29b336e33fc805ff26b2b0cf785ebc22f855ca2333f6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tzsync.exe",
+   "internal_name": "tzsync.exe",
+   "file_description": "TimeZone Sync Task",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tzsync.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "tzsync.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

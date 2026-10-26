@@ -1,0 +1,646 @@
+{
+ "name": "rdpclip.exe",
+ "builds": [
+  {
+   "sha256": "8fc237bc04e0da9422eb1e6d91ced9a00d308dd06ee9107307f8fa7fe5ba875f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/6A9793A26c000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8dd65549f22fb83b8e8e26eedfb7965297d696602f7c46f0ae7193b80a71739a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/585172DA97000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0dbfa90e16fd37a3662ca647ac70fcb37ac46cbb510f7edb2fde559b84eba06d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/BCEA97E396000/rdpclip.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\rdpclip.exe"
+  },
+  {
+   "sha256": "e03644d64e7544fec086d717147e7499b4425dc43bbae12960e4d05ea274a35e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/9EC749267f000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8426cbf1e4ca395c3ec893f793c8f0c8be82b1624371c4039e6b71709918a881",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.8880 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.8880",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "17763.8880"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/C8279EA572000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ee67cf21b53c763be3eacf7d032ad2ded84056242d53d5d2437a4df3c9ded82",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4484 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4484",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-06-26",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/B693F2C18c000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "13a916e4daf4dfe16a4b252455b1db16ac05ade023c1cbe80282c036c4f27506",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20915 (th1.250127-1744)",
+   "fixed_file_version": "10.0.10240.20915",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-02-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/6798854366000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "05781acada4b6bc86fc79bbbb350f402ad5ebae52ae7703a1e85c72c88e96002",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.5794 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.5794",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2025-05-28",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19045.5796",
+    "19045.5917"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/0008A21B7b000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "90f20999f9339f0941952a95a70486f3886d843f78f1540a217abc2a3de8f7a3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/D3D04C1D99000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d5be181d9309dea98039d2ce619afe745fc8a9a1b1c05cf860b3620b5203308",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-10-18",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/45B960C677000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "255c19ac60a5df430c568b1ffb5e18411369611067c778c42b2e943c242e066b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/00FFAFD86f000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "17fcbc9d1fc485614acb5bdb1e1ea7ad3e369b56f253f438112215ec7a525d3c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2283 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2283",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-02-11",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/04387F2569000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "01dc9fd40e8206da63a9b921383348ecc3ebb7b72e38e0a1e5befa292a793085",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.836 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.836",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-05-12",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/16B0C9A973000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "936b3b37c3430273ca1d9d26f9ef4bf098d78ac15355351529bc7f76725d2664",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1715 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1715",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-02-25",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/F9CF6D306e000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0623210eaf00b98b199692b6df476b2622d94b904fdfbfeff925dab2da8a111a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.239 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.239",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-07-09",
+   "last_seen": "2020-01-14",
+   "os_builds": [
+    "18362.239",
+    "18362.267",
+    "18362.295",
+    "18362.329",
+    "18362.356",
+    "18362.357",
+    "18362.387",
+    "18362.388",
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/A22AA30076000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "63ed5b682b6885cc32850fa64edce24155eb81dd4865b25a86208de14b214504",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpclip.exe",
+   "internal_name": "rdpclip.exe",
+   "file_description": "RDP Clipboard Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.839 (th2_release.170303-1605)",
+   "fixed_file_version": "10.0.10586.839",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-03-14",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpclip.exe/58BA326A67000/rdpclip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rdpclip.exe",
+   "builds": 16,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20915",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-03-14",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3c90153d0ccb4adf6944100868758e2dd97a076ff395df44f82bfb36a19af05c",
+   "error": "3c90153d0ccb: symbol server returned unindexed build 5ab863f89a9c; 6cfb7eb91b99: symbol server returned unindexed build fb46ce8c0cad; 0cc1664b835e: symbol server returned unindexed build 140902b80edc; 557b320945db: symbol server returned unindexed build 4582b1a01d0e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "fb6151a0e85460f0de881a8239dd98b16dc19db0e19882dafd934d41d7f5c5c4",
+   "error": "fb6151a0e854: symbol server returned unindexed build 999dcdbde788; 9934c4fa467d: symbol server returned unindexed build 902ed44d46b4; d045b78608f9: symbol server returned unindexed build 89857a09aed7; 43952980e464: symbol server returned unindexed build f77165527b08"
+  }
+ ]
+}

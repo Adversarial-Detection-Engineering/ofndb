@@ -1,0 +1,64 @@
+{
+ "name": "recover.exe",
+ "builds": [
+  {
+   "sha256": "b45b2d19d2d0d8b87e89bdbeaf158d84b13d472f14c0efdbb749965bebc6b19b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Recover.Exe",
+   "internal_name": "Recover",
+   "file_description": "Recover Files Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\recover.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "748f40c3f11e63f23b3a9ff995de7d08915e4df7258e075b63c2f340b75f7e2a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Recover.Exe",
+   "internal_name": "Recover",
+   "file_description": "Recover Files Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\recover.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Recover.Exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ofndb/schema/generated-record.schema.json",
+  "title": "Generated binary record (data/generated/<name>.json)",
+  "description": "Owned by the collector. Never hand-edited.",
+  "type": "object",
+  "required": ["name", "schema_version", "builds", "original_filenames"],
+  "properties": {
+    "name": { "type": "string", "pattern": "^[^A-Z]+$" },
+    "schema_version": { "const": 1 },
+    "updated": { "type": "string", "format": "date" },
+    "builds": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sha256", "sources"],
+        "properties": {
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "sources": {
+            "type": "array",
+            "minItems": 1,
+            "items": { "enum": ["winbindex", "local", "vendor", "sysinternals"] }
+          },
+          "machine": { "type": "string" },
+          "has_version_resource": { "type": "boolean" },
+          "original_filename": { "type": ["string", "null"], "minLength": 1 },
+          "fixed_file_version": { "type": ["string", "null"], "pattern": "^\\d+\\.\\d+\\.\\d+\\.\\d+$" },
+          "windows_versions": { "type": "array", "items": { "type": "string" } },
+          "first_seen": { "type": ["string", "null"] },
+          "last_seen": { "type": ["string", "null"] },
+          "download_url": { "type": "string", "format": "uri" }
+        },
+        "dependentRequired": { "original_filename": ["machine", "has_version_resource"] }
+      }
+    },
+    "original_filenames": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["value", "builds", "machines", "sources", "provenance"],
+        "properties": {
+          "value": { "type": ["string", "null"] },
+          "builds": { "type": "integer", "minimum": 1 },
+          "provenance": { "enum": ["parsed", "sensor-verified", "imported"] }
+        }
+      }
+    },
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["machine", "sha256", "error"]
+      }
+    }
+  }
+}

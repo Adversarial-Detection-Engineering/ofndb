@@ -1,0 +1,398 @@
+{
+ "name": "format.com",
+ "builds": [
+  {
+   "sha256": "5669a8f36cb64c41b15a8be4ff7a4f43fb28d23a08724096f817ebeb9204d010",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/BAF120FF11000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b97fee0d0511c39eb4d6e17cffbb82ee6af8a4a985791cd7a7a4c5a46f50ba8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/C114B4F8e000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8a1e11369b7b705bfed4185bc290a8b64eafea5c23dc14788dcf76c1c9e7afeb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/578999A9d000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7624326de9473de954a86d40c1762c6d4e05ce59834bb243cabb8731d399e88e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/57898EC8e000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f4824bebc107f991b6701897de7f55e2480821264cfaba7ce0a4a350bfba7a0e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/5632D8B7d000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3bb09624041783e3ad8615d8a3d94ed87d719eba7a5d1634f0d0a7a822837688",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/5632D85Ae000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f83a75d997c263db0555e919d67464f2d2d48593d252e006112a85c569c728aa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/559F3B2Be000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f720d64f5209c7c3c8d86e779e883dab04d8ef3807820a0b945a89fc9878428",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "format.com",
+   "internal_name": "format",
+   "file_description": "Disk Format Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/format.com/559F38B8d000/format.com",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "format.com",
+   "builds": 8,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "9ff452a474b3fe5e77dd12723bdf382481310a25761739b7e8a177d0387ddfb0",
+   "error": "9ff452a474b3: NotFound: no timestamp/image size in winbindex, no symbol server URL; 3ce2c4e9307d: NotFound: no timestamp/image size in winbindex, no symbol server URL; c5f4e1c81cc0: NotFound: no timestamp/image size in winbindex, no symbol server URL; db36f89b667a: symbol server returned unindexed build 0a06837c521f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3958a1837034fb8991ed355b0d8a42978fc0635b07057ee91afbde89cfcf28ae",
+   "error": "3958a1837034: NotFound: no timestamp/image size in winbindex, no symbol server URL; e83a6615d930: NotFound: no timestamp/image size in winbindex, no symbol server URL; b874364ce4dc: NotFound: no timestamp/image size in winbindex, no symbol server URL; 4f27e8943fea: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3958a1837034fb8991ed355b0d8a42978fc0635b07057ee91afbde89cfcf28ae",
+   "error": "3958a1837034: NotFound: no timestamp/image size in winbindex, no symbol server URL; d5c9443ffc89: symbol server returned unindexed build c24e9e4d9d17"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "77867ddfd3ddf35cc4a0867761f2c8a7fde5d29203d13999be53bc9131590d8c",
+   "error": "77867ddfd3dd: symbol server returned unindexed build 96a4f2331da5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "bff3550bcd81cf772a048019362f899bd4bc4370ce90cab5c4c7980e8b6faeb5",
+   "error": "bff3550bcd81: symbol server returned unindexed build 47c9b7d9675c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "672831bea97b2d4a1267a40e43af0b84c10c299153fded1294a7a3452dede1bc",
+   "error": "672831bea97b: symbol server returned unindexed build 9844b709f9c5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "3ab7c1dc65e19d88fb2ed814cee99303ee393ee0601e8769455dc2068f0eb7ba",
+   "error": "3ab7c1dc65e1: symbol server returned unindexed build 0779808be81e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "1fec2bb16a95216b5327f3ebb9385df7732dafeab09767c91cfdcb57d9b60f44",
+   "error": "1fec2bb16a95: symbol server returned unindexed build 0b0482b870cc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "1fec2bb16a95216b5327f3ebb9385df7732dafeab09767c91cfdcb57d9b60f44",
+   "error": "1fec2bb16a95: symbol server returned unindexed build 0b0482b870cc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "daabf5ed8438ef1a3357820433895b885d867c6447a085e9975355788ec7f578",
+   "error": "daabf5ed8438: symbol server returned unindexed build eb1bd3d51b05"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "daabf5ed8438ef1a3357820433895b885d867c6447a085e9975355788ec7f578",
+   "error": "daabf5ed8438: symbol server returned unindexed build eb1bd3d51b05"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "daabf5ed8438ef1a3357820433895b885d867c6447a085e9975355788ec7f578",
+   "error": "daabf5ed8438: symbol server returned unindexed build eb1bd3d51b05"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "daabf5ed8438ef1a3357820433895b885d867c6447a085e9975355788ec7f578",
+   "error": "daabf5ed8438: symbol server returned unindexed build eb1bd3d51b05"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "daabf5ed8438ef1a3357820433895b885d867c6447a085e9975355788ec7f578",
+   "error": "daabf5ed8438: symbol server returned unindexed build eb1bd3d51b05"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "34487fc6e515a2ce0ed666a245205b9cb0344b8fa3848dddf575848c985ca9bb",
+   "error": "34487fc6e515: NotFound: no timestamp/image size in winbindex, no symbol server URL; 479b59fdb6d0: NotFound: no timestamp/image size in winbindex, no symbol server URL; 6f80d204f940: NotFound: no timestamp/image size in winbindex, no symbol server URL; 5664f74bb0cb: symbol server returned unindexed build 81e9b4738038"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "1779821223c7ec03a63457534d9788944bff843cddc7d6c83ba542f6f1751297",
+   "error": "1779821223c7: NotFound: no timestamp/image size in winbindex, no symbol server URL; 034658587d1b: NotFound: no timestamp/image size in winbindex, no symbol server URL; ccf0274bba71: NotFound: no timestamp/image size in winbindex, no symbol server URL; ada26fd41dff: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "1779821223c7ec03a63457534d9788944bff843cddc7d6c83ba542f6f1751297",
+   "error": "1779821223c7: NotFound: no timestamp/image size in winbindex, no symbol server URL; a027c574de60: symbol server returned unindexed build b6174ee9a77c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "37800cb8eba527fc67e206042575eb989a6ebbd72e45ed52b586b4b14b7b6dbf",
+   "error": "37800cb8eba5: symbol server returned unindexed build 9156fc887e99"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "60edc44a54679ce851bbaac773618656237a243cb5585235b576ae8c055ff3ba",
+   "error": "60edc44a5467: symbol server returned unindexed build 7e9202cfa5c1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "3637bb022d777de8952770b3f155065e42238fb514136aca1fb74ec8e8690110",
+   "error": "3637bb022d77: symbol server returned unindexed build 2b320a260337"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "d02bb53706320d9271cde383685a70fec1479eec2257f40b855707a30b331cb7",
+   "error": "d02bb5370632: symbol server returned unindexed build 170f8d2b8c11"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "4532202ca83dc09e956d0bf5abdb5d4b8db5865b29431d9f62205bfc169a48b8",
+   "error": "4532202ca83d: symbol server returned unindexed build 5d27fab4581e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "4532202ca83dc09e956d0bf5abdb5d4b8db5865b29431d9f62205bfc169a48b8",
+   "error": "4532202ca83d: symbol server returned unindexed build 5d27fab4581e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "3f7050f7a0725af166bfc8fc13d51e8e179914aebaed9f86d7379e6160d77307",
+   "error": "3f7050f7a072: symbol server returned unindexed build 90b36021efa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "3f7050f7a0725af166bfc8fc13d51e8e179914aebaed9f86d7379e6160d77307",
+   "error": "3f7050f7a072: symbol server returned unindexed build 90b36021efa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "3f7050f7a0725af166bfc8fc13d51e8e179914aebaed9f86d7379e6160d77307",
+   "error": "3f7050f7a072: symbol server returned unindexed build 90b36021efa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "3f7050f7a0725af166bfc8fc13d51e8e179914aebaed9f86d7379e6160d77307",
+   "error": "3f7050f7a072: symbol server returned unindexed build 90b36021efa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "3f7050f7a0725af166bfc8fc13d51e8e179914aebaed9f86d7379e6160d77307",
+   "error": "3f7050f7a072: symbol server returned unindexed build 90b36021efa4"
+  }
+ ]
+}

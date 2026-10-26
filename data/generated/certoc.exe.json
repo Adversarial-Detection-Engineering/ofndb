@@ -1,0 +1,184 @@
+{
+ "name": "certoc.exe",
+ "builds": [
+  {
+   "sha256": "a92eec3bacc8b95ae03f8387a5908351432fecc0cb547c82a6b161e415ad3f9a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertOC.exe",
+   "internal_name": "CertOC.exe",
+   "file_description": "CertOC.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/certoc.exe/85FA57D131000/certoc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "40aed59a1365cefac1e5de1359b9e53e15f4a5af8050418cb0bfed959671c89d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertOC.exe",
+   "internal_name": "CertOC.exe",
+   "file_description": "CertOC.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certoc.exe/A7D5B8392e000/certoc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "941eb32283e894708e790cb6d611525c48435025cc2760a2fdf748ae8fc16dd5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertOC.exe",
+   "internal_name": "CertOC.exe",
+   "file_description": "CertOC.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certoc.exe/6E18610926000/certoc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a2a780ca48c547690449048b6355f767842cdcefa90644b59baf719f140f00fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CertOC.exe",
+   "internal_name": "CertOC.exe",
+   "file_description": "CertOC.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.254 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.254",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-08-30",
+   "last_seen": "2020-02-25",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.254",
+    "17134.285",
+    "17134.286",
+    "17134.320",
+    "17134.345",
+    "17134.376",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.829",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/certoc.exe/544D935722000/certoc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CertOC.exe",
+   "builds": 4,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1",
+    "1803",
+    "1809"
+   ],
+   "min_version": "10.0.17134.254",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2018-08-30",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

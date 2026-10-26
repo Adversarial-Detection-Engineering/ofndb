@@ -1,0 +1,443 @@
+{
+ "name": "tasklist.exe",
+ "builds": [
+  {
+   "sha256": "65a6b0690e2abee081a62bd9afc5afb78f8420c25a0562da5bc37cb308cbf922",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/E93B45BD17000/tasklist.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\tasklist.exe"
+  },
+  {
+   "sha256": "62800679c55682f2f5f38b3df9080d12480bea78b5b8476eace9df014f353b14",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/851CE39D1e000/tasklist.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tasklist.exe"
+  },
+  {
+   "sha256": "ecf9258bbeb3de78ced7fe1c7cdbeb2d2eb41ec4d6a4a9d5f0f805f69850d0fa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/476FA6F41c000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cc87ad2c2a96507d33a0a7e09f1e42d19c7e2aa26a4071a4d8e9dd096ebcf33e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/5DC8DE2A17000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9125887b50465ce6f7429a83bee647f723e391a42501a017b5edd939b6b95cc9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/578990D017000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "27eddac6a2e5a74df67c534393b0b025b03d61310748be016dce348a02d30a22",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/57899B4D1d000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ee668b06a7d8450b88583fff5a3b0d04655e8378d5da43ce0fb8cd3081222a70",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/5632D81D1d000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "50fbfa54bc82d65905dd0b8c96eb966f76f52d01fa006cdf35016d5151c977df",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/5632D7AB17000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ffeccfef135aff28f8abf63d6fbead4ba11a33cd6ef2fa05b1910998a2477fc5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/559F3D5017000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b0df9225c2922e6e84e4b71467608f7cfc38232325b53e918f2084aae72d18a5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tasklist.exe",
+   "internal_name": "tasklist.exe",
+   "file_description": "Lists the current running tasks",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tasklist.exe/559F3AC91d000/tasklist.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "tasklist.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709",
+    "1803"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "528eba3eaad6ea2f6893b14123cc5588ce1790176ea5c3ab274cf1ece62ddfe8",
+   "error": "528eba3eaad6: symbol server returned unindexed build 8942c9d6b122; 3751f22c3ae6: symbol server returned unindexed build 39db2d15daf6; a144dd15aca0: symbol server returned unindexed build 39db2d15daf6; b9e8ca03fe76: symbol server returned unindexed build 25ef4a2ff14f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "c54fdd83d88404a62eb945b862e13979481526d2af7a97abc92c50ecd06d4f70",
+   "error": "c54fdd83d884: symbol server returned unindexed build 61d869cc8eb5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "c54fdd83d88404a62eb945b862e13979481526d2af7a97abc92c50ecd06d4f70",
+   "error": "c54fdd83d884: symbol server returned unindexed build 61d869cc8eb5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "3a0360cd2c4859639198c139722ffadb3e03f9c2e5ec1359832590c3236b4f1d",
+   "error": "3a0360cd2c48: symbol server returned unindexed build 2542b8720875"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "d0de02e013574b1c6c940a7fb00c671b364d02e36c024ccba5ab9c3904e58d1e",
+   "error": "d0de02e01357: symbol server returned unindexed build d7810ea437d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "113c4d989a47b80905e92c06e48e03b24d44cadbf7bc7e86d948d7da9dc98252",
+   "error": "113c4d989a47: symbol server returned unindexed build a61c8c2b5a65"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "9f60240830faf4de590360561a6e249f5d0c41ff8afbb9498bbe5c1a80abd02c",
+   "error": "9f60240830fa: symbol server returned unindexed build 36e208876c9d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "9f60240830faf4de590360561a6e249f5d0c41ff8afbb9498bbe5c1a80abd02c",
+   "error": "9f60240830fa: symbol server returned unindexed build 36e208876c9d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "be7241a74fe9a9d30e0631e41533a362b21c8f7aae3e5b6ad319cc15c024ec3f",
+   "error": "be7241a74fe9: symbol server returned unindexed build 8677eed0f6d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "be7241a74fe9a9d30e0631e41533a362b21c8f7aae3e5b6ad319cc15c024ec3f",
+   "error": "be7241a74fe9: symbol server returned unindexed build 8677eed0f6d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "be7241a74fe9a9d30e0631e41533a362b21c8f7aae3e5b6ad319cc15c024ec3f",
+   "error": "be7241a74fe9: symbol server returned unindexed build 8677eed0f6d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "be7241a74fe9a9d30e0631e41533a362b21c8f7aae3e5b6ad319cc15c024ec3f",
+   "error": "be7241a74fe9: symbol server returned unindexed build 8677eed0f6d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "be7241a74fe9a9d30e0631e41533a362b21c8f7aae3e5b6ad319cc15c024ec3f",
+   "error": "be7241a74fe9: symbol server returned unindexed build 8677eed0f6d2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "5420b359d7f69fcf12b3fab3f3f30a4ad2cc4d4d66b0a9981c183eeeb4d44e6d",
+   "error": "5420b359d7f6: symbol server returned unindexed build f4cce0000bd3; f331a943769e: symbol server returned unindexed build 470e6ed8a146; e63b6dbfafdc: symbol server returned unindexed build 470e6ed8a146; 1cc4cb74fdd5: symbol server returned unindexed build dc3d82135a87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "f094c66940191ee359cd09f7cccd14c89087d8475729399c4ad530145f352d63",
+   "error": "f094c6694019: symbol server returned unindexed build 1e3c47bf33f3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "f094c66940191ee359cd09f7cccd14c89087d8475729399c4ad530145f352d63",
+   "error": "f094c6694019: symbol server returned unindexed build 1e3c47bf33f3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "b9fb02b990a518a6fe139814236d78f166dce02904445956038225f91a9edb8b",
+   "error": "b9fb02b990a5: symbol server returned unindexed build d7fb9d2fed1b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "1a3f8b8c89f7d3daa25a738e63d90c4806b3fd119596c58d335f98f96c777858",
+   "error": "1a3f8b8c89f7: symbol server returned unindexed build 03544e9664b2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "b4a874c5ccfa9a698e4a56d7453105cc7617802c385abe1603760a9bb33d39ed",
+   "error": "b4a874c5ccfa: symbol server returned unindexed build a49cf234cf87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "e25a51d329b8355d6a297e10e26f572496b6030c827bcf12b736fd3a5096b20c",
+   "error": "e25a51d329b8: symbol server returned unindexed build a2682ee3a763"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "e25a51d329b8355d6a297e10e26f572496b6030c827bcf12b736fd3a5096b20c",
+   "error": "e25a51d329b8: symbol server returned unindexed build a2682ee3a763"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "76eac7b5f53e0d58a98d5a6ddf9c97e19d1462ef65c0035d7798f89988b15ab4",
+   "error": "76eac7b5f53e: symbol server returned unindexed build 6e4edd2a9211"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "76eac7b5f53e0d58a98d5a6ddf9c97e19d1462ef65c0035d7798f89988b15ab4",
+   "error": "76eac7b5f53e: symbol server returned unindexed build 6e4edd2a9211"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "76eac7b5f53e0d58a98d5a6ddf9c97e19d1462ef65c0035d7798f89988b15ab4",
+   "error": "76eac7b5f53e: symbol server returned unindexed build 6e4edd2a9211"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "76eac7b5f53e0d58a98d5a6ddf9c97e19d1462ef65c0035d7798f89988b15ab4",
+   "error": "76eac7b5f53e: symbol server returned unindexed build 6e4edd2a9211"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "76eac7b5f53e0d58a98d5a6ddf9c97e19d1462ef65c0035d7798f89988b15ab4",
+   "error": "76eac7b5f53e: symbol server returned unindexed build 6e4edd2a9211"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "msinfo32.exe",
+ "builds": [
+  {
+   "sha256": "ca286137c000da4ce558021a121641ce8f1c64e203dff427eaa8904562263a58",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "msinfo.dll",
+   "internal_name": "msinfo.dll",
+   "file_description": "System Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\msinfo32.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "8cb39a4e105415c98032559d6fc1fd2291d4c6b44ae91a309d4a4ff97224133b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "msinfo.dll",
+   "internal_name": "msinfo.dll",
+   "file_description": "System Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\msinfo32.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "msinfo.dll",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

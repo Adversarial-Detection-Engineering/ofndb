@@ -1,0 +1,64 @@
+{
+ "name": "credwiz.exe",
+ "builds": [
+  {
+   "sha256": "5a2099efad24c038dc1248582d6c3d53c23979471bf0de2d7edf4fa0c9bec2f7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "credwiz.exe",
+   "internal_name": "credwiz.exe",
+   "file_description": "Credential Backup and Restore Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3323 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3323",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\credwiz.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "146c84dd9ac5971be48fb0683b6f3c52fcad3a45d3ef241c9aa608bb0916289e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "credwiz.exe",
+   "internal_name": "credwiz.exe",
+   "file_description": "Credential Backup and Restore Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3323 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3323",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\credwiz.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "credwiz.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.3323",
+   "max_version": "10.0.26100.3323",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

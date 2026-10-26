@@ -1,0 +1,44 @@
+{
+ "name": "eap3host.exe",
+ "builds": [
+  {
+   "sha256": "e58c1daa4c67607b527b4e406cf99f2dcc3e087022e8f9b6fbc88532a7b9f2ef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Eap3Host.EXE",
+   "internal_name": "Eap3Host",
+   "file_description": "Eap Third Party Surrogate Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Eap3Host.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Eap3Host.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

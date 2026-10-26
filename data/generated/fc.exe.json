@@ -1,0 +1,64 @@
+{
+ "name": "fc.exe",
+ "builds": [
+  {
+   "sha256": "f4d29fd93794e50a6740b9692da5dcad119d0f5a68a812357497c69ed6496ce3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FC.EXE",
+   "internal_name": "fc",
+   "file_description": "DOS 5 File Compare Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fc.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "711ee1648675dd4871e3ca586db3dd1f8d513a0b6115302fc1d8b04e3a3cc6c8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FC.EXE",
+   "internal_name": "fc",
+   "file_description": "DOS 5 File Compare Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\fc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FC.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

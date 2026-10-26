@@ -1,0 +1,64 @@
+{
+ "name": "appidtel.exe",
+ "builds": [
+  {
+   "sha256": "5026241aae54c69ee6332b0ce52c716e7b86dae3db7dbfe2509ca1a0954fe3be",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "APPIDTEL.EXE",
+   "internal_name": "appidtel",
+   "file_description": "Initializes Appid ManagedInstaller and Smartscreen Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1.00 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\appidtel.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "218d7d39668ddf073c43a7e5f6a5992d0d1494cb259226bf51433470479b67f8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "APPIDTEL.EXE",
+   "internal_name": "appidtel",
+   "file_description": "Initializes Appid ManagedInstaller and Smartscreen Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1.00 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\appidtel.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "APPIDTEL.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

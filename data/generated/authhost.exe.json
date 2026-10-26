@@ -1,0 +1,44 @@
+{
+ "name": "authhost.exe",
+ "builds": [
+  {
+   "sha256": "ee2d9c16bfb1490d148cbe7bfdb75de7caba58eea8b3e42c3424b3e8b41a1037",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AuthHost.exe",
+   "internal_name": "AuthHost",
+   "file_description": "Microsoft AuthHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AuthHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AuthHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7019",
+   "max_version": "10.0.26100.7019",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

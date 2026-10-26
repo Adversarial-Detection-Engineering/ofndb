@@ -1,0 +1,64 @@
+{
+ "name": "netcfgnotifyobjecthost.exe",
+ "builds": [
+  {
+   "sha256": "7086f2e11ebf8f80ff442eeada0b9b47eec45aa80456e8ccc6a8e803f13a0df7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "NetCfgNotifyObjectHost.exe",
+   "internal_name": "NetCfgNotifyObjectHost.exe",
+   "file_description": "Host Process for Network Driver Configuration Plugins",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\NetCfgNotifyObjectHost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "668f8191e1282105e8ef422aa14913da3ea2a4b9bcc144a71911613dbcdfe85f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NetCfgNotifyObjectHost.exe",
+   "internal_name": "NetCfgNotifyObjectHost.exe",
+   "file_description": "Host Process for Network Driver Configuration Plugins",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\NetCfgNotifyObjectHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NetCfgNotifyObjectHost.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

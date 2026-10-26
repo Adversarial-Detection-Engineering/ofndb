@@ -1,0 +1,411 @@
+{
+ "name": "customshellhost.exe",
+ "builds": [
+  {
+   "sha256": "d066f1ccc0b0bf7394938d7ccb472e4223538f27f5a37c9f762a878837a91571",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/E38A76541e0000/customshellhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\CustomShellHost.exe"
+  },
+  {
+   "sha256": "7db031e345b5e5b030a993b186d224e88bfbdbf78d2494692095c3627e210a5b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/5EE038F8a4000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d292b7d864d0c66cc47a6563370acb163f53ec70f75e85b1b0a225de30775022",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/D81F0ED01cd000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d8ce2f8f461a028dda7e4f2bfbce11c408836e7a2754a85498783613e8403f1f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/A09B9A6213c000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b1917deb8b3b8d7578c13d2ea6e29c2d35917640a279f01190750fad70391df4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6392",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2026-02-10",
+   "os_builds": [
+    "19044.6456",
+    "19044.6575",
+    "19044.6693",
+    "19045.6396",
+    "19045.6691",
+    "19045.6809",
+    "19045.6811",
+    "19045.6812",
+    "19045.6937"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/C8216D7213c000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "23832d7a6e85912323d4cdb85278680201740905e6f0e5525070ef7f4de2c1ae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5983 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5983",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-09-23",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060",
+    "22631.5984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/5353026516f000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8dd2104593f97e5c8343b73270e857e3f4f122a16f74fdfce40c9cf15b5f937f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/4E4D8BE218c000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4eeb4c8419924091957b3f143f72c2c6fe037b4c5b3cf3d24b831b5a64c94d5d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.2482 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.2482",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-09-26",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.2482",
+    "22000.2538"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/F36782E8114000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "85310c09439e9f51af5c612ba5a110fa099e170e16a365909f5d91aa7948b32c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2913",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/B0D10CFAde000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eec698cad03d94201c8ba373bffdb35d5b33ed3380a6710d5aa316b264a821cf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/65F7201Ec2000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20033667367cd4cd48b47c8365b39baba3c94be0b105f5c28617a5845e111e65",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/E05519AAda000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3df826c4524e93e6e80687a6b50157c974e4215d8d33b4ff943529dfb7eed00c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CustomShellHost.exe",
+   "internal_name": "CustomShellHost",
+   "file_description": "CustomShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1171 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1171",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-10-20",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/customshellhost.exe/2FF337C4c5000/customshellhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CustomShellHost.exe",
+   "builds": 12,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.17763.9376",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2020-10-20",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "3ced21392f1645084b01bcb39cf4b417ccd090afa904ce4745edf70663395c97",
+   "error": "3ced21392f16: symbol server returned unindexed build 77168a96f8be"
+  }
+ ]
+}

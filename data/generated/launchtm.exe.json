@@ -1,0 +1,64 @@
+{
+ "name": "launchtm.exe",
+ "builds": [
+  {
+   "sha256": "fd420b75b323359ec561a64ea30a61fe343ad78b6c60ab6fd063604cb1473e4e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LaunchTM.exe",
+   "internal_name": "LaunchTM.exe",
+   "file_description": "Task Manager Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\LaunchTM.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "58810aa67ed24971b7c37bb31e6df63fd64f69b33563d62648b359482f9f2ddc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LaunchTM.exe",
+   "internal_name": "LaunchTM.exe",
+   "file_description": "Task Manager Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\LaunchTM.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "LaunchTM.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

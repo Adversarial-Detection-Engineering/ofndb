@@ -1,0 +1,47 @@
+{
+ "name": "dbgview.exe",
+ "builds": [
+  {
+   "sha256": "4c70c68cddb2ba533540a83078aadb814a14c94f3297f7c46bc58ca158b3a3a4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Dbgview.exe",
+   "internal_name": "Sysinternals Debug Output Viewer",
+   "file_description": "DebugView",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals Debugview",
+   "file_version": "5.02",
+   "fixed_file_version": "5.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Debugview",
+   "release": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "download_url": "https://live.sysinternals.com/Dbgview.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Dbgview.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "5.2.0.0",
+   "max_version": "5.2.0.0",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "provenance": "parsed"
+  }
+ ]
+}

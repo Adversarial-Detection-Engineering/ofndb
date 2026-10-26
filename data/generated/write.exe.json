@@ -1,0 +1,363 @@
+{
+ "name": "write.exe",
+ "builds": [
+  {
+   "sha256": "97cea2bf66a715bd470f4c94adbb3a4caf8b740763651a91cf8c9bc0528d4e62",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/2BEC212A7000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ba242dbd6c86655291bbdc01afefb0a9c880265b837442ab4c210666ef07b925",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/5789919F6000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7e3485f5edd48ffce37b0b0b735cd97f5ab514aa8dc4d6bc16cc4c40fb3fb570",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/57899BE17000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e246f2baa27d2fb44531bef2061535966fdea1d35f6baa9740fe05e5dfce990a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/5632D8BA6000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cc6ab7d0a1ada84859a1e9f4e3c4443c9fc93dd7e2bcd8045414c38a138d352b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/5632D9107000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bd842c6e442d7571a14efc08e66200698f366a1bfb82c73e7ac3cdbf03708857",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/559F3C2A6000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7765dbb2325ac29307271ebe715fb172a4bc3f7c098ba18f96da7675be3689a4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "write",
+   "internal_name": "write",
+   "file_description": "Windows Write",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/write.exe/559F39AD7000/write.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "write",
+   "builds": 7,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.16299.15",
+   "first_seen": "2015-07-29",
+   "last_seen": "2017-10-17",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "1c54054478eed3d2b63f3146ad783533f020b7ec60e8ec509c9f5af8ed043376",
+   "error": "1c54054478ee: symbol server returned unindexed build 4db1a305c74a; 0a56d749ab55: symbol server returned unindexed build 4db1a305c74a; 00a625af321b: symbol server returned unindexed build 4db1a305c74a; 7dcaae3f0fe6: symbol server returned unindexed build 4db1a305c74a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "82e903f055e7f93b403c3758650c0f89a73716dd1b7d1add120b9336a00b8958",
+   "error": "82e903f055e7: symbol server returned unindexed build 292b718e5c3d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "82e903f055e7f93b403c3758650c0f89a73716dd1b7d1add120b9336a00b8958",
+   "error": "82e903f055e7: symbol server returned unindexed build 292b718e5c3d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "619487d854be358b20718b9d546dd09d43e558f336b8a670a066df0f191cf4ee",
+   "error": "619487d854be: symbol server returned unindexed build f227b0ef4510"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "ddb5594f2d6518fe54de6a515a55dbe80978e7fa9f1e5f8bed8375b3155c3cac",
+   "error": "ddb5594f2d65: symbol server returned unindexed build 5e1029c23a53"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "664256fde0e3a7c39801d91dd20204250638048e0e3f12c5891a84ffe283680a",
+   "error": "664256fde0e3: symbol server returned unindexed build 60e63cac9854"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "ee25f7a64b299968be5109c6ab8d692cebe12ff7bbafebf53918787c602f104c",
+   "error": "ee25f7a64b29: symbol server returned unindexed build 2f67496e369d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "ee25f7a64b299968be5109c6ab8d692cebe12ff7bbafebf53918787c602f104c",
+   "error": "ee25f7a64b29: symbol server returned unindexed build 2f67496e369d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "a70d52eda892edc073932b462cc367cdbfbace3f4196857d8d4fa869a13de792",
+   "error": "a70d52eda892: symbol server returned unindexed build 970dea09146d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "a70d52eda892edc073932b462cc367cdbfbace3f4196857d8d4fa869a13de792",
+   "error": "a70d52eda892: symbol server returned unindexed build 970dea09146d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "a70d52eda892edc073932b462cc367cdbfbace3f4196857d8d4fa869a13de792",
+   "error": "a70d52eda892: symbol server returned unindexed build 970dea09146d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "a70d52eda892edc073932b462cc367cdbfbace3f4196857d8d4fa869a13de792",
+   "error": "a70d52eda892: symbol server returned unindexed build 970dea09146d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "a70d52eda892edc073932b462cc367cdbfbace3f4196857d8d4fa869a13de792",
+   "error": "a70d52eda892: symbol server returned unindexed build 970dea09146d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "3875dd026772c4b2169f3001c25a169e80161cd5c405c24d4ffa07b79d5fcd57",
+   "error": "3875dd026772: symbol server returned unindexed build 55d15bc4679f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "f2bee173c6b909ca4969007ac192c7b3c896a9a67b2fadd532ae36caa63ff0da",
+   "error": "f2bee173c6b9: symbol server returned unindexed build 04f78e4a9a87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "f2bee173c6b909ca4969007ac192c7b3c896a9a67b2fadd532ae36caa63ff0da",
+   "error": "f2bee173c6b9: symbol server returned unindexed build 04f78e4a9a87"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "60fae4fdadf6c7651d29adbd6bb877e2b815366dc85fcd8cfb26627bc85f10b6",
+   "error": "60fae4fdadf6: symbol server returned unindexed build 861fd78d99d3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "1a2d52c39add8f713762eff84365d09c9f109ebcb7cac30847f9886cb54c225f",
+   "error": "1a2d52c39add: symbol server returned unindexed build 23c44bf9ae4d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "a9f8c79006e11d7902ae5d1b1169981092953f997664e8c5c8c76356543a5135",
+   "error": "a9f8c79006e1: symbol server returned unindexed build 27a0e1879715"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "0ffcc65f70860f3961694ba64dbe7d69b09b5f0d6eb095dff8349d6b2f1f0e96",
+   "error": "0ffcc65f7086: symbol server returned unindexed build 0e20cc0e0b61"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "cfbb731014e491b6fc70305d23195003cc0df802b8c9bcf4e586fd7c92900b18",
+   "error": "cfbb731014e4: symbol server returned unindexed build 20797b672fd2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "cfbb731014e491b6fc70305d23195003cc0df802b8c9bcf4e586fd7c92900b18",
+   "error": "cfbb731014e4: symbol server returned unindexed build 20797b672fd2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "6f760002730a8ca55181eb61eb7d9764d91f236efc602168f225cb0cd9180295",
+   "error": "6f760002730a: symbol server returned unindexed build f6d569506f6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "6f760002730a8ca55181eb61eb7d9764d91f236efc602168f225cb0cd9180295",
+   "error": "6f760002730a: symbol server returned unindexed build f6d569506f6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "6f760002730a8ca55181eb61eb7d9764d91f236efc602168f225cb0cd9180295",
+   "error": "6f760002730a: symbol server returned unindexed build f6d569506f6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "6f760002730a8ca55181eb61eb7d9764d91f236efc602168f225cb0cd9180295",
+   "error": "6f760002730a: symbol server returned unindexed build f6d569506f6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "6f760002730a8ca55181eb61eb7d9764d91f236efc602168f225cb0cd9180295",
+   "error": "6f760002730a: symbol server returned unindexed build f6d569506f6b"
+  }
+ ]
+}

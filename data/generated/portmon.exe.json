@@ -1,0 +1,47 @@
+{
+ "name": "portmon.exe",
+ "builds": [
+  {
+   "sha256": "0e848a3911070945cb71803d466ba5a02804957b51b177c52a09ac55280ba6dd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Portmon.exe",
+   "internal_name": "Portmon",
+   "file_description": "Portmon/EE",
+   "company_name": "SysInternals",
+   "product_name": "SysInternals Portmon",
+   "file_version": "3.03",
+   "fixed_file_version": "3.0.3.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "SysInternals Portmon",
+   "release": "2012-01-13",
+   "last_seen": "2012-01-13",
+   "download_url": "https://live.sysinternals.com/portmon.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Portmon.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "3.0.3.0",
+   "max_version": "3.0.3.0",
+   "first_seen": "2012-01-13",
+   "last_seen": "2012-01-13",
+   "provenance": "parsed"
+  }
+ ]
+}

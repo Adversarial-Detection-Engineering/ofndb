@@ -1,0 +1,47 @@
+{
+ "name": "procdump64.exe",
+ "builds": [
+  {
+   "sha256": "22c2a2b09ade73a342a18dab838354385f73fc98e324b9903fd61fff949c5124",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "procdump",
+   "internal_name": "ProcDump",
+   "file_description": "Sysinternals process dump utility",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "ProcDump",
+   "file_version": "12.02",
+   "fixed_file_version": "12.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "ProcDump",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/procdump64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "procdump",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "12.2.0.0",
+   "max_version": "12.2.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

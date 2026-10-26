@@ -1,0 +1,44 @@
+{
+ "name": "speechuxwiz.exe",
+ "builds": [
+  {
+   "sha256": "ec0348a6aa74167fbb4d9081cdd00cca46139e54ffa3e4d8c1882bea8997a950",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechUXWiz.exe",
+   "internal_name": "SpeechUXWiz.exe",
+   "file_description": "Speech UX Configuration",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Speech\\SpeechUX\\SpeechUXWiz.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SpeechUXWiz.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

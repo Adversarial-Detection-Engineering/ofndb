@@ -1,0 +1,727 @@
+{
+ "name": "wabmig.exe",
+ "builds": [
+  {
+   "sha256": "e00498e14d4c5849e3369d9acb8e6918b5d74347d2f61b170ad93838ec94f59c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/E35BFC6817000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db794b1f61f4074999ca5317023d8831aa5d246d64030098d3e6375a7dc77bfa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2179 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2179",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/30631EBF14000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d3853cf5b53c2d4875ef5c7505695ba81a975884b31fb8af325e54b3a46fc6b8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/DCAD8A0217000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "551ae72aebdd3b8cc65bc1f1b2269de95541dc5a0be7a3d2c3c58b802daa342d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8328 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/43728AC314000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "74910fb9571b572073606e979048550618a23ac3dbbe261d2d7c820ec61d0689",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-03-21",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/DD324D2C17000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5b70d787503cfce8b6b2d9ffeb49542c6db4beac4639a8f820a1e8472f7c7dbb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-03-21",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/098940FE14000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db37844ad151f5951ed0448396534e3680201ffe186ddfa9f4eac798124d6d54",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/5072569E14000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2daf047689b9fc76e85131773c0cc76e953c2ad0f9e26301db9122087803b11c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/8EC783AB16000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "269ce254e001f19ae96e752b9b0df06d656cf19b8934f8004367a617ea537a4f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.1165 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.1165",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-10-25",
+   "last_seen": "2023-02-14",
+   "os_builds": [
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/259AE15915000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e558b3c588c11825f69381bcedb35648df6feb227e81beeca0f4b03565a82744",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/57899B7416000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6290fdd3643153081b8fcbdf893ee5e499aef8fa2a7dcf97963b5050de689a2a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/5789912F14000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ef617718727504ed76ff3b3165263b996c17c90ef74dc9f18c8a42c95699ea98",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/5632D7FD14000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6efb8ab6e120806de01d1e440f794baf6ba6d63ad80e18ff3379e7d6e5b293cf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/5632D86516000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "70985dabcf2497a00eb7fe4c21452bbcf7aa56db01895d130a8dac728b712668",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/559F39E616000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2c134a33c38ac56efbeb8259d731a4b30902b4c705ba15fb7b491a82c92413ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WABMIG.EXE",
+   "internal_name": "WABMIG.EXE",
+   "file_description": "Microsoft (R) Contacts Import Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wabmig.exe/559F3C6C14000/wabmig.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WABMIG.EXE",
+   "builds": 15,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2179",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "6c4ac81c4dd2ab0a1430d9a54f93227e9ab50f40be63e8385818b2b575057a2e",
+   "error": "6c4ac81c4dd2: symbol server returned unindexed build 31225e7ccf3a; 8504b738f2f0: symbol server returned unindexed build ba05d2cd16c0; 4405a0a1ef0c: symbol server returned unindexed build 67132a00a629; eca18422f251: symbol server returned unindexed build f10a10bb88fd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "eba49954042506dfcb35a1e6ef882635193672f1a695876abe4d7f4f82eb3b3d",
+   "error": "eba499540425: symbol server returned unindexed build 698a7d62711f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "eba49954042506dfcb35a1e6ef882635193672f1a695876abe4d7f4f82eb3b3d",
+   "error": "eba499540425: symbol server returned unindexed build 698a7d62711f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "1d6c96c1720d92f9c31f318de1fc80dcfa2c5475a622d0bcf7e359221dc33a86",
+   "error": "1d6c96c1720d: symbol server returned unindexed build a83ea060ddba"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "3da4026751b83632ec3645cba468656d81ccef83e0706928bcc20e5b8edc142c",
+   "error": "3da4026751b8: symbol server returned unindexed build f8793154b3e3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "13024f7eace137fd2257c9333109682309e20fb200a8194d9a948b8d1460a89b",
+   "error": "13024f7eace1: symbol server returned unindexed build 0dc2196d5f01"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "89500235e2416b8931f749e87e591b2661a3b31eb607cb654f89b5c0b84277b6",
+   "error": "89500235e241: symbol server returned unindexed build ecbfcc027079"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "3ae90703a434ba1746175d9cf9264a24f49502d9b0df4442c3b6a0a03c011b94",
+   "error": "3ae90703a434: symbol server returned unindexed build 63f237495990"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "3ae90703a434ba1746175d9cf9264a24f49502d9b0df4442c3b6a0a03c011b94",
+   "error": "3ae90703a434: symbol server returned unindexed build 63f237495990"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "5ad4fa74e71fb4ce0a885b1efb912a00c2ce3c7b4ad251ae67e6c3a8676ede02",
+   "error": "5ad4fa74e71f: symbol server returned unindexed build 8e2752724530"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "5ad4fa74e71fb4ce0a885b1efb912a00c2ce3c7b4ad251ae67e6c3a8676ede02",
+   "error": "5ad4fa74e71f: symbol server returned unindexed build 8e2752724530"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "3073ef733cb4e10c42f7c4af29e207ca7649a8f0b4ffce3663af7c57d1fa0f25",
+   "error": "3073ef733cb4: symbol server returned unindexed build c2c250157bd9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "3073ef733cb4e10c42f7c4af29e207ca7649a8f0b4ffce3663af7c57d1fa0f25",
+   "error": "3073ef733cb4: symbol server returned unindexed build c2c250157bd9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "23113b5d9bf5108e11894331c0111d51ad40b99c07ee1b41df500b570ce7ddc0",
+   "error": "23113b5d9bf5: symbol server returned unindexed build 058a6c8d0b9a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "374ec731d10624f8467f6dd52f17884587922566d794ebf92b6b4b74a605c90f",
+   "error": "374ec731d106: symbol server returned unindexed build e1e8bfad2553"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "9e2d5f04e93d4de9fbbcb0d100f7093f65fa96c2baaf309ded430442f1d8008c",
+   "error": "9e2d5f04e93d: symbol server returned unindexed build 8f81b0766919"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "f6b817340614d938ccec6c301aef530e5d5c5f8742fcd747c6fe815a9ecdafa6",
+   "error": "f6b817340614: symbol server returned unindexed build 6ec8f98db260"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "86b224b8f97f9665a5bcb902a7f584b163fa7f4350c2520011c5155ec3393d56",
+   "error": "86b224b8f97f: symbol server returned unindexed build e2e8220242a6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "86b224b8f97f9665a5bcb902a7f584b163fa7f4350c2520011c5155ec3393d56",
+   "error": "86b224b8f97f: symbol server returned unindexed build e2e8220242a6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "b165040eb5857ac06f6f058ed316f41a8cae13bc3f24b14a1f1865a391a9b00e",
+   "error": "b165040eb585: symbol server returned unindexed build 467a07c51cb1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "b165040eb5857ac06f6f058ed316f41a8cae13bc3f24b14a1f1865a391a9b00e",
+   "error": "b165040eb585: symbol server returned unindexed build 467a07c51cb1"
+  }
+ ]
+}

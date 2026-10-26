@@ -1,0 +1,47 @@
+{
+ "name": "tcpvcon64.exe",
+ "builds": [
+  {
+   "sha256": "f9fdc027050d59608062a95c41e3965e3800fd5a91f35de080a432d62bd129c1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Tcpvcon.exe",
+   "internal_name": "Tcpvcon.exe",
+   "file_description": "Sysinternals TcpVcon",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "TcpVcon",
+   "file_version": "4.19",
+   "fixed_file_version": "4.19.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "TcpVcon",
+   "release": "2023-04-11",
+   "last_seen": "2023-04-11",
+   "download_url": "https://live.sysinternals.com/tcpvcon64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Tcpvcon.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "4.19.0.0",
+   "max_version": "4.19.0.0",
+   "first_seen": "2023-04-11",
+   "last_seen": "2023-04-11",
+   "provenance": "parsed"
+  }
+ ]
+}

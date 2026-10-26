@@ -1,0 +1,47 @@
+{
+ "name": "cpustres.exe",
+ "builds": [
+  {
+   "sha256": "5497724e096b66788e284bc2c90f480a1dc8b79eab6b616f7f5615f62a651519",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CPUSTRES",
+   "internal_name": "CPUSTRES",
+   "file_description": "CPU Stress",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals CPUSTRES",
+   "file_version": "1.0.0.0",
+   "fixed_file_version": "1.0.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals CPUSTRES",
+   "release": "2019-03-25",
+   "last_seen": "2019-03-25",
+   "download_url": "https://live.sysinternals.com/CPUSTRES.EXE",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CPUSTRES",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.0.0.0",
+   "max_version": "1.0.0.0",
+   "first_seen": "2019-03-25",
+   "last_seen": "2019-03-25",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "ntprint.exe",
+ "builds": [
+  {
+   "sha256": "f021cf1bfa2f3a976f39901a13c1cb5caa61de8ee9dd4f6f7514db8683fb8339",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ntprint.exe",
+   "internal_name": "ntprint",
+   "file_description": "Printer driver software installation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ntprint.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "77b58044774b33f0b34ac0442f7b7aedac007d08fd964461fc590428d6906a00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ntprint.exe",
+   "internal_name": "ntprint",
+   "file_description": "Printer driver software installation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ntprint.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ntprint.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

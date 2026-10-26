@@ -1,0 +1,64 @@
+{
+ "name": "charmap.exe",
+ "builds": [
+  {
+   "sha256": "ecb6af4fd414a3c259215b5d9b1c9d96396543c07afbc6bc0b76e3e57dacdbcc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "charmap.exe",
+   "internal_name": "charmap.exe",
+   "file_description": "Character Map",
+   "company_name": "Microsoft Corporation",
+   "product_name": "MicrosoftÂ® WindowsÂ® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\charmap.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "21be00e71f2e2dfd06bf662ab60ff11b7b88279b34359dad048a7c7227b2622e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "charmap.exe",
+   "internal_name": "charmap.exe",
+   "file_description": "Character Map",
+   "company_name": "Microsoft Corporation",
+   "product_name": "MicrosoftÂ® WindowsÂ® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\charmap.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "charmap.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "5.2.3668.0",
+   "max_version": "5.2.3668.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,1225 @@
+{
+ "name": "shell32.dll",
+ "builds": [
+  {
+   "sha256": "fabde18eb08495564d55195a1676fa9e5c0b0d102d6fe6ac5f74dae6f7e7b496",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/2C793C98771000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d9bba817e29705414d1a12ef797352c388424fc8a5140f52b2da45f9c61d7f5a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/6AC8D4EE13d6000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c7eaa989d1bd298c59e21ab67473c4aafc78738a50f1c04fb93f662911ae0fd3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shell32.dll",
+   "internal_name": "shell32.dll",
+   "file_description": "OneCore forwarder shim",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/A101FCB412000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a8d685234c20d003e5075e959637ea94672b2b4c531f6196a4f52f78e4590f4e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/C71E7E966d0000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "90b64cdb9ee59dd2e083ec5f5ad3df494e407bd385cafabc470e7757dc72e112",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/288D4744669000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "78c64e9312eabe44ab29999e018e15768b13c7bfda27e5b8c7076cc00e439052",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/125D1DF15dc000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6c3deafc2fe84948a96af6ada1a407f089504257f0a98f56af65bb93a471756f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shell32.dll",
+   "internal_name": "shell32.dll",
+   "file_description": "OneCore forwarder shim",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/6AC8D8E610000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6239a0eb10f8f73e4ca4b112231565e61534fa535c7a8870de5da267e059b172",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shell32.dll",
+   "internal_name": "shell32.dll",
+   "file_description": "OneCore forwarder shim",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/5DE47F8B12000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "38a563d08fcc478dc4e030a01876248bd8607c9ed94894802928473f3f489c9f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shell32.dll",
+   "internal_name": "shell32.dll",
+   "file_description": "OneCore forwarder shim",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/1737A7BAd000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9415c104a7f356deb0913ddab49e2c85aed0c48088181442ed125af009797b7f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9121",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/B470F171557000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "51f1e0e8cf448116fbf53f3fa2de02a8d65fb95f782aded99806517ee170d0d8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7219 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7219",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "22631.7219"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/58F9002A89e000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "92d2135f21c8039b94040ff2314e6217c8f3ab6ca5c4ea2daa13094d710108e8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6060",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/770BFC8C6d0000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "47c7373d2aa71e39cc9feb54df92cd216e12a2f2f409b4e7b74b0c43883f7fc7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6060",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/38370C2989e000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44283b8eaf865a7cc97e2facf85c9967a6bfe11930748bf9025104724ae19f35",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/68E67F3313c1000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20927861b97552b11f3e0229b4cad4770f956a73e5b4d841ca7e8071471bb73c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/68E6862D1524000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bd11e617c092a82adecad31831389e52226a0b2792e7e3f01e5cee516c7ca4d0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/BA638CAF74d000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ae0c81938c2c8ab5177d7575f0b72bad7b7eed14437e64fd4346c06fac00f33",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/FACECC06627000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "98c702277d7c56277fbad494b240c836865c09512db2beb36af15105c04e3a8f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6396 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6396",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/925120495db000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7efec5148833b9c1d203582f75672dc8fe8c5c9c0a5248382521376d4ff0dc2e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6396 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6396",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/D58121BD770000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6428d5c215bba6e81eacb774246d6cfdbff579d43d247f55818e39cbb3a3f065",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shell32.dll",
+   "internal_name": "shell32.dll",
+   "file_description": "OneCore forwarder shim",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.7553 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.7553",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-08-19",
+   "os_builds": [
+    "17763.7558",
+    "17763.7678",
+    "17763.7683"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/9CC5A33C19000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6ddf5d3ef4a30b0456c7c99aeeb69af3a818f1282b0983f97aa7913c10b5739e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3079 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3079",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2024-07-09",
+   "os_builds": [
+    "22000.3079"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/0C0C408A616000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "249dd0fceeff44f259dd73bbe8ef53449b3059aa3f8ece8475fef87523b54b7c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3019",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2024-06-11",
+   "os_builds": [
+    "22000.3019"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/6569DAFF7c5000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5db83c3a7a5b199664f98cb8485c1cba6ae645c35de0629be58e8f58c14f08d9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2788 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2788",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/AA137D605b6000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "03b7a32454ae46a26511ad8933ba9026af099976b9e896f5251615e196e83cf8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2788 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2788",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/18DB2B76744000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6ec04de7af3e824a4284bf175d7d83443459ff01499b17ad171a3892caf02635",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shell32.dll",
+   "internal_name": "shell32.dll",
+   "file_description": "OneCore forwarder shim",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2673",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-03-14",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/98AD6F551a000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c77db04d5fe983c2bef40a87d42be943d024824dcceb03eecb5b619d0f1d0b00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2274",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/00AA129E57b000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8c0e5fc20f913f862e6bdec4b0e2167dfab8150e7da26a18ab742d890ef429f2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2158 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2158",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-03-08",
+   "last_seen": "2022-04-12",
+   "os_builds": [
+    "18363.2158",
+    "18363.2212"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/DC900F386e7000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "be3abfc607f353ce2abfb39edd1953d546478efa2bb98d613f75555407a12da1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/6AE29852744000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44697edfcc99ad00e514efd19bde5932daaf9a26688675867bd20e451ce05b7a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/971ED36C5b6000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fcba0fb863d9774791f3b5d683f4db366eb2e096aeed8a8c3811f89656cf9372",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/97F7DBB15b3000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b2a44ea6faac4fc6d45956da1c0315024a2f476d8e1a74f81f518007d7fa19ce",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2208",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/E02E05D01446000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3364470d7520154d8494394d607630b75832a9a0c25fcd2a4f289dbcfc7a6d57",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2208",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/A3A16B961350000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f136e9200e34bd2d71491791cb6911b1db05ea18539588a76ba09bbc2eb5bb1f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/53D76E871349000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1d6d4f0d63044ac7c2b8edf5f880fbe8023eeeaf6663ae18cb2e6eb41dd0a588",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/ABCBF0BF1439000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fc94c73da3185b8eb0f1bfa8669a18c19acac02031311e9247c50c02e31be755",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1237",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/8C54D7C757b000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "32f4a02472eb44e470f3fbdd704778265e2b6e1cab45d2e27757ebd18fd8201d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1237",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/4A880A396e7000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "34e088591242a0405e0a106f523ed77b81de03ff1136716922fa7eedc4c1a96c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2107 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2107",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/8971038D143e000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2e568a6831d41c0f9fab002339322bf9b25d9d208b9e72dad611beb5f7d7a833",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2107 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2107",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/6D79B8111339000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "58bdbe0d2597481bbb9f5683d21530eb89b9a024858a9a0aa3b6becc71806d4d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1478 (th2_release_sec.180228-1828)",
+   "fixed_file_version": "10.0.10586.1478",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-03-13",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/5A978CF113fe000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3df5ae6308a08abe01c12e86be04269c37ee222830c713d405adcd2442cd0fae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHELL32.DLL",
+   "internal_name": "SHELL32",
+   "file_description": "Windows Shell Common Dll",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1478 (th2_release_sec.180228-1828)",
+   "fixed_file_version": "10.0.10586.1478",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-03-13",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shell32.dll/5A979442155c000/shell32.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SHELL32.DLL",
+   "builds": 34,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-03-13",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  },
+  {
+   "value": "shell32.dll",
+   "builds": 6,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1",
+    "1607",
+    "1809",
+    "20H2"
+   ],
+   "min_version": "10.0.14393.9611",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2023-02-21",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "1903",
+   "sha256": "c0a925617826072f66e8fd822d42e9bcaae7202b8ea2713ca6ae713ceea40c19",
+   "error": "c0a925617826: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "3cfeb8405de27dd58377e8372d20e4c1656f58f4357e9c242bc26ec16532fdcb",
+   "error": "3cfeb8405de2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=7636984)"
+  }
+ ]
+}

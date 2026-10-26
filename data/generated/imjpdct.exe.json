@@ -1,0 +1,64 @@
+{
+ "name": "imjpdct.exe",
+ "builds": [
+  {
+   "sha256": "70ccf60dfa6a16d60c43d77a5fddbdb21be62ccc5d3e8589bd9446a2c10ab807",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "imjpdct.exe",
+   "internal_name": "imjpdct.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\IMEJP\\IMJPDCT.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "53650d52307afac5f531e9a6254e15c889db6c31031d1fe7a2b340365a354af7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "imjpdct.exe",
+   "internal_name": "imjpdct.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\IMEJP\\IMJPDCT.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "imjpdct.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

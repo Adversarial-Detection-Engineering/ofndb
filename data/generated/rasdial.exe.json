@@ -1,0 +1,624 @@
+{
+ "name": "rasdial.exe",
+ "builds": [
+  {
+   "sha256": "f26f584ab6b328592f01fa9d4466c4f6d6fdc43b3a37de03c73da3974f2f4cb6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/FBF7E833d000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ca1d9bcbba17340b4e511d13c766d751b25f5adcadfdc59c228b3ad6591420fd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/89F0FBF5a000/rasdial.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\rasdial.exe"
+  },
+  {
+   "sha256": "be5c4522d41a680c1c4aa69aba166d3364274ffdbd0956c7d648253b08c284d6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/37956D03d000/rasdial.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\rasdial.exe"
+  },
+  {
+   "sha256": "6014360a49f4d203546a0aa6eb343c689512a684ec88ec791e04d606465d320d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.8781 (rs1_release.251224-1746)",
+   "fixed_file_version": "10.0.14393.8781",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-01-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/694CBD17b000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4dfbf188fe8b2ffa8b5351d740411dcd12f37aefe2c083416c7f31218b1ba9ad",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/39344FC1a000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3303ec57afae917b037829ae4179f1e44fcd59abb6808f1e4423b4e7ea06f0ac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.8781 (rs1_release.251224-1746)",
+   "fixed_file_version": "10.0.14393.8781",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-01-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/694CBFF49000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e59a1baf191934091b045344390b2f1d8bbb34f4ac743cbdce0f52084a2f4919",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/651AC1BDa000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b08791c7b805fcea6c904911761e83eff8b8d626f1342c00a251b761df2f9d8f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/3256443Dd000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f8053cd2ff502dafe0393db5de62920029a86dd11e32daca1367e8fbad0f38ca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/68E67B5Db000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ca40b12b71afad14468eb7026f54967579ffcbfb19e76ea5bbdabec1ed407b9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/68E676BB9000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d93d4403597a47219729adbcaa2a92eb4c0aa26db20b7977e93a740d20955ded",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/5632D8019000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "35ad0f9bf0fc656e8219716c0adeafcb0bf3836cfa9c14d2a676457ffb4c5d68",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RASDIAL.EXE",
+   "internal_name": "RASDIAL.EXE",
+   "file_description": "Remote Access Command Line Dial UI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rasdial.exe/5632D86Bb000/rasdial.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RASDIAL.EXE",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "10.0.28000.1",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "ae8abd0dc927e9e75ab796ef251e6db5d19ebca37b8ca04ec11c6d5170a46609",
+   "error": "ae8abd0dc927: symbol server returned unindexed build 09e9d7756ef7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "f5f78f68b58c4b38f2b08428a499f697167513f6a2912269a3cb31cca3f6f3b8",
+   "error": "f5f78f68b58c: symbol server returned unindexed build 7161c017742f; a7f30b6f65f4: symbol server returned unindexed build 7161c017742f; 79f382f6394f: symbol server returned unindexed build 7161c017742f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "81e8135aa7fc9e1b67776342991e6b87181853e8e2f82f604409d339bd7c02f1",
+   "error": "81e8135aa7fc: symbol server returned unindexed build 7161c017742f; cbfd49ed18c0: symbol server returned unindexed build 7161c017742f; f5f78f68b58c: symbol server returned unindexed build 7161c017742f; a7f30b6f65f4: symbol server returned unindexed build 7161c017742f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "a7291017fd7de3e23519f93d51b747b8c124647973f476d4c352df2491cf5789",
+   "error": "a7291017fd7d: symbol server returned unindexed build 8b610796138f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "07b0f3670706b80f02d2ed7ea83844cd8f43e5fe99caad2498a1bd1a4a216fd5",
+   "error": "07b0f3670706: symbol server returned unindexed build 03cb6e27d945"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "3af9bb32948ccaa7da1bcfbfb7dce52c74d1a58f0d2d15b0725d73a3bee49c7c",
+   "error": "3af9bb32948c: symbol server returned unindexed build 458e971e6a17"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "ddf11560e23ce2708a5a528328e9d1a24077b1d5774e35f28d3b8528b6305fa3",
+   "error": "ddf11560e23c: symbol server returned unindexed build 41ce7b5b8746; 2ba7b303fdef: symbol server returned unindexed build 41ce7b5b8746; 6eed8d630eb7: symbol server returned unindexed build 41ce7b5b8746; 011fa503908f: symbol server returned unindexed build 41ce7b5b8746"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "fbaf36c2fc8c597dacbdc7976c6c541d3e8ecf2d6e8c0b302e4a95a742824169",
+   "error": "fbaf36c2fc8c: symbol server returned unindexed build d6f0cd1e49ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "fbaf36c2fc8c597dacbdc7976c6c541d3e8ecf2d6e8c0b302e4a95a742824169",
+   "error": "fbaf36c2fc8c: symbol server returned unindexed build d6f0cd1e49ed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "a5d1f1c9a53f285d027cd1d57326fb323c4b90fbfef9b9806a46328a09b7bf08",
+   "error": "a5d1f1c9a53f: symbol server returned unindexed build 866021ca4751; 31016ae60a8a: symbol server returned unindexed build d15a0051b073"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "a5d1f1c9a53f285d027cd1d57326fb323c4b90fbfef9b9806a46328a09b7bf08",
+   "error": "a5d1f1c9a53f: symbol server returned unindexed build 866021ca4751; 31016ae60a8a: symbol server returned unindexed build d15a0051b073"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "31016ae60a8aef2dbf1c399f7709bc4ff69be1e2ebae5699fa55cfca606c397a",
+   "error": "31016ae60a8a: symbol server returned unindexed build d15a0051b073"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "44e9b9b1849e24f7e877bb5ca4f0283daebdb3704725b193392af02cead7f612",
+   "error": "44e9b9b1849e: symbol server returned unindexed build 68cb2409d2a2; 9cbd83d1e3f6: symbol server returned unindexed build 68cb2409d2a2; fc3cae17d66c: symbol server returned unindexed build 68cb2409d2a2; 91f23b70c0b0: symbol server returned unindexed build 39339bef4d64"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9cbd83d1e3f6aa17c7e3bcdeba2002a59eefb8afd95b1ee1d0ee8cec699bdda1",
+   "error": "9cbd83d1e3f6: symbol server returned unindexed build 68cb2409d2a2; fc3cae17d66c: symbol server returned unindexed build 68cb2409d2a2; 91f23b70c0b0: symbol server returned unindexed build 39339bef4d64; a5d1f1c9a53f: symbol server returned unindexed build 866021ca4751"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "a19399a741c02a775f58d83db883f0f064de998fc857e699c60177a820ca73dc",
+   "error": "a19399a741c0: symbol server returned unindexed build 4d9ad36cbdcf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "e0706b4d2a7ffc1bee769edac7ed932d430de718666dc75cde369b2054e43d6d",
+   "error": "e0706b4d2a7f: symbol server returned unindexed build 5a6c27ad125d; 76779416c9b4: symbol server returned unindexed build 5a6c27ad125d; 5b7c50662db3: symbol server returned unindexed build 5a6c27ad125d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "59dc3ad2fde3baf6e3397eb7cc20509e180a7169e3c934e233fcfb4755efee00",
+   "error": "59dc3ad2fde3: symbol server returned unindexed build 5a6c27ad125d; 8eb80a6fc633: symbol server returned unindexed build 5a6c27ad125d; e0706b4d2a7f: symbol server returned unindexed build 5a6c27ad125d; 76779416c9b4: symbol server returned unindexed build 5a6c27ad125d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "1c0b14cf1a72589231e1fa110a47468038fa158552fbf9fea88914d212d9dafa",
+   "error": "1c0b14cf1a72: symbol server returned unindexed build 26800d02bc63"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "a53789478592b89f740a4980b91e2d43622e32a77335c4eab35aaee7bd7f7744",
+   "error": "a53789478592: symbol server returned unindexed build e114349bfca9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "dca299cc64f88e5b0f7a5657c2906ea67283fb41d5e1e4a50b4d5055db5e0ee5",
+   "error": "dca299cc64f8: symbol server returned unindexed build 75bb849623d7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "1e10ad36afad2d480beceac33b57e10cd749551175aa85b36ce179bab4f799ae",
+   "error": "1e10ad36afad: symbol server returned unindexed build 5c7bb12ce066; a469d02f4230: symbol server returned unindexed build 5c7bb12ce066; d31f7749d941: symbol server returned unindexed build 5c7bb12ce066; fa9ecc36bf78: symbol server returned unindexed build 5c7bb12ce066"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "54fce1edd9d726561970895668a0c8cc94542d591ee17d6d8a40ed5a531e3e0e",
+   "error": "54fce1edd9d7: symbol server returned unindexed build 85ff8f171d7c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "54fce1edd9d726561970895668a0c8cc94542d591ee17d6d8a40ed5a531e3e0e",
+   "error": "54fce1edd9d7: symbol server returned unindexed build 85ff8f171d7c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "a33f829dd3fbba909fa13abb902fad29a12e1519f295db39fdd10a28094b9942",
+   "error": "a33f829dd3fb: symbol server returned unindexed build d6503d061053; 56572b71f9e7: symbol server returned unindexed build ec30c35b9685"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "a33f829dd3fbba909fa13abb902fad29a12e1519f295db39fdd10a28094b9942",
+   "error": "a33f829dd3fb: symbol server returned unindexed build d6503d061053; 56572b71f9e7: symbol server returned unindexed build ec30c35b9685"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "56572b71f9e7e3151fad06ee724a1cc11c6d56b27981ad2e6feef0a0d759f12c",
+   "error": "56572b71f9e7: symbol server returned unindexed build ec30c35b9685"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "54fc3761c2b0d01c66eda3bebee7c649e131d98738e7aa9be31355f8fd0859ec",
+   "error": "54fc3761c2b0: symbol server returned unindexed build 7b5c926a7fc2; b1458b9b9a6e: symbol server returned unindexed build 7b5c926a7fc2; 8639edb7ad2c: symbol server returned unindexed build 7b5c926a7fc2; fe0f8b01edda: symbol server returned unindexed build 6afeeceef282"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "b1458b9b9a6ee5405326bf3f3383812fe04446c700f09d26fc1187695171df8d",
+   "error": "b1458b9b9a6e: symbol server returned unindexed build 7b5c926a7fc2; 8639edb7ad2c: symbol server returned unindexed build 7b5c926a7fc2; fe0f8b01edda: symbol server returned unindexed build 6afeeceef282; a33f829dd3fb: symbol server returned unindexed build d6503d061053"
+  }
+ ]
+}

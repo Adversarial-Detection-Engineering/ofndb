@@ -1,0 +1,44 @@
+{
+ "name": "bfsvc.exe",
+ "builds": [
+  {
+   "sha256": "7071276b963c609a407bd55ee19e7cd5b58200df3cb43cc7279ff9f4a6b03aea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bfsvc.exe",
+   "internal_name": "bfsvc.exe",
+   "file_description": "Boot File Servicing Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\bfsvc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "bfsvc.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

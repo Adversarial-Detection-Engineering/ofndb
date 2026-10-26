@@ -1,0 +1,572 @@
+{
+ "name": "sdclt.exe",
+ "builds": [
+  {
+   "sha256": "e26bd291e2024749a6d9a3a26fd45acfe412812131f3c27f994bdae883b22dda",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/3AB45942114000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9e6699bc00ddaf18938f2c948bb6d6a42f5dcde51f5216c24fdaab766cb874cd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9339 (rs1_release.260710-1833)",
+   "fixed_file_version": "10.0.14393.9339",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/6A51C0B412c000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "242959a48acd3102a37a0c3ab80bb51115054a07cf86a30a998447502f603ccd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/A36FA5A010d000/sdclt.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sdclt.exe"
+  },
+  {
+   "sha256": "8ef091f6e8af0d473acabbdcebef92bd0a8f389f35ebe90111cc820732b8fea2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-04-14",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/E4DDB0C110d000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3f9bc0ccbd0b82ec8c1403989c90af2806864fb057b710a8ad5633ae5f817d91",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20708 (th1.240626-1933)",
+   "fixed_file_version": "10.0.10240.20708",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/667D0822131000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "39d24878c4052ef14e1a087b8c95611db970bd05ce3df1ba61043e171b638165",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2965 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2965",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-05-09",
+   "last_seen": "2023-06-27",
+   "os_builds": [
+    "19042.2965",
+    "19044.3086",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/3EF9548413b000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "efd238ea79b93d07852d39052f1411618c36e7597e8af0966c4a3223f0021dc3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/FA171BCE13d000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "96531e3d550944576856c3a0c8bef6bbf5e25ea59f2137751ade5cc4601898ab",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/6C76ADA112c000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "973182a0601987f10841f4090fd282d767514d72e4097417fac2cb8639069d84",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2584",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-12-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "15063.2584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/FEAEBD5612b000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3970c36c7cd84ad93bef6d9f9419c3e711320f85e0e91fcc4334a7ae4ee75ed8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1554 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1554",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2020-10-20",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "17763.1554",
+    "17763.1577",
+    "17763.1579",
+    "17763.1613",
+    "17763.1637"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/0CDD691A12d000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ad597ee5452d85fcb2dcc08e8e20bb8af2f3bb516e52ba170dd27738e4f6b828",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2166",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/2BDE853412c000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c76af775b21ff6059d024983b23222aaf4ad8c14ffd02268c5c7f4a246035439",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1016 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1016",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-08-11",
+   "last_seen": "2020-09-16",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/B37812F512d000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e01da4a9bca82bb27c634c8419a7745dd237c20d2bf8376861b29bca980c43d2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.329 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.329",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-08-30",
+   "last_seen": "2020-01-28",
+   "os_builds": [
+    "18362.329",
+    "18362.356",
+    "18362.357",
+    "18362.387",
+    "18362.388",
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/2ACC08BB12d000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8b8c7868ffe203ff0e7a9ca4c525a0bca0d01676e8da45af5c5e80cf2f73646b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdclt.exe",
+   "internal_name": "sdclt.exe",
+   "file_description": "Microsoft® Windows Backup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.494",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sdclt.exe/5632D49C130000/sdclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sdclt.exe",
+   "builds": 14,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20708",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "860a050e51ba2319c3d0f032ffd4df3d3cfe8e215c3e05882312749a917a16c4",
+   "error": "860a050e51ba: symbol server returned unindexed build 9dffe247762d; ab2df2bad786: symbol server returned unindexed build 2f100023fc21; 66ce0efd602d: symbol server returned unindexed build 2f100023fc21; c9225eec153c: symbol server returned unindexed build 45fe782723f7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "a7c1f26f1bab95751dcf482a9c84f3bb3383b0ed333f18e46d5724f54a76322e",
+   "error": "a7c1f26f1bab: symbol server returned unindexed build 3d8dce1ae2a9; bdf9693ace60: symbol server returned unindexed build 3d8dce1ae2a9; 7f02efffaded: symbol server returned unindexed build 5bb05b2eb568; c59f2e34faf9: symbol server returned unindexed build 5bb05b2eb568"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "cf5334dc291360011c2b6f6801957720f091791c97e7d758af0ce89964a7a2ed",
+   "error": "cf5334dc2913: symbol server returned unindexed build 1e1f2a06efda; 3ad9e61f7585: symbol server returned unindexed build 1e1f2a06efda; c112d595d8d2: symbol server returned unindexed build 1e1f2a06efda; a7c1f26f1bab: symbol server returned unindexed build 3d8dce1ae2a9"
+  }
+ ]
+}

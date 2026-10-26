@@ -1,0 +1,64 @@
+{
+ "name": "useraccountcontrolsettings.exe",
+ "builds": [
+  {
+   "sha256": "f7ac05e7a634424a47cf62831643f507bed86a82bdc5c0d8157524ee216a64df",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UserAccountControlSettings.exe",
+   "internal_name": "UserAccountControlSettings",
+   "file_description": "UserAccountControlSettings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UserAccountControlSettings.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "c48d5175407a8fcac41b1584fa5cf1108b370f546e525a529945f14aedec29de",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "UserAccountControlSettings.exe",
+   "internal_name": "UserAccountControlSettings",
+   "file_description": "UserAccountControlSettings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\UserAccountControlSettings.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UserAccountControlSettings.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

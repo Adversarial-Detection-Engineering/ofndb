@@ -1,0 +1,398 @@
+{
+ "name": "more.com",
+ "builds": [
+  {
+   "sha256": "dea4ed8963aef4c8ce4aa1491410f614fd6d9b0e07737a9b634612adad731630",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/4500567Cd000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5292921b5535a0b2246fa4e43b75f944dcd0ed9495a21cf73d96171a78c91aa8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/295D7DE1a000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "257e73d12cb3d7aa3332db50706ff5310400173010bceb592678e0987d702477",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/57899B5Ec000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "22c2866054e2e2040192f3c790f4280482809477144110069f5755a36a451bbb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/57899141a000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "771c7be0a5db8158e0ea098eaa4d5c5234be4ee59e023cc29b403188d05a964a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/5632D8A8a000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f3c8aaff597ebde32266f9bd32a29249dc3059b4484c88c68df50265caee188",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/5632D8FFc000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f936a90bc59e2a3d7773497dd18b963f38d4ff4ac9ef4fa99407fed56cd8b05d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/559F3B2Ca000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "354a210d7fd97e5cb5080fee8efa036514ca4dd3897d5ff9aa66fd5ee5d1fd10",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MORE.COM",
+   "internal_name": "more",
+   "file_description": "More Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/more.com/559F38B4c000/more.com",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MORE.COM",
+   "builds": 8,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "bcf2f63f9dd72b24530448898761f6add4c38f233d255350d8b7a073fcaa1d7f",
+   "error": "bcf2f63f9dd7: NotFound: no timestamp/image size in winbindex, no symbol server URL; f71c0f82f911: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2a25aa756698: NotFound: no timestamp/image size in winbindex, no symbol server URL; c5852522022c: symbol server returned unindexed build 845f42345628"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3da0c43e01cea904576f3aae1374a147a4fe610860ea5e5e32aac1eefa40d9b8",
+   "error": "3da0c43e01ce: symbol server returned unindexed build b38363744fb9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3da0c43e01cea904576f3aae1374a147a4fe610860ea5e5e32aac1eefa40d9b8",
+   "error": "3da0c43e01ce: symbol server returned unindexed build b38363744fb9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "5747b46e210274dcd26f18130a39e72083bf6787d8d92d6aa79f1c4a3ac8b7f5",
+   "error": "5747b46e2102: symbol server returned unindexed build c7b053ad14ae"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "970002a49c59535ce51a3e6bded1ab78e63ac04ecbbd21e908b8da8b7ca9e38e",
+   "error": "970002a49c59: symbol server returned unindexed build f9df557c7941"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "8c3ff7034cd1deac448364d12784b9bbc42b5416c447d72d0027eb2df0caa777",
+   "error": "8c3ff7034cd1: symbol server returned unindexed build 21d0d16ca4e7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "b0057e98556a187a69dc7c6596c2375e41e63bbf3798f0482e115e7e171f9094",
+   "error": "b0057e98556a: symbol server returned unindexed build 6f4ed6150417"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "2fab516148396d88e1d62dc46bc767b429f5966398c037d14a0757a7d489a7bc",
+   "error": "2fab51614839: symbol server returned unindexed build ac85b9ac6e27"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "2fab516148396d88e1d62dc46bc767b429f5966398c037d14a0757a7d489a7bc",
+   "error": "2fab51614839: symbol server returned unindexed build ac85b9ac6e27"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "9ad24ff20594b4df37bfc87236868d905f51f13bf9c6f1474b1736c8e7befd24",
+   "error": "9ad24ff20594: symbol server returned unindexed build 63e3a182faed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "9ad24ff20594b4df37bfc87236868d905f51f13bf9c6f1474b1736c8e7befd24",
+   "error": "9ad24ff20594: symbol server returned unindexed build 63e3a182faed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "9ad24ff20594b4df37bfc87236868d905f51f13bf9c6f1474b1736c8e7befd24",
+   "error": "9ad24ff20594: symbol server returned unindexed build 63e3a182faed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "9ad24ff20594b4df37bfc87236868d905f51f13bf9c6f1474b1736c8e7befd24",
+   "error": "9ad24ff20594: symbol server returned unindexed build 63e3a182faed"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9ad24ff20594b4df37bfc87236868d905f51f13bf9c6f1474b1736c8e7befd24",
+   "error": "9ad24ff20594: symbol server returned unindexed build 63e3a182faed"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "d965c44ff4cfe42c46247511357e997b2180ae0459bb6a0e653c82a7a13503e4",
+   "error": "d965c44ff4cf: NotFound: no timestamp/image size in winbindex, no symbol server URL; 06361cb130a6: NotFound: no timestamp/image size in winbindex, no symbol server URL; 46cf6c99bcf1: NotFound: no timestamp/image size in winbindex, no symbol server URL; a568fbb6644a: symbol server returned unindexed build 5af96fc12080"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "cbb6c141ad78d24dd2b5623ffe1e2d2841f4c84077ee5812fe8348f3e6f7359e",
+   "error": "cbb6c141ad78: symbol server returned unindexed build 615013001b48"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "cbb6c141ad78d24dd2b5623ffe1e2d2841f4c84077ee5812fe8348f3e6f7359e",
+   "error": "cbb6c141ad78: symbol server returned unindexed build 615013001b48"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "c0b6639d95f3bbfa4f0dcbe4b7dcfdbf953afdb1be0be2b72b2483ffb953e5d5",
+   "error": "c0b6639d95f3: symbol server returned unindexed build 292d217c4efb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "c5e4761ee4c67872130aa38ee6faccd7a568bebf33ea9a03afa708d35c5c93be",
+   "error": "c5e4761ee4c6: symbol server returned unindexed build a51a5ef72d22"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "92bb23560b7ee2232cb8b1e122ae0486c7f6ccb901b065576a437b92650ee68f",
+   "error": "92bb23560b7e: symbol server returned unindexed build aa2178aa0448"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "f4b82bd60a79036f88b4655706ad66ae46c71d6c92f4a8eb11d785fca13b79f8",
+   "error": "f4b82bd60a79: symbol server returned unindexed build 726b232ee1cd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "66520bcda6a59ad4bf45a1bdd454da393bcbcda996a3fe754baba19a387c4b10",
+   "error": "66520bcda6a5: symbol server returned unindexed build d0aa0dad9034"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "66520bcda6a59ad4bf45a1bdd454da393bcbcda996a3fe754baba19a387c4b10",
+   "error": "66520bcda6a5: symbol server returned unindexed build d0aa0dad9034"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "fe65540f70c1a4c7d9625f8dc8f81fc47bacd0ffb65cb4b147e20b27a7d5d709",
+   "error": "fe65540f70c1: symbol server returned unindexed build 1ea8cb63a249"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "fe65540f70c1a4c7d9625f8dc8f81fc47bacd0ffb65cb4b147e20b27a7d5d709",
+   "error": "fe65540f70c1: symbol server returned unindexed build 1ea8cb63a249"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "fe65540f70c1a4c7d9625f8dc8f81fc47bacd0ffb65cb4b147e20b27a7d5d709",
+   "error": "fe65540f70c1: symbol server returned unindexed build 1ea8cb63a249"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "fe65540f70c1a4c7d9625f8dc8f81fc47bacd0ffb65cb4b147e20b27a7d5d709",
+   "error": "fe65540f70c1: symbol server returned unindexed build 1ea8cb63a249"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "fe65540f70c1a4c7d9625f8dc8f81fc47bacd0ffb65cb4b147e20b27a7d5d709",
+   "error": "fe65540f70c1: symbol server returned unindexed build 1ea8cb63a249"
+  }
+ ]
+}

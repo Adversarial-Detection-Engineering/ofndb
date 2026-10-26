@@ -1,0 +1,44 @@
+{
+ "name": "copilotapphost.exe",
+ "builds": [
+  {
+   "sha256": "cd23f2fdf6e2b6aa1aadd02e64deca5f159c8db4ec003161211df9de8eaa532f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "copilotapphost.dll",
+   "internal_name": "copilotapphost.dll",
+   "file_description": "copilotapphost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Copilot",
+   "file_version": "0.1.1257.0",
+   "fixed_file_version": "0.1.1257.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\undocked_copilot\\copilotapphost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "copilotapphost.dll",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "0.1.1257.0",
+   "max_version": "0.1.1257.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

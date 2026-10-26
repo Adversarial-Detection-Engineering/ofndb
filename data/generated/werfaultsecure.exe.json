@@ -1,0 +1,956 @@
+{
+ "name": "werfaultsecure.exe",
+ "builds": [
+  {
+   "sha256": "e88ea843b60571615aa1f79da5ed9ff1f8418bf43f2b459539d184ec1016705c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/82F631A92a000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dbe9f7462522370c1d9d748a53d578ffc6cf14b170919855728f26a3259477ea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/FC5CB4D92c000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a47217569e22e33ba806abb5bb022a96fa538c792adfd2a95fbef15aba8cc947",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9514 (rs1_release_inmarket.260912-0401)",
+   "fixed_file_version": "10.0.14393.9514",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/6AA535B621000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "734802a4461fac42a7f579726736ee3001a66d770f60e79dbafa9e2e4f1a2ad5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/924D425C33000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6aed1f4d8661d6c87e7a34f6b702413f41b1405e933db4a437c26a2f69cf3472",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/36BF36B92c000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "573d301163fc6e05bf2b71847ddda34f0fb0abb51bdd7932a0495f8d643bf57b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/96385AA126000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "30f9a0b791ad5493bdf1ea75d12abb2b9af4f430df2e883dcff03cce8adf82a5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/6E74ECFA2c000/werfaultsecure.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WerFaultSecure.exe"
+  },
+  {
+   "sha256": "10ad4b4e685e591e08b5530fe5c36ed0e69e83bb780a63ed7a4c3d878a920d6a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/A52F986033000/werfaultsecure.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WerFaultSecure.exe"
+  },
+  {
+   "sha256": "0367d1a7f3c199697741d2bd8b23482ce1b9214fcf5afa459d37af37eaf3bc8c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9514 (rs1_release_inmarket.260912-0430)",
+   "fixed_file_version": "10.0.14393.9514",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/6AA53CE822000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aa804dee88e953f64007a032351cf7362dfaae703ab640b690131ee2a40d0151",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20680 (th1.240606-1641)",
+   "fixed_file_version": "10.0.10240.20680",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/6662821320000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7a877b82d95018ffe48cb03bda88fe29401cd9a03a19346a40df346a8b36189c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20680 (th1.240606-1641)",
+   "fixed_file_version": "10.0.10240.20680",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/6662831921000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "31965125a9a6c4281f51210313a7c4653151c7d078a8f1c3b8d5f8a7492e4204",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/63BEF3A433000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1a93a1447ace74e8abaed6b66a74713ba617fb05391b23a62dacd0386c4e0741",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/C86F132E2c000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f40e342dbe14c803827704b493cc72c3618d47e131025aea5845be543967b48d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1845 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1845",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/145E55F626000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d3c1f8d9ebed5ce99196161df88adac3581359900cd41096e8c2a4bc000dc83f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1845 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1845",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/35F543162a000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "57bea9b0ad984f4a99bbcb4e78932678142b4550bfc8b656eeac1ba6fbddc2bd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2554 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2554",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/CD5C34B023000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fef2781843b51e8cb25c9f3757e0312652a205447297f9808b31196f84a9e70e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.572 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.572",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2021-02-02",
+   "os_builds": [
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/6A98FD4F27000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b3003748290692e15b176bf54ded2220017e412624d3184cfcbb61216534595e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.572 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.572",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2021-02-02",
+   "os_builds": [
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/4156379C2d000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e1f44bff0b96091a916abf1ff487f229b1a4e68486bfc28fd8e4d5513d3e8417",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1992",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/1EE98C9727000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "86361b7a032867981ad41b7404bd7b8b3afd7753babfe19e4e791daa8ec78a62",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1992",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/CE73BFDA23000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4f3a9ff92a69cff3f515999e7622c21707eb2ce0b8574f7f2d7b44ebc47d696a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.959 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.959",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-09-16",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/7E254F532b000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b3eef349c39384d43ec52df4c15e43a2272cd5ce46b44c1c89cfcca763c6e25",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.959 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.959",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-09-16",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/BFC351C427000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8ac83b50d982512ca374abe39fe4fcfea4cf0d9a3e46a63624bf43ce85dfd228",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.418 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.418",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-10-08",
+   "last_seen": "2020-01-28",
+   "os_builds": [
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/D39709D727000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f870cc0564b524a06ee77fdb508e36a8fa9cd0d204a37c742d238ea94612002a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1045 (th2_release.170728-1941)",
+   "fixed_file_version": "10.0.10586.1045",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-08-08",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/597CBCB520000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ac263fc6fcbba5d7a2992764b358f72d9e6eb6220fbcd532f8f3efe9b7960128",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerFaultSecure.exe",
+   "internal_name": "WerFaultSecure",
+   "file_description": "Windows Fault Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1045 (th2_release.170728-1941)",
+   "fixed_file_version": "10.0.10586.1045",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-08-08",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/werfaultsecure.exe/597C822421000/werfaultsecure.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WerFaultSecure.exe",
+   "builds": 25,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004"
+   ],
+   "min_version": "10.0.10240.20680",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-08-08",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "901df5c4f2364d674f20cf406afc10baf8c5a7eebca4de858d9ed927d5bd9493",
+   "error": "901df5c4f236: UnindexedBuild: symbol server returned unindexed build (unindexed:size=191648); 05ea466f02ab: symbol server returned unindexed build eebd5cb094aa; a530154c7103: symbol server returned unindexed build eebd5cb094aa; 8b700b0182d9: UnindexedBuild: symbol server returned unindexed build (unindexed:size=191496)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b270a19d4eb31b15e7ea3994936fef7830ec85cb0b169209109d1e8b9e9fc7a2",
+   "error": "b270a19d4eb3: symbol server returned unindexed build 7259a771a4c6; 2a1324d58edc: symbol server returned unindexed build 6c2db1ead11d; 5a075991a1af: UnindexedBuild: symbol server returned unindexed build (unindexed:size=216408); db90f07a95ce: symbol server returned unindexed build 97ac442eac15"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "5cff29592e934cb7b66b1c289cc176311c3b0a0def7d7c5f07f08333ab1f7b29",
+   "error": "5cff29592e93: symbol server returned unindexed build 7259a771a4c6; cd6481ccda75: symbol server returned unindexed build 7259a771a4c6; b270a19d4eb3: symbol server returned unindexed build 7259a771a4c6; 69d7af08f791: symbol server returned unindexed build 1158ba935804"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "9a848770e3b6cc5c9b30b53c683c9e76336c323d1c369b9d08b6010b22258fc6",
+   "error": "9a848770e3b6: UnindexedBuild: symbol server returned unindexed build (unindexed:size=144176); a4b007da93a5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=144176); 780551c59e23: UnindexedBuild: symbol server returned unindexed build (unindexed:size=144176); c244f853748f: symbol server returned unindexed build 83bcb556b282"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "bbfc883a2b5aeb795858daca5ab49455266ffa687726829aa8b6f18c8467efbc",
+   "error": "bbfc883a2b5a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=165848); e0bb8f545c03: UnindexedBuild: symbol server returned unindexed build (unindexed:size=165848); d6d1e1d0ea15: UnindexedBuild: symbol server returned unindexed build (unindexed:size=165848); 09e29f81c57b: symbol server returned unindexed build cb8a48d15878"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "af5a8c58053109f31fc09c86edfcf907dcd5aadbf549f454b335c227ecba73ec",
+   "error": "af5a8c580531: symbol server returned unindexed build 09df57d0a205; 106b427da7a3: symbol server returned unindexed build 09df57d0a205; 5f1a027f1c14: symbol server returned unindexed build 09df57d0a205; 7a8b9a9ae44c: symbol server returned unindexed build 7328b6ec0065"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "1c35464f9a39da371549d8b44ef7838f6b8e17ac1d0aafd8a5593eb7ca960cbb",
+   "error": "1c35464f9a39: symbol server returned unindexed build 6cba6389f19a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "0c6e7e2e5ac77dea298d26687a643335389b2ac3c0fbcd930878289295d5321c",
+   "error": "0c6e7e2e5ac7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=180432); 26d53db51232: UnindexedBuild: symbol server returned unindexed build (unindexed:size=180432); 0a35690c6292: UnindexedBuild: symbol server returned unindexed build (unindexed:size=180432); dab6a9776308: UnindexedBuild: symbol server returned unindexed build (unindexed:size=180432)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "dab6a977630816a6faef19920bfde12a97b771fcaaf1b83ea45f3e9f6b819565",
+   "error": "dab6a9776308: UnindexedBuild: symbol server returned unindexed build (unindexed:size=180432); e5f7c96683b3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=180424); c86d3d793f35: UnindexedBuild: symbol server returned unindexed build (unindexed:size=179328); 0fe49631aca3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=185496)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "8f7ba94994b764c3fb3734308d3d443e8cd12eb5d7b50fc9fe5f1619eb4d9b98",
+   "error": "8f7ba94994b7: symbol server returned unindexed build b9e0da1297ec; 0fe4e8f23113: UnindexedBuild: symbol server returned unindexed build (unindexed:size=162856); 43520319802e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=162856); 606527eba8fe: symbol server returned unindexed build bfebce04e58e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "47f2e8fae0db738d56d85950783af7ffb770e16cc49689e831ef5deab12f4103",
+   "error": "47f2e8fae0db: collided with dbe9f7462522 from another release; 99c9b9fcf9cb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=174656); 372f8861f319: UnindexedBuild: symbol server returned unindexed build (unindexed:size=174712); 303312bcf222: UnindexedBuild: symbol server returned unindexed build (unindexed:size=174712)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "552b2ae24280654cc329e6e849960dca7615358e3017f45be2e29c45e1ffbf03",
+   "error": "552b2ae24280: symbol server returned unindexed build 109aa767e817; ba5b0badea15: symbol server returned unindexed build 109aa767e817; fd190ec80e49: symbol server returned unindexed build 109aa767e817; f24b0056a4f1: symbol server returned unindexed build 871523f8269e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "9ca0fe016d2e7280b1e4d92662bce6b5042c753bcbd86ad24756c3f843a7f06f",
+   "error": "9ca0fe016d2e: symbol server returned unindexed build 51d71cf36fb2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "cd4c1086acdeddf9333a46a76ea13de8b1c1235dfbcee50d3a23ad13d2a0499b",
+   "error": "cd4c1086acde: symbol server returned unindexed build 5701d3aa5685; 8e049657f31b: symbol server returned unindexed build 5701d3aa5685; c9f14f8e0771: symbol server returned unindexed build 5701d3aa5685; bbd3c79c1df8: UnindexedBuild: symbol server returned unindexed build (unindexed:size=159792)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "c9f14f8e07719b8384ed3fd094e0151a0681bff335bd1e5c05c1a737acefa343",
+   "error": "c9f14f8e0771: symbol server returned unindexed build 5701d3aa5685; bbd3c79c1df8: UnindexedBuild: symbol server returned unindexed build (unindexed:size=159792); c0729f408e33: UnindexedBuild: symbol server returned unindexed build (unindexed:size=159144); f5f7ac52f8be: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163880)"
+  }
+ ]
+}

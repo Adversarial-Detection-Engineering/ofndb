@@ -1,0 +1,64 @@
+{
+ "name": "fontview.exe",
+ "builds": [
+  {
+   "sha256": "a932759b9190a1c544e9c33fc72ffb3f72840d9c9fadbf34fb69eb5926d450b1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FONTVIEW.EXE",
+   "internal_name": "fontview",
+   "file_description": "Windows Font Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\fontview.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "75073cd297422cc0be5145a8e60e84e592758d405cdecd16d73d893c59b770e4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FONTVIEW.EXE",
+   "internal_name": "fontview",
+   "file_description": "Windows Font Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fontview.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FONTVIEW.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

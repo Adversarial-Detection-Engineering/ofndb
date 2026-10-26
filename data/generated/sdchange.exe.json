@@ -1,0 +1,64 @@
+{
+ "name": "sdchange.exe",
+ "builds": [
+  {
+   "sha256": "3a23c3679583725c047302ed850af5efe6bd5483fdab6cbc05f30ffa2bec3a92",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sdchange.exe",
+   "internal_name": "sdchange.exe",
+   "file_description": "Windows Remote Assistance SD Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sdchange.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "07d4b0069949828d0490ca5ed578bcf56ec3dcedd3caf81195f85fa25e334f43",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sdchange.exe",
+   "internal_name": "sdchange.exe",
+   "file_description": "Windows Remote Assistance SD Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\sdchange.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sdchange.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9444",
+   "max_version": "10.0.26100.9444",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

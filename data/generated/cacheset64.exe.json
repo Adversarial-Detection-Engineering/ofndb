@@ -1,0 +1,47 @@
+{
+ "name": "cacheset64.exe",
+ "builds": [
+  {
+   "sha256": "60420a39645573437fb0e085361ef2d23c08e75b85d7836213d959a4904e9bd8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Cacheset",
+   "internal_name": "Cacheset",
+   "file_description": "Manipulate the working-set parameters of the system file cache",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Cacheset",
+   "file_version": "1.02",
+   "fixed_file_version": "1.2.0.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Cacheset",
+   "release": "2021-12-16",
+   "last_seen": "2021-12-16",
+   "download_url": "https://live.sysinternals.com/Cacheset64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Cacheset",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.2.0.1",
+   "max_version": "1.2.0.1",
+   "first_seen": "2021-12-16",
+   "last_seen": "2021-12-16",
+   "provenance": "parsed"
+  }
+ ]
+}

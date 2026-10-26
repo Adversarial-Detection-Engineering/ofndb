@@ -1,0 +1,1329 @@
+{
+ "name": "searchfilterhost.exe",
+ "builds": [
+  {
+   "sha256": "e53388bbc4f8bfb25aa322bed71ceb353d31fef7eff82d4981898b546d5b9b00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "7.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/6AC8D6E232000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "da4b214d248abd4c678e5316e2eec5eb0c84120b789437b8be01af1eaaa3954b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/072D24428d000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c39894422bfb08c955a0827bed43e12ffc60cde407decd9b63349c51ad6bae1e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/03A636F341000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7e183971afcbb22bb1e636bedc6a25fc8614fd12ff50c2746e6897661d31d449",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/DE9A2B0F49000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "572e4a7cd47b561b22673c4887082e5034ebc0670261093baa3d574b6dd30d07",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "7.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/6AC8D8A138000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "47870ebc4b92cfbc25bef1a829c0f058742b227369526ab721b3c348015ccd91",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/322BCF318d000/searchfilterhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SearchFilterHost.exe"
+  },
+  {
+   "sha256": "31e3b6327f4896b91402a47107fa262a324c5f61d8dc4d6e76d65a1426c251fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/987FF01D4d000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2dac91aa797a4972fe602a459a302e8a6cd2dba7d90893eda181d7b84c79c090",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/96FF66A03f000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "028703eb0c83e0cf40469adb9fe87580a3c2ac077b1b7ea43c5f3ed67e55c3d1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/A2E9A0C773000/searchfilterhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SearchFilterHost.exe"
+  },
+  {
+   "sha256": "2cacc915a29d0f87c7499c4282d34657614d12829fcb12326ae0cdf2928f740e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/92D4176474000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f9540481ab7ef68f5aae690ed0336bf52158ad9050243623782735c04193df0b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/1E81BACC37000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "77912a4fd3b28df08a0068040f81a01012c854d1ee3bd264bff8111f1f2dde80",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/B7AB09BF3f000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f259602edb5c0c734fe46843116de1cc92849542e0c22b4846a94e65ea64685e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "7.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/68E66DAA37000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "938946f9f22624dae559db8d996df165f8028caacbc59042b6fb9464da62c540",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "7.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/68E66C792f000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "635d9f978a8ed7a45ec637d59999e4754b25351fb71c11c8457bd91ea2cb3fc0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/6835008D41000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2931bc2dfaea376dbf8c247562f5bb86abf0936a74e5f770896db22f3a948e5e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/5FD102B84b000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ae1af0c4f80e3ba7e660e7c0a1d965c0761b97d899a8cefce4e154afb155738a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/9A61BB4666000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7fc30b150aa2e3c8024042bbe9dd9850348fb74e1c5416118456153e82c86095",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/399F7DFE79000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "93db0d52ae89c17780a39dddbea3ae4083f8eb0d509b84d366a80a09e07bf9c9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.6093 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.6093",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/C71334F43c000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e04c91ba641250c3a29a6b85e07ab0e75306b8d3e05961db07e3207a4052932",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.6093 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.6093",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/F0B85DDB47000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4f5a38961329f53f5d8f69bdd688c328bafb0df88e2e3bfbdd0a81d57d72f39e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22000.2777 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22000.2777",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-02-13",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/72DD820746000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "15dfb787d931dbe309dfaadfd9a0466ffd94e529a0da55125aae5dc887cede0d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22000.2777 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22000.2777",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-02-13",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/DABDB2333b000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d2145bbf2bb021278c6d3565d5b6d32abfe7af489b2d8e3c37ac629d04b6b05c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/93651B933c000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "289e599c32d569a4f5993b2e0d78f07415b8b32ac8b31b9d35eb63bbeae45d55",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/E9FD828A47000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "77cb0e2b2f9025e99819d70ce842055398d75e2be430eabd2f8a98af9272c0bb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/A3DB48303f000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "748e4111035edc9e4e59939fdaa4c04b6945ef9a2fd64af637cef5812036e686",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/45126C4437000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "47a88bcfac10fca3e1f3c3920327fbe16c2b41b0e3489233c1e087ae0f85a02e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/D777B1C147000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2a0195eec0bfaad73f5c3d24246a8adbe23ff5fa71cfb47eb883a338abe24516",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/AE430B163c000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eccf8c0db9b53211ae26c32cf206a4fc22dd55dfeaadbe479cc864a3ab997495",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/EE2C936A3c000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "33051d12c4dc42c6b5dadf8016bad36570ef9029f7d5d654eafb0f1c3db616c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/115816F847000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "37da9d4257d1f446ea841d4a559c568cc13c62a3b07426a42a4ef19decba2242",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/1ABF0F7335000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3069894fd35534880e1c6515a2842e183bb6a4229afb23cdc420ca73662a68fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/5A9783E63c000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e827104268bf7bd87bd137465fc0836b8c374d46caadae3bfc3345c908d2e0ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/92AFF79337000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b3690db2290c5ce61e4c687fed49d5b2ea6e1ed1aa2737d8b9f006a6b4bf19e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/7552FF3331000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "df7054813f830d4e25d0c9aa4a733e4e44da8d46c29f04c5ce32c4c135e1e828",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/A9F9485737000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dbb42ea736a75afe2f412384c5929c41b03f51e442aa1e4ff7a656fe06703ad1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/51358F0A3f000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "adbf8e5e066b330a3b3ed274b0ceaa1a05b8e246356f5f097ed2370bf5686b91",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.16299.248 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.16299.248",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2018-02-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.248",
+    "16299.251",
+    "16299.309",
+    "16299.334",
+    "16299.371",
+    "16299.402",
+    "16299.431",
+    "16299.461",
+    "16299.492",
+    "16299.522",
+    "16299.547",
+    "16299.551",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/7B2AFEE635000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "644845ee8b4561f1deeeca53059415c2510da5bcd62b71429f52907e37b81a8a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/5BC9E5AF3b000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e1068ef629bb12bc25ed82f554fe68b5f0b69405d7af105369725dccb01a4770",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10586.1358 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "7.0.10586.1358",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/5A5BDD3337000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b2d407f08f58e780ded0133b975fe3ada1e65bc1923dac000bb983cbfe83475f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchFilterHost.exe",
+   "internal_name": "SearchFilterHost.exe",
+   "file_description": "Microsoft Windows Search Filter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10586.1358 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "7.0.10586.1358",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchfilterhost.exe/5A5BD18B2f000/searchfilterhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SearchFilterHost.exe",
+   "builds": 40,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "7.0.10240.21161",
+   "max_version": "7.0.28000.3231",
+   "first_seen": "2018-01-18",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

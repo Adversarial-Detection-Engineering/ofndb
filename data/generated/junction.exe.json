@@ -1,0 +1,47 @@
+{
+ "name": "junction.exe",
+ "builds": [
+  {
+   "sha256": "6fb4df6555a69c2f3c117764d33b48803ae19a8ba40b12f3211195247d9c508f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "junction.exe",
+   "internal_name": "Junction",
+   "file_description": "Creates and lists directory links",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Junction",
+   "file_version": "1.07",
+   "fixed_file_version": "1.7.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Junction",
+   "release": "2020-09-14",
+   "last_seen": "2020-09-14",
+   "download_url": "https://live.sysinternals.com/junction.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "junction.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.7.0.0",
+   "max_version": "1.7.0.0",
+   "first_seen": "2020-09-14",
+   "last_seen": "2020-09-14",
+   "provenance": "parsed"
+  }
+ ]
+}

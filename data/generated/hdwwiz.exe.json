@@ -1,0 +1,64 @@
+{
+ "name": "hdwwiz.exe",
+ "builds": [
+  {
+   "sha256": "3ef435e5ed5a9a913bd28e6316e996b1dabf49f37a139f7740d02d0f388e9153",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "HdwWiz.EXE",
+   "internal_name": "HdwWiz.EXE",
+   "file_description": "Add Hardware Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\hdwwiz.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "30c24839efbc36aa77d135ce9440a0b7da7a0b1bc23bfa0d04ed9e57df156211",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "HdwWiz.EXE",
+   "internal_name": "HdwWiz.EXE",
+   "file_description": "Add Hardware Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\hdwwiz.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "HdwWiz.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

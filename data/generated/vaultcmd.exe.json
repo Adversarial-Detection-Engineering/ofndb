@@ -1,0 +1,280 @@
+{
+ "name": "vaultcmd.exe",
+ "builds": [
+  {
+   "sha256": "26a872c8e10cb4264b595561f2a45266dd11412186696875a6ce3d549af9edf0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VAULTCMD.EXE",
+   "internal_name": "Credential Vault Test",
+   "file_description": "Vault cmdline Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vaultcmd.exe/6875A8E1e000/vaultcmd.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\VaultCmd.exe"
+  },
+  {
+   "sha256": "52be7172716abbc00f6190d27c24fac24e6a871e4e6bfea608e50d254737fc59",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VAULTCMD.EXE",
+   "internal_name": "Credential Vault Test",
+   "file_description": "Vault cmdline Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vaultcmd.exe/57899B83b000/vaultcmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4c3c8c1bf7be3cf2ec8f2a53eb3e97473401dd30123fcde07d73d3002d466e7f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VAULTCMD.EXE",
+   "internal_name": "Credential Vault Test",
+   "file_description": "Vault cmdline Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vaultcmd.exe/5632D847b000/vaultcmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ff14aa616eb90877866f39d4d5db7f137af763b9df1968c8361626b27daac4f0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VAULTCMD.EXE",
+   "internal_name": "Credential Vault Test",
+   "file_description": "Vault cmdline Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vaultcmd.exe/559F398Db000/vaultcmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "VAULTCMD.EXE",
+   "builds": 4,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1882",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "7d3b8c6840d81240c2f13cbe1e0ab6283d2db04528881c85d906cbb2f8337170",
+   "error": "7d3b8c6840d8: symbol server returned unindexed build fc7774c0ef69; 0668a7cb4b9f: symbol server returned unindexed build 2029f1d97315; 96e048cbe548: symbol server returned unindexed build 2029f1d97315; c3c92a650456: symbol server returned unindexed build e749b51009e3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "d76274f883c86ef2b9090e43935d9adc6b81b35a2a6fa39e37890f80fdfa9b76",
+   "error": "d76274f883c8: symbol server returned unindexed build b4e375a8e8ab"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "d76274f883c86ef2b9090e43935d9adc6b81b35a2a6fa39e37890f80fdfa9b76",
+   "error": "d76274f883c8: symbol server returned unindexed build b4e375a8e8ab"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "2d4480fe6da5b53202081a7f3af5d7f86b6465ac1b994e3f987313bc995b2619",
+   "error": "2d4480fe6da5: symbol server returned unindexed build f7be8c175143"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "ea27d12194a6ec67485c00b985a407ece7d52a4b2131e43228aa9ab09107e210",
+   "error": "ea27d12194a6: symbol server returned unindexed build 8bf420a228f0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "9750cb63195d43ba693fbd0ed3ec9e982fd196835602abc84422f6b36aedae4c",
+   "error": "9750cb63195d: symbol server returned unindexed build f4d292640fdc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "9e68fcf6fd1104bbd1ca47bb36347abc621329924f880b75793638af04dc607e",
+   "error": "9e68fcf6fd11: symbol server returned unindexed build 64962e7a8a93"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "62cf87143d183e704af6c6eb1a73eda8d9f36497a71bfdd812f232cf01b553d6",
+   "error": "62cf87143d18: symbol server returned unindexed build 63b0028994cb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "62cf87143d183e704af6c6eb1a73eda8d9f36497a71bfdd812f232cf01b553d6",
+   "error": "62cf87143d18: symbol server returned unindexed build 63b0028994cb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "edc1b6a3e4fde216a323329e35f4192b0f49bc68285ee67036deff9e94c4e33a",
+   "error": "edc1b6a3e4fd: symbol server returned unindexed build 620f0d65f342"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "edc1b6a3e4fde216a323329e35f4192b0f49bc68285ee67036deff9e94c4e33a",
+   "error": "edc1b6a3e4fd: symbol server returned unindexed build 620f0d65f342"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "edc1b6a3e4fde216a323329e35f4192b0f49bc68285ee67036deff9e94c4e33a",
+   "error": "edc1b6a3e4fd: symbol server returned unindexed build 620f0d65f342"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "edc1b6a3e4fde216a323329e35f4192b0f49bc68285ee67036deff9e94c4e33a",
+   "error": "edc1b6a3e4fd: symbol server returned unindexed build 620f0d65f342"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "edc1b6a3e4fde216a323329e35f4192b0f49bc68285ee67036deff9e94c4e33a",
+   "error": "edc1b6a3e4fd: symbol server returned unindexed build 620f0d65f342"
+  }
+ ]
+}

@@ -1,0 +1,662 @@
+{
+ "name": "msbuild.exe",
+ "builds": [
+  {
+   "sha256": "3d2b22b6bc51e0918263f4420e6bdf7d982d961b54176c470cac11841d1c9b33",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/6250ACEB3e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "151d0125c20cdde578d02de3f2a56eb904870a887bb7f1c59bf61471da231916",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/6250AC9540000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ed9884bac608c06b7057037cc91d90e4ae5f74dd2dbce2af476699c6d4492d82",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5DDA3F1E40000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6891da439a64108cc7fd7ca27f14bd726844b20c084506c13681078f5d9a3768",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5DDA45D73e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b25346ac48099606de4bd7f72a4e76876587aadf5734eaa83b81b9e79437acab",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5E5E9BB83e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0da56bd07a486818b7735761001cc1d3ca5af645f369a3c206bcb6719fefff06",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5E5E981440000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fc060ced6b0c7d0aada14ccde223d3eb7dd31c9861b3fd34816c948483702b38",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5C7A17C63e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8b26eba4d0e3c2325b5745ce83e97c006c29960e77c08bbcb1e7b208cbacb536",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5C7A251A40000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e748ce2ff9f7a879bec9a61625e8470868489b60bcc3ce66c9a2839235d4bb5f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5B693C633e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b60eb62f6c24d4a495a0dab95cc49624ac5099a2cc21f8bd010a410401ab8cc3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5B69487E40000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "38ee30c06fe2d6db63f4be581a56ee70023dce93ab6a0dc4881985dc628b377f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5A8E5AE23e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2ca7cf7146fb8209cf3c6cecb1c5aa154c61e046dc07afa05e8158f2c0dde2f6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5A8E5AA140000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "948bb7fc857f910c028d472aba1cdbcc1f8f0f89dc881a5f80b3b5b3785c0c64",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/59B836AC40000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "53e77c6ba6bfb756eeff440476f71a749df1dd5f986bcb1a07da1aabc3683327",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/59B836C73e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "669b684b3a590d5187427d036267d5d61f62b9537bd7fd3e8ea27f9772bc2207",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/589C097F3e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "24fcee910c77dff42e9e636281b14ca05f5f707152f30d11559b3a9b2a112588",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/589C079740000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e37036167936bc38b6a51ddedc970fc0889c9d6f1ac98991b26f2bda11514aad",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/575A14AC40000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bfc86d34de0f1e4655c3b35ce1008f215cfae0d3f4ef133a809f265eb97d3952",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/575A16713e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ce592efebb54976f4cd94b22572d8882962491e1d4dbfca9ed24e42323f3fb7a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5615D5CD3e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2c75ad03937eee1046942d48b0fdc366e908dc00a5defc8f3b9513c7821a78b8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/5615C32E40000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f8cfd495df58630e330d9d0c8d2638ed78a8e91f66fea117f84a0222fc65e310",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/556BC75240000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "69e8089b969f9bfa315f563f54a11fc6615c65eb71b4dcab9341ed5a3b799523",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/msbuild.exe/556BCA5B3e000/msbuild.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e7ccd2a675817008dae6d6bee76beed7b6e397fd6207e99d8c8d3440ba90955f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\MSBuild.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "18c94b58519e56cd234e9024011ecb8b97dd32fe1742f6c57ad992a43e1b18d0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSBuild.exe",
+   "internal_name": "MSBuild.exe",
+   "file_description": "MSBuild.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\MSBuild.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MSBuild.exe",
+   "builds": 24,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.6.79.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2024-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "78a7ec4f772769d45eb6a7f705da705e5a8981a53b056521cbfc63c3a15244cd",
+   "error": "78a7ec4f7727: UnindexedBuild: symbol server returned unindexed build (unindexed:size=242176)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "044e493f385dfcb5d5d65b0d36e07f7c76aada8d2b9ff2de0309cd277be9fb6b",
+   "error": "044e493f385d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=245760)"
+  }
+ ]
+}

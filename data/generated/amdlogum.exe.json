@@ -1,0 +1,44 @@
+{
+ "name": "amdlogum.exe",
+ "builds": [
+  {
+   "sha256": "0531f699ce211f5f275fa12c59f661ad67f7f44eacc7da529e46ce7696a91c68",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\amdlogum.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

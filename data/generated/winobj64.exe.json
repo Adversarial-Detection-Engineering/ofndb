@@ -1,0 +1,47 @@
+{
+ "name": "winobj64.exe",
+ "builds": [
+  {
+   "sha256": "e2a2a818ab71c388fa2e4d4af6a1abbeb32c9fcbaa22ec7e7c0cc8a044639662",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WinObj.exe",
+   "internal_name": "WinObj",
+   "file_description": "Sysinternals WinObj",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "WinObj",
+   "file_version": "3.14",
+   "fixed_file_version": "3.14.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "WinObj",
+   "release": "2022-01-27",
+   "last_seen": "2022-01-27",
+   "download_url": "https://live.sysinternals.com/Winobj64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WinObj.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "3.14.0.0",
+   "max_version": "3.14.0.0",
+   "first_seen": "2022-01-27",
+   "last_seen": "2022-01-27",
+   "provenance": "parsed"
+  }
+ ]
+}

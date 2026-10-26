@@ -1,0 +1,64 @@
+{
+ "name": "muiunattend.exe",
+ "builds": [
+  {
+   "sha256": "5b0f49c824e425a9062282eb0394d372fa7bd4f567f8050d958a1d13054ecbe5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MuiUnattend.exe",
+   "internal_name": "MuiUnattend.exe",
+   "file_description": "MUI unattend action",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MuiUnattend.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "207e4f15a4c06c538be2a8bae5f845192c3524aa965cd8a287133f3308d0c47f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MuiUnattend.exe",
+   "internal_name": "MuiUnattend.exe",
+   "file_description": "MUI unattend action",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\MuiUnattend.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MuiUnattend.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,982 @@
+{
+ "name": "rdpinit.exe",
+ "builds": [
+  {
+   "sha256": "b8d1e5082367206db083debe3b9577307c62988dc1d7bb529610889ab27decfe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9418 (rs1_release.260808-0614)",
+   "fixed_file_version": "10.0.14393.9418",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/6A7758414f000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "89b58963587a2d04556eb18091fb021873dbddb9212b1abb3561e811892b30fa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9418 (rs1_release.260808-0614)",
+   "fixed_file_version": "10.0.14393.9418",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/6A7756E249000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4465bccd67a08cbb4c32d9819d79a8edaa66ee570ae38912154dafcc5952f412",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/392E13E77e000/rdpinit.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\rdpinit.exe"
+  },
+  {
+   "sha256": "010076522a4e9fde830a13b803de2ebe4ed8ff220f0508f19bf0823f32b44ba7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/B316388B7c000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e218987cf560bbfbba59c9bb62178291af7c5311652ee8c9de34b86b26356176",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/9CA74C5B6b000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ca58a7bde163c9310f2ba6e2378be7364a1505ca5356af0784d9f2792a435143",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/1164C8535b000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9315c9bd42f84a755baa8081d40b5363097bebe9c2963e334b22c48c3816b88",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9020 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9020",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "17763.9020"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/DE633DA45f000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "68a3cf0e9bbce710f2e9001571603b0ce6531565cd5b628935a790d4deace899",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9020 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9020",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "17763.9020"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/7F4D70C454000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7334b960aeb77f77847d72d9e701af97195ca61ce84cdcddd259d0037da83590",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7309 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7309",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-12-01",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/64C2E6C170000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3a95d020372dbe5167d6eea23aad0feaeb97268f3101bcdad2e471b1881248e4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.19235 (th1.220301-1704)",
+   "fixed_file_version": "10.0.10240.19235",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2022-03-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/621F0D0947000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1bd1d2d985244b76a77ce68b7c150f10ac91297757ccc8cec7af5c5d1bd3f3bf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/D5D8834882000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4ecdd4beee61e9868200671472ad1c2900c875e2c0232cdd5ae0bb077c8ef729",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.5794 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.5794",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2025-05-28",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19045.5796",
+    "19045.5917"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/526A69B05b000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f4ec10f5d13277de9a9eebb3b4a2f8bc2a5a099aee474c5b5b7ed32c99806af1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.675 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.675",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/8429F43B74000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e6e888d8881d0e23a4723239bcc90ee886f116334f6e759942da2b67ca19e0bf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1682 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1682",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-04-25",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/94E3FF295a000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c2ef646dbe4e385a777765f1494194be0db79682fc8c311c174c9281feb6b7b6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1865 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1865",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-07-26",
+   "last_seen": "2022-08-26",
+   "os_builds": [
+    "19042.1865",
+    "19042.1889",
+    "19042.1949"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/E611D4CF49000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ac5ccb16a4f68692e2e9aae04b969b8ad9da9728e38f4eaa0edb138cb040c1d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/DF7940E944000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "95e5843867ce6b187f2ef902f0f172a4c52c6094678e200bf9966b12bd6fb5d6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2088 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2088",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-03-15",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/965A804D57000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3b40f59f576079e19886b1edb608eaf1ec85264545efe4c42a2ceb081e0ef61e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/AFB2876B53000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b53dcf5d10575bf89e573a7c044190c29fcd7edcd2e83297626ff7cb8eb94135",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.836 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.836",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-05-12",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/6246BFC555000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8fe58e1f1d073b15c7fcde5e40df100ac889344690cc95bc5f38486fc95cbebf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.836 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.836",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-05-12",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/D4617BD95f000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "667c4e36fb25784fdd6877a91ddb3a49a6847834bb822eb0afb31ad3028d0421",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1775 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1775",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-03-17",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/9B9AD16F55000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1a873b6f067c3c766c47a36547ea4d51e209ad62db69971eb8f39e640588b383",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.407 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.407",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2020-02-25",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.829",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/C75C360D4d000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "94d482305aca8c4250b1a0f84ac0c2a3ea4c8e79eb3e0b5f1348dd996736d71a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1004 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1004",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-02-19",
+   "last_seen": "2019-04-25",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/48AFBA804c000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "425c4b4c45bfff903b2835196b7341dde037b862d3351f79d17049c00224a772",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rdpinit.exe",
+   "internal_name": "rdpinit.exe",
+   "file_description": "RemoteApp Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-03-14",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/rdpinit.exe/5632D27449000/rdpinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rdpinit.exe",
+   "builds": 24,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.19235",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-03-14",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "36470e64ae18ea6a7f54a650fde56f3f2c5c43672dbeed8e98f4e6a60bd1d09d",
+   "error": "36470e64ae18: symbol server returned unindexed build 2aa37f48f144; e04e1d6f0522: symbol server returned unindexed build 67685a0db68a; 48092b76024d: symbol server returned unindexed build d57559da6106; eabf58b09d41: UnindexedBuild: symbol server returned unindexed build (unindexed:size=476576)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "9f04c2418df7ea6930327862f5a141a7eafab70d50aa6edcac4601deecfd0bc3",
+   "error": "9f04c2418df7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=501224); 50194abac95d: symbol server returned unindexed build 75a74ca55ab8; ce812da09956: symbol server returned unindexed build 7e3e52254651; 356ef60eadea: symbol server returned unindexed build 19bc12fdd924"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "9cbaffdfe81c40d53d2b1cbc7be8091b2766e6210d5a9e793b3c66315c2282c5",
+   "error": "9cbaffdfe81c: symbol server returned unindexed build 998ddc457e76; 898c67000466: symbol server returned unindexed build 998ddc457e76; 4ad070a5b0e4: symbol server returned unindexed build 349e2f6e63a3; d2c48c703260: symbol server returned unindexed build 349e2f6e63a3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "51251863097f7c80ef59606152ec59e7522881c8e3886c194c43f56bcab92e1b",
+   "error": "51251863097f: symbol server returned unindexed build 17a16a69e2b1; efbdeb433e14: symbol server returned unindexed build 17a16a69e2b1; 129d0c379adf: symbol server returned unindexed build d94ef71d9fe9; 333e46013354: symbol server returned unindexed build d94ef71d9fe9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "129d0c379adf740eb42fc3da138f9323292eed16c9afc7e423238a5862046c6b",
+   "error": "129d0c379adf: symbol server returned unindexed build d94ef71d9fe9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "aeb887e94077bb3c215400ce68a97a8e8ffc3d7cf74e12c25ad581fe6324a593",
+   "error": "aeb887e94077: symbol server returned unindexed build 6c1d481a3bf9; 2311b1b91632: symbol server returned unindexed build 6c1d481a3bf9"
+  }
+ ]
+}

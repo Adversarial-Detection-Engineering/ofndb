@@ -1,0 +1,44 @@
+{
+ "name": "windeploy.exe",
+ "builds": [
+  {
+   "sha256": "a1dd529a9d7a60d2e083d7d4d84f3b424b10b5eb1ae202add648c185b889436e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WinDeploy.exe",
+   "internal_name": "WinDeploy",
+   "file_description": "Windows Deployment Loader",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\oobe\\windeploy.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WinDeploy.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

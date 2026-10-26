@@ -1,0 +1,64 @@
+{
+ "name": "systempropertiesperformance.exe",
+ "builds": [
+  {
+   "sha256": "ed1a76b3f289f76cb2ded261f9448fc5e334bd25e8bf1b5bdbb044decf899931",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesPerformance.EXE",
+   "internal_name": "SystemPropertiesPerformance",
+   "file_description": "Change Computer Performance Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SystemPropertiesPerformance.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "969ded862b76b2b1e7c639e743f24636d1f522477817a983b5ee329cf9f186e9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesPerformance.EXE",
+   "internal_name": "SystemPropertiesPerformance",
+   "file_description": "Change Computer Performance Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SystemPropertiesPerformance.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SystemPropertiesPerformance.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "aspnet_regsql.exe",
+ "builds": [
+  {
+   "sha256": "71f8f97c92346ba2d45d218c57e9fa2f34c0a7ee23ab724f4bbcfa67b7980b00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regsql.exe",
+   "internal_name": "aspnet_regsql.exe",
+   "file_description": "aspnet_regsql.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\aspnet_regsql.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "45aa0aa81ad55a8d1aea9f91443ee4beb97aa56933cf2026eed155e8584f2d41",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regsql.exe",
+   "internal_name": "aspnet_regsql.exe",
+   "file_description": "aspnet_regsql.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet_regsql.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "aspnet_regsql.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

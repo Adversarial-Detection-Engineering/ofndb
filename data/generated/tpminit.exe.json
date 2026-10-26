@@ -1,0 +1,64 @@
+{
+ "name": "tpminit.exe",
+ "builds": [
+  {
+   "sha256": "77f6a0e91924845cbe3e25c6efd28cb1470e9f8f3bdd66a42565a362dacbb0e4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TpmInit.EXE",
+   "internal_name": "TpmInit.EXE",
+   "file_description": "TPM Initialization Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\TpmInit.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "5ce65b5906a5645d89b817404a6df55b76b085af184d0afc2948f6d9190a3aba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TpmInit.EXE",
+   "internal_name": "TpmInit.EXE",
+   "file_description": "TPM Initialization Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\TpmInit.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TpmInit.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

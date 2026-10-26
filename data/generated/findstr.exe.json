@@ -1,0 +1,585 @@
+{
+ "name": "findstr.exe",
+ "builds": [
+  {
+   "sha256": "a6d8821ff2f86ba7c70047155d01330cc265d193bb44728d9867f65f57b63cb8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/205221E294000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "867816f8a714a87f5f573ebbe3a526931fbe787cc03b4ec7ac8a970c9d8c0264",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/EA4AA19291000/findstr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\findstr.exe"
+  },
+  {
+   "sha256": "6902a39b3419f12a9630946866822b4129893787171d5e66ff9f46916eb80e09",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/1A6C2FCC8b000/findstr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\findstr.exe"
+  },
+  {
+   "sha256": "5ed347df3b7a3939a2a9ff8ac006722c615add6c21f145b5c63c43e5e59595cd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/F627948F9b000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eb3fc3c02880fc696207e3905f2fb8c7de19d995621e8fc6fbaafa0c7ac570b6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/DE95DFFF8b000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "46bdb9125c43bd3f63c233a7b0d021b04e867c4d19b72ddbcf6e5f2a392014d3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/BC19436291000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ea0c8f0ccb347acf136a9cf692a06f9fbd13604ce8ec2327d58cad7eefa0144f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/5789911B13000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2956f7bc863498dfcc868ce7df4c9c131a4a5c17b065658456afef7566ace1ee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/57899B6017000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d90fce5f0a3fde42f0aa850fb3c81ac5d302c7281649f3c5a91984aa6d3511b3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/5632D79E13000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7cb0f8324363f92357006f75167098f0ab23d5c3aaf07957d9f320dbf6cfd460",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/5632D81217000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c639fbba837b57f28691e7f210a034dd1b55380a13649a64e47be55bb8308a0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/559F38BF17000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18d401b5afcd4a78ff2b5b81b00ce64a013e3226e14d494709d566f50ef40dfe",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FINDSTR.EXE",
+   "internal_name": "findstr",
+   "file_description": "Find String (QGREP) Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/findstr.exe/559F3B2F13000/findstr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FINDSTR.EXE",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "db4c588f7cea4adb23483a6e1632f379eeb255db0ce43bd24a16afe879e83226",
+   "error": "db4c588f7cea: symbol server returned unindexed build 965e2d5ffd2b; 05fa35c6d9dd: symbol server returned unindexed build 6b2ac2a9b7d5; 8420cdabaa72: symbol server returned unindexed build 6b2ac2a9b7d5; 718dcdb4498f: symbol server returned unindexed build dc4372f22ac1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "c9541af1d88cd6d38f1e6eba2fd7eacce3c1181166e50b523ed7cedb92fea045",
+   "error": "c9541af1d88c: symbol server returned unindexed build 890d785422fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "c9541af1d88cd6d38f1e6eba2fd7eacce3c1181166e50b523ed7cedb92fea045",
+   "error": "c9541af1d88c: symbol server returned unindexed build 890d785422fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ccb8ecb9709d719850f0177362a3a8481e01310297e6a7b9181bada872288f13",
+   "error": "ccb8ecb9709d: symbol server returned unindexed build 357fa64b5fbd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "b39ef1855b0c96f67f855f6ab5a1f685b094d473d908ccabed487bc0374e4001",
+   "error": "b39ef1855b0c: symbol server returned unindexed build ad9a9745fbc9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "40f83ce0b6e1c894ab766591574abd5b6780028c874410f2ec224300df443c81",
+   "error": "40f83ce0b6e1: symbol server returned unindexed build e29c2dcbedc2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "750ab5e1f3eb18cc42a4a4c7bab27753f6b26fb9752ad3861833753091044281",
+   "error": "750ab5e1f3eb: symbol server returned unindexed build 98f0955eb408"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e09620769585acda7f33096f8cacc609d1bfa327d9da051a597ffffefd96172d",
+   "error": "e09620769585: symbol server returned unindexed build 0b89041a5b9b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "e09620769585acda7f33096f8cacc609d1bfa327d9da051a597ffffefd96172d",
+   "error": "e09620769585: symbol server returned unindexed build 0b89041a5b9b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "b29be6da54121f5d9350c545ececce26f30a7f209ce0d9aaea8e00c27dda27a2",
+   "error": "b29be6da5412: symbol server returned unindexed build 72c0c1fa2c58"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "b29be6da54121f5d9350c545ececce26f30a7f209ce0d9aaea8e00c27dda27a2",
+   "error": "b29be6da5412: symbol server returned unindexed build 72c0c1fa2c58"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "b29be6da54121f5d9350c545ececce26f30a7f209ce0d9aaea8e00c27dda27a2",
+   "error": "b29be6da5412: symbol server returned unindexed build 72c0c1fa2c58"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "b29be6da54121f5d9350c545ececce26f30a7f209ce0d9aaea8e00c27dda27a2",
+   "error": "b29be6da5412: symbol server returned unindexed build 72c0c1fa2c58"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "b29be6da54121f5d9350c545ececce26f30a7f209ce0d9aaea8e00c27dda27a2",
+   "error": "b29be6da5412: symbol server returned unindexed build 72c0c1fa2c58"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "fae03de5605044550204648ea0c82dea80d58e97f2694d3c0002f640dbd0f64a",
+   "error": "fae03de56050: symbol server returned unindexed build 406808c16bfb; 789621379117: symbol server returned unindexed build fe7b02b9f398; cf5ec3368d38: symbol server returned unindexed build fe7b02b9f398; 4332173c1585: symbol server returned unindexed build 64a68db0c13c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "9860ff6393380886aba23488161c1dc61fc65359e9415fbcead54a47510a90d3",
+   "error": "9860ff639338: symbol server returned unindexed build fa6ed8214479"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "9860ff6393380886aba23488161c1dc61fc65359e9415fbcead54a47510a90d3",
+   "error": "9860ff639338: symbol server returned unindexed build fa6ed8214479"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "7b6679437a3eb99b4a361205318fd404db247cec844d00cef47f14c00b5d949e",
+   "error": "7b6679437a3e: symbol server returned unindexed build 2e5c4f3f35fb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "3a325a8337486df63a0ce02de757a5bc417fa7f9ab6f62d8f46b9be54766fc01",
+   "error": "3a325a833748: symbol server returned unindexed build 7e92ea3ef59c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "283f2ca16e2f72746de1325ee089c0b6cf103fc7b71ba3c185cd8b4d63e74921",
+   "error": "283f2ca16e2f: symbol server returned unindexed build 1adbd4e37171"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "6212e4eb194109c71815ace1ed8d56139dda04be2f6e1bb01eac9315c6fb5abf",
+   "error": "6212e4eb1941: symbol server returned unindexed build c2d3003b50a3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "3e543c71749de0e95d39eaf328fca253d5f025fd85ecb07670a1536ec87015da",
+   "error": "3e543c71749d: symbol server returned unindexed build 8d1213e58acd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "3e543c71749de0e95d39eaf328fca253d5f025fd85ecb07670a1536ec87015da",
+   "error": "3e543c71749d: symbol server returned unindexed build 8d1213e58acd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "1900c48fdb1c2ddfa59c37ba86affa502d44af55f313d0d53fac60d9b96943b6",
+   "error": "1900c48fdb1c: symbol server returned unindexed build 2ae3d4db3b5f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "1900c48fdb1c2ddfa59c37ba86affa502d44af55f313d0d53fac60d9b96943b6",
+   "error": "1900c48fdb1c: symbol server returned unindexed build 2ae3d4db3b5f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "1900c48fdb1c2ddfa59c37ba86affa502d44af55f313d0d53fac60d9b96943b6",
+   "error": "1900c48fdb1c: symbol server returned unindexed build 2ae3d4db3b5f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "1900c48fdb1c2ddfa59c37ba86affa502d44af55f313d0d53fac60d9b96943b6",
+   "error": "1900c48fdb1c: symbol server returned unindexed build 2ae3d4db3b5f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "1900c48fdb1c2ddfa59c37ba86affa502d44af55f313d0d53fac60d9b96943b6",
+   "error": "1900c48fdb1c: symbol server returned unindexed build 2ae3d4db3b5f"
+  }
+ ]
+}

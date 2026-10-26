@@ -1,0 +1,487 @@
+{
+ "name": "dllhst3g.exe",
+ "builds": [
+  {
+   "sha256": "d372bfc5506bc4dfb52b00e81d68a952c82de1a969e50d4a6177ca14a177dfde",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/174B2A9Cd000/dllhst3g.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\dllhst3g.exe"
+  },
+  {
+   "sha256": "2e39f126213e217f4c39c19033676324a35741738af8f11f6c855559c7b23392",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/65AC5D3412000/dllhst3g.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dllhst3g.exe"
+  },
+  {
+   "sha256": "c93184ebb233fd23fe6d132a8927b20cbe36eac168cc4f8158e56f721daea0f0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/DE10FF417000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a25ab27eb83a5f10a8d938b6a605f7d0956649f2ddbd1bc325f4463086ba2ec9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/89C98303a000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9bb56bdb7127d8caf4959637eb08e30b1d84358f5f7d99f97e02fbf70e0a46ac",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/7F3A882F8000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9c234164a34312d92034b49bb8bc29c8f676c3cd974375490438120cafbf6fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/57899C058000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a56a69cb90ea87f18aec873d5852483050c00a26fcf4a54255fb541006860b72",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/578991997000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dd18b7b6a45e77b0658415581e50d475a31d29bfd4b5822b5592de7470d8308c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/5632D8BC6000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "180554911e764032c1697895bd8e6aa78902e0f47d553982a8e2086c866571ed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/5632D9127000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f2d5a7a46f7e43c7139c9f4a0350e9908500551a5c2c7f068f89fb45de128f61",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/559F39E67000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "56f0d5ce7c6eb2e3d426cb9f989540c37c165e1aedd8b66fb9bbde9f87f0a714",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dllhst3g.exe",
+   "internal_name": "dllhst3g.exe",
+   "file_description": "COM Surrogate",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dllhst3g.exe/559F3C736000/dllhst3g.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dllhst3g.exe",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1803"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.9549",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "461f9accc31c27b08850d5c12b44ab3e4b092267c6f6027fb13826af7864484b",
+   "error": "461f9accc31c: symbol server returned unindexed build 48a55a81f7a8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "bcac93eada95f030e60b4cdfb693589019dcb76b0aa037d5e71bb004d1b4d0f9",
+   "error": "bcac93eada95: symbol server returned unindexed build 6cbfde9c325d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "bcac93eada95f030e60b4cdfb693589019dcb76b0aa037d5e71bb004d1b4d0f9",
+   "error": "bcac93eada95: symbol server returned unindexed build 6cbfde9c325d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "3e45ea0bd425ac15e9c0c4ce10fcca3f111e4c0d76e79f098735c6fcbd80488e",
+   "error": "3e45ea0bd425: symbol server returned unindexed build d394c0848b7a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "dd4e576d35b4992feb7f8dad348326280f64b5cb059f2a16fc0b275249aad9e3",
+   "error": "dd4e576d35b4: symbol server returned unindexed build 32655cf2b276"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "a4dc2c67c733df3b9d7e4b9b4b7c300374ee6922ccd5dbd21acfdc4e4d2068d1",
+   "error": "a4dc2c67c733: symbol server returned unindexed build 295d602790a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "b91f27afb88887f2c3830cfb211fd604d39a93d1e5d4f0da9df248292b13663b",
+   "error": "b91f27afb888: symbol server returned unindexed build b969dfc607ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "b91f27afb88887f2c3830cfb211fd604d39a93d1e5d4f0da9df248292b13663b",
+   "error": "b91f27afb888: symbol server returned unindexed build b969dfc607ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "360e11757029f102bf9defaf60b24f96a8c4b6726c0b9ec9ece4bbae89f3af7b",
+   "error": "360e11757029: symbol server returned unindexed build 5fe5d735ab69"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "360e11757029f102bf9defaf60b24f96a8c4b6726c0b9ec9ece4bbae89f3af7b",
+   "error": "360e11757029: symbol server returned unindexed build 5fe5d735ab69"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "360e11757029f102bf9defaf60b24f96a8c4b6726c0b9ec9ece4bbae89f3af7b",
+   "error": "360e11757029: symbol server returned unindexed build 5fe5d735ab69"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "360e11757029f102bf9defaf60b24f96a8c4b6726c0b9ec9ece4bbae89f3af7b",
+   "error": "360e11757029: symbol server returned unindexed build 5fe5d735ab69"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "360e11757029f102bf9defaf60b24f96a8c4b6726c0b9ec9ece4bbae89f3af7b",
+   "error": "360e11757029: symbol server returned unindexed build 5fe5d735ab69"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "e5b5417fd58e7f9c9d2edc41d2e9c5e9a5cf1a0b269e7b9ba0c83e9ec2aed176",
+   "error": "e5b5417fd58e: symbol server returned unindexed build a632b911e204"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "f0c838d686ce796863f400ff6b8a331dafff5e717fd55b2b4be105624f0160f4",
+   "error": "f0c838d686ce: symbol server returned unindexed build 7f054edb0688"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "f0c838d686ce796863f400ff6b8a331dafff5e717fd55b2b4be105624f0160f4",
+   "error": "f0c838d686ce: symbol server returned unindexed build 7f054edb0688"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "1011916572eef6786e62b46a5a1c070b23ff9493ee1b177ba216c6e46fc8ae94",
+   "error": "1011916572ee: symbol server returned unindexed build 1569b3f1e824"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "449bc1a158d54a7edddf86368cf88450cf0b098d2837a827c61512c22d7c72ee",
+   "error": "449bc1a158d5: symbol server returned unindexed build 1c0d5e2ed72f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "4619a29b1699c7019252729adb9847920126800e6c573f18a69aad71908fefda",
+   "error": "4619a29b1699: symbol server returned unindexed build 0490574d5a26"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "f814061ad1ff183b6a8ac3df9a8377e042f527c9a15d276ccc0493fb47aa8962",
+   "error": "f814061ad1ff: symbol server returned unindexed build 33e68158319e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "f26887181af8a1d9b86ccb7ee8ffd250e4f7e84548a7869902a4774c5ddbed42",
+   "error": "f26887181af8: symbol server returned unindexed build e7f3551849f6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "f26887181af8a1d9b86ccb7ee8ffd250e4f7e84548a7869902a4774c5ddbed42",
+   "error": "f26887181af8: symbol server returned unindexed build e7f3551849f6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "9d71a9edd75017c6effd7bc8fcaff5022d615c83b3dda2b3073415b697efe645",
+   "error": "9d71a9edd750: symbol server returned unindexed build 642e9a5bb081"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "9d71a9edd75017c6effd7bc8fcaff5022d615c83b3dda2b3073415b697efe645",
+   "error": "9d71a9edd750: symbol server returned unindexed build 642e9a5bb081"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "9d71a9edd75017c6effd7bc8fcaff5022d615c83b3dda2b3073415b697efe645",
+   "error": "9d71a9edd750: symbol server returned unindexed build 642e9a5bb081"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "9d71a9edd75017c6effd7bc8fcaff5022d615c83b3dda2b3073415b697efe645",
+   "error": "9d71a9edd750: symbol server returned unindexed build 642e9a5bb081"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "9d71a9edd75017c6effd7bc8fcaff5022d615c83b3dda2b3073415b697efe645",
+   "error": "9d71a9edd750: symbol server returned unindexed build 642e9a5bb081"
+  }
+ ]
+}

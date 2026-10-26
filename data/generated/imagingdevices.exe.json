@@ -1,0 +1,517 @@
+{
+ "name": "imagingdevices.exe",
+ "builds": [
+  {
+   "sha256": "dc5042f0d3861508fca1a9eb8ff28b978ba40a26fe4899715696bbf86e2cc5f8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/493BD5C71c000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "160e18754ef310226bba7f5cb82f72b6f40103b7963c518e3b83b3e7490970c0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/347CFA231a000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e87844846c483ad1915b829dc27de62d4597bb018144785367dce71d1777cb09",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/3796E72E19000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6900c4cbddbcf3368068fd0f954ca113822ae32930f003653e5949c0a6143a8f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/0C88076D1c000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "27fbe3eb1d465bc97e94fb3885d1db2378f3ed00982445b4511336a79ba12e9c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/5859F4D61c000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d437e5dbc738967f0d10c0c5a1dc92e13be3716f421751b903865b9a8186b837",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/57899BB01a000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "27a27d079becaa9fb61145853f575dda1dab197448eb39191e30d7d85e424139",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/5789911919000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e86cc5f8e3df7bfadbb4980c7846a6ead240359aa08411e5d0779cf89183358d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/5632D83F1a000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b403d1061fd66ffdd31b7bc0b8229817eb4622af1b9d26ae66d9a864a60a9b1a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/5632D7CE19000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9731652af3f5d529c95d8107149d37ea0d219189f3c9c91f698e34189294dc58",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/559F3A8B19000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7320783c6e2941f13cbf3cdc75e649f6d8c1054175aa264693a404cec20f4590",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImagingDevices.cpl",
+   "internal_name": "ImagingDevices.cpl",
+   "file_description": "Imaging Devices Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/imagingdevices.exe/559F383C1a000/imagingdevices.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ImagingDevices.cpl",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "fe3aaeb8b4af87e3ee19a55762809973b764d1eee6621ff3898cf352a4e6426b",
+   "error": "fe3aaeb8b4af: UnindexedBuild: symbol server returned unindexed build (unindexed:size=116232); 6e3265c127c2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=116232); 065b3ec79862: UnindexedBuild: symbol server returned unindexed build (unindexed:size=116232); f864d5c9569d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=116232)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b01c0831694bbbe773540eae0e34915fb95747f6151f99d60442ba891a08641d",
+   "error": "b01c0831694b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=114912)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b01c0831694bbbe773540eae0e34915fb95747f6151f99d60442ba891a08641d",
+   "error": "b01c0831694b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=114912)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "e82ca6f67f126519cdb9f5dfe0d3de9c6980c975580f0d657b8ef37d1d65f9f8",
+   "error": "e82ca6f67f12: symbol server returned unindexed build 4416ffd62116"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "6bf83bba390d452f0841f3c48bbeebfc1036c33ec5791e50a86399a4432e4180",
+   "error": "6bf83bba390d: symbol server returned unindexed build 480e992c53f6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "d8839214e044e2621aa40c061cd8255c3cb6ec3ecf634b7f7d26a73450d6824b",
+   "error": "d8839214e044: UnindexedBuild: symbol server returned unindexed build (unindexed:size=93536)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "aca461fd070d009740519feff8289fd1be2be3cc09011b28503fd535114adb3c",
+   "error": "aca461fd070d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98824)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "97aa0139b9ad9c3c30687392d6764c14f7160361c8814509f7683be708830a8e",
+   "error": "97aa0139b9ad: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97744)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "97aa0139b9ad9c3c30687392d6764c14f7160361c8814509f7683be708830a8e",
+   "error": "97aa0139b9ad: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97744)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "b722655b93bcb804802f6a20d17492f9c0f08b197b09e8cd57cf3b087ca5a347",
+   "error": "b722655b93bc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98240)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "b722655b93bcb804802f6a20d17492f9c0f08b197b09e8cd57cf3b087ca5a347",
+   "error": "b722655b93bc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98240)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "b722655b93bcb804802f6a20d17492f9c0f08b197b09e8cd57cf3b087ca5a347",
+   "error": "b722655b93bc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98240)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "b722655b93bcb804802f6a20d17492f9c0f08b197b09e8cd57cf3b087ca5a347",
+   "error": "b722655b93bc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98240)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "b722655b93bcb804802f6a20d17492f9c0f08b197b09e8cd57cf3b087ca5a347",
+   "error": "b722655b93bc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98240)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "4bea04a0bb4725d75ac1b7740195256a0a711ce22fbecfe73ebff2b7e15a2a6f",
+   "error": "4bea04a0bb47: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97392); 9d2e615e1aa9: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97392); 31d13b08b2c1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97392); 0a32ed76ebc6: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97392)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "c53f89084426a63f9fdbd785516a3eafbec9426d91401447434f156920038b23",
+   "error": "c53f89084426: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94944)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "c53f89084426a63f9fdbd785516a3eafbec9426d91401447434f156920038b23",
+   "error": "c53f89084426: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94944)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "1f40904db2e3ba64c4556ca5fa9abba5b0b4ff8b4161970b37373e01b6f70a98",
+   "error": "1f40904db2e3: symbol server returned unindexed build 827bb1bad2f6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "07ff2e6b0d343047d01c48aac19c4fd7b5b01e3051287d6166490579f0065734",
+   "error": "07ff2e6b0d34: UnindexedBuild: symbol server returned unindexed build (unindexed:size=103224)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "79b6505e3f34c77c410dd753d8acc424fcf93fd6c6f6bc630045be5f40510e67",
+   "error": "79b6505e3f34: UnindexedBuild: symbol server returned unindexed build (unindexed:size=92000)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "a21e5f3a91ffeec54cdf5e8cdef190083c1712ea5181435728b20f48566a7cdc",
+   "error": "a21e5f3a91ff: UnindexedBuild: symbol server returned unindexed build (unindexed:size=97424)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "cf3d31527fdaa64a6aa710e98860e27c4e901459a4998f0b5b53217eb354e078",
+   "error": "cf3d31527fda: symbol server returned unindexed build e1175df94cbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "cf3d31527fdaa64a6aa710e98860e27c4e901459a4998f0b5b53217eb354e078",
+   "error": "cf3d31527fda: symbol server returned unindexed build e1175df94cbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "3b08281fa642225f812960aa29a2a3d9a7b0156e454a8efc1fa9b6f6cd7dd46e",
+   "error": "3b08281fa642: UnindexedBuild: symbol server returned unindexed build (unindexed:size=96208)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "3b08281fa642225f812960aa29a2a3d9a7b0156e454a8efc1fa9b6f6cd7dd46e",
+   "error": "3b08281fa642: UnindexedBuild: symbol server returned unindexed build (unindexed:size=96208)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "3b08281fa642225f812960aa29a2a3d9a7b0156e454a8efc1fa9b6f6cd7dd46e",
+   "error": "3b08281fa642: UnindexedBuild: symbol server returned unindexed build (unindexed:size=96208)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "3b08281fa642225f812960aa29a2a3d9a7b0156e454a8efc1fa9b6f6cd7dd46e",
+   "error": "3b08281fa642: UnindexedBuild: symbol server returned unindexed build (unindexed:size=96208)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "3b08281fa642225f812960aa29a2a3d9a7b0156e454a8efc1fa9b6f6cd7dd46e",
+   "error": "3b08281fa642: UnindexedBuild: symbol server returned unindexed build (unindexed:size=96208)"
+  }
+ ]
+}

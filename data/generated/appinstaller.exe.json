@@ -1,0 +1,99 @@
+{
+ "name": "appinstaller.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "06f6965db557fb359f60ff32097cb410cd910a23edddf95adb7f336d743fb5a9",
+   "error": "06f6965db557: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5F345CAF1c5000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "d45cbe00ed5d6321d543ff73f530d99a02c0cb7e1db9a008a42e8334a94cc792",
+   "error": "d45cbe00ed5d: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/622A880D253000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "d45cbe00ed5d6321d543ff73f530d99a02c0cb7e1db9a008a42e8334a94cc792",
+   "error": "d45cbe00ed5d: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/622A880D253000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "e2467b82b854023a65cd10dcd04a809926fcbb9ee634ddf6337b120e9bdf67bc",
+   "error": "e2467b82b854: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/65A1B63F26a000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "dc043ad5953f00f6f1e83f466e3dce4f8a77f214a9388fcc50b0884b7eb589c7",
+   "error": "dc043ad5953f: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/672E55CB2c4000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "53390b925acfdf162df4f804fe72075815781dba7e1d0639e39fa7cf39d46c42",
+   "error": "53390b925acf: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5985082E215000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "1fcd954ba8f419543a1549c70606fe1c5320b488b9505f05317e0f4ad8d33e94",
+   "error": "1fcd954ba8f4: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/59938CB8215000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "a52f39607d2f8fc840c84ec1874340b28fca4162f0dd5e0cb1d522618f14b6bf",
+   "error": "a52f39607d2f: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5B5255171e5000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "df15b40803bb6a58067fead883642d5170318d6142e8ef45c5eb9aba71287449",
+   "error": "df15b40803bb: NotFound: https://msdl.microsoft.com/download/symbols/appinstaller.exe/5C4B905F1f6000/appinstaller.exe"
+  }
+ ]
+}

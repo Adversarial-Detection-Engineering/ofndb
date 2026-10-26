@@ -1,0 +1,602 @@
+{
+ "name": "eventvwr.exe",
+ "builds": [
+  {
+   "sha256": "f0603c4f2ec8e41c072fe85d80a97eedb202253cef3b7a33017c492a7ee4b019",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/F0143E1617000/eventvwr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\eventvwr.exe"
+  },
+  {
+   "sha256": "527ad061c938b793e938351903c8ead4c2b49d88d09ba2b45d5648cc745d7d40",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/6AC8D71118000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4bc7d099288995957e14c996290f7243ca1feed8a7a7aebe76ec4d689bde1fed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/75A322051a000/eventvwr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\eventvwr.exe"
+  },
+  {
+   "sha256": "3a846c7ce79495e8d3ff461d01196bfd25c65504f47632f7f7573dc9c31582de",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/CFBCBCF91a000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2db3f388fe094588e44d12451bf9dc45500c9dfd5aaa6350d6013247098da8f1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/6AC8D62817000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b2a5661b18e9378f5da240523136f3d5ee034dacb31cc832517479859285b95f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-02-10",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.1575",
+    "28000.1643",
+    "28000.1719",
+    "28000.1764",
+    "28000.1836",
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/08F6E38B17000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "129c68334da08377f0dd469338db1736a1de2d708e69a7214cfd0b8b2c4d9f18",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/2C7A967217000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b5458390e94b467dda104e282322c85077e587407cc7ea8b54703998900dea20",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/D2FD66701a000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fd925e7a7d01f7fd3fd22a39fc3170c0bf303a3155263383e3c639934bb52a7e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/5632D86818000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aec702ec22b82b6da0264a65453467c3703ce2c917608900ccae427505d7a179",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/5632D80017000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2d9ba55f95ba16633c2cf85e4d011e851db2021f650f894e692b6fafc8168675",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/559F3BC917000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "238a9de495ddb87555913ec5d1f67bcc22b5d754b21b7ae9da3158461547da00",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "eventvwr.exe",
+   "internal_name": "eventvwr",
+   "file_description": "Event Viewer Snapin Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/eventvwr.exe/559F395218000/eventvwr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "eventvwr.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "2b529be3671ff0b3290038c3d10b111ba91dd7921e4e0b2d892e0b3767ce8bfd",
+   "error": "2b529be3671f: symbol server returned unindexed build d2015ee03e2b; b5c79c1c4d9c: symbol server returned unindexed build d2015ee03e2b; 34ab387202b0: symbol server returned unindexed build d2015ee03e2b; de8d3c11177b: symbol server returned unindexed build d2015ee03e2b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "a0ee7421182efdc18ae71af9230bd239a671bee5a1f2063f6ceff80f199762f0",
+   "error": "a0ee7421182e: symbol server returned unindexed build c71ba391f1d2; 9c48f2740d96: symbol server returned unindexed build d42de1c0306f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "558fee35078d109b3e0fa0073503c84e7b98ffcd0a2bd548754e4b6fa2b63546",
+   "error": "558fee35078d: symbol server returned unindexed build e229fb1fe4a9; a0ee7421182e: symbol server returned unindexed build c71ba391f1d2; 9c48f2740d96: symbol server returned unindexed build d42de1c0306f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "5d93f37f80d4f5848d1b492c1758db0fea706b104c381653a322e5c4f5bc1a08",
+   "error": "5d93f37f80d4: symbol server returned unindexed build 29c03c2edca2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "b8f06c842b582d7df5821d86ad8e09edb45e661dc852135b1ab410994726a74f",
+   "error": "b8f06c842b58: symbol server returned unindexed build 583a4c379c0a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "0ee8f607e5ccd6d0ab3296bbb37254c096cac9ec464fd8aa75f0838c8f40276b",
+   "error": "0ee8f607e5cc: symbol server returned unindexed build 07b2d9f5f36c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "8821714be395114ac89d8956fad99d73baf3b71e0245459bc1d85554aed35eb0",
+   "error": "8821714be395: symbol server returned unindexed build 6bd7debf7f68; bc87e4f462f0: symbol server returned unindexed build 3268669394b2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e9889f1ae72baa56b628ca59f6179c3e9f57b84043b7c49a50c636337202c9cc",
+   "error": "e9889f1ae72b: symbol server returned unindexed build 4908d49cec8a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "e9889f1ae72baa56b628ca59f6179c3e9f57b84043b7c49a50c636337202c9cc",
+   "error": "e9889f1ae72b: symbol server returned unindexed build 4908d49cec8a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "be0d401c8b42024b0918394faa0aa6b494ea537b3c6c2c62c3d9064929f6245b",
+   "error": "be0d401c8b42: symbol server returned unindexed build d846bddec934"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "be0d401c8b42024b0918394faa0aa6b494ea537b3c6c2c62c3d9064929f6245b",
+   "error": "be0d401c8b42: symbol server returned unindexed build d846bddec934"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "be0d401c8b42024b0918394faa0aa6b494ea537b3c6c2c62c3d9064929f6245b",
+   "error": "be0d401c8b42: symbol server returned unindexed build d846bddec934"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c265b41edaf568fc1ffcaff608fb60a9ebb018d013fdb8283c16939a5cc0fa73",
+   "error": "c265b41edaf5: symbol server returned unindexed build 35fa67889bed; be0d401c8b42: symbol server returned unindexed build d846bddec934"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "be0d401c8b42024b0918394faa0aa6b494ea537b3c6c2c62c3d9064929f6245b",
+   "error": "be0d401c8b42: symbol server returned unindexed build d846bddec934"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "80cd571909725b5241d2c6699feccdf7bd19b5f550e4e3779dd411f491a42e37",
+   "error": "80cd57190972: symbol server returned unindexed build 1245d58feaf9; 5eb5e3386dd5: symbol server returned unindexed build 1245d58feaf9; 57c524da116f: symbol server returned unindexed build 1245d58feaf9; b8715dda236e: symbol server returned unindexed build 1245d58feaf9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "e2ba473a415fb4c5df2bd3e90157f92b7ded93b2cf7b95e82764dcc887816593",
+   "error": "e2ba473a415f: symbol server returned unindexed build 0522030abe0f; 6c76361ab78c: symbol server returned unindexed build 89593f3e490f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "d88589d755608f660b9b8a4e1f2b450ee7a7f7835180ca8e05f5fc875f951469",
+   "error": "d88589d75560: symbol server returned unindexed build f8f6cb36f189; e2ba473a415f: symbol server returned unindexed build 0522030abe0f; 6c76361ab78c: symbol server returned unindexed build 89593f3e490f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "faeb63728daa2f00ab0392f7b8e2f55371992dd7cd46202c89e42643dd798fa6",
+   "error": "faeb63728daa: symbol server returned unindexed build 17d725e9461e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "687bfd3c930df3323096faa9db5e0f9651d320fe8e8b07915c376587506ae51c",
+   "error": "687bfd3c930d: symbol server returned unindexed build 96e457b829ff"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "e8f45557fae3186744af854f3dae0f7266cba1eec3dc9afd7aae3c71860bada3",
+   "error": "e8f45557fae3: symbol server returned unindexed build 01e67c2fd849"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "1dd8da8325222ce2025845995873b99e652f4bfe81a22d5a9e2ed6378bfcaf58",
+   "error": "1dd8da832522: symbol server returned unindexed build 0f812fede90e; 963e6a79b775: symbol server returned unindexed build 89894d80fd82"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "9efc59144e49a6c2a08a890310d58fe7279c26e13bc1c7cf346e4dfbcc30dbd5",
+   "error": "9efc59144e49: symbol server returned unindexed build 996a503c533a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "9efc59144e49a6c2a08a890310d58fe7279c26e13bc1c7cf346e4dfbcc30dbd5",
+   "error": "9efc59144e49: symbol server returned unindexed build 996a503c533a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "a05f5f53458b25c025d9dacd0864cd07c78d0f1d8496e7d89eacda3f0005120c",
+   "error": "a05f5f53458b: symbol server returned unindexed build dbba2cc413df"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "a05f5f53458b25c025d9dacd0864cd07c78d0f1d8496e7d89eacda3f0005120c",
+   "error": "a05f5f53458b: symbol server returned unindexed build dbba2cc413df"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "a05f5f53458b25c025d9dacd0864cd07c78d0f1d8496e7d89eacda3f0005120c",
+   "error": "a05f5f53458b: symbol server returned unindexed build dbba2cc413df"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "197185379da7242eabfd36970653027032192d02e5472c0cc08943c9088a747d",
+   "error": "197185379da7: symbol server returned unindexed build 4f0692b47e9b; a05f5f53458b: symbol server returned unindexed build dbba2cc413df"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "a05f5f53458b25c025d9dacd0864cd07c78d0f1d8496e7d89eacda3f0005120c",
+   "error": "a05f5f53458b: symbol server returned unindexed build dbba2cc413df"
+  }
+ ]
+}

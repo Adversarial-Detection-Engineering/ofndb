@@ -1,0 +1,462 @@
+{
+ "name": "wmic.exe",
+ "builds": [
+  {
+   "sha256": "7c7f386bb7c70263fd835dc58791b6dd73fc6617c27751b5503dba8d0cdda690",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-08-11",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/B266628E73000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4afe43ff64ad20475d75d9816a269fc03e10c492033b67e60c9886f3512e900e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-08-11",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/74D0FD1E67000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "969d91ffa56c80f82f893559316f6e1f12dc6c023411c43daedc80e8f9ac2652",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/57898F9864000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6679ea8fbeb539b5852ce8838420471fed0600f5050f3370dbb355dac76bf072",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/57899A8280000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "56981702d1fae9b4bff9ad651e3c306f916a9f36ed51428fc912aa922be4498a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/5632D6CF82000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20713866e945c03c4f4f64eb05e091e04cdafda5da8e1bdbd45eaf67c76a10df",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/5632D64B64000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6142cf5eddec0eb7bf230ffe8b99a4336781c88debcc9ab10ec7b0d2aa8bb98a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/559F395A82000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "052851166596cd26840eabc378fcabb22de2e5b7fd7b83b8f4948c5db9d70f96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wmic.exe",
+   "internal_name": "wmic.exe",
+   "file_description": "WMI Commandline Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wmic.exe/559F3BD364000/wmic.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "original_filenames": [
+  {
+   "value": "wmic.exe",
+   "builds": 8,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.5074",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-08-11",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "0a542d3c4e0d4d99a5d9426dd54de62a498acbd0330dbbba82f595e0677cba3b",
+   "error": "0a542d3c4e0d: symbol server returned unindexed build 4262dee2fe94; e487d25b1424: symbol server returned unindexed build 4262dee2fe94; b332d20fa965: symbol server returned unindexed build 4262dee2fe94; 9ca09a4366f3: symbol server returned unindexed build e34245c955ea"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "fbcdf1db7d385ae5556f76d1f388f6e7af08a545c0d797c4b3cd2f0cc739a9ae",
+   "error": "fbcdf1db7d38: symbol server returned unindexed build 3f37da38b3a0; 576949e06b50: symbol server returned unindexed build 3f37da38b3a0; ad00bac8ef95: symbol server returned unindexed build b2f50c6b3f48; 767bf5f08bf4: symbol server returned unindexed build b2ea06e2f412"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "fbcdf1db7d385ae5556f76d1f388f6e7af08a545c0d797c4b3cd2f0cc739a9ae",
+   "error": "fbcdf1db7d38: symbol server returned unindexed build 3f37da38b3a0; ad00bac8ef95: symbol server returned unindexed build b2f50c6b3f48"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "74d21e1349aab027cd02d15f2428028c028592f265d1830c8dfc407f9bf76173",
+   "error": "74d21e1349aa: symbol server returned unindexed build aa57f5cfb670"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "a23c1b94d193ebe3d4cf647c653e41f63ba7b6d996c9a3de6380408c7e4a812e",
+   "error": "a23c1b94d193: symbol server returned unindexed build 26b1d021d46c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "d368bcb7934db0c53d1e7277dcb47af2b709253cbf0eee9869ee7e17ed226ea3",
+   "error": "d368bcb7934d: symbol server returned unindexed build e93266fd062f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "34c4ed50a3441bd7cb6411749771c637a8c18c791525d8fcb5ae71b0b1969ba6",
+   "error": "34c4ed50a344: symbol server returned unindexed build db5e81e7bebc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "96bec668680152df51ec1de1d5362c64c2aba1eda86f9121f517646f5dec2b72",
+   "error": "96bec6686801: symbol server returned unindexed build 3c8092d971a0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "96bec668680152df51ec1de1d5362c64c2aba1eda86f9121f517646f5dec2b72",
+   "error": "96bec6686801: symbol server returned unindexed build 3c8092d971a0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "fa78c88dac91fdf2eac736e6900ac1ec4ab7a388b8f77a23ffa7e80a4ad29f5a",
+   "error": "fa78c88dac91: symbol server returned unindexed build 00f6a2512d57"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "12abb45620a7a1ffd8bb953deba3fcc30b8ba14b2ff523f1f519bf2bf6ba7d4c",
+   "error": "12abb45620a7: symbol server returned unindexed build 629a46f73ce4; 77f600a11b1d: symbol server returned unindexed build 94a17bdfa64d; a6e7b047a97c: symbol server returned unindexed build adf45584c9bc; fa78c88dac91: symbol server returned unindexed build 00f6a2512d57"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "fa78c88dac91fdf2eac736e6900ac1ec4ab7a388b8f77a23ffa7e80a4ad29f5a",
+   "error": "fa78c88dac91: symbol server returned unindexed build 00f6a2512d57"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "da603fa720ab43aa6d4d36aa9fdb828dab9645523eabaac209af6451d5b4d757",
+   "error": "da603fa720ab: symbol server returned unindexed build 2e68a644f3ab; bf4fa71c1495: symbol server returned unindexed build fee7c97221c8; cd7ab08d987f: symbol server returned unindexed build 21f59062f5b3; 3640aa594d0f: symbol server returned unindexed build 21f59062f5b3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "da603fa720ab43aa6d4d36aa9fdb828dab9645523eabaac209af6451d5b4d757",
+   "error": "da603fa720ab: symbol server returned unindexed build 2e68a644f3ab; bf4fa71c1495: symbol server returned unindexed build fee7c97221c8; cd7ab08d987f: symbol server returned unindexed build 21f59062f5b3; 12abb45620a7: symbol server returned unindexed build 629a46f73ce4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "958423d92bbd529e661f3aae0913d94bb7405dadb6ebd27d197722cd02b46029",
+   "error": "958423d92bbd: symbol server returned unindexed build c04858f3585a; 6d890411b986: symbol server returned unindexed build c04858f3585a; 0968fca319a0: symbol server returned unindexed build c04858f3585a; 71dcb8cceede: symbol server returned unindexed build 10647b8880ba"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "bb4d47a4a70f542d669278b4d6389622806ccae63ba4c09f20f80d7c65ea6d6e",
+   "error": "bb4d47a4a70f: symbol server returned unindexed build 6220e61fa458; f93fa626adea: symbol server returned unindexed build 4462fee73876"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "bb4d47a4a70f542d669278b4d6389622806ccae63ba4c09f20f80d7c65ea6d6e",
+   "error": "bb4d47a4a70f: symbol server returned unindexed build 6220e61fa458; f93fa626adea: symbol server returned unindexed build 4462fee73876"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "6a268e94b58596f824b6e902230a17a2db8a870ac5bc03d3aeb61c1da335250e",
+   "error": "6a268e94b585: symbol server returned unindexed build e123e3462d4f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "eff503b992a6e6ecae93b2b3bc6fa6b0cda0b5ee4ad99c8eb160b586271a57f8",
+   "error": "eff503b992a6: symbol server returned unindexed build 49bd6bdcf5d8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "69ca5e47cd2b97f29e744ced04ce93746b687efe8f636d9aeb8cb1ef9b67049c",
+   "error": "69ca5e47cd2b: symbol server returned unindexed build b8cfbca00045"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "f41a8470c4ecf503b576879a9043df5781f4f08d688012e3db391e04c8eb894a",
+   "error": "f41a8470c4ec: symbol server returned unindexed build 1c02121ddfe4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "a6acb58967159648c84d67b06dc6511a9a831386742b4f1f96b0a19afc8b8037",
+   "error": "a6acb5896715: symbol server returned unindexed build f68e036da7b8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "a6acb58967159648c84d67b06dc6511a9a831386742b4f1f96b0a19afc8b8037",
+   "error": "a6acb5896715: symbol server returned unindexed build f68e036da7b8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "9578c31e1b58fa75a2b612456ebce324296e53a007e5697995cec5785956afe4",
+   "error": "9578c31e1b58: symbol server returned unindexed build daffcac342b9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "0a52ea7e02f566f009469f4fa29fa7ae4742bb8c92205d26b7cdb2b2daf9734f",
+   "error": "0a52ea7e02f5: symbol server returned unindexed build 97dc5830ceaa; 065dd42e556b: symbol server returned unindexed build 53c5948d70fe; ae443f71a75e: symbol server returned unindexed build 1cf2c9c17be9; 9578c31e1b58: symbol server returned unindexed build daffcac342b9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "9578c31e1b58fa75a2b612456ebce324296e53a007e5697995cec5785956afe4",
+   "error": "9578c31e1b58: symbol server returned unindexed build daffcac342b9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "d67c419d51d16331073e60087a346519267468bf68c2dc66c94ef6569bf5655e",
+   "error": "d67c419d51d1: symbol server returned unindexed build cf5209288f44; 088dff47f3d1: symbol server returned unindexed build 4b9774e99fec; c2e1760632f1: symbol server returned unindexed build e35201e00339; e37c897a6f54: symbol server returned unindexed build e35201e00339"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "d67c419d51d16331073e60087a346519267468bf68c2dc66c94ef6569bf5655e",
+   "error": "d67c419d51d1: symbol server returned unindexed build cf5209288f44; 088dff47f3d1: symbol server returned unindexed build 4b9774e99fec; c2e1760632f1: symbol server returned unindexed build e35201e00339; 0a52ea7e02f5: symbol server returned unindexed build 97dc5830ceaa"
+  }
+ ],
+ "updated": "2026-10-26"
+}

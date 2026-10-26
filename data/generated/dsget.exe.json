@@ -1,0 +1,86 @@
+{
+ "name": "dsget.exe",
+ "builds": [
+  {
+   "sha256": "bee09222461601b840a696088824b526d003a8021e032b154df2deedb4239237",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dsget.exe",
+   "internal_name": "dsget.exe",
+   "file_description": "Microsoft AD DS/LDS Get command line utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsget.exe/AF1D33FB1e000/dsget.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dsget.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "min_version": "10.0.26100.7920",
+   "max_version": "10.0.26100.7920",
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "11-26H1",
+   "sha256": "40b8ed695de9409a50c5dbfe6b12b97b9df5b7f314a7add517264ebdccf92b20",
+   "error": "40b8ed695de9: NotFound: no timestamp/image size in winbindex, no symbol server URL; b9a95ec79961: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "b24dff68a53a71adf3454996d2cc7f680f0c7e61cc5ec1ba6487a654077c5143",
+   "error": "b24dff68a53a: symbol server returned unindexed build eae0440bbda0; 7059d15e9b40: symbol server returned unindexed build 43dce7ab04f1; 56da776f61d9: symbol server returned unindexed build 43dce7ab04f1"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "bdeuisrv.exe",
+ "builds": [
+  {
+   "sha256": "7e32ada3350c1cb4cdf93904a30c709936018d99ea61b88743eb7297660cdeef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BDEUISRV.DLL",
+   "internal_name": "BDEUISRV.DLL",
+   "file_description": "BDE UI Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\BdeUISrv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BDEUISRV.DLL",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

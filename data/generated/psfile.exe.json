@@ -1,0 +1,47 @@
+{
+ "name": "psfile.exe",
+ "builds": [
+  {
+   "sha256": "4243dc8b991f5f8b3c0f233ca2110a1e03a1d716c3f51e88faf1d59b8242d329",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "psfile.exe",
+   "internal_name": "PsFile",
+   "file_description": "Lists files and directories opened remotely",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals PsFile",
+   "file_version": "1.04",
+   "fixed_file_version": "1.4.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsFile",
+   "release": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "download_url": "https://live.sysinternals.com/psfile.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psfile.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.4.0.0",
+   "max_version": "1.4.0.0",
+   "first_seen": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "provenance": "parsed"
+  }
+ ]
+}

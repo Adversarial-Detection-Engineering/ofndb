@@ -1,0 +1,64 @@
+{
+ "name": "comrepl.exe",
+ "builds": [
+  {
+   "sha256": "0f8564011bb77367c4b0add270a037d5f9951edf72fd2a5868e304804cbb39d2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMREPL.EXE",
+   "internal_name": "COMREPL.EXE",
+   "file_description": "COM+ Server Replication",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Com\\comrepl.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "09ad453c92297ac4ff61ec8508a0ae8a267fb1b5ca314b42871b61884b91b599",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMREPL.EXE",
+   "internal_name": "COMREPL.EXE",
+   "file_description": "COM+ Server Replication",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Com\\comrepl.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "COMREPL.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "2001.12.10941.16384",
+   "max_version": "2001.12.10941.16384",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,647 @@
+{
+ "name": "w32tm.exe",
+ "builds": [
+  {
+   "sha256": "6aec23acacd50b6f9299fbc26e55cb81a3e9ae262df7db0b0003f727f142bd96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/E2C915483c000/w32tm.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\w32tm.exe"
+  },
+  {
+   "sha256": "4f5d676f363552b6a3ca290c35cca84429c1decb9b5757c83fba11bc6686c62d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/2FEDE69744000/w32tm.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\w32tm.exe"
+  },
+  {
+   "sha256": "3fa10d25d98d92c784f29d514df3448e4f623262c872cd9f55551188f7c886e6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/D61840B144000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "37f8056ad80cd74f93e5d63ab46c1f186b5dbc42a82b9afcde9562e284120779",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/589A33973c000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "496e0dfd222df98ba3e138cdd6679f27d73d0e5ae3871e835f363b85301c2b53",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-05-28",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/1B0C97ED44000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2920e8df32e1300a1c5c29c6002fc2f02598300786943f9f52f605251f99553a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-05-28",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/3D785E6C3c000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c71b4316bf6ebd40a227e0fa3af899a00375c41d5029f55eb5880d6fb0a6a5f5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.719 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.719",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2019-08-17",
+   "last_seen": "2020-09-08",
+   "os_builds": [
+    "17763.1012",
+    "17763.1039",
+    "17763.1075",
+    "17763.1098",
+    "17763.1131",
+    "17763.1132",
+    "17763.1158",
+    "17763.1192",
+    "17763.1217",
+    "17763.1282",
+    "17763.1294",
+    "17763.1339",
+    "17763.1369",
+    "17763.1397",
+    "17763.1432",
+    "17763.1457",
+    "17763.720",
+    "17763.737",
+    "17763.740",
+    "17763.774",
+    "17763.775",
+    "17763.805",
+    "17763.832",
+    "17763.864",
+    "17763.914",
+    "17763.973"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/AE75B60043000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b98bde1672d51b66cdaef87936826773cb8637e34b5f63b9f1e10b0481ce3da8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.719 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.719",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2019-08-17",
+   "last_seen": "2020-09-08",
+   "os_builds": [
+    "17763.1012",
+    "17763.1039",
+    "17763.1075",
+    "17763.1098",
+    "17763.1131",
+    "17763.1132",
+    "17763.1158",
+    "17763.1192",
+    "17763.1217",
+    "17763.1282",
+    "17763.1294",
+    "17763.1339",
+    "17763.1369",
+    "17763.1397",
+    "17763.1432",
+    "17763.1457",
+    "17763.720",
+    "17763.737",
+    "17763.740",
+    "17763.774",
+    "17763.775",
+    "17763.805",
+    "17763.832",
+    "17763.864",
+    "17763.914",
+    "17763.973"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/5FF6C54438000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c879ce7de155ada43e5bfc5bacecd54529c8019b90f8be09ffa116a118be92d5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/5789915916000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6b71a1db48da5f0359ea3fbbd3dec449b7f91b00687617d0d6e979b5f0ab2459",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/57899B6A19000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f21dda9313c4e972f72204c0a4f14e625dc9049ab72bc5c69674d29a036d0c55",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/5632D7B219000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f10161220243273e6fb8da0072c78fb5e40f5979719e6b631c7f15400a2376c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/5632D73615000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7481b61d95c45a5ebb6dfc318a8a62f1524f815fb8fccc8859b373570c049538",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/559F399419000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0c5aba74f772ba37e8da71f0d033f4962f952b523efc16dd1fff30ebe15a00e1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "w32time.dll",
+   "internal_name": "w32time.dll",
+   "file_description": "Windows Time Service Diagnostic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/w32tm.exe/559F3C0B15000/w32tm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "w32time.dll",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1809"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "6cf3c369456ff81ed23f74d613bb6207e1d15f45f8c76d5b07b1cbf73e564708",
+   "error": "6cf3c369456f: symbol server returned unindexed build 18770294e918; 273c997356b8: symbol server returned unindexed build 7a0acee09238; 61fcb45ab5d0: symbol server returned unindexed build 7a0acee09238; 8ed11d917168: symbol server returned unindexed build 7b839d2db185"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "648562d9071c2189b24eef623ceaf5077052ddaed371dd5e3bb65ed08a59b795",
+   "error": "648562d9071c: symbol server returned unindexed build 8cd8df2374b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "648562d9071c2189b24eef623ceaf5077052ddaed371dd5e3bb65ed08a59b795",
+   "error": "648562d9071c: symbol server returned unindexed build 8cd8df2374b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "9f202097621e1af3863d7709dc75a9fdf2bfeb53fce687c8472202ce9e5b8747",
+   "error": "9f202097621e: symbol server returned unindexed build a24901d69396"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "cd7b686140e6b3021593cfab3dace3b914df1a7875511229ee74241f5759d69c",
+   "error": "cd7b686140e6: symbol server returned unindexed build 31dee08b9a75"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "7636b7f51d680d055dac3b217e2a3e33281faee8f8de8f28de7f6e258690abdb",
+   "error": "7636b7f51d68: symbol server returned unindexed build 18bf2c5ce31a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "67fb8c44c4e05b9b090bf839b1abfd389de633f4a987141bd705e173927eb48f",
+   "error": "67fb8c44c4e0: symbol server returned unindexed build 62544fc80123"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "67fb8c44c4e05b9b090bf839b1abfd389de633f4a987141bd705e173927eb48f",
+   "error": "67fb8c44c4e0: symbol server returned unindexed build 62544fc80123"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "88f14176c848adce732fe1db67c2d95cd495ac71caed5d137e0108332509042f",
+   "error": "88f14176c848: symbol server returned unindexed build be45dc4d3133"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "88f14176c848adce732fe1db67c2d95cd495ac71caed5d137e0108332509042f",
+   "error": "88f14176c848: symbol server returned unindexed build be45dc4d3133"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "88f14176c848adce732fe1db67c2d95cd495ac71caed5d137e0108332509042f",
+   "error": "88f14176c848: symbol server returned unindexed build be45dc4d3133"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "88f14176c848adce732fe1db67c2d95cd495ac71caed5d137e0108332509042f",
+   "error": "88f14176c848: symbol server returned unindexed build be45dc4d3133"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "88f14176c848adce732fe1db67c2d95cd495ac71caed5d137e0108332509042f",
+   "error": "88f14176c848: symbol server returned unindexed build be45dc4d3133"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "7872eb5e2bb80ceb26354c0217077592c8173b615ecc25a0ded913591d6dde35",
+   "error": "7872eb5e2bb8: symbol server returned unindexed build 9d653a189fad; df9c3ecdbe5b: symbol server returned unindexed build 5f1b7f4a9ba6; 2184f3320667: symbol server returned unindexed build 5f1b7f4a9ba6; 3961d423ca02: symbol server returned unindexed build b6e757f73e86"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "01c04070eccac4da7098a36f57f5496040d646f31d0029d5015d5dcec55a238c",
+   "error": "01c04070ecca: symbol server returned unindexed build 1c9f89521ba0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "01c04070eccac4da7098a36f57f5496040d646f31d0029d5015d5dcec55a238c",
+   "error": "01c04070ecca: symbol server returned unindexed build 1c9f89521ba0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "6c53fcc4636b45e62ba12ce7f05c80d26707f86ae9f7059b8b97f643260d29b2",
+   "error": "6c53fcc4636b: symbol server returned unindexed build 2cacf9ba8c0c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "5b10d57f5078ba585177fda78abf84b0f2874a82bff09ec562308f3bdea0201b",
+   "error": "5b10d57f5078: symbol server returned unindexed build cd2de8ab9833"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "cf5a0d2db0d64c9b014eccd04810085293c7a73d0d9c28b4f992283a1cf91632",
+   "error": "cf5a0d2db0d6: symbol server returned unindexed build bb18f463306e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "61009645625a99e7c2b2dcef4f77f7ff3c8894d43d4d9a856082e14c1a52780f",
+   "error": "61009645625a: symbol server returned unindexed build 79ce68245e03"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "61009645625a99e7c2b2dcef4f77f7ff3c8894d43d4d9a856082e14c1a52780f",
+   "error": "61009645625a: symbol server returned unindexed build 79ce68245e03"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "8ab5c40895d73907b4f96ba73e73c5bf12a76a00965034a4146f85533b14f5c4",
+   "error": "8ab5c40895d7: symbol server returned unindexed build 3225404c80ca"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "8ab5c40895d73907b4f96ba73e73c5bf12a76a00965034a4146f85533b14f5c4",
+   "error": "8ab5c40895d7: symbol server returned unindexed build 3225404c80ca"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "8ab5c40895d73907b4f96ba73e73c5bf12a76a00965034a4146f85533b14f5c4",
+   "error": "8ab5c40895d7: symbol server returned unindexed build 3225404c80ca"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "8ab5c40895d73907b4f96ba73e73c5bf12a76a00965034a4146f85533b14f5c4",
+   "error": "8ab5c40895d7: symbol server returned unindexed build 3225404c80ca"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "8ab5c40895d73907b4f96ba73e73c5bf12a76a00965034a4146f85533b14f5c4",
+   "error": "8ab5c40895d7: symbol server returned unindexed build 3225404c80ca"
+  }
+ ]
+}

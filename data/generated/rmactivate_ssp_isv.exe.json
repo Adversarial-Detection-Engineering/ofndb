@@ -1,0 +1,64 @@
+{
+ "name": "rmactivate_ssp_isv.exe",
+ "builds": [
+  {
+   "sha256": "939b66c8dc9e2680922a58e7ed9e9fb39f9c3574b5800d35a082eaf85ef5b79a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rmactivate_ssp_isv.exe",
+   "internal_name": "Windows Rights Management Services Activation for Server Security Processor (Pre-production)",
+   "file_description": "Windows Rights Management Services Activation for Server Security Processor (Pre-production)",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RMActivate_ssp_isv.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "4bd935e81b19b1e131761f907109abc2bd272d3a877b1496e1a8c17da38b1149",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rmactivate_ssp_isv.exe",
+   "internal_name": "Windows Rights Management Services Activation for Server Security Processor (Pre-production)",
+   "file_description": "Windows Rights Management Services Activation for Server Security Processor (Pre-production)",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RMActivate_ssp_isv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rmactivate_ssp_isv.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

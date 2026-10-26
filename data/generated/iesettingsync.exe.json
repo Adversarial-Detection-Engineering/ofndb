@@ -1,0 +1,44 @@
+{
+ "name": "iesettingsync.exe",
+ "builds": [
+  {
+   "sha256": "2e2a0876e20e3738d8060507984125490571e5169ba27cd6b679b6f5490ddae0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IESettingSync.exe",
+   "internal_name": "IESettingSync.exe",
+   "file_description": "Microsoft ® IE Setting Sync Background Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "IESettingSync",
+   "file_version": "11.00.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IESettingSync.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IESettingSync.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.9711",
+   "max_version": "11.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

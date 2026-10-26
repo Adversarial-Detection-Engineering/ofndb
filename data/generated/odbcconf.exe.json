@@ -1,0 +1,483 @@
+{
+ "name": "odbcconf.exe",
+ "builds": [
+  {
+   "sha256": "c91b61d164f75578582dbc17aae640c12e6f4eeb5293acf9f3b24af9b2a7d100",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/EF4CAAFE9000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "94846ea05bdcf80be05fd4c0bd21e7636018b10d523fa23688a8a9ff7877f688",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/295AB3DBc000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b734490bf489d741c6fbe7a5978fa0ed284331f6a15e13ba04c4c4ab65d7b273",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/7040357Ec000/odbcconf.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\odbcconf.exe"
+  },
+  {
+   "sha256": "0b2b6d0830356c9e5d17196220d7638859e1839d9c44327652f6d618b639ca00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/25CFAB9E9000/odbcconf.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\odbcconf.exe"
+  },
+  {
+   "sha256": "ff2e62d70d06f1ca9fc38cdb5ec78a2a1d8ef315027f2459a74e707e5d4069f2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/5789910E9000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "60da7053b6509a1b5b4c443901ec520f34142edd61b2de5092d1ee8276c37e2d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/57899B8Ab000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f112f2e6e884b4235be7cbc40f9ed7447e30f257f288b72cc15b70b873f7f6c2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/5632D863b000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c7dcdbd1fe21891e5b924be8d4983cb492308de93a0b3d0908ded8c783fdee95",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/5632D7F59000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "437dc0e4bc2281053b8d8922b1f792abf1170568a1a77086c594901c49fddd88",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/559F3B36b000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "22b7e72bdcbba48e8cde6e214be29bc99ca1698e0bbc934a712f5078b6e74d96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcconf.exe",
+   "internal_name": "odbcconf.exe",
+   "file_description": "ODBC Driver Configuration Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcconf.exe/559F3DD19000/odbcconf.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "odbcconf.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "d61d574038d0efee605374c5de0f1a6107666bdc7aae1007cea3e9cbaef23c04",
+   "error": "d61d574038d0: symbol server returned unindexed build ce97207f6f69; 5d0e5ba06f25: symbol server returned unindexed build ce97207f6f69; af128b961e90: symbol server returned unindexed build ce97207f6f69; e181c538c72c: symbol server returned unindexed build bbddba3472f2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7c9295bd46577bf3b288419ce6f61b579335a0725d33bd15c045ac73f57af77b",
+   "error": "7c9295bd4657: symbol server returned unindexed build bd7ec61b918c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7c9295bd46577bf3b288419ce6f61b579335a0725d33bd15c045ac73f57af77b",
+   "error": "7c9295bd4657: symbol server returned unindexed build bd7ec61b918c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "36f229c8a85fd4babb72f5661880c422cd9788a83c9c5cfc9520e587bdc8441b",
+   "error": "36f229c8a85f: symbol server returned unindexed build b1cf929dc997"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "0c734ff7c63863e2496cc2774d7c231d30e069b039e47ebd531273cd6be25a3d",
+   "error": "0c734ff7c638: symbol server returned unindexed build 8aa5465d10ea"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "29fc2be8011d6c98bcfe55e0858c98667ffd0c5e098ddf426f59b3894fd3cf3f",
+   "error": "29fc2be8011d: symbol server returned unindexed build 30184ca7a7a5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "40274d2b55355d30230cee9c75335290c0692f6d7cfe5faa529a582d9cdaa232",
+   "error": "40274d2b5535: symbol server returned unindexed build a566f99c34d3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e626fa3db43757af2aeff442847ca68402929d826da9160692b6220338fbdeb8",
+   "error": "e626fa3db437: symbol server returned unindexed build e90094bd73cf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "e626fa3db43757af2aeff442847ca68402929d826da9160692b6220338fbdeb8",
+   "error": "e626fa3db437: symbol server returned unindexed build e90094bd73cf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "476346234300504cccf360ef8172b4e07cca59b43b7f09818b11b71210df3481",
+   "error": "476346234300: symbol server returned unindexed build a6fe29d703d4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "476346234300504cccf360ef8172b4e07cca59b43b7f09818b11b71210df3481",
+   "error": "476346234300: symbol server returned unindexed build a6fe29d703d4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "476346234300504cccf360ef8172b4e07cca59b43b7f09818b11b71210df3481",
+   "error": "476346234300: symbol server returned unindexed build a6fe29d703d4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "476346234300504cccf360ef8172b4e07cca59b43b7f09818b11b71210df3481",
+   "error": "476346234300: symbol server returned unindexed build a6fe29d703d4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "476346234300504cccf360ef8172b4e07cca59b43b7f09818b11b71210df3481",
+   "error": "476346234300: symbol server returned unindexed build a6fe29d703d4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "eacf439e1511b0444d22cd6230d7b430bd9faeb32c1002141e6caeca5ca230e8",
+   "error": "eacf439e1511: symbol server returned unindexed build f122bc0ceb77; ff9db7f000af: symbol server returned unindexed build f122bc0ceb77; e31969077b8c: symbol server returned unindexed build f122bc0ceb77; 1c6a0c26bc6e: symbol server returned unindexed build 6c048b72c961"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "dfa26f7e8071ef91f7e2fc3e86aa57e9a38b0a99c48b8d4ab3e6a46955736efa",
+   "error": "dfa26f7e8071: symbol server returned unindexed build 59657c502c6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "dfa26f7e8071ef91f7e2fc3e86aa57e9a38b0a99c48b8d4ab3e6a46955736efa",
+   "error": "dfa26f7e8071: symbol server returned unindexed build 59657c502c6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "a9df014b911d14cd6db15c598af9053c2f2a99d104ecf1d385dbb988e66d0722",
+   "error": "a9df014b911d: symbol server returned unindexed build 17a57e9ae586"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "54a255347b506672259c5cbfe93b229d2c0c9b90c89ca073d2ca05272adc985f",
+   "error": "54a255347b50: symbol server returned unindexed build a27f1512c9d3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "edf066bef78688fa05ffa264b780e8a8db4dddd427c6e338dde0ba4cc2ae4485",
+   "error": "edf066bef786: symbol server returned unindexed build 3eb6a8da0cf6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "82984508d7814caf0e73d70aba19359297cf23a53ff1ac891bcb84b803321858",
+   "error": "82984508d781: symbol server returned unindexed build 89367ba9aff1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "1fe23fab90945a9c7ee6029fd953bf9360544127444b71620da6852c408dd04e",
+   "error": "1fe23fab9094: symbol server returned unindexed build a3623cac7900"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "1fe23fab90945a9c7ee6029fd953bf9360544127444b71620da6852c408dd04e",
+   "error": "1fe23fab9094: symbol server returned unindexed build a3623cac7900"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "5213c43c38d85ba69b406f27fa1a2505173dea529010bf6dd34049e9cc9dc01a",
+   "error": "5213c43c38d8: symbol server returned unindexed build 53b69c82af63"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "5213c43c38d85ba69b406f27fa1a2505173dea529010bf6dd34049e9cc9dc01a",
+   "error": "5213c43c38d8: symbol server returned unindexed build 53b69c82af63"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "5213c43c38d85ba69b406f27fa1a2505173dea529010bf6dd34049e9cc9dc01a",
+   "error": "5213c43c38d8: symbol server returned unindexed build 53b69c82af63"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "5213c43c38d85ba69b406f27fa1a2505173dea529010bf6dd34049e9cc9dc01a",
+   "error": "5213c43c38d8: symbol server returned unindexed build 53b69c82af63"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "5213c43c38d85ba69b406f27fa1a2505173dea529010bf6dd34049e9cc9dc01a",
+   "error": "5213c43c38d8: symbol server returned unindexed build 53b69c82af63"
+  }
+ ]
+}

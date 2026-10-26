@@ -1,0 +1,577 @@
+{
+ "name": "secedit.exe",
+ "builds": [
+  {
+   "sha256": "bead137f1d54472624c23fa54ae4320ce67e142d8444246cd267a1d99253f781",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/95B7CBF012000/secedit.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SecEdit.exe"
+  },
+  {
+   "sha256": "4cdf95ef7bec023fed416ea34905055132374407d565bf242b69159352ad546f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/84AC8120e000/secedit.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SecEdit.exe"
+  },
+  {
+   "sha256": "fb968ba2416a930cd06ac599a61a50569aaa846ca15d0880a5db80a81cf1500a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/245823C8e000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "594cfc0512b69061c3bd8d82cd0439d737ac834622aa2f199dfa01e4620dce7d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/4F68861112000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "72d0ea92ab75c3e740d95f4faa9dac82c2089565c3ea28aedf9b56fea7eb6c0b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/578990DBe000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "512a82b381339f4f5772b3669e341c40c8f27474152afd41b5412d8a5d341401",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/57899B65f000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "453f31a80a4c6285fd661d9139dd880ba9c0279a3eb7000e5dbc54842f7a2cc2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/5632D829f000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2982c474fefc2a315e839344f9e786d9d4ac6f37397ead67b33b42ee0c01993e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/5632D7BAe000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dcdc5adc775dea08e57ffc512834194da20359c687ceaee9a05227dfdbe0dd19",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/559F3990f000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e9a86ffd569063308627ebeb576acdcdbf76b03c68aac783c0ff64eed7354bd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SeCEdit",
+   "internal_name": "SeCEdit",
+   "file_description": "Windows Security Configuration Editor Command Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/secedit.exe/559F3C08e000/secedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SeCEdit",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.7019",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "3d9496b43c70c722e8ecbda3b5427eb19a849ff26ff146d0000ab22210a3cd0d",
+   "error": "3d9496b43c70: symbol server returned unindexed build 33f70e82bc18; 545e452b2864: symbol server returned unindexed build 33f70e82bc18; 6e095cabd783: symbol server returned unindexed build 33f70e82bc18; 06ae5a23eab7: symbol server returned unindexed build 33f70e82bc18"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "577c2d61ebb4dc1b1cb49df3c0ec878e4b75ef685e1de36be0d6ace5da3a64ba",
+   "error": "577c2d61ebb4: symbol server returned unindexed build a380a04af330"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "577c2d61ebb4dc1b1cb49df3c0ec878e4b75ef685e1de36be0d6ace5da3a64ba",
+   "error": "577c2d61ebb4: symbol server returned unindexed build a380a04af330"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "aeecde172b76dc641a58f819befd38323018f1ac269b45a6277aefc4f1f4588d",
+   "error": "aeecde172b76: symbol server returned unindexed build ba01fc442cbb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "af8506edd53887f89ad77043dc736a0c845332aff2d1b23237a560bbc9a1f9a7",
+   "error": "af8506edd538: symbol server returned unindexed build 0fe3e41cf2f6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "603a9f4d99b7d33852fd9b3d6a335a6bd34d4b6aa888bc6ba2b24c83de68b47e",
+   "error": "603a9f4d99b7: symbol server returned unindexed build 97239158544a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "fa402723445b88a6050d5b7d003b13a7118aa32bf3558dad1d50c6fe2ac6a16d",
+   "error": "fa402723445b: symbol server returned unindexed build badb157733c3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "11e35f6edbd4e7832311b035a6287fd33b001001288dc92d518692067ff1464a",
+   "error": "11e35f6edbd4: symbol server returned unindexed build a29c9fb67f80"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "11e35f6edbd4e7832311b035a6287fd33b001001288dc92d518692067ff1464a",
+   "error": "11e35f6edbd4: symbol server returned unindexed build a29c9fb67f80"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "58348e21fb9ae1582e68aa07bf21f87d58db03fe12123b0df5bfb3a7e168db26",
+   "error": "58348e21fb9a: symbol server returned unindexed build 587f24dad039"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "58348e21fb9ae1582e68aa07bf21f87d58db03fe12123b0df5bfb3a7e168db26",
+   "error": "58348e21fb9a: symbol server returned unindexed build 587f24dad039"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "58348e21fb9ae1582e68aa07bf21f87d58db03fe12123b0df5bfb3a7e168db26",
+   "error": "58348e21fb9a: symbol server returned unindexed build 587f24dad039"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "58348e21fb9ae1582e68aa07bf21f87d58db03fe12123b0df5bfb3a7e168db26",
+   "error": "58348e21fb9a: symbol server returned unindexed build 587f24dad039"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "58348e21fb9ae1582e68aa07bf21f87d58db03fe12123b0df5bfb3a7e168db26",
+   "error": "58348e21fb9a: symbol server returned unindexed build 587f24dad039"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "893d87c020186f7f1a1c216e12f9245e63932df00e05262cf04f4764b9283522",
+   "error": "893d87c02018: symbol server returned unindexed build 5a05174e7d8e; 2fdc5c8b2269: symbol server returned unindexed build 5a05174e7d8e; 556a35ef3b11: symbol server returned unindexed build 5a05174e7d8e; 22e6324db60a: symbol server returned unindexed build 5a05174e7d8e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "aa8bb9732afa8666981ecc6e9a5600f8f5e062d51dffe5d63758542848512fd7",
+   "error": "aa8bb9732afa: symbol server returned unindexed build 2ff5ec0402d5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "aa8bb9732afa8666981ecc6e9a5600f8f5e062d51dffe5d63758542848512fd7",
+   "error": "aa8bb9732afa: symbol server returned unindexed build 2ff5ec0402d5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "9c28f46b735bba5d349380e219f978ca7323180273195fd635b984c6c01947e5",
+   "error": "9c28f46b735b: symbol server returned unindexed build a2503e81efc4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "1a0e75292f9311962f680b30b25439ed574582d73196599cf2f06ccb82ae807a",
+   "error": "1a0e75292f93: symbol server returned unindexed build fdcfc9b004f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "ebb39793934333c516790b6a8495e79aa076a5da255a746f325bca2404978e3a",
+   "error": "ebb397939343: symbol server returned unindexed build ed045754cd79"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "343e8924ea917f83ded38fff89675a233011d82b2aba9d4a9675c24a039f5be5",
+   "error": "343e8924ea91: symbol server returned unindexed build 77c2334a9668"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "4244799b7ea42ef73f9dbb45c5b89c8a653f1d495c982fe8ee4d1d446037aafd",
+   "error": "4244799b7ea4: symbol server returned unindexed build a2fd1e5e0494"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "4244799b7ea42ef73f9dbb45c5b89c8a653f1d495c982fe8ee4d1d446037aafd",
+   "error": "4244799b7ea4: symbol server returned unindexed build a2fd1e5e0494"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "56cb815f0fda92c4658296692e4f70dee557137528482fe7a834296bfdb710c0",
+   "error": "56cb815f0fda: symbol server returned unindexed build 2553356cc135"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "56cb815f0fda92c4658296692e4f70dee557137528482fe7a834296bfdb710c0",
+   "error": "56cb815f0fda: symbol server returned unindexed build 2553356cc135"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "56cb815f0fda92c4658296692e4f70dee557137528482fe7a834296bfdb710c0",
+   "error": "56cb815f0fda: symbol server returned unindexed build 2553356cc135"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "56cb815f0fda92c4658296692e4f70dee557137528482fe7a834296bfdb710c0",
+   "error": "56cb815f0fda: symbol server returned unindexed build 2553356cc135"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "56cb815f0fda92c4658296692e4f70dee557137528482fe7a834296bfdb710c0",
+   "error": "56cb815f0fda: symbol server returned unindexed build 2553356cc135"
+  }
+ ]
+}

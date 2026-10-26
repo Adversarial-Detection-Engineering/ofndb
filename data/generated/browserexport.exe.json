@@ -1,0 +1,44 @@
+{
+ "name": "browserexport.exe",
+ "builds": [
+  {
+   "sha256": "579bf9cfc3beb229bfd4dfd1e9e0a203c0aee74dae637fd7811b9c803df1cbf8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "browserexport.exe",
+   "internal_name": "browserexport",
+   "file_description": "Microsoft Edge Browser Exporter",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\browserexport.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "browserexport.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.8115",
+   "max_version": "11.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

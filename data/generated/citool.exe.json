@@ -1,0 +1,44 @@
+{
+ "name": "citool.exe",
+ "builds": [
+  {
+   "sha256": "a4b6e230831a480a4fd15bb57314156f609ab1f80825513c0368850e880d860f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CiTool.exe",
+   "internal_name": "CiTool.exe",
+   "file_description": "CodeIntegrity Generic Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\CiTool.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CiTool.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

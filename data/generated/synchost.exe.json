@@ -1,0 +1,64 @@
+{
+ "name": "synchost.exe",
+ "builds": [
+  {
+   "sha256": "cac9fdc6553d22bf284a6660980c9459fb88e73b5aeccf0939de67d20c1436ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SyncHost.EXE",
+   "internal_name": "SyncHost",
+   "file_description": "Host Process for Windows Sync",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SyncHost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1fd470948197b23701c410f003ead41002fec0a2449d3e4171d928ec898072e1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SyncHost.EXE",
+   "internal_name": "SyncHost",
+   "file_description": "Host Process for Windows Sync",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SyncHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SyncHost.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

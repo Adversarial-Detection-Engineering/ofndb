@@ -1,0 +1,473 @@
+{
+ "name": "unsecapp.exe",
+ "builds": [
+  {
+   "sha256": "6ebd49bf64eb7d78ccf9f70d2efd21b26113d8786c2c65aef0ace232834be1c2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/FE0B4E2213000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "68083e7974d0e733357401f0e452dd12856e9676414b22405b4859326dcf6554",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/033A00E513000/unsecapp.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wbem\\unsecapp.exe"
+  },
+  {
+   "sha256": "3dbf6ff48b96965ecef5ed07b2cf25ecb33ea067b9609758e43fe3f3f070f2ec",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/6AC8D6F012000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7cdf80460645c60e6e26fca7a8353bd0196754e16738709a147d1e06605f09f8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.17797 (th1_st1.180228-1829)",
+   "fixed_file_version": "10.0.10240.17797",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2018-03-13",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.17797",
+    "10240.17831",
+    "10240.17861",
+    "10240.17889",
+    "10240.17914",
+    "10240.17918",
+    "10240.17946",
+    "10240.17976",
+    "10240.18005",
+    "10240.18036",
+    "10240.18063",
+    "10240.18064",
+    "10240.18094",
+    "10240.18132",
+    "10240.18135",
+    "10240.18158",
+    "10240.18186",
+    "10240.18187",
+    "10240.18215",
+    "10240.18218",
+    "10240.18244",
+    "10240.18275",
+    "10240.18305",
+    "10240.18308",
+    "10240.18333",
+    "10240.18334",
+    "10240.18335",
+    "10240.18368",
+    "10240.18395",
+    "10240.18427",
+    "10240.18453",
+    "10240.18486",
+    "10240.18519",
+    "10240.18545",
+    "10240.18575",
+    "10240.18608",
+    "10240.18609",
+    "10240.18638",
+    "10240.18666",
+    "10240.18696",
+    "10240.18725",
+    "10240.18756",
+    "10240.18782",
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/5A9798B312000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "41da2bcbb07c1673537e62d8e19ce9f4f763983e3fe3df037a52c2e06aa94add",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/54959E4F14000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fabaa4a3446832fc2451946448253d82ad7c474b71684e18d8a4d4abadfb1170",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/7007E27D11000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5cd0dd3b1454b437362c87c651ee2068ac27cdb725aa1c705cf62ff325a759cc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.610 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.610",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2020-10-29",
+   "last_seen": "2021-02-09",
+   "os_builds": [
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/948B850313000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c143819f47181166036c5b6d36d389de85cd0b4edc1ff8f54fad8e5c0655731e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "unsecapp.dll",
+   "internal_name": "unsecapp.dll",
+   "file_description": "Sink to receive asynchronous callbacks for WMI client application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/unsecapp.exe/5632D82912000/unsecapp.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "unsecapp.dll",
+   "builds": 8,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1803",
+    "2004"
+   ],
+   "min_version": "10.0.10240.17797",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "7ba76e2db7f2e89b28201cd0954de73ca6bdd13af40ac36704d8da541b79af18",
+   "error": "7ba76e2db7f2: symbol server returned unindexed build 1e2fc9a6afcc; deb20f9867b1: symbol server returned unindexed build 1e2fc9a6afcc; 4c3c3c4a15aa: symbol server returned unindexed build 1e2fc9a6afcc; e1c76041a199: symbol server returned unindexed build 1e2fc9a6afcc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "070c69d509cc8e10c571eb9a343581be928dd354f77618750111410555d53037",
+   "error": "070c69d509cc: symbol server returned unindexed build 9f3e2673fd23; 509a9657eacd: symbol server returned unindexed build 9f3e2673fd23; e70f79e779b8: symbol server returned unindexed build 9f3e2673fd23; 36c94973a173: symbol server returned unindexed build 9f3e2673fd23"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "78f2da827fa25d50f868a4b8a379f03f6eb8b04930814eb0bf7740a187594ca8",
+   "error": "78f2da827fa2: symbol server returned unindexed build 9f3e2673fd23; 070c69d509cc: symbol server returned unindexed build 9f3e2673fd23; 8e7739d24777: symbol server returned unindexed build 9f3e2673fd23"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "72919107b2f61ad1f7057640140edd6ef8ebf9fbc7c3c61c1e4932df2c799280",
+   "error": "72919107b2f6: symbol server returned unindexed build 1ce235b732e0; 512a9a55033c: symbol server returned unindexed build 92387d2c1f56"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "cc95b1c4e787ea4b5d0efd697fd06d0c50c73d9308c960662a3193f3efd65f48",
+   "error": "cc95b1c4e787: symbol server returned unindexed build 2e1083b6f82e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "880d9d9033c31d79b30dcf9c167070ee856030c9a311f96ff8c1c6463562bb66",
+   "error": "880d9d9033c3: symbol server returned unindexed build cd8d55b24771; 16b60e62de0a: symbol server returned unindexed build cd8d55b24771; f7bff384475c: symbol server returned unindexed build cd8d55b24771; 8c6c91493ee6: symbol server returned unindexed build cd8d55b24771"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "0f7ec679e7a58b80cd37dbc9f48bf047c8ffb72516c5abb76f0ad02d5f60b86e",
+   "error": "0f7ec679e7a5: symbol server returned unindexed build 83f847922ef0; bf2dd5742466: symbol server returned unindexed build 83f847922ef0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "480244e2ff64346a30db96c23c7468d5a614d21351ba0285b5986e662cbfcd97",
+   "error": "480244e2ff64: symbol server returned unindexed build 83f847922ef0; 0f7ec679e7a5: symbol server returned unindexed build 83f847922ef0; bf2dd5742466: symbol server returned unindexed build 83f847922ef0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "fabb8cc6de82a79f1eed0976e5ce741ff3b9d5b1b40d90146052f4393cca80a3",
+   "error": "fabb8cc6de82: symbol server returned unindexed build fa0a81dd202e; 1279842635c5: symbol server returned unindexed build 3e16f4adda32"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "0396209e22db36cf3eca0d00406f7e7d926aba6d753c1aef2dd37ddbf208d864",
+   "error": "0396209e22db: symbol server returned unindexed build fa0a81dd202e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "bd941d0a2c3eace7842377013062010627e8ced065f02cfb77fd10857eb04872",
+   "error": "bd941d0a2c3e: symbol server returned unindexed build e0796b2fd1e1; 8a70e6f48ea1: symbol server returned unindexed build e0796b2fd1e1; 71326596c6ff: symbol server returned unindexed build e0796b2fd1e1; e6aa98ecfba5: symbol server returned unindexed build e0796b2fd1e1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "8a70e6f48ea1f05ce55cc5473491d344c8c194041f876c5892bfb05e94a9cbdf",
+   "error": "8a70e6f48ea1: symbol server returned unindexed build e0796b2fd1e1; 71326596c6ff: symbol server returned unindexed build e0796b2fd1e1; e6aa98ecfba5: symbol server returned unindexed build e0796b2fd1e1; bc719d8055a9: symbol server returned unindexed build e0796b2fd1e1"
+  }
+ ]
+}

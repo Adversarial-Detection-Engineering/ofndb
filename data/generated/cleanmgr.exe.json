@@ -1,0 +1,64 @@
+{
+ "name": "cleanmgr.exe",
+ "builds": [
+  {
+   "sha256": "d4fb761b27071899c3da9cd1cc80af85c372eec6953248aac2b1695101f298b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CLEANMGR.DLL",
+   "internal_name": "CLEANMGR",
+   "file_description": "Disk Space Cleanup Manager for Windows",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cleanmgr.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "3ad10727eb79de41dd6ef1b57ac16a3f53933ed01c2853592d1e91f5bdb87718",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CLEANMGR.DLL",
+   "internal_name": "CLEANMGR",
+   "file_description": "Disk Space Cleanup Manager for Windows",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\cleanmgr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CLEANMGR.DLL",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

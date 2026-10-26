@@ -1,0 +1,44 @@
+{
+ "name": "setup16.exe",
+ "builds": [
+  {
+   "sha256": "f81343ae00b44e14a919173ba0cb73ffd25144845b34cfc8b362e27a567cc160",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SETUP.EXE",
+   "internal_name": "bootstrp",
+   "file_description": "MS-Setup Setup Exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.01 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.1.0.1918",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\setup16.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SETUP.EXE",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "3.1.0.1918",
+   "max_version": "3.1.0.1918",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

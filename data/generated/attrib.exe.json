@@ -1,0 +1,461 @@
+{
+ "name": "attrib.exe",
+ "builds": [
+  {
+   "sha256": "efbc36af3ddcd5423f1d3a13237f831d91ee45cdd8951c111f335717729316d8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/2F7842A19000/attrib.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\attrib.exe"
+  },
+  {
+   "sha256": "064181108cd8d7f110cc11b84dbf2d7f18fd5f52a2ee989985d88a969f093dbe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/D543854Ab000/attrib.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\attrib.exe"
+  },
+  {
+   "sha256": "380284dea2714ba110d306f4614a54609a1de1067d786f2dfdd7e1268558300e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/43D942699000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f9f41ee710dca39eff229f5277af4e3a24edf7eca6dfb2627ac3fefc934907b2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/578999BFa000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "72eebae5dae45019942e5542c77007496374e305c234f110467841f46d381374",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/57898EDB9000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aba3235842225258dc403dd79873e5b34c64c4f4a118cf07f8d78449d6e8e5b4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/5632D80D9000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "94754db135ea0e7b16dfad92882796f7782f0c1e98d0cb4a277f8ae62208f05b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/5632D874a000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "63dfed1d9ea40ae13be1c0f7e1e3b2c492e4eafa91dad15ff3104fa27228f381",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/559F38BBa000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3640001c1bb80b933b48c48235d48b13830b63557c32ceef946dd1b3c7db4a75",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ATTRIB.EXE",
+   "internal_name": "attrib",
+   "file_description": "Attribute Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/attrib.exe/559F3B2D9000/attrib.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ATTRIB.EXE",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "4620e6bf0930877c462acabda60fb6279e9f842201e9c0c2d7359c24fc261c77",
+   "error": "4620e6bf0930: symbol server returned unindexed build 7857095545c8; 6c392997b85a: symbol server returned unindexed build 3c4d0489de69; 9f72973df3a0: symbol server returned unindexed build 3c4d0489de69; f7aa440ac4f5: symbol server returned unindexed build 1ffd4c24f221"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "0758152947f1a550e52ce8e3f9bcd988a23d36a458ad953795769b11c38ff2ea",
+   "error": "0758152947f1: symbol server returned unindexed build bec266869f33"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "0758152947f1a550e52ce8e3f9bcd988a23d36a458ad953795769b11c38ff2ea",
+   "error": "0758152947f1: symbol server returned unindexed build bec266869f33"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b132aa2ba57dcfd3571f127f223ddce93f1f15bf4ce5c9bd99b7756c2f11e65b",
+   "error": "b132aa2ba57d: symbol server returned unindexed build 43d0ffb6da14"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "e17685417ff4d982d9fd1ddbbcb2f4aadb3c6e8b4865ecbf786113feb8d96c1d",
+   "error": "e17685417ff4: symbol server returned unindexed build 534e7e84ad29"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "ff8600a444a3f086f17a24293e0172e6033d62c3766d4497997b882d663f8221",
+   "error": "ff8600a444a3: symbol server returned unindexed build b8bef7781c4a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "b101350bceeb773b7e77759613bb33c28fbf1d79a13c2cb783575a9d893d52e6",
+   "error": "b101350bceeb: symbol server returned unindexed build b6f8ddc00c22"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "96f9a8bdfe0dc0452e64313a77a82c9460d31f5dd59c7ec676a9f83bd0ea8cd9",
+   "error": "96f9a8bdfe0d: symbol server returned unindexed build 8141e77bb11b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "96f9a8bdfe0dc0452e64313a77a82c9460d31f5dd59c7ec676a9f83bd0ea8cd9",
+   "error": "96f9a8bdfe0d: symbol server returned unindexed build 8141e77bb11b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "1043111ff07814b0d3439561b4cee5d7ec1799a7a0a419949fee707666f6dded",
+   "error": "1043111ff078: symbol server returned unindexed build e544576e9fe3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "1043111ff07814b0d3439561b4cee5d7ec1799a7a0a419949fee707666f6dded",
+   "error": "1043111ff078: symbol server returned unindexed build e544576e9fe3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "1043111ff07814b0d3439561b4cee5d7ec1799a7a0a419949fee707666f6dded",
+   "error": "1043111ff078: symbol server returned unindexed build e544576e9fe3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "1043111ff07814b0d3439561b4cee5d7ec1799a7a0a419949fee707666f6dded",
+   "error": "1043111ff078: symbol server returned unindexed build e544576e9fe3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "1043111ff07814b0d3439561b4cee5d7ec1799a7a0a419949fee707666f6dded",
+   "error": "1043111ff078: symbol server returned unindexed build e544576e9fe3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "c4bf774cce635357b356e2d8d9adb6018ed59f39f9cc8ae7c68079dd780f9a5b",
+   "error": "c4bf774cce63: symbol server returned unindexed build b4e0e028194e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "c4bf774cce635357b356e2d8d9adb6018ed59f39f9cc8ae7c68079dd780f9a5b",
+   "error": "c4bf774cce63: symbol server returned unindexed build b4e0e028194e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "cafc9e5a12be5522d47a9b856dcbc4afcc48fdc85232300446af2e564c380d11",
+   "error": "cafc9e5a12be: symbol server returned unindexed build faad7c4cc172"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "b8b639cc15ff931c0041be21aa9a5ee0303dc94ea0ac156b52adee5984324240",
+   "error": "b8b639cc15ff: symbol server returned unindexed build 037ffaf33cbf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "9c0378382f4606e3709675cd9e28c43525156b174d0a5cecb68ec4398c31ef1c",
+   "error": "9c0378382f46: symbol server returned unindexed build 0cfaca62190e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "b0fa083d8276ede756d9e525b18eebc9067357747228f0d965d452fa194e0c47",
+   "error": "b0fa083d8276: symbol server returned unindexed build 83ebbe9f3781"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "c8ee140e1c7908d7fded57d33d5edb0f43366a00df027abfbeb04032604e5dcc",
+   "error": "c8ee140e1c79: symbol server returned unindexed build ed564b8dcdf3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "c8ee140e1c7908d7fded57d33d5edb0f43366a00df027abfbeb04032604e5dcc",
+   "error": "c8ee140e1c79: symbol server returned unindexed build ed564b8dcdf3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "1dd136cd5b90c2abc4f163429a99ed32a7d4b047407df45d96e20130f8b14920",
+   "error": "1dd136cd5b90: symbol server returned unindexed build fb3261ae385f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "1dd136cd5b90c2abc4f163429a99ed32a7d4b047407df45d96e20130f8b14920",
+   "error": "1dd136cd5b90: symbol server returned unindexed build fb3261ae385f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "1dd136cd5b90c2abc4f163429a99ed32a7d4b047407df45d96e20130f8b14920",
+   "error": "1dd136cd5b90: symbol server returned unindexed build fb3261ae385f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "1dd136cd5b90c2abc4f163429a99ed32a7d4b047407df45d96e20130f8b14920",
+   "error": "1dd136cd5b90: symbol server returned unindexed build fb3261ae385f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "1dd136cd5b90c2abc4f163429a99ed32a7d4b047407df45d96e20130f8b14920",
+   "error": "1dd136cd5b90: symbol server returned unindexed build fb3261ae385f"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "tpmtool.exe",
+ "builds": [
+  {
+   "sha256": "8229ee419f88fc98a08e013e25ad1733e36a60569b257c66fb7a2bea98899648",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tpmtool.exe",
+   "internal_name": "tpmtool",
+   "file_description": "Microsoft (R) TPM utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\TpmTool.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1762fbdac562640f70c09a0ee770663533103cacc32c0b3578bf1b2dc1eb40d5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tpmtool.exe",
+   "internal_name": "tpmtool",
+   "file_description": "Microsoft (R) TPM utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\TpmTool.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "tpmtool.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

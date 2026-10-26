@@ -1,0 +1,1120 @@
+{
+ "name": "shdocvw.dll",
+ "builds": [
+  {
+   "sha256": "e4af56610ec9eae5920338df9c6fdf4e0f71afed99eb0222ab72301cb012e084",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/1D9892867e000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d32aaa6953cffdf62b14e738103683378fc756c0359199c51f4b38b343397e06",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/49F924E68d000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "805f9391472e94ea67051f7073c10dfccd88236e63a414b4eda28c1ae274b8a3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/445A79A53a000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7a8130867b1dec25b40f7c53727b80bad22735b382c657706da24e158b909e02",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/6AC8D54B42000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "609c0b052dd4777254a2d8ad3043419e4e199fb0f41f00e4fa6e78decc14e905",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/6AC8D61F3c000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "60804aff5e9c78dd0f277a0c131c9327f817d4995e2af9bf277d819a85117a5a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/DAA5625E7f000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3c99557a880405080488f4ca9b81640a1aba7126db8811a500a2542666e6ea32",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/08BED39A46000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2c90930eda5e0c4a77b58c34abbf87e75949d64611d683fe6346c197ffbb8ca4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/C04A8B6E8d000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06dd0ff7417db5ee85468dc746739a4ddfdf99c08272d15b070be7cbb49fad44",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.8880 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.8880",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-06-09",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "17763.8880"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/DCFA200741000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "642c9c5fab603dfbd7825ecfa81aea0bc2f7ebb5332a19240efec6a531925552",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20793 (th1.240918-1731)",
+   "fixed_file_version": "10.0.10240.20793",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/66EBBE9B42000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "45befab32c32a52f05b8514934d8dbb4193228c2b4bae2454a2edf187e1c21ea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20793 (th1.240918-1731)",
+   "fixed_file_version": "10.0.10240.20793",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/66EBB5AC3c000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8f887754d79ff0a635099520b7d628e14d43d57ca83045caab9c02824237e8e0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/7C02B8D68a000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e3a14a6dd62e3ae1408d051fa73c305a500468c903ce5aec50c95d1865ff3bc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/233351EA7b000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f37bbd26a1dfdd58aa8b5d8823a6e175f503cb36724e4a3e1dad6a83f89438dc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2728 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2728",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-14",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/C30EBC953e000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a690ac75d7dac2a697e1ffd1795f8d3ea273848fa7317d70ab11c21a436f9a6b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2728 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2728",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-14",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/CE91506A47000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "705752514b726c7b768d3babc29c1bca3b70825045638cb883fca05e8434b72e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.1696 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.1696",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-03-14",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/E612AF3D67000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6786782682b5b7807e3de4d00eda03b4cccc4a3673aa40f24f1c118e4ff2f54b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.1696 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.1696",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-03-14",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/EE5D213770000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c2514c508bb6fc1054b51f77d08d2100cd3820ef2862bdf31b2d953de088e419",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2023-02-21",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/716E768641000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "657f5f85ee9e13c0d5565b2369d745ce5cbc7289467e568bc2bf98e349bd5a96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2023-02-21",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/39C981783a000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dfcd12abe283776e80f1d17236998111ac2373c0ee89a66cdf3a8896c10f1eb9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/1E51114A42000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "49d514bf883de9669f0f4cb59a1b5a2f09626588a67f315174c5de5bbde0ec6d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/190A5D383c000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a689b926006e94da66d5e810ff6bb34aaf9d30830ce2152da93f44e95dedd217",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/BF564E1B40000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "427c270d730ff3ebe4f8baaa93defdeb6e1096ad658d0bf97eb8886942361e45",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/0F5D64043b000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8486be25a5fe779fe11e7dd75fc9f28ddeddce4b76e917e81ba2abaadc6228de",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1316 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1316",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18363.1316"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/B823823E46000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "13611ceec231b687479684916bd9d61b3e76b89d6f07058199d37f5ddf113342",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1316 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1316",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18363.1316"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/AF9439693e000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7b660de5f3138762ee69a48fd5deabcbb284017d6033e43e92870940d9116d52",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.997 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.997",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-21",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/9B406BDE46000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0da1f602a4f1c1a59fa20a813265c5d95d19251d276eae45d9c693b489e772a2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.997 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.997",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-21",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/332263773e000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a468a877d38b02a7503ff7be05b80ca6c3fc56f9bf7c09838b9c61b949e4c336",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/59AE300F42000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1bc1708d73d8d6b92c799aae2c69d70c5fda9df2e8f340557e4df39f7d594d89",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SHDOCVW.DLL",
+   "internal_name": "SHDOCVW.DLL",
+   "file_description": "Shell Doc Object and Control Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shdocvw.dll/59AE23D43c000/shdocvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SHDOCVW.DLL",
+   "builds": 29,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20793",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-09-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "5659b14815c136dc3e1769decea8f85cc7423e4a7179d88392dbe58959d15284",
+   "error": "5659b14815c1: symbol server returned unindexed build 05403217fd98; 64ac56267906: symbol server returned unindexed build d491d1eff0a6; 306ed15f6245: symbol server returned unindexed build 819c6b025921; e0b375e52bbb: symbol server returned unindexed build 68cb6e11932d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7525097e4a5fc7ef2e71628d0ce535e78a72a09f384024bed0720919746274c5",
+   "error": "7525097e4a5f: symbol server returned unindexed build 8d44b4ecbb71; 81ed7c240384: symbol server returned unindexed build deb6792af893; 972405e59f74: symbol server returned unindexed build 0d761c905d0d; 5659b14815c1: symbol server returned unindexed build 05403217fd98"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "e6823805ca5cbf1c5a281de0784f0583d22d8a917149a14a03495c4ccf0bcadd",
+   "error": "e6823805ca5c: symbol server returned unindexed build 21b059a39649"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "f3d8ca4e10d631d5517b77b085974ee1485a2ef0121fb74f4cf004588eda7901",
+   "error": "f3d8ca4e10d6: symbol server returned unindexed build be960a2ea160; 2b01f9a79080: symbol server returned unindexed build bfba761fa2ff; 2246af15f31b: symbol server returned unindexed build 6acc5d31b0ec; 85736ac5b7f4: symbol server returned unindexed build b8bf361a28c3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "97c78d9cde63be88783081ba88f7c6fbd6700c2e33f9da35f5a695d634103d9c",
+   "error": "97c78d9cde63: symbol server returned unindexed build b8c86fd208cd; 5888afa6e216: symbol server returned unindexed build 77d595fd0d3d; daf1473d67b1: symbol server returned unindexed build 00aac3cdc719; 4406cff2b09e: symbol server returned unindexed build 1279a7d778c1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "540a52cb803f832a850944f47c65b5dcb6ff823568a2eef6b66a3de21e36af77",
+   "error": "540a52cb803f: symbol server returned unindexed build 1396ab8495d1"
+  }
+ ]
+}

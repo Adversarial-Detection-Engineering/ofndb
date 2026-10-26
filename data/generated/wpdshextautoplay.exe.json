@@ -1,0 +1,64 @@
+{
+ "name": "wpdshextautoplay.exe",
+ "builds": [
+  {
+   "sha256": "86df7569df45db29539a9c8792c1bcb17fb5a6fff55616527c613ad70914ef0d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WpdShExtAutoplay.exe",
+   "internal_name": "WpdShExtAutoplay.exe",
+   "file_description": "Windows Portable Device Shell Extension Autoplay Handler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1301 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1301",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WPDShextAutoplay.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "5a3520498a8727f5f1cda26c2711e3db06ed2e35339054a4c6e5cb8ce6de5e1b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WpdShExtAutoplay.exe",
+   "internal_name": "WpdShExtAutoplay.exe",
+   "file_description": "Windows Portable Device Shell Extension Autoplay Handler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1301 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1301",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WPDShextAutoplay.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WpdShExtAutoplay.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1301",
+   "max_version": "10.0.26100.1301",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

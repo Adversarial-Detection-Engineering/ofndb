@@ -1,0 +1,44 @@
+{
+ "name": "ssh-sk-helper.exe",
+ "builds": [
+  {
+   "sha256": "2af64342777cc90d3980721bb8d284072c0c5abb760bb8cb04908836cd622f91",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": "OpenSSH for Windows",
+   "file_version": "9.5.6.4",
+   "fixed_file_version": "9.5.6.4",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\OpenSSH\\ssh-sk-helper.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "9.5.6.4",
+   "max_version": "9.5.6.4",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

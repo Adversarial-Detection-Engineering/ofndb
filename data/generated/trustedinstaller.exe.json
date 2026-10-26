@@ -1,0 +1,481 @@
+{
+ "name": "trustedinstaller.exe",
+ "builds": [
+  {
+   "sha256": "c0aed9a76034d8ff05763a6f693b2dc22d8cda7719a0da46d3b4ddcd301f5327",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/6A9798B523000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b783bfafcc8e049871d88136e8f5ae718924041a7d005c094a96d7aa012d3536",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/920EA59F44000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "35af783659a9c309a37949e62acf79b18af1dcacde090f4deea23dc15105483c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/2FEECE9735000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "09beb7a885f78f57ed33015af74701c0fb77b0b85a2d00d61938fd6b6a4c262a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/A07B340E41000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d5ba5ab7290b76765ef0385641ed70962c0fa6e98fe6bfb5992147c4f17a8fa1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20680 (th1.240606-1641)",
+   "fixed_file_version": "10.0.10240.20680",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-06-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/66627EE921000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1889c5bc1ceef3554b3408f9bdd9b50cf0dac4cc84ae96e4d7b72f3043557875",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/18A4FDDB3c000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "881e41e920c14baa6d7bf2c7c8424dbc41b848e2634b6489401f5f9ef1086490",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1526 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1526",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-02-08",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "19042.1526"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/EF20FD9B32000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ee90bd6a8043b9e3f8d3cb290e7d7976ff2603180836d6ee6adcdc76bbf7642",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1365 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1365",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-03-10",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/AC67188E24000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "95af07f6596a7397b147b9dd3f819d21e2c65bf97b1aca6cd34a8755da3669b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1016 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1016",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-08-11",
+   "last_seen": "2021-04-22",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/6ADFB06430000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f187dc7601e866867ac9915b77646845dbf2d8e8a31c473ef7910f6cf360639e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1747 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1747",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-03-10",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/5FF9E54C23000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9c1b8491d7d842fb783222fec2b2681cc194c9b51fe9ea4992ea7481efd9587f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2283 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2283",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-02-11",
+   "last_seen": "2020-02-11",
+   "os_builds": [
+    "15063.2284"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/377B181222000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "36b95f6f2cf48078c6b19fb452c87bb07e95c8804a5c6b526d349ac6227cab26",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TrustedInstaller.exe",
+   "internal_name": "TrustedInstaller.exe",
+   "file_description": "Windows Modules Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/trustedinstaller.exe/5632D80921000/trustedinstaller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TrustedInstaller.exe",
+   "builds": 12,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "20H2"
+   ],
+   "min_version": "10.0.10240.20680",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "55b3bf37c11f5b6e3eb7044cc02fb83e678232c9b061245be6ae174447adfc0d",
+   "error": "55b3bf37c11f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=210416); 9266ac714d31: symbol server returned unindexed build 0baaf3a30274; 22003cb96ba2: symbol server returned unindexed build e7c68c7db8a2; b2e3bc051835: symbol server returned unindexed build e7c68c7db8a2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "eda2f1b743d1e5fd73e2c01de7e336b2af5fe218aa039ceec45753c24c73f105",
+   "error": "eda2f1b743d1: symbol server returned unindexed build a9dbac82d570; 6abad0a43aba: UnindexedBuild: symbol server returned unindexed build (unindexed:size=226760); 9bc92e4861b7: symbol server returned unindexed build 279abebf5f7c; 7e1d40994874: symbol server returned unindexed build 7484d5a431a3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "754d1379baa1e6b17e290ad114d1febf2a11c76a1fe696bb74071290f5c411ae",
+   "error": "754d1379baa1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=232792); eda2f1b743d1: symbol server returned unindexed build a9dbac82d570; 4f2083b1d5df: symbol server returned unindexed build 5b35242fdd98"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "a5341f5d560925fb748dfc95531d620bb89c8aeaaccf189bcf8734374c508373",
+   "error": "a5341f5d5609: UnindexedBuild: symbol server returned unindexed build (unindexed:size=206704); 73684e31ad4a: collided with 881e41e920c1 from another release; 7a0a056a6fef: UnindexedBuild: symbol server returned unindexed build (unindexed:size=156496); 3759ab1b549f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=156496)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "3759ab1b549f440d6769f9bddf38a5562b0ab938b93a1cd172befaf133963ede",
+   "error": "3759ab1b549f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=156496)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "73a4ea59bdcb6c6a8a15b922da9adeac4b409dbb8f52da90cc69e536cd356b1a",
+   "error": "73a4ea59bdcb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=203640); 4a91d438b383: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192488); 8ae7ddd3333f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192928); 9f5297972fc7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192928)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "4a91d438b383afaab9015c6a4c5bdad04ef4a3fdf010fcc2433eed7aa471f311",
+   "error": "4a91d438b383: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192488); 8ae7ddd3333f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192928); 9f5297972fc7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192928); 73865adddcef: UnindexedBuild: symbol server returned unindexed build (unindexed:size=192520)"
+  }
+ ]
+}

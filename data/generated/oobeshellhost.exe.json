@@ -1,0 +1,44 @@
+{
+ "name": "oobeshellhost.exe",
+ "builds": [
+  {
+   "sha256": "f0c63b49339c30c09fd7c584fb5732165f009518b3f53f21b2868560061ae78c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OobeShellHost.exe",
+   "internal_name": "OobeShellHost",
+   "file_description": "OobeShellHost",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\OobeShellHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "OobeShellHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

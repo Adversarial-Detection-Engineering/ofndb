@@ -1,0 +1,44 @@
+{
+ "name": "pwlauncher.exe",
+ "builds": [
+  {
+   "sha256": "aaf6a771eecb45e624734b90d6a01fdf4fe013d1384f3a69e2e0fdedf2741f67",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pwlauncher.exe",
+   "internal_name": "pwlauncher.exe",
+   "file_description": "Windows To Go Startup Options Command Line Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\pwlauncher.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pwlauncher.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "name": "diskshadow.exe",
+ "builds": [
+  {
+   "sha256": "f2729190f870f378d48d8b22c228597a679c21a162fe67af0387438ff61fe623",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "diskshadow.exe",
+   "internal_name": "diskshadow.exe",
+   "file_description": "DiskShadow",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/diskshadow.exe/C658D1FD64000/diskshadow.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c7a926327054c65fd4795e1a8f6b640a1f889d31bbb5a6d947799c0bf742b7c3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "diskshadow.exe",
+   "internal_name": "diskshadow.exe",
+   "file_description": "DiskShadow",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/diskshadow.exe/A4AE81564e000/diskshadow.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d9c95e05b8e52445ffb4979661c613e5d1d2d698aab0e1ad93f8219f67db3e2f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "diskshadow.exe",
+   "internal_name": "diskshadow.exe",
+   "file_description": "DiskShadow",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3323 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3323",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-02-25",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/diskshadow.exe/5E6F930F50000/diskshadow.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4dffedbbaa3acf3aaf0b706863c550f770c9a62f437eb1273fc9008b7239524e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "diskshadow.exe",
+   "internal_name": "diskshadow.exe",
+   "file_description": "DiskShadow",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/diskshadow.exe/E8EB7E2165000/diskshadow.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "diskshadow.exe",
+   "builds": 4,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.3323",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2025-02-25",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

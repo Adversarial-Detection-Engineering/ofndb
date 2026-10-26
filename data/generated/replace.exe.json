@@ -1,0 +1,480 @@
+{
+ "name": "replace.exe",
+ "builds": [
+  {
+   "sha256": "6686d1a489fb245dddb2b49a067f44caada56ed0ceaf66192b9b2419b8486a50",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/9136AADC9000/replace.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\replace.exe"
+  },
+  {
+   "sha256": "0785c9b642c2b7fc0a09d9df0fd90c9cd6766fcb1cfcc0b08d194bb28e31a030",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/7D91E09Eb000/replace.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\replace.exe"
+  },
+  {
+   "sha256": "4bce5001002c5aed200b9f5be5cb839650e41c487920127ad5520d35ab04b3e1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/FB8EF5CF9000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "883ac87a52b67614a0f84b93eae818f89fc46c6150880619cd827376ba8d8ffc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/E23BF489a000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e6fc8fa07a57a0d5af992b49c67ebf65ce7297d7be8eebce645ee78041580897",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/57898E8D9000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ce49c1d7dc7cbd541d1b49a868e40fb8a3d4a5e6b2a2387357c3960e01be82b5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/57899971a000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8822af8ab17587041d2734d118a465217e13ecf532a156821d7355d2e312264b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/5632D7EF9000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0df1e70637ec495fd511d571174a8eea2724e973ae258a1a7144be05a7204113",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/5632D85Ba000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d087afae1405123823e95b48e53a70b47ea377e2108f8fbbbaf8688331744017",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/559F3B339000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "39c0cb8d34e1ceaa585c01ca6cc9feb0a392d9d1b08a35eeea8268688f7bdc06",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REPLACE.EXE",
+   "internal_name": "replace",
+   "file_description": "Replace File Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/replace.exe/559F38BEa000/replace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "REPLACE.EXE",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "46f37dcf42bbf2244ccdf9a6981216554a03bf0eb4dbe64999f8c0a4b8d233d1",
+   "error": "46f37dcf42bb: symbol server returned unindexed build 6a51328ea518; b08fba6f0260: symbol server returned unindexed build b113237be62c; b81fef11e404: symbol server returned unindexed build b113237be62c; eb7487c0229b: symbol server returned unindexed build 7442aeb6dd1f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3c909292feeda5bac3fa8ca5a41a890f5f123cd674a1e191beedcefba94af5f8",
+   "error": "3c909292feed: symbol server returned unindexed build bfdaeb22a56a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3c909292feeda5bac3fa8ca5a41a890f5f123cd674a1e191beedcefba94af5f8",
+   "error": "3c909292feed: symbol server returned unindexed build bfdaeb22a56a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "e5b44f170065afe0fa28ed911338d95d8f7bb2ffbd1a72eb64b467f44ee2850a",
+   "error": "e5b44f170065: symbol server returned unindexed build b59636cee522"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "d8acad0020fa51febd268bc5279030e8a40648caaccc4e507ce305434161c47f",
+   "error": "d8acad0020fa: symbol server returned unindexed build 36344cd2812c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "83e2714735c365c3c01d8d8d56434983c1238a2a806d23ab48f42f59e2df8093",
+   "error": "83e2714735c3: symbol server returned unindexed build 8ea9b93d648d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d66ccd7d5cca8b95910e04c8a7300ed7ac4cf96282e6c35664a980e7a187bc93",
+   "error": "d66ccd7d5cca: symbol server returned unindexed build 948d106de9dc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d66ccd7d5cca8b95910e04c8a7300ed7ac4cf96282e6c35664a980e7a187bc93",
+   "error": "d66ccd7d5cca: symbol server returned unindexed build 948d106de9dc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "ea3f7fbec756ac2f7cc26659be3f70637ddd892bc67127777b2bcd0605b2ccf1",
+   "error": "ea3f7fbec756: symbol server returned unindexed build 7d9db15b8979"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "bcfa463cf0785a9435c719857973997ec49f212b909cbec62e347d752d706afc",
+   "error": "bcfa463cf078: symbol server returned unindexed build e3b5ccf870d6; ea3f7fbec756: symbol server returned unindexed build 7d9db15b8979"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "ea3f7fbec756ac2f7cc26659be3f70637ddd892bc67127777b2bcd0605b2ccf1",
+   "error": "ea3f7fbec756: symbol server returned unindexed build 7d9db15b8979"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "706b933384926b1fa50b959953fcdf43190c63b7232ae80e4116fff314df977d",
+   "error": "706b93338492: symbol server returned unindexed build bb2c69044c5c; 01ba2f28faaf: symbol server returned unindexed build bb2c69044c5c; bcfa463cf078: symbol server returned unindexed build e3b5ccf870d6; ea3f7fbec756: symbol server returned unindexed build 7d9db15b8979"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "706b933384926b1fa50b959953fcdf43190c63b7232ae80e4116fff314df977d",
+   "error": "706b93338492: symbol server returned unindexed build bb2c69044c5c; bcfa463cf078: symbol server returned unindexed build e3b5ccf870d6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "ba43a43ef28ac663b5afa60cd135a6ac822605bb556a39dc09108a9f491f3ced",
+   "error": "ba43a43ef28a: symbol server returned unindexed build a1a38150508b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "ba43a43ef28ac663b5afa60cd135a6ac822605bb556a39dc09108a9f491f3ced",
+   "error": "ba43a43ef28a: symbol server returned unindexed build a1a38150508b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "d191d59c02c3c4f9fadfab8c97108ab087e82386ea669ebc6f7ff9fc697c8a24",
+   "error": "d191d59c02c3: symbol server returned unindexed build 6036236bbb5f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "45167cc670f95b204094e2355881030d36956b003f5cd8a3fc8c7d9bd8753ad0",
+   "error": "45167cc670f9: symbol server returned unindexed build 7d74a848db48"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "23ee4aab30cd557dac7fee9227c1ed8a457e2b5f72c51b168d9861abcdccdcb8",
+   "error": "23ee4aab30cd: symbol server returned unindexed build 217e842d94a6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "084b1740d0afa302d7eb48af224a7346252bedfbc3cd46feaf42f89269f1a1a5",
+   "error": "084b1740d0af: symbol server returned unindexed build a2c9ce486996"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "643363cfbf63421e68ea7d108d3fecffcb1aecb27ec5af679a5aa7e95e1c3664",
+   "error": "643363cfbf63: symbol server returned unindexed build 1a4357d4ee59"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "643363cfbf63421e68ea7d108d3fecffcb1aecb27ec5af679a5aa7e95e1c3664",
+   "error": "643363cfbf63: symbol server returned unindexed build 1a4357d4ee59"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "855693af7c72bc38b1f0abcba6686e1fe6a9d731d0b0a8bd5208149626d3f782",
+   "error": "855693af7c72: symbol server returned unindexed build e2781f74f82a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "9aa7d3c88ff97f84990b05ff15b678abd7b54585e62122bf27c816026b20c7c8",
+   "error": "9aa7d3c88ff9: symbol server returned unindexed build 15c21faface1; 855693af7c72: symbol server returned unindexed build e2781f74f82a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "855693af7c72bc38b1f0abcba6686e1fe6a9d731d0b0a8bd5208149626d3f782",
+   "error": "855693af7c72: symbol server returned unindexed build e2781f74f82a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "93428200fe89428d0dbd197fb9a8019accefb0e6bc9d14b856dc8714de37fb39",
+   "error": "93428200fe89: symbol server returned unindexed build 383ae533839e; 28d85a4db96a: symbol server returned unindexed build 383ae533839e; 9aa7d3c88ff9: symbol server returned unindexed build 15c21faface1; 855693af7c72: symbol server returned unindexed build e2781f74f82a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "93428200fe89428d0dbd197fb9a8019accefb0e6bc9d14b856dc8714de37fb39",
+   "error": "93428200fe89: symbol server returned unindexed build 383ae533839e; 9aa7d3c88ff9: symbol server returned unindexed build 15c21faface1"
+  }
+ ]
+}

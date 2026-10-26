@@ -1,0 +1,1034 @@
+{
+ "name": "wermgr.exe",
+ "builds": [
+  {
+   "sha256": "cbfc48c4df08c333b0937845d23d1cc41e3ec2683fa918d823f4fcefd4728565",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/4FFAB6C534000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c47a805723f21b977efbf2c5eae758971726e0827c6c6d141b175c19e3f2b22e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/3017575939000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bcd30887bbe876e31202fdea96935fc2be6062784bdf4359f9cc15a9e5816cc2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/6AC8D7C929000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b29e675f97938f73fb5cf4b69d7fd2339096578bf8918980fcf8914eba32eb2e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/FDD6577840000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f2d57953295c1139287dc6474053c04c91e24ef84123665d44eee80dcc14d11",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/5B8CEF3348000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "788cade107b8f002941db6df4499d924f691267a095d4ed37d0c640721f7292c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/6AC8D65027000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6fc8a7b793802395e748cd30b134329a63939a7a3d4d28dd6dbf800886d85704",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/37C03EFB3a000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "64382e9df5de81754d63e71c1aa8b66364b51f33ba5d5dea41e63320ce28a9ed",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/823C2FEB3e000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1fffb506abbd3ea5fe37141687d177770c87836620e9b604c0f44b16d46eb37a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/3DC99E673d000/wermgr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wermgr.exe"
+  },
+  {
+   "sha256": "084a5d8263b40855380f2e9039f6a3beba216b29c01d746681084d46de71e55e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/AA8DCACD48000/wermgr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wermgr.exe"
+  },
+  {
+   "sha256": "b7931094a1c66ab3fa370cae1885e259728ad876b03b6db07dbcca35f9eb70b1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20761 (th1.240814-1758)",
+   "fixed_file_version": "10.0.10240.20761",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-09-10",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/66BD8FBE26000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3b26fce0c05b1da801c146e6672fad33d4acddaf95be61ebfa9a5255c73b78b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20761 (th1.240814-1758)",
+   "fixed_file_version": "10.0.10240.20761",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-09-10",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/66BD981B29000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a3626ccddebda732a960faf4a77a350683373091bd4022e775809dad50db28e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/007E996F3f000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1625290ef1dff2082bca7d3995a1acd20ba641b7277db30659ccc8d3094c4b87",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/69212D524a000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cafcd4eb1850ba026d053ca5c408cbd4f01a4d40d6cc543813fad2cec309a263",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-01-19",
+   "last_seen": "2023-03-21",
+   "os_builds": [
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/0FF20A5A35000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4c50252b8179e917ef6c9fe7fdfe73b51a5cfce75a70a03e1ef53bd048c6530b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2364 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2364",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-12-13",
+   "last_seen": "2023-01-10",
+   "os_builds": [
+    "19042.2364",
+    "19042.2486"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/B8A8BA2B3b000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8ff10133fa972e400bc6b8a4ce92b55326fea4f99d1d9eb3331fdab85289b9ed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1023 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1023",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-05-25",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/95DBBE8D3b000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "68661421a27478a72fc63b64dd4475b09319edbf7919bdd9547e831b20ff67e9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1023 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1023",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-05-25",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/4A39FD3435000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8b3bd0896299c7c99ffb0eaf4a74c47a46fec7e2155d3a31e9b122e586a529b3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/2A326FBA35000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "94469a2e065e89eeb659946a4c2a716e9c91e3a80d078f510e53e347303d1a5e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1474 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1474",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-03-25",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/5B512F4535000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9331ff10eaeecc41c9c07e94e64e5b7c7bce92f6ac8c2e4b2faebb1b85a3b23b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/53D2552033000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5c01198bfa99fcdfeab0e3b45b923fa54ecb5127d89fe36866a64a796287d327",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/8A7262F837000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f11af22c9f813d05b9d55c88bdfb2c9ef59c3c1d3f2fe44d2b0034a30ec383ae",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/0B5681442e000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "40ee1ca0456f29453328e7ce133ff4d60264513f1d0b97b85a8ea0179a11bd2f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1237",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-11-19",
+   "os_builds": [
+    "18362.1237"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/C560DE7F3a000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db703055ec0641e7e96e22a62bf075547b480c51ea9e163d94e33452894b885c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1139 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1139",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-20",
+   "os_builds": [
+    "18362.1139",
+    "18362.1171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/D9FBD1B735000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c0b108c50b00d806f62989c4a670fcbb614854d1fb1b000fa453aa6f0ee5c565",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2166",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/BA7B4B7E30000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b922e69f750316c6cabd577d96e58b4b1b71bd79b31f7c44e3efa55d58cb3695",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2525 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2525",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "15063.2525"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/F1CD1EC433000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c66d2bbdb0674a3f6013632d19278c4ac19c3aa607d0a381fba7527e1cf041d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2166",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/C17AF38D33000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7e9723a49abaed7a4d3f73ba03e7d5d9d7a4fe737aebd91c0d605d4e5ffd5a4c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/59AE443229000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1d38a6b8991ecd7a67246d656998157755f379e5acc671514222f298a6b16efb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WerMgr",
+   "internal_name": "WerMgr",
+   "file_description": "Windows Problem Reporting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1106 (th2_release.170904-1742)",
+   "fixed_file_version": "10.0.10586.1106",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-09-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wermgr.exe/59AE334426000/wermgr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WerMgr",
+   "builds": 30,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2"
+   ],
+   "min_version": "10.0.10240.20761",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2017-09-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "5e5b534e7a53f516d1b8672050d75341badc93e79152b5c67e143783c8787635",
+   "error": "5e5b534e7a53: symbol server returned unindexed build 7c8d139441a1; fa905bea7bb2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=255448); e9369c4dcd70: UnindexedBuild: symbol server returned unindexed build (unindexed:size=255448); 0281b54f7735: UnindexedBuild: symbol server returned unindexed build (unindexed:size=247152)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3fec37468e6608cb9f7382d2c378157e770c23fd6b5ad5a8fb0ad8530b7acda5",
+   "error": "3fec37468e66: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275944); 36ce89084613: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275944); eb766d08f914: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275944); b2d69eaff0b3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275856)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "fabfc18268d79664030f147133741cc15ccba4a5ca350f74f3ad9c63b1ba253a",
+   "error": "fabfc18268d7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=286016); bc948bf7f22e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275944); 3fec37468e66: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275944); 36ce89084613: UnindexedBuild: symbol server returned unindexed build (unindexed:size=275944)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "5c1f828cbc41cd1ac074aff2612498608d6c5167a8546a6c7fde6ec2828b2407",
+   "error": "5c1f828cbc41: symbol server returned unindexed build 5e64c2853312; 80c51b31479c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=222520); 71c8eddb12af: UnindexedBuild: symbol server returned unindexed build (unindexed:size=222520); 016eb8ac1281: UnindexedBuild: symbol server returned unindexed build (unindexed:size=222520)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6031b1cf1ab88b6fdf49cf3352a95b40823869f12152ae60513e0d34abe37ca0",
+   "error": "6031b1cf1ab8: symbol server returned unindexed build c246f4a3d5cc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "284f38524c26f39b1dd788210e7310c8df99efe8a420a031dc42247e75fc646e",
+   "error": "284f38524c26: UnindexedBuild: symbol server returned unindexed build (unindexed:size=237512); 757a6b10bc35: symbol server returned unindexed build f46a9ea07c50; a6d33438d6de: UnindexedBuild: symbol server returned unindexed build (unindexed:size=236936); 4a135f60a519: symbol server returned unindexed build 020942a8fe2d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "f1904dc35047e172a12e5ae50d343c08da2b573080b9bbc8b9793a19ec2fea8c",
+   "error": "f1904dc35047: UnindexedBuild: symbol server returned unindexed build (unindexed:size=208864); 5029190fd38f: symbol server returned unindexed build 3b90601b337b; 5e826d9fd495: symbol server returned unindexed build 3b90601b337b; 92306f16bce0: symbol server returned unindexed build 8e08a7846eef"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "49c5fd9ab9849f2a77baf77d067332c9f41d643c0f84ec33d68fb0361f86c1d1",
+   "error": "49c5fd9ab984: UnindexedBuild: symbol server returned unindexed build (unindexed:size=223712); 2ae6bf0d99c8: UnindexedBuild: symbol server returned unindexed build (unindexed:size=223712); bee573130f79: UnindexedBuild: symbol server returned unindexed build (unindexed:size=223712); c06a22d10c25: UnindexedBuild: symbol server returned unindexed build (unindexed:size=223616)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "6e6300307c2eed04b439521749f811d90dc65ddb5f65d983867ef3f52d08ddb8",
+   "error": "6e6300307c2e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=223600); 12f7b2461162: symbol server returned unindexed build 413a9cb3c6d4; 31b4e9efd26a: symbol server returned unindexed build 413a9cb3c6d4; 5e73c5615e9e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=208376)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "31b4e9efd26af4f1a6ba852b3dd5a3c8cdb4c3a3dc112f5562968d1c2e2ce7f7",
+   "error": "31b4e9efd26a: symbol server returned unindexed build 413a9cb3c6d4; 5e73c5615e9e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=208376); bb8e93859498: symbol server returned unindexed build fe3398cdf6de; dc74d5e45540: UnindexedBuild: symbol server returned unindexed build (unindexed:size=213488)"
+  }
+ ]
+}

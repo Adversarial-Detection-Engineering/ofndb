@@ -1,0 +1,47 @@
+{
+ "name": "loadord.exe",
+ "builds": [
+  {
+   "sha256": "49ea240a4965e0cb2f994530df4f4993a1b91eef3b172e1eb74a1af2972c5c93",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Loadord",
+   "internal_name": "Loadord",
+   "file_description": "Startup order viewer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Loadord",
+   "file_version": "1.02",
+   "fixed_file_version": "1.1.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Loadord",
+   "release": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "download_url": "https://live.sysinternals.com/LoadOrd.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Loadord",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.1.0.0",
+   "max_version": "1.1.0.0",
+   "first_seen": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "provenance": "parsed"
+  }
+ ]
+}

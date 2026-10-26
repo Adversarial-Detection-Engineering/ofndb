@@ -1,0 +1,64 @@
+{
+ "name": "rekeywiz.exe",
+ "builds": [
+  {
+   "sha256": "f9337d0c0aab6649cf80cc50fbd6f11bbcb84f933fd05bb79e4c8b5c3cbd8fdc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rekeywiz.exe",
+   "internal_name": "rekeywiz",
+   "file_description": "EFS REKEY wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\rekeywiz.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "eed939393906c4db58315d7e17ee044a46b265aada77b329c863d85a5598c41a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rekeywiz.exe",
+   "internal_name": "rekeywiz",
+   "file_description": "EFS REKEY wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\rekeywiz.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rekeywiz.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

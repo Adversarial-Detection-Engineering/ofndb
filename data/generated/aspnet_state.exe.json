@@ -1,0 +1,64 @@
+{
+ "name": "aspnet_state.exe",
+ "builds": [
+  {
+   "sha256": "57b123560e6f804bdbc1b48b9213b18bdf5b01585cdc8005d3a8dff6e4e2729e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_state.exe",
+   "internal_name": "aspnet_state.exe",
+   "file_description": "Microsoft ASP.NET State Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\aspnet_state.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "45f74894d234fd611fb396262d7aacafe2a078cdc65e2bf9ccb89f80b801f052",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_state.exe",
+   "internal_name": "aspnet_state.exe",
+   "file_description": "Microsoft ASP.NET State Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet_state.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "aspnet_state.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

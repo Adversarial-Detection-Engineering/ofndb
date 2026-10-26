@@ -1,0 +1,501 @@
+{
+ "name": "dnscmd.exe",
+ "builds": [
+  {
+   "sha256": "b114431bf7f425504425b26d8b0622c7ebc173b86ffc7ce88af8bc1be5565b8c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/0CCC292179000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "74abf6fddd902a0962f940867321738f118589e70d4f21a49b791a818a88fe5b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/6AC8D53B71000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2710ca68c609b9f0ed677ae8cd9b504f0108a075aa367ba7a3c2e320434aa027",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/6768BF1E79000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "834507fdf36ea421ca34329a94fc6f61cfd501b9974204411b6a67964116a626",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/A57DD3E76f000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2d7b60b1982d762a7b0563bc5c266adcaa597401eb878f3ef687726896f80233",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1645 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1645",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-04-12",
+   "last_seen": "2022-08-26",
+   "os_builds": [
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/996A48EF70000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d47f5a4f78cc8ddb3ab5538527fd03b7e5b065383f906d5d8e502e2670cedb4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1440 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1440",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/73DEBC336e000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06cea1faf9526823825207bc751b97d71d288c79fc13f3d833872f3d8b20d7dd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.867 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.867",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-07-06",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/9083DB1A70000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "75af2df2ba41093f3c615295bd3e62c59eeacb3f2c6349b5c1ff59d0d8adbbed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1082 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1082",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2021-02-16",
+   "os_builds": [
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/068D559A6e000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "28c7f30f9fceaba702a979917ae9ea4e2375a4df0fc37fbaff2aea8af1a184c4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1059 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1059",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-03-19",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/94622FE16e000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b8446add42f9cea9ef563b04779338b8f3462263236d9ebb080df9ac4bc6ff73",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.753 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.753",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-04-25",
+   "last_seen": "2020-02-25",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.829",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/CE393EBE6f000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "16d21c3ae37c379ee21cb54ee03908ed9974b8c9083a85a76a36c32984aa6edc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscmd.exe",
+   "internal_name": "dnscmd.exe",
+   "file_description": "DNS Command Line Admin Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.589 (th2_release.160906-1759)",
+   "fixed_file_version": "10.0.10586.589",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-09-13",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dnscmd.exe/57CF99DA71000/dnscmd.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dnscmd.exe",
+   "builds": 11,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1",
+    "1511",
+    "1607",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2"
+   ],
+   "min_version": "10.0.10586.589",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2016-09-13",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "513ef485f7bb4883045e51db60e70b0c03ae7db3c9790202cf029e4bd9eb1a5e",
+   "error": "513ef485f7bb: symbol server returned unindexed build 5cdf457d71fd; ff4a34ec23d5: symbol server returned unindexed build 8e80b45191a0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7ba78bad51a684aaec10069a056418aa9e0494d9b45ac4e0ba6ed95635dfec09",
+   "error": "7ba78bad51a6: symbol server returned unindexed build 5b086336a964; a5988697b768: symbol server returned unindexed build dadbc1311f08; 2f872b570119: symbol server returned unindexed build 00efb18da3aa; 9062b2be9927: symbol server returned unindexed build 58e82395c90c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "5f70e7ce3c21a203b7199f81aa36a1377a74a9c4c107fa25352dc1963237de4a",
+   "error": "5f70e7ce3c21: symbol server returned unindexed build 9a75805ec689; 28a564b90315: symbol server returned unindexed build 19f9922e763d; 7ba78bad51a6: symbol server returned unindexed build 5b086336a964"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c37879177f58ffb340f51f2e86e09273ea9f1a5b2840eaf93c77990ec988dcba",
+   "error": "c37879177f58: NotFound: no timestamp/image size in winbindex, no symbol server URL; a500cbaf96e9: symbol server returned unindexed build 2331e4e235e4; 05c5312baeb2: symbol server returned unindexed build f70fa2802023; 6d1b8ccebdaf: symbol server returned unindexed build 6f6ddc4e35a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "05c5312baeb2ed90268d83f0c26ac1418f3e784deb66d5d07716e48f07a75aa0",
+   "error": "05c5312baeb2: symbol server returned unindexed build f70fa2802023; 6d1b8ccebdaf: symbol server returned unindexed build 6f6ddc4e35a4; 1508a260f70b: symbol server returned unindexed build e6cbf69a0fad"
+  }
+ ]
+}

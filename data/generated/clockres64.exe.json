@@ -1,0 +1,47 @@
+{
+ "name": "clockres64.exe",
+ "builds": [
+  {
+   "sha256": "b594b8b9e5d6a706a33ae2e4c7b37c5aafee9bef0b3e156205f65ecdaab94fcd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Clockres",
+   "internal_name": "Clockres",
+   "file_description": "Clock resolution display utility",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals Clockres",
+   "file_version": "2.1",
+   "fixed_file_version": "2.1.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Clockres",
+   "release": "2020-06-22",
+   "last_seen": "2020-06-22",
+   "download_url": "https://live.sysinternals.com/Clockres64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Clockres",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.1.0.0",
+   "max_version": "2.1.0.0",
+   "first_seen": "2020-06-22",
+   "last_seen": "2020-06-22",
+   "provenance": "parsed"
+  }
+ ]
+}

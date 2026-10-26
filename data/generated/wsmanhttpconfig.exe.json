@@ -1,0 +1,64 @@
+{
+ "name": "wsmanhttpconfig.exe",
+ "builds": [
+  {
+   "sha256": "d68ca28a53a7bf0ec8f8d38c7b2765bac72bb3c337c9db7e66c34dfe08ae473e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WSManHTTPConfig.exe",
+   "internal_name": "WSManHTTPConfig.exe",
+   "file_description": "WSMan HTTP Configuration File",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WSManHTTPConfig.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "05d9189362107c05acf2a5e422829eb5a74fccc2b7f663d7ddc8959eb916be96",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WSManHTTPConfig.exe",
+   "internal_name": "WSManHTTPConfig.exe",
+   "file_description": "WSMan HTTP Configuration File",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WSManHTTPConfig.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WSManHTTPConfig.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9444",
+   "max_version": "10.0.26100.9444",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "imesearch.exe",
+ "builds": [
+  {
+   "sha256": "bab47f8786d1d1520531ba074563d8bd4d0358cd6e8ef1e744ecac53aca65944",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "imesearch.exe",
+   "internal_name": "imesearch.exe",
+   "file_description": "IME search module",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\SHARED\\IMESEARCH.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "844aa5464c26804d13dc3f55c39e66c86cc8cca7c6f93a3924f34f6619928b21",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "imesearch.exe",
+   "internal_name": "imesearch.exe",
+   "file_description": "IME search module",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\SHARED\\IMESEARCH.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "imesearch.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "gamepanel.exe",
+ "builds": [
+  {
+   "sha256": "9a8ffcbe39254f0c27403f00c085823557c883aebb8ed14382dbfc0a4b06d7f6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "gamepanel.exe",
+   "internal_name": "Game Bar",
+   "file_description": "Game Bar",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\GamePanel.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "24251a5e89a7089450c1c8700c588873e4222b9615bd7daf6511854ec7ede213",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "gamepanel.exe",
+   "internal_name": "Game Bar",
+   "file_description": "Game Bar",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\GamePanel.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "gamepanel.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

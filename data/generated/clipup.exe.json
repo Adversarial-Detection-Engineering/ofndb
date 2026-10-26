@@ -1,0 +1,44 @@
+{
+ "name": "clipup.exe",
+ "builds": [
+  {
+   "sha256": "78c651aa2151f60627495d3402dfc456f122ca4de1ce07b6f1446c003b0bb402",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ClipUp.exe",
+   "internal_name": "Client License Platform migration tool",
+   "file_description": "Client License Platform migration tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ClipUp.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ClipUp.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

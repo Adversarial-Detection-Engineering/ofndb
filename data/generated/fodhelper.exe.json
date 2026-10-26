@@ -1,0 +1,349 @@
+{
+ "name": "fodhelper.exe",
+ "builds": [
+  {
+   "sha256": "af75598a78b5f9b55f0804a3d48611fff6bf7346012fc260a863381a88ca7be1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/8FB92FF913000/fodhelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ec9b0d09b56f46f0308d594cd9d595eb492a67ed0024a9b7a13fa995966932f7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/41B558DD13000/fodhelper.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fodhelper.exe"
+  },
+  {
+   "sha256": "9d29ddd628fdfb610913663828147f64d512e04c740b8d1b4a1a69dc378b7eb4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2024-09-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/2245F0D313000/fodhelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2b5089d56eb0ec9b2854102b5fe984f5be96756a170cc46774021e36b315edc3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.71 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.71",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2022-04-12",
+   "os_builds": [
+    "22000.258",
+    "22000.282",
+    "22000.318",
+    "22000.348",
+    "22000.376",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/77C6D9151a000/fodhelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f9c61c9241608b05b4ee3b8141f8bec07d70b95e024d4bfa7c108c2aa420881",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/5632D81511000/fodhelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4346962b31d93dd4e8b5164e6167bb030fc0ca7c77ec0bb6ab798a1e8cd9488e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/57899B5511000/fodhelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8a003a2f25c4d464c9123cae4467afd4b50cc05287b370c53494c472bfbc8b48",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FodHelper.EXE",
+   "internal_name": "FodHelper",
+   "file_description": "Features On Demand Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fodhelper.exe/559F39D110000/fodhelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FodHelper.EXE",
+   "builds": 7,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "f46707eaefd5117aa596779757f518de9411c474ee2746cde377043785187ba8",
+   "error": "f46707eaefd5: symbol server returned unindexed build 59920f58f46a; cdaa6f8c93ac: symbol server returned unindexed build 5633b40306e2; ee5761a2721a: symbol server returned unindexed build d041a7cd1088; e981cb8723fd: symbol server returned unindexed build 11ae6ace4303"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "f46707eaefd5117aa596779757f518de9411c474ee2746cde377043785187ba8",
+   "error": "f46707eaefd5: symbol server returned unindexed build 59920f58f46a; 25032d083bef: symbol server returned unindexed build ee0313c2a977"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "a10c69e6268c4161d4d1fefb7629896f2026a1469ce4657dbcc684fd20a8053e",
+   "error": "a10c69e6268c: symbol server returned unindexed build 636b0c588eea"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "8cb355417aa25ca3150f6df234c3341b91721e7be33cc044dad511a537695f8c",
+   "error": "8cb355417aa2: symbol server returned unindexed build 6b0e75beeb49"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "b52fbb99308493a27aac725cf70721041cdee61caca19792b949cc0867a27964",
+   "error": "b52fbb993084: symbol server returned unindexed build 01459a879313"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "b1223b86d03c3583b84e46a9a6ad009d770fc4114640402ede19793167593a8f",
+   "error": "b1223b86d03c: symbol server returned unindexed build 213013805038"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "7e80da8d839dcf05e30317256460ed7a4ee25cab2750d768569aaab35e1e8c64",
+   "error": "7e80da8d839d: symbol server returned unindexed build 78de43c0245f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "7e80da8d839dcf05e30317256460ed7a4ee25cab2750d768569aaab35e1e8c64",
+   "error": "7e80da8d839d: symbol server returned unindexed build 78de43c0245f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "c546e05d705ffdd5e1e18d40e2e7397f186a7c47fa5fc21f234222d057227cf5",
+   "error": "c546e05d705f: symbol server returned unindexed build fc0364393182"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "c546e05d705ffdd5e1e18d40e2e7397f186a7c47fa5fc21f234222d057227cf5",
+   "error": "c546e05d705f: symbol server returned unindexed build fc0364393182"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "c546e05d705ffdd5e1e18d40e2e7397f186a7c47fa5fc21f234222d057227cf5",
+   "error": "c546e05d705f: symbol server returned unindexed build fc0364393182"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c546e05d705ffdd5e1e18d40e2e7397f186a7c47fa5fc21f234222d057227cf5",
+   "error": "c546e05d705f: symbol server returned unindexed build fc0364393182"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "c546e05d705ffdd5e1e18d40e2e7397f186a7c47fa5fc21f234222d057227cf5",
+   "error": "c546e05d705f: symbol server returned unindexed build fc0364393182"
+  }
+ ]
+}

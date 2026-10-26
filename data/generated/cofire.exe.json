@@ -1,0 +1,44 @@
+{
+ "name": "cofire.exe",
+ "builds": [
+  {
+   "sha256": "b831f35cec93a7f6b4d62f5ef1b5951e9d191a07e32c3e517956f6c2887e6d9f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "cofire.exe",
+   "internal_name": "cofire.exe",
+   "file_description": "Corrupted File Recovery Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cofire.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "cofire.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

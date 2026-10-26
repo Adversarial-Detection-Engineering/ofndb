@@ -1,0 +1,44 @@
+{
+ "name": "smsvchost.exe",
+ "builds": [
+  {
+   "sha256": "c0093671ed56b816ca58c33598ef9eefa4f4538ab9166e231f773dd01e2a6043",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SMSvcHost.exe",
+   "internal_name": "SMSvcHost.exe",
+   "file_description": "SMSvcHost.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\SMSvcHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SMSvcHost.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+---
+import Base from '../layouts/Base.astro';
+import { siteData } from '../lib/load';
+import { href } from '../lib/util';
+
+const { stats } = siteData();
+const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
+---
+
+<Base title="About" description="How the OriginalFilename library is built and verified.">
+  <article class="prose">
+    <h1>How this is built</h1>
+    <p class="lede">
+      Detection rules key on <code>OriginalFileName</code> because it survives renaming. Finding the right value is harder than it
+      should be: LOLBAS doesn't record it, and the usual ways of looking it up return the wrong string. This library records the
+      value the way sensors see it, and shows its work.
+    </p>
+
+    <h2>Where the values come from</h2>
+    <ol>
+      <li>
+        <strong>Raw PE parsing.</strong> Every value is read from the <code>RT_VERSION</code> resource inside the binary, using
+        <code>pefile</code>. Windows' own version APIs are never used, because they return the localized MUI value (see
+        <a href={href('gotchas/#mui')}>gotcha 1</a>).
+      </li>
+      <li>
+        <strong>Windows built-ins, every build.</strong> Winbindex lists each known build of a Windows file. The collector downloads
+        each one from the Microsoft symbol server and keeps it only if its SHA256 matches Winbindex: the server's timestamp/size key
+        collides often and can return a different build than the one requested.
+      </li>
+      <li>
+        <strong>Sysinternals</strong> come from live.sysinternals.com; vendor tools from the vendor's own download.
+      </li>
+      <li>
+        <strong>Sensor ground truth.</strong> A disposable Windows Sandbox installs Sysmon, then creates every target process
+        <em>suspended</em> and kills it before its first instruction runs. Sysmon still logs the process-creation event, so each
+        binary's logged OriginalFileName is compared with the parsed value, matched by exact SHA256, without executing anything.
+      </li>
+    </ol>
+
+    <h2>Provenance</h2>
+    <dl class="defs">
+      <dt><span class="badge badge-ok">Sysmon-confirmed</span></dt>
+      <dd>A live Sysmon event for this exact build (same SHA256) logged this value.</dd>
+      <dt><span class="badge">Parsed</span></dt>
+      <dd>Read from the binary's version resource; no live event for that build yet (other Windows releases, DLLs).</dd>
+    </dl>
+    <p>
+      Values other projects publish (LOLRMM's PEMetadata, Sigma rule literals) are only used as cross-checks, never as data. Where
+      they disagree with the binary, the page says so.
+    </p>
+
+    <h2>Coverage</h2>
+    <p>
+      {n(stats.entries)} binaries and {n(stats.builds)} parsed builds; {n(stats.verified_entries)} binaries confirmed against Sysmon
+      {stats.sysmon_versions.join(', ')} with zero mismatches. Of {n(stats.targets)} target names gathered from LOLBAS, LOLRMM,
+      Sysinternals and SigmaHQ ({stats.sigma_release}), {n(stats.targets_collected)} are covered so far. Third-party tools and RMM
+      agents are next.
+    </p>
+
+    <h2>Credits</h2>
+    <p>
+      Built on <a href="https://lolbas-project.github.io/">LOLBAS</a>, <a href="https://lolrmm.io/">LOLRMM</a>,
+      <a href="https://winbindex.m417z.com/">Winbindex</a>, <a href="https://github.com/SigmaHQ/sigma">SigmaHQ</a>,
+      <a href="https://learn.microsoft.com/sysinternals/">Sysinternals</a> and
+      <a href="https://github.com/erocarrera/pefile">pefile</a>.
+    </p>
+
+    <h2>Contributing</h2>
+    <p>
+      The most valuable contribution is sensor evidence: if your Sysmon, Defender or Elastic data shows a different OriginalFilename
+      for a binary, open an issue with its SHA256 and the logged value. Missing binaries and context notes
+      (<code>data/curated/&lt;name&gt;.yml</code>) are welcome too. See <code>CONTRIBUTING.md</code>.
+    </p>
+  </article>
+</Base>

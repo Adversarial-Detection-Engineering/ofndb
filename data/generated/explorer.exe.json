@@ -1,0 +1,1326 @@
+{
+ "name": "explorer.exe",
+ "builds": [
+  {
+   "sha256": "fec170290d8abf881a23db2b2e95ba5198eb7fd64a379955b744049533cda409",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/A10DDF9F5c9000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fd236da003d4c11ff0cd11d0ae33ee0797f2b966f1cd4c716042985754d39abe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7517 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7517",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7582",
+    "22621.7652",
+    "22631.7517",
+    "22631.7584"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/754F843A554000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eee089fe6f927c7f0d51b0abd9d70c094157e33673ad760713ec7b1cea18ee11",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/BEE7E13F344000/explorer.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\explorer.exe"
+  },
+  {
+   "sha256": "cfd564cb647815855883dd1ad6962c61b4fde25c75d28da7e6e181fb55e5987b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9121",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/DE9FE7973a6000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bd4d92e5a9a11919eb87e49ce0043b2287753c183b1309596325f067fbe62e16",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/B277DA612eb000/explorer.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\explorer.exe"
+  },
+  {
+   "sha256": "a94f57f377e6a3b00e3009096cb9e49b41c031abbd3414ab17e9794da0571e20",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.8957 (rs1_release.260227-2344)",
+   "fixed_file_version": "10.0.14393.8957",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-03-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/69A2C55C419000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a542aa154f73e6aa2d69f19706f8ee15b0a2ddbb31cfcbda89479d6c96653072",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7517 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7517",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7582",
+    "22621.7652",
+    "22631.7517",
+    "22631.7584"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/73B06B7F4cb000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a1945e6763d3011f5c59aa8f2827a88a4ce482ad7fbde1b3eb10fa600d516cfc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/7D844F8D2dc000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9b699aa815d78a8ddfce83fc84dca3256c852912826b501743d8bf125e0b0cee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9121",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/DD1ACEBA42b000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "88e7facc8185c42c2a8bb1eec03817fb54adea7a7f4df96ed27e4f801939e8cf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.8957 (rs1_release.260227-2344)",
+   "fixed_file_version": "10.0.14393.8957",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-03-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/69A2C2DC472000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "084fef845c1ede86e93fcd4e718b7bc4cb2dd6014d5182695473b2a686559246",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/A9C94AF0335000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e23cc96438aad4db67d5c5819114b14f29a426aaad1d4e2daee4222e40283821",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/05288CAE519000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b589316d943074d181a9e8eea323e193e14470c7d8815f6362d3ae7459427a91",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6392",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "19044.6456",
+    "19044.6575",
+    "19045.6396"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/7988D50E519000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fa92c95a818a14bd9773fad57627575dd4599b6a5dc3f76b58756652ed4deb03",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5983 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5983",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-09-23",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060",
+    "22631.5984"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/1EA5080F554000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bd92a81ec7fa6e2401cbee7d03f0bcc166dbcd4a76dcb3e74c48998a72f4ef56",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5983 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5983",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-09-23",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060",
+    "22631.5984"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/4CE8BE524cb000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b15ba3f7dc4e63ae08816ec391f44c2c6b763f5782fd6358da0e757be7d680ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21072 (th1.250630-1851)",
+   "fixed_file_version": "10.0.10240.21072",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/68637EEA3d8000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "774b02e34b02fc81b7fae82518e17ca14dc5253c3718b22a507b735f7c2e366f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21072 (th1.250630-1851)",
+   "fixed_file_version": "10.0.10240.21072",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/686382E544e000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ca8c0a2a00f1d6f6da076d1d61fa706e82df57ed2b12ae3b3c36f4f73556b2ec",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/AFFDCB8F2e9000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7e2e2201f963d8d76d850452ad993afe0fcf08965bb79340856840510ad0a1a6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/340249F4298000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eaa845cfd57eb3b9a49af711c4114e606426b78d5b81ccf26aa3e7487e0daf64",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6392",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/5506678D5c9000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f9e414652ee8b7ed172574ce25d26f91ff29b84168434bfc106b72f2c67f93c0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3079 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3079",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/F17E3E0F4d3000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3bd9293e4e3f511237fadecc05902a90dda2f3278b48e5499f866d6e5162a408",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3079 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3079",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/5537439343c000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "96aabe7c6335ea2d7cd85e5d4c14e8fc0dba7c192be1442f40dc3946c1dd9bb8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2913",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/EAC25C98464000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "385dbad0269cae83598d6706229324eb3cbdef00e21a0682161477d762aaf2c1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2913",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/71FDC1B44fd000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "59ed4ad51a002b4648e5d1083d1217919541584e031126b64654ee054620c222",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2274",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/D6C9BC7D485000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "070c4f0b303b01d4ce8e848b22a522eb762f8488c0b0e9c37ffb5ed33d64469c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1916 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1916",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-11-09",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/6C551F4740c000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3f2831b91e73a5f665f15ac57b144994fed554ae5e9d9413f10be87ec1cd4dac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/CDFB2B8A423000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a234be0cefceb307a259e1171e22ad07890705d4bcbe022fe3ce0293613128e4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1415 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1415",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-12-14",
+   "last_seen": "2022-01-11",
+   "os_builds": [
+    "19041.1415",
+    "19042.1466"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/2D7DA47F4b9000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8f2ae5820a3e0212ded8862b051b82a13b05ac5af8536aeb2017d019d9326362",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.928 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.928",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-04-13",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/3EBB86563eb000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ac081a071642d569fd0994bd6df718fc79747408fb584404b902a6db9b248f9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.928 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.928",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-04-13",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/BC61EB13479000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a196317163fdc1a0529d0e662ec879819861aaf3a91fb88481b0c2282683f366",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2208",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/084AF9603ec000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8ea52c2707cdd2c650170cf4775a831256bb3648d957daddf75995288d7321b0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2208",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/A4A49CA9396000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c36c5d6ab3630d6c6daab12865b0aa83eeca494c049b4e34e2ddad7dc4a0b346",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/C46BBE0449c000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "51a95b92a9aacad81c07b862bfc577767646d5ea1050619cadfc92cc5e4d7e52",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1171 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1171",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-10-20",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/D942099D474000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20829b9d9699d0b8fd284c676afd6176ac2e6c58d4eeac8d8c2777790b8217a5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1171 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1171",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-10-20",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/90B723133d6000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f2dffeb1b1cd1eb02f8f89063a47da44f76c4acfb81f80697d13a008c9a6c55",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1992",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/E7C23E3E3c6000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "01b6780cb7947283dac02f94ad6925b1a58a31a605dbbac8bef3fe8e35bfe89e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1992",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/CA52A6CF35d000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a5a9db60bb7e7178ca06e771542e1ab2ebbf9f2f60875a3402e6cef0950677ea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.1659 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.1659",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2019-02-19",
+   "last_seen": "2020-06-18",
+   "os_builds": [
+    "15063.1659",
+    "15063.1689",
+    "15063.1716",
+    "15063.1746",
+    "15063.1784",
+    "15063.1785",
+    "15063.1805",
+    "15063.1808",
+    "15063.1839",
+    "15063.1868",
+    "15063.1897",
+    "15063.1898",
+    "15063.1928",
+    "15063.1955",
+    "15063.1988",
+    "15063.2021",
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/6340CA4D43f000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3715140e889ce0915726d8b1d5c85f67b1c2aef7e702890842123c050446076a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.839 (th2_release.170303-1605)",
+   "fixed_file_version": "10.0.10586.839",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-03-14",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/58BA36BD44b000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "26000ae250f629d18a59c7b6ccf07d5ffc1bfac3f5ea432b48cf7fc0fd6bd032",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EXPLORER.EXE",
+   "internal_name": "explorer",
+   "file_description": "Windows Explorer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.839 (th2_release.170303-1605)",
+   "fixed_file_version": "10.0.10586.839",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-03-14",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/explorer.exe/58BA35F33df000/explorer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "EXPLORER.EXE",
+   "builds": 40,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21072",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2017-03-14",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

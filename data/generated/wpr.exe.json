@@ -1,0 +1,44 @@
+{
+ "name": "wpr.exe",
+ "builds": [
+  {
+   "sha256": "a0d0139d85577e51a5afc3b4c4c99e00ebc53c5972917aa81a4be133c7c1f8a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WPR.exe",
+   "internal_name": "WPR.exe",
+   "file_description": "Microsoft Windows Performance Recorder",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Windows Performance Recorder",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wpr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WPR.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

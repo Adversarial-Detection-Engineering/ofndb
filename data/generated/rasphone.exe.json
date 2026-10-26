@@ -1,0 +1,64 @@
+{
+ "name": "rasphone.exe",
+ "builds": [
+  {
+   "sha256": "f00ea344e6516a74af473d441776962393e36934176375a1d01ac6f067e5d3b4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rasphone.exe",
+   "internal_name": "rasphone.exe",
+   "file_description": "Remote Access Phonebook",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8875 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8875",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\rasphone.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "64d6999db62b249dd8e0d755e447ed835e0a6fa39cb340dd0d77bdc1d595a6a2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rasphone.exe",
+   "internal_name": "rasphone.exe",
+   "file_description": "Remote Access Phonebook",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8875 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8875",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\rasphone.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rasphone.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8875",
+   "max_version": "10.0.26100.8875",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

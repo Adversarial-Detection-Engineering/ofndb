@@ -1,0 +1,45 @@
+{
+ "name": "anydesk.exe",
+ "builds": [
+  {
+   "sha256": "2a85e3bc09a2c8b6707cd56ec464be42705a5849f1a8a5b38c66b56b2c07b124",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "AnyDesk",
+   "company_name": "AnyDesk Software GmbH",
+   "product_name": "AnyDesk",
+   "file_version": "9.8.2",
+   "fixed_file_version": "9.8.2.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "product": "AnyDesk",
+   "vendor": "AnyDesk Software GmbH",
+   "download_url": "https://download.anydesk.com/AnyDesk.exe",
+   "sources": [
+    "vendor"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "generated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "vendor"
+   ],
+   "windows_versions": [],
+   "min_version": "9.8.2.0",
+   "max_version": "9.8.2.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

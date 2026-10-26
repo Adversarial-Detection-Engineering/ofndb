@@ -1,0 +1,64 @@
+{
+ "name": "mscopilot.exe",
+ "builds": [
+  {
+   "sha256": "5b016f99e743058e4bb4229344023ccd59dc0efc168e594074419b0ce99c5956",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mscopilot.exe",
+   "internal_name": "mscopilot_exe",
+   "file_description": "Copilot",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Copilot",
+   "file_version": "152.0.4191.53",
+   "fixed_file_version": "152.0.4191.53",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\mscopilot.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mscopilot.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "152.0.4191.53",
+   "max_version": "152.0.4191.53",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "5b016f99e743058e4bb4229344023ccd59dc0efc168e594074419b0ce99c5956",
+   "error": "5b016f99e743: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A900A814ca000/mscopilot.exe; 6408b8956105: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A6C5ECB477000/mscopilot.exe; c55cd152f673: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A5FD8E6466000/mscopilot.exe; 30ff1bed62d9: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A17A2B4498000/mscopilot.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "5b016f99e743058e4bb4229344023ccd59dc0efc168e594074419b0ce99c5956",
+   "error": "5b016f99e743: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A900A814ca000/mscopilot.exe; 6408b8956105: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A6C5ECB477000/mscopilot.exe; c55cd152f673: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A5FD8E6466000/mscopilot.exe; 30ff1bed62d9: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A17A2B4498000/mscopilot.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "5b016f99e743058e4bb4229344023ccd59dc0efc168e594074419b0ce99c5956",
+   "error": "5b016f99e743: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A900A814ca000/mscopilot.exe; 6408b8956105: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A6C5ECB477000/mscopilot.exe; c55cd152f673: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A5FD8E6466000/mscopilot.exe; 30ff1bed62d9: NotFound: https://msdl.microsoft.com/download/symbols/mscopilot.exe/6A17A2B4498000/mscopilot.exe"
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "name": "windowsterminal.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "b7e513ab88ed9ae1813c712938a8f95b28d602f81966f4906813ca562d32598a",
+   "error": "b7e513ab88ed: NotFound: https://msdl.microsoft.com/download/symbols/windowsterminal.exe/60393F8E4f000/windowsterminal.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "bf39bfcb1c20b8689ac8bb630b08b32085180468d97db058be3e54b6d658a1b1",
+   "error": "bf39bfcb1c20: NotFound: https://msdl.microsoft.com/download/symbols/windowsterminal.exe/62508E2A76000/windowsterminal.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "bf39bfcb1c20b8689ac8bb630b08b32085180468d97db058be3e54b6d658a1b1",
+   "error": "bf39bfcb1c20: NotFound: https://msdl.microsoft.com/download/symbols/windowsterminal.exe/62508E2A76000/windowsterminal.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "c93512b004ad368992f76142e9718e8b58893d543b0906dc56d8c460aff20af1",
+   "error": "c93512b004ad: NotFound: https://msdl.microsoft.com/download/symbols/windowsterminal.exe/65B9ACFFb3000/windowsterminal.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "c93512b004ad368992f76142e9718e8b58893d543b0906dc56d8c460aff20af1",
+   "error": "c93512b004ad: NotFound: https://msdl.microsoft.com/download/symbols/windowsterminal.exe/65B9ACFFb3000/windowsterminal.exe"
+  }
+ ]
+}

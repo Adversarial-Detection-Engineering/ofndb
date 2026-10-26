@@ -1,0 +1,668 @@
+{
+ "name": "desk.cpl",
+ "builds": [
+  {
+   "sha256": "f6dc3252e06c99c0254ad0aa2ea75ca645de493df6053d6106519f426bfd88b4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/79A8F55E36000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "93437408ee1a0157e5082e98bf2f5992451312de2b44718a6a4fd49a013c6d0b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/425D3E243a000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6101b16684ab622b6d21e745e0cdd2c84f7f307eec42636b7eee01d29d054feb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/5B5C2B5B36000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0c91eb8d7d5bb6d91ce163eca78f0588742d5955c4a4c77b846b3dca5f6ff914",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/91203D9A39000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6338150ba58df749fe24435e3b5f8c310605eb2d0c2d106259ad7c4923e374c6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-03-27",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/C57C108736000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c13387fb9462b0538fa2a4ceff1e2a819af1ddf3425b7d5ceff1c2d64bd1ad0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-03-27",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/0DC806DD3a000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ba6dca9286117d78334f4b348f379ccc08ea034a7d954c83b265eab0e42a0d99",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/079B9ECF36000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "affb2b226c7113064ea43fb3606e4d67fc8b82f10d9fb8cfa7e59ae74eb18b71",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/12A2118132000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e3e901670170baf700182600912bcf6aedec753b8488ade7df0c7f2095af3fa7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/578990192c000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b97bbbef6fa73a079997fc48cf539a678761d8818ef8bfcaacf831b8251a7037",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/5789995F2e000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "34e466530106210d1e48f7b0ef5adc5c32b8b7cd0fb0562ab033bfe9d5371cf5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/5632D3A830000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20dc886d489f2aa7fcfa26980ae949e8710a3dc9deb2c4649dbffb9d7c82641a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/5632D4162e000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cb3351e0935360460d0f816e999ae0f5ca40ac0aea3067a9c2819491c302600c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/559F3CDA2e000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3a9b7c89f2933f8dc322e41df299d9afaa126241e73f7060e2c7fe8471908790",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DESK.CPL",
+   "internal_name": "DESK",
+   "file_description": "Desktop Settings Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/desk.cpl/559F3AC530000/desk.cpl",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DESK.CPL",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "536f4e03ea82feae94994260c511c75ed6561610358b6737b44e0c88029ef019",
+   "error": "536f4e03ea82: symbol server returned unindexed build e17b4c8f3b7d; 243e8915aa0a: symbol server returned unindexed build 8b5b5a6cfd0d; cbaafdbb6195: symbol server returned unindexed build 8dbb0a9fd529; 4122eaa75de1: symbol server returned unindexed build 93bb36d1e8c4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "536f4e03ea82feae94994260c511c75ed6561610358b6737b44e0c88029ef019",
+   "error": "536f4e03ea82: symbol server returned unindexed build e17b4c8f3b7d; 6bc602ec9024: symbol server returned unindexed build 54bfa911d8d7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "e55c65a3f80f4f8d092b48408320d19f1ef96775983a3b3abf5670d927568660",
+   "error": "e55c65a3f80f: symbol server returned unindexed build 8facc995ffaa; 16bca8ac8831: symbol server returned unindexed build 1c88600ce4f0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "820dc3b49ed16ddb5b07ee586c313b3194faa3853a90ed4dca00c3d19abcdf38",
+   "error": "820dc3b49ed1: symbol server returned unindexed build adccb4ac8fe5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "85d477da10b716a8409da270e9b78bd405db84f9885168fcf0d0d98d56460e31",
+   "error": "85d477da10b7: symbol server returned unindexed build 528bd4b2d1ec"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "e61549fbbd524e0410140e65dfa34c80c04933b8cd435bbaf9099c53f0de36fe",
+   "error": "e61549fbbd52: symbol server returned unindexed build b30e728c7759"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "896cbec8d8b2354dd8fc49f02f8e27e425aedafa44ce19e2a1045d4587468ac7",
+   "error": "896cbec8d8b2: symbol server returned unindexed build da0dab4f3ce3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "896cbec8d8b2354dd8fc49f02f8e27e425aedafa44ce19e2a1045d4587468ac7",
+   "error": "896cbec8d8b2: symbol server returned unindexed build da0dab4f3ce3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "0f9d87881801ceb378090c7fa2bba9ba386f025214716b153bc9fe1422dce43d",
+   "error": "0f9d87881801: symbol server returned unindexed build 295aae660590"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "0f9d87881801ceb378090c7fa2bba9ba386f025214716b153bc9fe1422dce43d",
+   "error": "0f9d87881801: symbol server returned unindexed build 295aae660590"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "0f9d87881801ceb378090c7fa2bba9ba386f025214716b153bc9fe1422dce43d",
+   "error": "0f9d87881801: symbol server returned unindexed build 295aae660590"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "b7752c50e56e87b39bdd6d1756c5328057992a9da636dd9f17b1a5f9db72cfff",
+   "error": "b7752c50e56e: symbol server returned unindexed build f98d27560476; 078daf610c58: symbol server returned unindexed build 334f78950c7f; 0f9d87881801: symbol server returned unindexed build 295aae660590"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "b7752c50e56e87b39bdd6d1756c5328057992a9da636dd9f17b1a5f9db72cfff",
+   "error": "b7752c50e56e: symbol server returned unindexed build f98d27560476; 078daf610c58: symbol server returned unindexed build 334f78950c7f; 0f9d87881801: symbol server returned unindexed build 295aae660590"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "8f28e05c743011810f80a8e275903f4b6bc9bf408c39cca2b0584571a1b4c439",
+   "error": "8f28e05c7430: symbol server returned unindexed build 5b2b31bf5df7; 50c0037aa595: symbol server returned unindexed build b91398007424; 99b6631b2913: symbol server returned unindexed build 82ff8c586c80; 063e99779f12: symbol server returned unindexed build 9b8a1879063f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "8f28e05c743011810f80a8e275903f4b6bc9bf408c39cca2b0584571a1b4c439",
+   "error": "8f28e05c7430: symbol server returned unindexed build 5b2b31bf5df7; f71f29a76532: symbol server returned unindexed build 9562a1fbbf1d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "2084535d7144d3f80a9f20093333817fc02e316b8d5d46988a5c150e1e0fb3f3",
+   "error": "2084535d7144: symbol server returned unindexed build 400dba34ea9d; ef95df8dbcdd: symbol server returned unindexed build 9278ad1b2eb1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "3d32fc4a95615e824924067d18bbc2616cf38de8b4200e27a712c7b23cc0a29c",
+   "error": "3d32fc4a9561: symbol server returned unindexed build 05323afcf2ec"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "2877b727657b34dbc2e996102990bf1f9dc8f82a7c424ebb2752497e4ea4c58f",
+   "error": "2877b727657b: symbol server returned unindexed build a4169a151f78"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "7d887359deca2ae0e6b40021805977d7f8911b1db09636935a4b3626a475aec6",
+   "error": "7d887359deca: symbol server returned unindexed build e34776f5d1fd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "7359e99960ec64948a459290f43bc9eea681d911b92ad90031b57a684f6cfcd0",
+   "error": "7359e99960ec: symbol server returned unindexed build 4b73ccdd9d51"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "7359e99960ec64948a459290f43bc9eea681d911b92ad90031b57a684f6cfcd0",
+   "error": "7359e99960ec: symbol server returned unindexed build 4b73ccdd9d51"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "d3af78d3833b30168e4662274af92ae4fed4a1101f77b53730d8d6e49032cf1b",
+   "error": "d3af78d3833b: symbol server returned unindexed build af40f3f08c6d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "d3af78d3833b30168e4662274af92ae4fed4a1101f77b53730d8d6e49032cf1b",
+   "error": "d3af78d3833b: symbol server returned unindexed build af40f3f08c6d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "d3af78d3833b30168e4662274af92ae4fed4a1101f77b53730d8d6e49032cf1b",
+   "error": "d3af78d3833b: symbol server returned unindexed build af40f3f08c6d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "ded7bf443ccc61a3b20d15d1cb765364025605867fae9722c6364b94c557b9ce",
+   "error": "ded7bf443ccc: symbol server returned unindexed build 8be6fc075901; e5392699be3c: symbol server returned unindexed build b9290c690108; d3af78d3833b: symbol server returned unindexed build af40f3f08c6d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "ded7bf443ccc61a3b20d15d1cb765364025605867fae9722c6364b94c557b9ce",
+   "error": "ded7bf443ccc: symbol server returned unindexed build 8be6fc075901; e5392699be3c: symbol server returned unindexed build b9290c690108; d3af78d3833b: symbol server returned unindexed build af40f3f08c6d"
+  }
+ ]
+}

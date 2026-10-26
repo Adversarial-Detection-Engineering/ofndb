@@ -1,0 +1,381 @@
+{
+ "name": "tscon.exe",
+ "builds": [
+  {
+   "sha256": "b68961d57778c688be6ee80334d1c19b24c60352bd7be85c9250b878cae970ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "tscon.exe",
+   "internal_name": "tscon",
+   "file_description": "Session Connection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tscon.exe/9EEE31A7a000/tscon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a1f0ff0c20e5f55750c5ee8b784c9e880f34753c96d4be7434ec72c0434aa6ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tscon.exe",
+   "internal_name": "tscon",
+   "file_description": "Session Connection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tscon.exe/52C15D6Ad000/tscon.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tscon.exe"
+  },
+  {
+   "sha256": "4cca1e0a62f5167622a529ca2e1be49e20bb26c52d0a05fff3d68ac4fc85b6fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tscon.exe",
+   "internal_name": "tscon",
+   "file_description": "Session Connection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742",
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tscon.exe/46AD8DB6d000/tscon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bdc8ada1c5f994a656a8b79bdb7a9f9935b5e49172fcd744b46cf78ed706d47b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tscon.exe",
+   "internal_name": "tscon",
+   "file_description": "Session Connection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tscon.exe/578997C0b000/tscon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4723797b90e51fcf9332c52867c8f7f4be593f8b2e2c63aa9e2544f3b9a59257",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tscon.exe",
+   "internal_name": "tscon",
+   "file_description": "Session Connection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tscon.exe/5632D189b000/tscon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2766ed1717d4ee0d108a029fcc17586bd1e1c5833939cc4eef7dd12ee4e6efd1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tscon.exe",
+   "internal_name": "tscon",
+   "file_description": "Session Connection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tscon.exe/559F3B16b000/tscon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "tscon.exe",
+   "builds": 6,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.7623",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "b2061f04be43adbc9da9b4a35a77ab7e51a93ea3c8bfb950e0d1f07c957b3a20",
+   "error": "b2061f04be43: symbol server returned unindexed build 656fa8b75fe1; b0e561edbc1a: symbol server returned unindexed build 656fa8b75fe1; 32652595bd03: symbol server returned unindexed build 656fa8b75fe1; c312d4d59166: symbol server returned unindexed build 656fa8b75fe1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "d60daab9a932b115e2b9bf6d837df59cc318651709e9e212a1bc2ee0df09ba8d",
+   "error": "d60daab9a932: symbol server returned unindexed build 29bc5f54ede4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "d60daab9a932b115e2b9bf6d837df59cc318651709e9e212a1bc2ee0df09ba8d",
+   "error": "d60daab9a932: symbol server returned unindexed build 29bc5f54ede4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "f944ed5e33c6d29764ca795e2014925c1c7466fd66290f554d7457230ee21348",
+   "error": "f944ed5e33c6: symbol server returned unindexed build 8802a12dfd0d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "d34ba35abed082c46b4f74dcade5d486a35aa2d1301e6f9fc852b1123183539d",
+   "error": "d34ba35abed0: symbol server returned unindexed build adbfa7e16754"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "26d40ccaa2f0b9968e797aaa914bba21603769b082ab6aec8b8ee1701f6559d8",
+   "error": "26d40ccaa2f0: symbol server returned unindexed build 355f45550acf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "2877e57b2490f708413b93d8e8ccfab21542bf4f7d5ef582c995fb3059e2dbdd",
+   "error": "2877e57b2490: symbol server returned unindexed build 39a7b271a158"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "ec0e8104cec80f4503fc1776f03b20d124a83ab3268968f3f1de54fac443f0b0",
+   "error": "ec0e8104cec8: symbol server returned unindexed build 7342158256f5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "ec0e8104cec80f4503fc1776f03b20d124a83ab3268968f3f1de54fac443f0b0",
+   "error": "ec0e8104cec8: symbol server returned unindexed build 7342158256f5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "15e3a70fd3f2972cd8d7826dfe4058255b0fbb974969828644d93256f7fb9c12",
+   "error": "15e3a70fd3f2: symbol server returned unindexed build 922c2aa7e28a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "15e3a70fd3f2972cd8d7826dfe4058255b0fbb974969828644d93256f7fb9c12",
+   "error": "15e3a70fd3f2: symbol server returned unindexed build 922c2aa7e28a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "15e3a70fd3f2972cd8d7826dfe4058255b0fbb974969828644d93256f7fb9c12",
+   "error": "15e3a70fd3f2: symbol server returned unindexed build 922c2aa7e28a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "15e3a70fd3f2972cd8d7826dfe4058255b0fbb974969828644d93256f7fb9c12",
+   "error": "15e3a70fd3f2: symbol server returned unindexed build 922c2aa7e28a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "15e3a70fd3f2972cd8d7826dfe4058255b0fbb974969828644d93256f7fb9c12",
+   "error": "15e3a70fd3f2: symbol server returned unindexed build 922c2aa7e28a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "abaabf8c180bac01611b455f98cfb4b03d651910a4d53374d0445198952ae0bb",
+   "error": "abaabf8c180b: symbol server returned unindexed build e0b84e2ae436; c1e0ae44537f: symbol server returned unindexed build e0b84e2ae436; 98f43bba8753: symbol server returned unindexed build e0b84e2ae436"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "f52a56e40cdc9b3495b6910b830ce132df4170ef284884e4ce158d56edc041b4",
+   "error": "f52a56e40cdc: symbol server returned unindexed build dcdd62a0622a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "f52a56e40cdc9b3495b6910b830ce132df4170ef284884e4ce158d56edc041b4",
+   "error": "f52a56e40cdc: symbol server returned unindexed build dcdd62a0622a"
+  }
+ ]
+}

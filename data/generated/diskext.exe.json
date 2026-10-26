@@ -1,0 +1,47 @@
+{
+ "name": "diskext.exe",
+ "builds": [
+  {
+   "sha256": "21ac7976db678484dc7823e58d5200aabb01df3556be54d7dbdb5427d7b87ccd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "diskext.exe",
+   "internal_name": "DiskExt",
+   "file_description": "Disk extent dumper",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals diskextent",
+   "file_version": "1.2",
+   "fixed_file_version": "1.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals diskextent",
+   "release": "2020-09-11",
+   "last_seen": "2020-09-11",
+   "download_url": "https://live.sysinternals.com/diskext.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "diskext.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.2.0.0",
+   "max_version": "1.2.0.0",
+   "first_seen": "2020-09-11",
+   "last_seen": "2020-09-11",
+   "provenance": "parsed"
+  }
+ ]
+}

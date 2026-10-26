@@ -1,0 +1,44 @@
+{
+ "name": "mighost.exe",
+ "builds": [
+  {
+   "sha256": "3c74721993e6a063f9102548923a1df300462ce39c847d648fbd1fd3a4210c44",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MigHost.exe",
+   "internal_name": "MigHost",
+   "file_description": "Migration Plugins host program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\migwiz\\mighost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MigHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7019",
+   "max_version": "10.0.26100.7019",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

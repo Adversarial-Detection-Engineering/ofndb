@@ -1,0 +1,341 @@
+{
+ "name": "quser.exe",
+ "builds": [
+  {
+   "sha256": "aec93dc8483fdbfe2a537ab26fb4d07dc628be2aa67c4e02381b086e7c830dee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "quser.exe",
+   "internal_name": "quser",
+   "file_description": "Query User Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/quser.exe/4CD756F3d000/quser.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\quser.exe"
+  },
+  {
+   "sha256": "623602f729f51df9529a3c35d1ea64aa7371208dda5fb40afc2584f39552573a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "quser.exe",
+   "internal_name": "quser",
+   "file_description": "Query User Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/quser.exe/B3987C60a000/quser.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "67d4ff2489b1c4e78928ca9ac9c1a79782a30bb976dc1ae49ac667cd5ac344a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "quser.exe",
+   "internal_name": "quser",
+   "file_description": "Query User Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/quser.exe/578997C3c000/quser.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1e6e72caa1950857a7771d3aa6131264214d12cdb1587c0a89d2f6d010db251e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "quser.exe",
+   "internal_name": "quser",
+   "file_description": "Query User Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/quser.exe/5632D182c000/quser.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e6136480bad9cce6d502a023c676a416752c0b9893dce11e9efe4f5c5f76013f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "quser.exe",
+   "internal_name": "quser",
+   "file_description": "Query User Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/quser.exe/559F3B04c000/quser.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "quser.exe",
+   "builds": 5,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1882",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "e0daeaabf22de7cc128379b65bd3aa5291dafff4e8fcc3c820b92fa983e279ce",
+   "error": "e0daeaabf22d: symbol server returned unindexed build 33371d4e5f0d; b6a34761585b: symbol server returned unindexed build 33371d4e5f0d; c472da80dc2f: symbol server returned unindexed build 33371d4e5f0d; 1bbb066e920b: symbol server returned unindexed build 33371d4e5f0d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "edcf1b9f3c915ec7d5fe7867aeceb66a359f3d4957d1b8a0525bd672c7923d53",
+   "error": "edcf1b9f3c91: symbol server returned unindexed build 8c3c71c50e36; 39dd883a367c: symbol server returned unindexed build 8c3c71c50e36; f1a3370893c7: symbol server returned unindexed build 8c3c71c50e36"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "edcf1b9f3c915ec7d5fe7867aeceb66a359f3d4957d1b8a0525bd672c7923d53",
+   "error": "edcf1b9f3c91: symbol server returned unindexed build 8c3c71c50e36; f1a3370893c7: symbol server returned unindexed build 8c3c71c50e36"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "d93f1b0a06fe6426871fd0b07f80512e984fedd5c9a1397c39509a94ffa4a57e",
+   "error": "d93f1b0a06fe: symbol server returned unindexed build f7c63b99b183"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "84f53f3f001d06a6e74e185be9d6f943db4344e47f8a4ef8702c35aeb8703fa0",
+   "error": "84f53f3f001d: symbol server returned unindexed build 3b098c12bafb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "69d5fcc7ad1f3ec8f8bae99d61672ff9cc46e3819a77981660ee50c56e526eaf",
+   "error": "69d5fcc7ad1f: symbol server returned unindexed build 006af9c507a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "ccfaf494e520e4f265ad1de5252979809f1a28eb002f0e79c52981b00e63ac4f",
+   "error": "ccfaf494e520: symbol server returned unindexed build 4ae898338bc8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "6ee15e5b1311d501fbdaa15c9d1197ba2f99745ea5abb3e724d598ee53d48a6e",
+   "error": "6ee15e5b1311: symbol server returned unindexed build 1d20f20948af"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6ee15e5b1311d501fbdaa15c9d1197ba2f99745ea5abb3e724d598ee53d48a6e",
+   "error": "6ee15e5b1311: symbol server returned unindexed build 1d20f20948af"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "766c791edfa6eeeba0f99d6481bfe23bf59e6acb81a930b71f3aa33efbafe544",
+   "error": "766c791edfa6: symbol server returned unindexed build 1fd4e4e1e1a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "766c791edfa6eeeba0f99d6481bfe23bf59e6acb81a930b71f3aa33efbafe544",
+   "error": "766c791edfa6: symbol server returned unindexed build 1fd4e4e1e1a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "766c791edfa6eeeba0f99d6481bfe23bf59e6acb81a930b71f3aa33efbafe544",
+   "error": "766c791edfa6: symbol server returned unindexed build 1fd4e4e1e1a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "766c791edfa6eeeba0f99d6481bfe23bf59e6acb81a930b71f3aa33efbafe544",
+   "error": "766c791edfa6: symbol server returned unindexed build 1fd4e4e1e1a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "766c791edfa6eeeba0f99d6481bfe23bf59e6acb81a930b71f3aa33efbafe544",
+   "error": "766c791edfa6: symbol server returned unindexed build 1fd4e4e1e1a9"
+  }
+ ]
+}

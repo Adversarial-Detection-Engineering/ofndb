@@ -1,0 +1,626 @@
+{
+ "name": "bcdedit.exe",
+ "builds": [
+  {
+   "sha256": "f72033d60cf106913a7f252b4ef89bbdbca609acc64fcae5add47b98067674ff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/6AC8D8196c000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ecaa8766f080a488126131c4219c7d7a33dbfe6b83d2a21dfb8aa5e5ac78274c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/B4A468A479000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dee64034fa3d06b0573167ebefacc461eeca2ca1beb6693afe5c962c581aa288",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/DBC1D1F37a000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dcd851a071c8f84c1279c2ba4ba383b4c6ebd6644b498b9274a2e7cdab4eceee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/D917D6DE7e000/bcdedit.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bcdedit.exe"
+  },
+  {
+   "sha256": "8552d2f6b8e677a83f85e056a3ab1b1add43b8a60fe7f60fa876685e083bcb34",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/3CE3B8BA80000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a2cc9d097b0eede116afa94fb992d1b0ba55bea86dbfc8ef2721e28a2c91c26f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/C40A97327d000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b634d1ae307863004c58f520e7758e2a0eb9aa3f1dbc545ac9996808db2ade67",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20343 (th1.231113-1753)",
+   "fixed_file_version": "10.0.10240.20343",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2023-12-12",
+   "last_seen": "2024-02-13",
+   "os_builds": [
+    "10240.20345",
+    "10240.20402",
+    "10240.20469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/65530E7169000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "327f0f2bbc9b66756b95fbb1f86a71439f279096fffc2f68a6a8d1a05253aa22",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2021-11-22",
+   "os_builds": [
+    "19041.1387"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/F58DFA0B7a000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2bfaf8aaa43a837d4bea68190b079511f6868c9b5036ad5f877d5358a06f09b9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1916 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1916",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-11-09",
+   "last_seen": "2021-11-09",
+   "os_builds": [
+    "18363.1916"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/CCAF422E78000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ad26db8dc988ead9e73fecf4d8d888a66f7965ac09f8af4e3cfcd09028a5b59",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.950 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.950",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-08-13",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/3719D41C74000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ee229900c128119a122f9a7b3ff8ca2ab35154b314fc6b37cda6ce041e4277d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.295 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.295",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-08-13",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.295",
+    "18362.329",
+    "18362.356",
+    "18362.357",
+    "18362.387",
+    "18362.388",
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/48FC5B9078000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "27404e30fe4211d5f696a61dfdb4f62e402b001521cea9568bc71198ea7ecf75",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.1987 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.1987",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2019-08-13",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.1988",
+    "15063.2021",
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/616DC7ED72000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "700cc4b195dbd255c470a4724abfcfc66d84870c4a27ca379cc4bdec677666a5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1331 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1331",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-08-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/D875766674000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5204983aacc607269bef4b8664e284f069e02b0c262d093da2e17e09c16a5310",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bcdedit.exe",
+   "internal_name": "bcdedit.exe",
+   "file_description": "Boot Configuration Data Editor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.633 (th2_release.161004-1602)",
+   "fixed_file_version": "10.0.10586.633",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-10-11",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bcdedit.exe/57F482BA6a000/bcdedit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "bcdedit.exe",
+   "builds": 14,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "21H2"
+   ],
+   "min_version": "10.0.10240.20343",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2016-10-11",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "6602203fd967c668d75d7c3cb920f11ffe76636f1129a37085a173d35dfc1311",
+   "error": "6602203fd967: symbol server returned unindexed build a1c31133d30f; 502de178810d: symbol server returned unindexed build 3d199be57531; bceb24bbf150: symbol server returned unindexed build f179df499e61; 68d7e2dca7fe: symbol server returned unindexed build 048892a5ad39"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "a204b9c27397b6b049976de897ee3b27d390cbdb327e55cac8888577735022d4",
+   "error": "a204b9c27397: UnindexedBuild: symbol server returned unindexed build (unindexed:size=505232); 218231f9a62a: symbol server returned unindexed build f89ed310a343; f85a9d737989: symbol server returned unindexed build 8762f40cff07; dac99fae6da1: symbol server returned unindexed build 914c1a757ee8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7c23c2f726df681096b7a9b1906ba27d1ec3311033e48e56aa60572d85050150",
+   "error": "7c23c2f726df: NotFound: no timestamp/image size in winbindex, no symbol server URL; bcec6e217ea2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=501224); 5187418220fa: UnindexedBuild: symbol server returned unindexed build (unindexed:size=501160); a204b9c27397: UnindexedBuild: symbol server returned unindexed build (unindexed:size=505232)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "bdd22eb9ccd52f0de20cb14fc0f4797177147328d3d512634d9713c33efd2069",
+   "error": "bdd22eb9ccd5: symbol server returned unindexed build eed2de1e90fc; 63cb051f6f61: UnindexedBuild: symbol server returned unindexed build (unindexed:size=491856); 4fa94e851073: symbol server returned unindexed build ef92c43d179b; 8de81171c197: UnindexedBuild: symbol server returned unindexed build (unindexed:size=486176)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "8de81171c19749e77dbf7317316eb8d0fe3bd1d2a52413e5d997e9248a325d37",
+   "error": "8de81171c197: UnindexedBuild: symbol server returned unindexed build (unindexed:size=486176)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9e1411c730b562482fe7152703b278b72f1d37418b06ed0e0ee3505d10c6099e",
+   "error": "9e1411c730b5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493440); 9c7e4d8390a3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=492552); 4c9cf4c3577c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493024); 98dbd004e575: symbol server returned unindexed build 672b4462bf62"
+  }
+ ]
+}

@@ -1,0 +1,458 @@
+{
+ "name": "wsl.exe",
+ "builds": [
+  {
+   "sha256": "fcd08205b608b5c4831e0dcb1801dd274436cd2c8420815f18ae58a085891a18",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Windows Subsystem for Linux",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/83D03B2D44000/wsl.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wsl.exe"
+  },
+  {
+   "sha256": "979621c381747e4a5bdd03986c0d6a9f4275daab2f0d9ff953f9d562f5a2b3a2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/50F631F950000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5f42d6dab76f1a6fbccbf62f8c2a7ca7bfbefcb9345f97d98775cd30cf89d92b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Windows Subsystem for Linux",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/A6A19CD937000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d81dfc0236fa3ca297d6745c3475b25a3b7fea17aa109c95b646edb13a31322a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Windows Subsystem for Linux",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/D8D2550340000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "070f414025d984c0799a616b459febc99ebc7b6f9d6c3b76e0d4e2e1f22266c2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2311 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2311",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-11-15",
+   "last_seen": "2023-08-08",
+   "os_builds": [
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/CD50205A2f000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "54a248353fc7656a38d70fb4f31d6abbe572c1c5c7dda67ad2c34d438c062efc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1049 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1049",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-08-20",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/A9C6119136000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9cae9642354c4bb0fc45fa7f5e0aa93398d9cc23e3f5d89da682a9055dad9657",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.488 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.488",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2020-09-03",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "19041.488",
+    "19041.508",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/ECA83C6936000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "17adbca2c889de56b0a8f57d1e91cd5c49b470792f761018504497ff8a2475f1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.885 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.885",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-07-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/551C8F7221000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5781ab4dabcd6ba08d53437f25472eca4992e5d8a0b6f44b13352871d69ad35a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wsl.exe",
+   "internal_name": "wsl.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1268 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1268",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-07-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsl.exe/53397E5916000/wsl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wsl.exe",
+   "builds": 9,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.16299.1268",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2019-07-09",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "33fc473254afbba3de7bd6f99fe4be856ad65706d86e388bed056365b6b6907d",
+   "error": "33fc473254af: symbol server returned unindexed build 166d2a28b104; 973f533901cc: symbol server returned unindexed build 166d2a28b104; f0556e52dd41: symbol server returned unindexed build 80ea86f98e7c; 814d6646ab2f: symbol server returned unindexed build b59a7002ca69"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "6731c6865aae84d92ce32003600cbf55d513205dddf1bda9389a97a526513ed2",
+   "error": "6731c6865aae: symbol server returned unindexed build 7d6954954d41; 300e35c48f38: symbol server returned unindexed build 1235134a5b36; e07a6e38aee9: symbol server returned unindexed build 05bca6a2a1b6; 3c0a44611afd: symbol server returned unindexed build 91520aec5a02"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "6731c6865aae84d92ce32003600cbf55d513205dddf1bda9389a97a526513ed2",
+   "error": "6731c6865aae: symbol server returned unindexed build 7d6954954d41; 9e724c5a8000: symbol server returned unindexed build 59fa96029cd3"
+  }
+ ]
+}

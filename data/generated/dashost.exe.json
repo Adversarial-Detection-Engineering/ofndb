@@ -1,0 +1,466 @@
+{
+ "name": "dashost.exe",
+ "builds": [
+  {
+   "sha256": "e9b89965e6e75f566e704cbf5def1494bd563999b57e3d2e504c3db113f127d7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/6AC8D9BF1c000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "af34745a5b5aed6653105991af7b483f066dcfe582630f2c03bc11f9e2d4977f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/92E237CD31000/dashost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dasHost.exe"
+  },
+  {
+   "sha256": "a60541a2f9a773cf1482fe256f93803f092a42c5412e0b085182dc8ff7e61906",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/ED85F80324000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "57a17e2faea0fc42ec39e540bfae6272731c63be13ddfad3e51a232361733850",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/74AC91401c000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "45b6feb269c4bf2676b97cb087b43a51bda47ded10eec441a289ce3d45289e28",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/0B80427F31000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "afd0bd1673bf8dd8416044a7e75a9c34d937425b39de316fef526ed4e3c42534",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20708 (th1.240626-1933)",
+   "fixed_file_version": "10.0.10240.20708",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/667D061C1b000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0bec0db487660d952cd3d3ff4bb0667f65248137ecb7f1ce640f3e25b9fd4952",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/5076FE6731000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8d6881e9bfba065692e7b8de209902da12e3e57d2e497c6b11bd74e48c627d6c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.320",
+    "17134.345",
+    "17134.376",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.829",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/0219C30E1b000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "59d5bf3f8474e3fced443b2a4500fa8f0aee7a75da99b0fca2d7f980fcbab708",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/5632D8991b000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f391b3f442a5b0395c88918ac531dc5684abc24b6044ee3da2596b3f68e290e9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dasHost.exe",
+   "internal_name": "dasHost.exe",
+   "file_description": "Device Association Framework Provider Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.0 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dashost.exe/B0DEAC031a000/dashost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dasHost.exe",
+   "builds": 10,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1803",
+    "1809",
+    "21H2"
+   ],
+   "min_version": "10.0.10240.20708",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "c13d5c1566bbb4044ac933f44c48b488d6e5936ddb6dee21c46de6bf4cb2f6cd",
+   "error": "c13d5c1566bb: symbol server returned unindexed build d008cf7ab1ca; dfe8d6b6bc29: symbol server returned unindexed build bbb4224c135b; 3e22a6bfc9f8: symbol server returned unindexed build bbb4224c135b; 1fec19b4439b: symbol server returned unindexed build 69e3dcb19d54"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b484f5bf3f327532bac4543f70689f58e27a86ce38083893c3adc94fe3c51850",
+   "error": "b484f5bf3f32: symbol server returned unindexed build a03ef8f6b4e8; aded72d07fab: symbol server returned unindexed build a715622796e5; 0d60336de681: symbol server returned unindexed build 2c94c1dcdbcf; 2983124e12eb: symbol server returned unindexed build 28f5da6bfe8a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3707ad6de2bfd54291c52b86fffd683d038d79c59bd484c583233881c8ff6384",
+   "error": "3707ad6de2bf: symbol server returned unindexed build d2ba03c73bb1; 1f37c1aeb52c: symbol server returned unindexed build 10321df3dfbc; 4e9aecff176c: symbol server returned unindexed build a03ef8f6b4e8; acbe53879b0c: symbol server returned unindexed build a03ef8f6b4e8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "93eabb151c143ada8435caf205ee94e4ed62a44e35527da45923be4d7f31efdb",
+   "error": "93eabb151c14: symbol server returned unindexed build bdbade742b4d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "f07e5ba7feeb9a18810d72e6a3a9b769c5a3d88064d71f92784fc8ea0f22491a",
+   "error": "f07e5ba7feeb: symbol server returned unindexed build b67f90ed44ac"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "f07e5ba7feeb9a18810d72e6a3a9b769c5a3d88064d71f92784fc8ea0f22491a",
+   "error": "f07e5ba7feeb: symbol server returned unindexed build b67f90ed44ac"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "88fd7e7e15d4c8b22c355ed56edd45734f05a55a5bdc18ec1917583194ecd981",
+   "error": "88fd7e7e15d4: symbol server returned unindexed build 5bd3cbf4dd0f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "bdbe0cab8e69c015d4c75036336da56c8a2d7d078b4626a1874dfe2cd8c0ec0a",
+   "error": "bdbe0cab8e69: symbol server returned unindexed build aef5b61b3da1; 88fd7e7e15d4: symbol server returned unindexed build 5bd3cbf4dd0f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "88fd7e7e15d4c8b22c355ed56edd45734f05a55a5bdc18ec1917583194ecd981",
+   "error": "88fd7e7e15d4: symbol server returned unindexed build 5bd3cbf4dd0f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "62070aebd1589521667d1db4a81ddebadfc0b4e7add091536abd08a7968ba605",
+   "error": "62070aebd158: symbol server returned unindexed build 8f2338c83f1b; bdbe0cab8e69: symbol server returned unindexed build aef5b61b3da1"
+  }
+ ]
+}

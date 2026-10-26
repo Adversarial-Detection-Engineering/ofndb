@@ -1,0 +1,64 @@
+{
+ "name": "srdelayed.exe",
+ "builds": [
+  {
+   "sha256": "ac7acd21c7500e2bf5af86d4850e6384bf1ad46de565dd748d5f1b052c79a4c5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "srdelayed.exe",
+   "internal_name": "srdelayed.exe",
+   "file_description": "Microsoft® Windows System Restore Delayed File Renamer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\srdelayed.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "52d697336e86e9063d82edca959c7a322eb121a27d2f4091375deb1690b3706e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "srdelayed.exe",
+   "internal_name": "srdelayed.exe",
+   "file_description": "Microsoft® Windows System Restore Delayed File Renamer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\srdelayed.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "srdelayed.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

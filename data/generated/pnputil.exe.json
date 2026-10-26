@@ -1,0 +1,463 @@
+{
+ "name": "pnputil.exe",
+ "builds": [
+  {
+   "sha256": "d11ea7611a503979c30531eb7f8e5c6f75c874b09b590f8f6b12da84f6272fa2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pnputil.exe",
+   "internal_name": "pnputil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete, export, and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.2758 (rs1_release_1.190104-1904)",
+   "fixed_file_version": "10.0.14393.2758",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2019-01-17",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.2759",
+    "14393.2791",
+    "14393.2828",
+    "14393.2879",
+    "14393.2906",
+    "14393.2908",
+    "14393.2941",
+    "14393.2969",
+    "14393.2972",
+    "14393.2999",
+    "14393.3025",
+    "14393.3053",
+    "14393.3056",
+    "14393.3085",
+    "14393.3115",
+    "14393.3144",
+    "14393.3181",
+    "14393.3204",
+    "14393.3206",
+    "14393.3242",
+    "14393.3243",
+    "14393.3274",
+    "14393.3300",
+    "14393.3326",
+    "14393.3384",
+    "14393.3443",
+    "14393.3474",
+    "14393.3504",
+    "14393.3542",
+    "14393.3564",
+    "14393.3595",
+    "14393.3630",
+    "14393.3659",
+    "14393.3686",
+    "14393.3750",
+    "14393.3755",
+    "14393.3808",
+    "14393.3866",
+    "14393.3930",
+    "14393.3986",
+    "14393.4046",
+    "14393.4048",
+    "14393.4104",
+    "14393.4169",
+    "14393.4225",
+    "14393.4283",
+    "14393.4288",
+    "14393.4350",
+    "14393.4402",
+    "14393.4467",
+    "14393.4470",
+    "14393.4530",
+    "14393.4532",
+    "14393.4583",
+    "14393.4651",
+    "14393.4704",
+    "14393.4770",
+    "14393.4771",
+    "14393.4825",
+    "14393.4827",
+    "14393.4886",
+    "14393.4889",
+    "14393.4946",
+    "14393.5006",
+    "14393.5066",
+    "14393.5125",
+    "14393.5127",
+    "14393.5192",
+    "14393.5246",
+    "14393.5291",
+    "14393.5356",
+    "14393.5427",
+    "14393.5429",
+    "14393.5501",
+    "14393.5502",
+    "14393.5582",
+    "14393.5648",
+    "14393.5717",
+    "14393.5786",
+    "14393.5850",
+    "14393.5921",
+    "14393.5989",
+    "14393.5996",
+    "14393.6085",
+    "14393.6167",
+    "14393.6252",
+    "14393.6351",
+    "14393.6452",
+    "14393.6529",
+    "14393.6614",
+    "14393.6709",
+    "14393.6796",
+    "14393.6799",
+    "14393.6897",
+    "14393.6981",
+    "14393.7070",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/5C304A103d000/pnputil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5c5783d49f8ac90df0bc5069830395ef932a472276bc369a0e781677c11ee6e8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pnputil.exe",
+   "internal_name": "pnputil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete, export, and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/F6D5141D48000/pnputil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\pnputil.exe"
+  },
+  {
+   "sha256": "316fb5d3a0e797e06f59b39eca6e9cb55bdf1a476ddc30268942b85aa0bd188e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pnputil.exe",
+   "internal_name": "pnputil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete, export, and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/83B09A3848000/pnputil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b443526b3c5139e9d1260e2a7e90d65970935bab2bf240e8eb3463f58862d08",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pnputil.exe",
+   "internal_name": "pnputil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete, export, and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.6584 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.6584",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/8EE3F2B946000/pnputil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "008e3ef11d666d456902b267c192aaa57adc69ca9b6680c6136043695be5644b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pnputil.exe",
+   "internal_name": "pnputil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete, export, and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.488 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.488",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1"
+   ],
+   "first_seen": "2020-09-03",
+   "last_seen": "2021-07-13",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.488",
+    "19041.508",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/8AA2AAB54f000/pnputil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "29d15c46f164de2d5d329068ee0ef7bdcf61e9b79329ef048a74fc1780364076",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PnPutil.exe",
+   "internal_name": "PnPutil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/5632D78Aa000/pnputil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6fdbfb0d9b3011e310cd090a2ce2599148d2aeb4abee32c9bdeb9aeac2bb974d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PnPutil.exe",
+   "internal_name": "PnPutil.exe",
+   "file_description": "Microsoft PnP Utility - Tool to add, delete and enumerate driver packages.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pnputil.exe/559F3890a000/pnputil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pnputil.exe",
+   "builds": 5,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1607",
+    "2004",
+    "20H2",
+    "21H1"
+   ],
+   "min_version": "10.0.14393.2758",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2019-01-17",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  },
+  {
+   "value": "PnPutil.exe",
+   "builds": 2,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1507",
+    "1511"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.10586.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-11-10",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "fdbe397c1c58d689417ab6248c7042fb08cd36a9f0a7d1cf5a72a0c0db7aa3c1",
+   "error": "fdbe397c1c58: symbol server returned unindexed build 8f96bc11e7dc; 227b302e91cf: symbol server returned unindexed build d06a7a2522c3; f87e78240173: symbol server returned unindexed build d06a7a2522c3; ae9bcbb2bd19: symbol server returned unindexed build 710dae07f0b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "8430676b4065855163239807c574b5bed86920f8fa97aef2017dab3420103bda",
+   "error": "8430676b4065: symbol server returned unindexed build 77d09acec0cc; ade45d2c53b6: symbol server returned unindexed build ca0c3254f28d; f8c7602e239c: symbol server returned unindexed build ca0c3254f28d; a0d902e8cc28: symbol server returned unindexed build 8a6345c92950"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "8430676b4065855163239807c574b5bed86920f8fa97aef2017dab3420103bda",
+   "error": "8430676b4065: symbol server returned unindexed build 77d09acec0cc; f8c7602e239c: symbol server returned unindexed build ca0c3254f28d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "fd6ba6200eaebe6598759b5470290ae20dc36d03b218175971085cc9fc4c12c2",
+   "error": "fd6ba6200eae: symbol server returned unindexed build d49e593d1ff9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "edbcdb0db1a80f9b18c8dcddce51ba4fb1cc469b3fa7495bb72b2f5559306407",
+   "error": "edbcdb0db1a8: symbol server returned unindexed build dfa08480d06f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "8cabe68f5a1052b5e45d139ea645c7c66b0041ecb9938d918647ba18f4bc38d0",
+   "error": "8cabe68f5a10: symbol server returned unindexed build 7ef2654f8504"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "38f65ccc55e9c28bfb8e44a11a8295f3dd9f73de29f67ff5e043f0bd5a2003ef",
+   "error": "38f65ccc55e9: symbol server returned unindexed build fe60345d87fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d9d80aae27b350994d2917609b1944187b769de4798f2bc0ff5fd1f58af1df19",
+   "error": "d9d80aae27b3: symbol server returned unindexed build 08f8bb0cf823"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d9d80aae27b350994d2917609b1944187b769de4798f2bc0ff5fd1f58af1df19",
+   "error": "d9d80aae27b3: symbol server returned unindexed build 08f8bb0cf823"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "cfe15658f1f4ab0e19465a15738b7fdb4be947cda4f2aa8b1c1b995cf50cbddb",
+   "error": "cfe15658f1f4: symbol server returned unindexed build 1cac9e1591b1; 36459ea13447: symbol server returned unindexed build 8a4acd331c3e; afb26dc39f2e: symbol server returned unindexed build 65cfd65d15f1; 4e1be0a106c0: symbol server returned unindexed build 65cfd65d15f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "cfe15658f1f4ab0e19465a15738b7fdb4be947cda4f2aa8b1c1b995cf50cbddb",
+   "error": "cfe15658f1f4: symbol server returned unindexed build 1cac9e1591b1; 36459ea13447: symbol server returned unindexed build 8a4acd331c3e; afb26dc39f2e: symbol server returned unindexed build 65cfd65d15f1; 33e005d4d658: symbol server returned unindexed build 65cfd65d15f1"
+  }
+ ]
+}

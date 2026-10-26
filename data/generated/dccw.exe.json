@@ -1,0 +1,64 @@
+{
+ "name": "dccw.exe",
+ "builds": [
+  {
+   "sha256": "435c4df5d5e3316f0461419e36ad6e57553f9f1771dde2f7b81c37affea92915",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dccw.exe",
+   "internal_name": "dccw",
+   "file_description": "Display Color Calibration",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\dccw.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "239de24f070cc6534c8e31985112a76a2e1290181aa854731db93cae27b71e00",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dccw.exe",
+   "internal_name": "dccw",
+   "file_description": "Display Color Calibration",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dccw.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dccw.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

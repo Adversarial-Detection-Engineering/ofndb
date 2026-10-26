@@ -1,0 +1,64 @@
+{
+ "name": "logagent.exe",
+ "builds": [
+  {
+   "sha256": "5c0987f754e33003d8e3653c947e84c721463766fea43d962d6b5bd36214fc8a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "logagent.exe",
+   "internal_name": "logagent.exe",
+   "file_description": "Windows Media Player Logagent",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "12.0.26100.8115",
+   "fixed_file_version": "12.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\logagent.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "465968c0045cf3267040dbcaad24651ecda57244a599142e85b1a67a1855e7a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logagent.exe",
+   "internal_name": "logagent.exe",
+   "file_description": "Windows Media Player Logagent",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "12.0.26100.8115",
+   "fixed_file_version": "12.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\logagent.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "logagent.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "12.0.26100.8115",
+   "max_version": "12.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

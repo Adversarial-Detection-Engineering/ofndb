@@ -1,0 +1,47 @@
+{
+ "name": "sigcheck64.exe",
+ "builds": [
+  {
+   "sha256": "f3d671b4bab4714746d0034104363d4f6deef591e979e8e37170803e8960487d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigcheck.exe",
+   "internal_name": "Sigcheck",
+   "file_description": "File version and signature viewer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Sigcheck",
+   "file_version": "2.93",
+   "fixed_file_version": "2.93.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Sigcheck",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/sigcheck64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sigcheck.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.93.0.0",
+   "max_version": "2.93.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

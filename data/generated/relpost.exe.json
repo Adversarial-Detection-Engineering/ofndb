@@ -1,0 +1,44 @@
+{
+ "name": "relpost.exe",
+ "builds": [
+  {
+   "sha256": "950b64051eb14a9ae12234e85f8907faf9da1cd01ba3cecb93b3eadcaa772d85",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RelPost.exe",
+   "internal_name": "RelPost.exe",
+   "file_description": "Windows Diagnosis and Recovery",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RelPost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RelPost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

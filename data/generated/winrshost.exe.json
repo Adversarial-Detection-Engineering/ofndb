@@ -1,0 +1,640 @@
+{
+ "name": "winrshost.exe",
+ "builds": [
+  {
+   "sha256": "d8f5e4d75e41597dd4f049d57571c98eb0404e333c8d7723d1f0074b969651d6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/4E408562e000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9beb5d95a34a176bfe349a89c431d1202bac9b7443c0739f92ad5117999e139f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/C811FCE9a000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f78b11eb0d4d5567da02971ff921f5c40ea3ab0d040219af9ab10684a637173",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/3A40D6ACa000/winrshost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\winrshost.exe"
+  },
+  {
+   "sha256": "21cf8033ed9fef0a4d19bc341f418334821c95b9535d6c5b8e94c23ac7013d44",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/B56227B4e000/winrshost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\winrshost.exe"
+  },
+  {
+   "sha256": "e3ebb10ab67cf5cdefbaf8eb9ce36f41aafd9587c81eac8d0df08fcec28b4b99",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20747 (th1.240801-2004)",
+   "fixed_file_version": "10.0.10240.20747",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-08-13",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/66AC8690a000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d22b1b5ee161b67bf0789b06576f73628fb75959c9cfd7e04a3dd0301a96c5a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20747 (th1.240801-2004)",
+   "fixed_file_version": "10.0.10240.20747",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-08-13",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/66AC889Cc000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7e05b6137916459edc0afa382f51986c75dc8d6777de1bd604fc3c6efa394052",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/2150EB6Ae000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "65c3d1e52f44051976af2a2022d0521c82973ac6ec82c965096df6353ce6b92f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/A0FCF119a000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d3163d97dae33ccf4b845416c13df6fea0650a4d1cea1334ea212accdf7732fb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/57898F8Da000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "607c014a3ca531ffad50bcd90095c01e4e6b691d9e18473c70e4699cf1e31453",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/57899A7Fc000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5ea5b79578a133121958ce62cbce1fabb28c748eb885054ce9014dbdf5ae61a6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/5632D7ECc000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "11b603e0f55db903e1e42c697b78685a9585c26a43cc6a45aae7f911caa6e19c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winrshost.exe",
+   "internal_name": "winrshost.exe",
+   "file_description": "Host Process for WinRM's Remote Shell plugin",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winrshost.exe/5632D778a000/winrshost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "winrshost.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.20747",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "11-26H1",
+   "sha256": "2192e753d2455eee1e65f60d00d651510eb19f287d722ca1a9072ce75d56a250",
+   "error": "2192e753d245: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "a8fc65d2d30f8646ed0fa6ec8e7290c71ca6748f86f0bd3ec2c98a30715ba455",
+   "error": "a8fc65d2d30f: symbol server returned unindexed build 11f79cde7865; 37018beac120: symbol server returned unindexed build 11f79cde7865; 79932fbe2dd2: symbol server returned unindexed build 11f79cde7865; eda7dccefb66: symbol server returned unindexed build 11f79cde7865"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "92797b305f231ccff2a969854ae78aec660fdad3770fba1c0496b705ff61b523",
+   "error": "92797b305f23: symbol server returned unindexed build 9ec8dee64c89"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "92797b305f231ccff2a969854ae78aec660fdad3770fba1c0496b705ff61b523",
+   "error": "92797b305f23: symbol server returned unindexed build 9ec8dee64c89"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "c6cdced2dd840e1d43b871cd116397ff75f8b2aab1c651b4fe5e153419492f16",
+   "error": "c6cdced2dd84: symbol server returned unindexed build c824e4f94304; 2adeb7a20c82: symbol server returned unindexed build 1d1b15f44e76"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "f06b562e59fd7e71c66c2e55652432fd02006c49a5c2bca9ae552af0c7a02287",
+   "error": "f06b562e59fd: symbol server returned unindexed build ca11cc311816"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "167a6578f9633fc3de231aa65e6f144e3e7e0637383ace204b7a02a89bef76e0",
+   "error": "167a6578f963: symbol server returned unindexed build a66a2a9180f6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "401441db1dbe8189eb5cf230714d8271f10f1023e893901c6db95e6325b46884",
+   "error": "401441db1dbe: symbol server returned unindexed build 82e6c00cadda"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c9a3a8c9b90fc0418473af62a19423bb726e1af0cfaaa1d9df132dc6605de178",
+   "error": "c9a3a8c9b90f: symbol server returned unindexed build 93375ebfb778"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c9a3a8c9b90fc0418473af62a19423bb726e1af0cfaaa1d9df132dc6605de178",
+   "error": "c9a3a8c9b90f: symbol server returned unindexed build 93375ebfb778"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "047427e1ecc1d5758a9553f0e819a9536d9d56d279ba81f707fe377fa1433318",
+   "error": "047427e1ecc1: symbol server returned unindexed build fafe3117d9ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "047427e1ecc1d5758a9553f0e819a9536d9d56d279ba81f707fe377fa1433318",
+   "error": "047427e1ecc1: symbol server returned unindexed build fafe3117d9ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "047427e1ecc1d5758a9553f0e819a9536d9d56d279ba81f707fe377fa1433318",
+   "error": "047427e1ecc1: symbol server returned unindexed build fafe3117d9ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "047427e1ecc1d5758a9553f0e819a9536d9d56d279ba81f707fe377fa1433318",
+   "error": "047427e1ecc1: symbol server returned unindexed build fafe3117d9ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "047427e1ecc1d5758a9553f0e819a9536d9d56d279ba81f707fe377fa1433318",
+   "error": "047427e1ecc1: symbol server returned unindexed build fafe3117d9ef"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "50e3585a1213f415626070e7a900c885d234b1c89fa782b372bb5ba70e43b5df",
+   "error": "50e3585a1213: symbol server returned unindexed build 817b7ae639e8; c2a4ce21f3fb: symbol server returned unindexed build 817b7ae639e8; 8344c4bb24b1: symbol server returned unindexed build 817b7ae639e8; 13c3dbddb065: symbol server returned unindexed build 817b7ae639e8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "516dc140db499d02fa02ae80460f7ec38c0f4db335a2bef41cecfae7186dacc7",
+   "error": "516dc140db49: symbol server returned unindexed build 0a0d2716e314"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "516dc140db499d02fa02ae80460f7ec38c0f4db335a2bef41cecfae7186dacc7",
+   "error": "516dc140db49: symbol server returned unindexed build 0a0d2716e314"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "6f7d89a81450eb0ff78287e7261ea112b972375a90d50812fb88c14c04be2607",
+   "error": "6f7d89a81450: symbol server returned unindexed build 5fe6ce8b328d; 749a7eb13bfb: symbol server returned unindexed build 48f982b68d6c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "c1c56620cd78a0e7b13c6aa187b897acd37364235c76e255f01e28b9c82ec324",
+   "error": "c1c56620cd78: symbol server returned unindexed build 4fed220e0c6c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "5af337b9073292d7a2050d6b8e4bdb9aa0c2917b06108813bf14a92545cd210c",
+   "error": "5af337b90732: symbol server returned unindexed build aac82a8f05a4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "9572884598bdb3c1a4b7d2e0e1b6945ed62f4172221e468ef53aa5a25e809691",
+   "error": "9572884598bd: symbol server returned unindexed build f4efd033e0d7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "c544ea4a01f1bc674d6f1a47a8d2de6e6f849c069373ef71084c8fdb13de5c8c",
+   "error": "c544ea4a01f1: symbol server returned unindexed build a9a736e1a55f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "c544ea4a01f1bc674d6f1a47a8d2de6e6f849c069373ef71084c8fdb13de5c8c",
+   "error": "c544ea4a01f1: symbol server returned unindexed build a9a736e1a55f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "233e8ea78906fb63e306dd5ffdbe07716daa9144a2b4715b0ef9c2c990ef60c0",
+   "error": "233e8ea78906: symbol server returned unindexed build 4ce131a83ccd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "233e8ea78906fb63e306dd5ffdbe07716daa9144a2b4715b0ef9c2c990ef60c0",
+   "error": "233e8ea78906: symbol server returned unindexed build 4ce131a83ccd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "233e8ea78906fb63e306dd5ffdbe07716daa9144a2b4715b0ef9c2c990ef60c0",
+   "error": "233e8ea78906: symbol server returned unindexed build 4ce131a83ccd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "233e8ea78906fb63e306dd5ffdbe07716daa9144a2b4715b0ef9c2c990ef60c0",
+   "error": "233e8ea78906: symbol server returned unindexed build 4ce131a83ccd"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "233e8ea78906fb63e306dd5ffdbe07716daa9144a2b4715b0ef9c2c990ef60c0",
+   "error": "233e8ea78906: symbol server returned unindexed build 4ce131a83ccd"
+  }
+ ]
+}

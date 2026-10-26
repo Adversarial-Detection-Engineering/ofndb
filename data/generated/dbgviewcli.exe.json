@@ -1,0 +1,47 @@
+{
+ "name": "dbgviewcli.exe",
+ "builds": [
+  {
+   "sha256": "2d3128bf2338fa25873173f265504515801d1e76d6215efa511e00dc825c3cf7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dbgviewcli.exe",
+   "internal_name": "DbgViewCli",
+   "file_description": "DebugView CLI",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals Debugview",
+   "file_version": "5.02",
+   "fixed_file_version": "5.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Debugview",
+   "release": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "download_url": "https://live.sysinternals.com/dbgviewcli.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dbgviewcli.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "5.2.0.0",
+   "max_version": "5.2.0.0",
+   "first_seen": "2026-06-17",
+   "last_seen": "2026-06-17",
+   "provenance": "parsed"
+  }
+ ]
+}

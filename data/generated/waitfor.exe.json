@@ -1,0 +1,64 @@
+{
+ "name": "waitfor.exe",
+ "builds": [
+  {
+   "sha256": "bc8068165f87b0111c94414c261e74e28fc2c3f4612a1a610f40aafe8feeccbd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "waitfor.exe",
+   "internal_name": "waitfor.exe",
+   "file_description": "waitfor - wait/send a signal over a network",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\waitfor.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "62c5818d248014e446a2dd44305087db9378436b95569f1aaea6c36254f86e0a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "waitfor.exe",
+   "internal_name": "waitfor.exe",
+   "file_description": "waitfor - wait/send a signal over a network",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\waitfor.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "waitfor.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

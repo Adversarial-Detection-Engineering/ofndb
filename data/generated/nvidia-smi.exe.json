@@ -1,0 +1,47 @@
+{
+ "name": "nvidia-smi.exe",
+ "builds": [
+  {
+   "sha256": "19dfd1b1cd1e0bb24c720f18252baff639a0f967f305dc409470218ee24d039c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "NVIDIA-SMI 621.01",
+   "company_name": "NVIDIA Corporation",
+   "product_name": "NVIDIA-SMI 621.01",
+   "file_version": "8.17.16.2101",
+   "fixed_file_version": "8.17.16.2101",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\nvidia-smi.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "8.17.16.2101",
+   "max_version": "8.17.16.2101",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

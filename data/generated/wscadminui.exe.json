@@ -1,0 +1,64 @@
+{
+ "name": "wscadminui.exe",
+ "builds": [
+  {
+   "sha256": "4be4e71ee582bdb1db12484f7ed689e83b1ab98932b20a2afca4701020b4957d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wscadminui.exe",
+   "internal_name": "wscadminui.exe",
+   "file_description": "Windows Security Center Elevated UI App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wscadminui.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "02a1fddd038060ace825f8756ff286011144079c5034aaf1b1bcc383f5ec3c81",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wscadminui.exe",
+   "internal_name": "wscadminui.exe",
+   "file_description": "Windows Security Center Elevated UI App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wscadminui.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wscadminui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

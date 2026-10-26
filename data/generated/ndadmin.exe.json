@@ -1,0 +1,64 @@
+{
+ "name": "ndadmin.exe",
+ "builds": [
+  {
+   "sha256": "fca58bed8e472e15fe42b7baa0dea30ac6680be8c8fd3776820c4e31e6af5c99",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "NDAdmin.EXE",
+   "internal_name": "NDAdmin.EXE",
+   "file_description": "Device driver software installation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ndadmin.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "db389ac24f1f5437bec50c582d5fb5a20a1c101c94f4868a0a47d12cfa286c56",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NDAdmin.EXE",
+   "internal_name": "NDAdmin.EXE",
+   "file_description": "Device driver software installation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ndadmin.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NDAdmin.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "5.2.3668.0",
+   "max_version": "5.2.3668.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

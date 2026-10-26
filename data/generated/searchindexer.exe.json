@@ -1,0 +1,1264 @@
+{
+ "name": "searchindexer.exe",
+ "builds": [
+  {
+   "sha256": "e2de36fc72a55c96e1b584e57b8ede62148ac73151173a01299fe0485a9b17db",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/97514348b6000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b8d1b694ed0a36bd3a1cd9dcaf4324a46c4ad8c02e7a48a5b4c2802a345c6177",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "7.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/6AC8D3D8c2000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b456fdc316bebcef2072c41eae80d57018b84769e08c6b2790aec7af9121d5dd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/9F1EDC04108000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b43859a3bec02fd820286f8c03a41abc9f407f4f802e7235d00b864ed07fd347",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "7.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/6AC8D44Be4000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "87a46dca6778bf4a5c0f563d75b1719d741c9a67c64be17bc112c304be0a7af0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/D7A0326A118000/searchindexer.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SearchIndexer.exe"
+  },
+  {
+   "sha256": "77ce4e5a5f4232f7618226c08c3241259a87bb22840e98cf5cab0552222be3d7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/57CC10F111a000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "617bf40c36899e707fec49da1dc3b6bb200cc5c82bd253062978b722431c013d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/4597A9D3f2000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2047d161792ba6829eba385be0dadfb04693b5e950d8de5d2e71b33f038fe716",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/0195DA98b5000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0df5f845da4916e3777066436e35a8a5e52bd603d4bc98213db298a7df69da31",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/B7A04D0Ded000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0bb2e2132b030dac29c18f3cd2776a13f274bcd12632df6ab2c9dfa449999859",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/0DD336FCdd000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0b8e30f44252e71b0de091cb3935d0d320d94595db8d81e4d188553c1261bfb5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/0DF38640e6000/searchindexer.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SearchIndexer.exe"
+  },
+  {
+   "sha256": "da7eceb537a436566afc4622c7652ec8a849cbd8b6ff71ac740db218a5c37213",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/18D7F523e7000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "880b3a465b5336f3d4f3781e2541ef19ae62bca9f683d9a9cfa92052462d306e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "7.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/68E66DAFe2000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "69919e4ac3f0d4068719236c1f33d867fbe94554806df013cbcb875e096e41e7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/9976F115b5000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1fb7f77f0956e9628ee9cca0ce507db0409e943323dd450563dafddaa1538341",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/A1D4968Ef1000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b249655f2255e67a7bfa5494316d39b9d81c439514b394ebc4cad8820114619",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "7.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/68E66C67b4000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b76439dabb8582c165bfbc9325c9d681e24a3cb21b385875480f02fbb63b116f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/23E7DA7Bfb000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4770c7b6cf0d052829b1dc5685709a9677d4bff410a9e85c8484e90de9d4802c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/A4B0B88Bce000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7233b9d91ecc9a6ae1ef3f5b31b5cc15d5aadf7ab481ab892f61f0cd651b687f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.6093 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.6093",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/B33E04B8eb000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1f472cc5fef3cf9d51890735d4e63753a11023f9f2a3f3bf2cefe7eb92b2aedb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.6093 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.6093",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/8441E0B4b4000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8e9d405879a64e1c48d836dfa01eee50c246c65326c3fd128fcfee5bb2505642",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22000.2777 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22000.2777",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-02-13",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/A6362D77ae000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "75085671f81f08320b3f9c5de2c86a8f439cf149a5be0720a5232503ea081bbc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22000.2777 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22000.2777",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-02-13",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/780F8E6Ee1000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fae9406a8a627c12ff9e18fef4df3cc91e0a2a766dc7d15bb8f2c3ad70ce95ef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/1117044Eeb000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d12c5b986f842a6beac1825889e22bde3f33f19c0156238a1b4e3910f9c2e5a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/18A74B51b4000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f061ff4fcf5870d8d99b267b64d855f9da7f270fd54ea2ac6b27a82f5fdb619",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/2930A40Da9000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "079b853734aeabd08cedf61a90c63b7314254e999a6ce88df4a37284ccfd337c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/441131D0d5000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "73d67f86fb2d678b42f21f58010a282f0f0e633d076d5430f4fadd6ce0f1b002",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/4BA979F5b5000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "195ff37413c8d30ee3625fb626f426a1851c39caffbf2d695cc4af387bf529af",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/46D39698ec000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a749d8557d8025e9f60c4016c003a04735ff77860f1e6cd740e772c44f92a195",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/688628E1ec000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5c2ca127c4e64387ebfb87303a8de021c9379ea834d719c3a545e5688d482ad1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/48785D5Bb5000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eb82fc8ef48d8fd1780918fe95b8f6172d64732ce581663ee782dae18679f559",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/423CD7D9109000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "57c680de5cdc2cd8a2c34abe8e7351d846e3ac5f059ba9630ae50e063b06a0d8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/BB173F84d7000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aaeecb503e18d1701b43eb7b7cfb87814b149efef6b611bc3eb84d5fde1cbd88",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/5161CCD6ea000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f1aadff0edd17c4d509d1ba63084e7115b631e181540bc3e6f189f8713a519f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/13BB0568c8000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44eeedf3d6d8458c49c3506357cd7bceaac5242999d967a371ec7b3515f4c68c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/47758641a9000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "19b0e4e2fe1ff9391762aedf55698357828a06797044ee126f22795f4a7fa270",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/A13A4CFCd5000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "60b7e44cc7fdc4607ff8d7d57eb979b16e7d93888f581fe588a37eb69b74a92b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/D0E2851Ed0000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0d15547856ca13cfde8c5129d073000a319738e8633ae88c89750eda27ef3244",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/B078F39Df6000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d3425beee04eb85c6dd7f948e9af11fb514bec63f82e7d35e80aee734d385bd1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10586.1358 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "7.0.10586.1358",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/5A5BCE16bf000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "798e836412d0acdf1410b565ef3fe7fc3ca611c4a52a0e79ed07cbeb0854d7ec",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchIndexer.exe",
+   "internal_name": "SearchIndexer.exe",
+   "file_description": "Microsoft Windows Search Indexer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10586.1358 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "7.0.10586.1358",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchindexer.exe/5A5BD94Beb000/searchindexer.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SearchIndexer.exe",
+   "builds": 40,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "7.0.10240.21161",
+   "max_version": "7.0.28000.3231",
+   "first_seen": "2018-01-18",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

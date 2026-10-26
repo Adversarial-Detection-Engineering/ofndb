@@ -1,0 +1,44 @@
+{
+ "name": "fveprompt.exe",
+ "builds": [
+  {
+   "sha256": "0a27198decc1642d020d5afd184407cf532949f2f71362ab1ae46575f25863cb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FVEPROMPT.EXE",
+   "internal_name": "FVEPROMPT",
+   "file_description": "BitLocker Drive Encryption",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fveprompt.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FVEPROMPT.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

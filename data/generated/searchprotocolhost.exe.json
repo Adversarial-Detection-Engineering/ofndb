@@ -1,0 +1,1269 @@
+{
+ "name": "searchprotocolhost.exe",
+ "builds": [
+  {
+   "sha256": "d73dee33754dc5348d65549d195be53f59d7c165fdc8fa2c2dd9d0d3117ff398",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/EF7D96AEc0000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cfb2975607e56a2cd52ec86d603689d1e0db81adcdaeb004000e11c6bedb28bc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/96B46B9F5c000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b1a93f4a5c2256ffe092aebaab88eddd884dc9ada3426b1c6c0577e03d50bcaa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/640F18919c000/searchprotocolhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SearchProtocolHost.exe"
+  },
+  {
+   "sha256": "9bfc5f1b46765f5ab610ed717ad7d417d7c92386a6d02cd51f0e7a8bf8414272",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "7.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/6AC8D6094e000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "877bae56d552c005ea90ba11d8b333e24ccc9532832f7079ec018e90abd9d65e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/8EB283AA77000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "772819b3a76fa862a9d4d0e0315d64d4ab5ad966c3d786c2269bf136efe8b45a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/FF7AA66B6c000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ef665a05d4535732b9f7e842dff9094ef11cfcafaffdfcde2b79479716775d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/651E8AA7bf000/searchprotocolhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SearchProtocolHost.exe"
+  },
+  {
+   "sha256": "330a4c212dd8b0439fac77126e889f32408e12e94559188d61c4daceb230cb4a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/CC8E01FC59000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "037cf0dbb43bad6b5e57e1174090e899e24a06f3b4b46faca57a21a3e363d57d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "7.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/6AC8D81D5b000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b18b078d0268d719fd158630a8796272fea7c9136117eb740e109e3e4f417ad2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/0808C7539e000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7d469a9babde999960792c3d4f134086cf110b941f144854fe20d97664ed0c46",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/A56B398F6a000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2936bdad22cf4dbbefcd3385a7595979d5c490bc7d6839049098e480059542fc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/CB0035035a000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f15422bccddb3d2bd96c3fc408e8112367a6692e29730cf04894210c0894c4e2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/C263953C77000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9e96f03bf6c230bcbdd7d57144b783a3559289643f15be81a4ba4054cadf9a16",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "7.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/68E66DA858000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "81a46a8f9d052fd47289ddcaf6930fa2351b680cbb9d9118fe5102c6ff4d2b40",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "7.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/68E66C7849000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f13a6ebbed7f2383879c98cfb8379ee536dd565e1eed0da6a2b063345e3e144",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/6E7645A45b000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "34facdc99648d3be6810d44d1cd7fb74742e278d3a9d95ec716b774e61582489",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/8331666C8d000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1a2d3dc480f7ee1fb32dc5cfcd534a79fd8d8c363ef759cb41f0e056501e8a2c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/5FA75273ac000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "caf899a828676d3f03fb86e60b97ad48c177f0960011296a9bcc440daf1f6809",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.6093 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.6093",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/83D2E3E66b000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "37e1ae7e4ee51b09da57e0af2e3f7557640d1a7afa8afbf1db7fdfdc4813e933",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.6093 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.6093",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/54FFB3D058000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "82562d32b40ee05c2ef98f0290ebbb6b4be73d61df7ab5b812628820912b1a6b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22000.2777 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22000.2777",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-02-13",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/6F482D2D59000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "308c57c81ee3e344979661ab056d38a170daa3c4920a16d4af928456e240ac8c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.22000.2777 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.22000.2777",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-02-13",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/46491A7D72000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3fac16b7df4e73b623db993a23957a05a8857c1c1f0217c80e385037f4edf0d0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/6934CAC96b000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0975f875f8bb02deab42ae147b279dbd3be1ea68b1f5a976626188684c48d437",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.2673 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.2673",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/626073C858000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f0174fc6759bcc02b038f60fd62ffe2f4536b27393361f7505d4fd2dcebc2811",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/66C1961A57000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "291fb319abe7e7c46588d8f9754c10157e837c9654f486f1a368dfec832d77eb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/E9DE509567000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "90f7291a0e1f0095cf145cc92294856dbfd78d7f1ee33c2d64c09ed95aa4f5d1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/9B7F8EFA6b000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6a8ad443a1bc5b879b3f306c91ea422ba5880f6794765fff0d8089e4e7ef857f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/2C46682358000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dfe51b0739ed161f69afbb736460ebb7dd37372ff0659cbc20f4a9c850fbcc8c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/6A024D356b000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b80a26c3a19dabbee4f80a64cb2d84296c3fa2b4aba5cfcaf4499a50e6f9cb54",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/302746B658000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f6b6fd0cbe2fd1724a5b796a1f36424152a83e760855117e976b9c2f8f8b2214",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/59A5561559000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "595020d1a30fcfabf4cd746e5ec0784042e7a08ee9c0b6e914bc5df67d6e9b1a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/CCA31BC768000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "608db78779cdf7572132a049dbf1eae473a2b2a72fbe99e0600bed873c47afec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/63E50A2D51000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b3c98869be35ca1618d1745bc8a1d99f4aabe990013537e4fd0c51e3ffa5dcd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/C303ABBD5e000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bb51a7f46deaf2fea2746a4c0538d08e268a3c2a033473544620d099838fea65",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/AD64BEFD57000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "21ff07d95b9ff1e9be3bb9418b50bf78ce01cffa873069d26bcf7b75ee043c06",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/74555CD167000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8abef5d3f76ccfca8441c3bd31b9446e4eeaeb7eaf04674b0b86023915da9d5d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/FEA7650F54000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6ceab5692938dd606acc55f6cf01f1815f851072a7860979848d1d18973df216",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/3187FA6361000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d67dae6dd6550cd6b1f43d14d97098415890a51204358b78b837e9ffa7f06308",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10586.1358 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "7.0.10586.1358",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/5A5BCFE749000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "285c0b1e697ecc1ed610ff3da4369a6388d00ce53c63f0d54466f6ea8414ebaa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SearchProtocolHost.exe",
+   "internal_name": "SearchProtocolHost.exe",
+   "file_description": "Microsoft Windows Search Protocol Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Windows® Search",
+   "file_version": "7.00.10586.1358 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "7.0.10586.1358",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/searchprotocolhost.exe/5A5BDB2B58000/searchprotocolhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SearchProtocolHost.exe",
+   "builds": 40,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "7.0.10240.21161",
+   "max_version": "7.0.28000.3231",
+   "first_seen": "2018-01-18",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

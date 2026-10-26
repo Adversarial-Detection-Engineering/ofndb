@@ -1,0 +1,44 @@
+{
+ "name": "mpsigstub.exe",
+ "builds": [
+  {
+   "sha256": "071b0d3a08503a8b88aeeda1d20f371a563377028f6e252dc66cce60ab8f823e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MpSigStub.exe",
+   "internal_name": "MpSigStub.exe",
+   "file_description": "Microsoft Malware Protection Signature Update Stub",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Malware Protection",
+   "file_version": "1.1.24010.2001 (7122f19e8a45ed98fbe41ea0bdadf251e45717f9)",
+   "fixed_file_version": "1.1.24010.2001",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MpSigStub.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MpSigStub.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.1.24010.2001",
+   "max_version": "1.1.24010.2001",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

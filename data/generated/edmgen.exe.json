@@ -1,0 +1,44 @@
+{
+ "name": "edmgen.exe",
+ "builds": [
+  {
+   "sha256": "81af7e2e8502e72d1c7ee777e78701e54ea56bff749f703669485ed77373775b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EdmGen.exe",
+   "internal_name": "EdmGen.exe",
+   "file_description": "EdmGen.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\EdmGen.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "EdmGen.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,417 @@
+{
+ "name": "mode.com",
+ "builds": [
+  {
+   "sha256": "f11722be0312c4e4594d347d3cc264cfc4ad89384c1bcaeabc672820b6a9d46a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/3885FF7Ee000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "26784b9f42c3585e556ec42d9b1369827ca7665d0a7f8901064da754ee112eb6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/8077EC3Db000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "82bcc86e5e296647f69a0d56bca8516e444baa590e4bc207cc1bd9eb3909c9a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/6152EC5Cc000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cdebabd0ae427aa8966de7130e8afa4ddf8e0551eadda020e0f0714870d353a4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/57898F77b000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "95696bf3d50a47a840d8ced5cd0e88677372411e9ab698b644244051b69c6e6a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/57899A6Bc000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f84b16335bd1f27f0a0cbaaf1904580dd3f92d3801396a754762c1d6faafff0c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/5632D8B4b000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "10fb31ac30f1c1b73c9ade354b05de6193ea95818ce1fa6b20a6c6443d402cf8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/5632D90Cc000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a1088fd6c755e9140c520c117f7b6e0c15fa2bc38fff751325ebfc40d263c15e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/559F38B5c000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4f05b64eb7d5914554a8ce6a4a70bed13bde7b51786ac8bc43944047328e513f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MODE.COM",
+   "internal_name": "mode",
+   "file_description": "DOS Device MODE Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mode.com/559F3B2Fb000/mode.com",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MODE.COM",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "3fea27fb691da77d9ffea3dbd8d58169622d72d35ed0222eeefc46bf788db225",
+   "error": "3fea27fb691d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 76dc268a50ce: NotFound: no timestamp/image size in winbindex, no symbol server URL; f670aaeaabb6: NotFound: no timestamp/image size in winbindex, no symbol server URL; 4469b1176ff3: symbol server returned unindexed build 9b050f36f3c2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "6bd8df16a6500e279f570e2986d26ad769499933ba2a8911fcf9444a01d3ff30",
+   "error": "6bd8df16a650: symbol server returned unindexed build 4cffa4d67312"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "6bd8df16a6500e279f570e2986d26ad769499933ba2a8911fcf9444a01d3ff30",
+   "error": "6bd8df16a650: symbol server returned unindexed build 4cffa4d67312"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "81cf5b009261cbefa093584633c16ef3b1c778ecb822c653cc8dda50a6d7c919",
+   "error": "81cf5b009261: symbol server returned unindexed build 8ef7bbef2da6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "c3c078638b4c3bbe20efdc3b5ce4b8471738d5af572868a04a49c8335db1b0b8",
+   "error": "c3c078638b4c: symbol server returned unindexed build 952ddb6f6504"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "bb4d74d57738013ba0fab526132f0374ee41a0d9f17572d43440a5559c78d20a",
+   "error": "bb4d74d57738: symbol server returned unindexed build b4eb639a0980"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "ca3658179e51ddb1e0b3739aa83ce74aee2f37212b172319232f13ef8bf7c62e",
+   "error": "ca3658179e51: symbol server returned unindexed build da77413e62e4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "ca3658179e51ddb1e0b3739aa83ce74aee2f37212b172319232f13ef8bf7c62e",
+   "error": "ca3658179e51: symbol server returned unindexed build da77413e62e4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "d3e4fbe23e03704d6ee0a0c33a630e8a51e468383e6f72112a759efd6795ebe1",
+   "error": "d3e4fbe23e03: symbol server returned unindexed build d3cbe69a62c3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "15ad5b353300abf694beeccc86010c4511827c8845c581bba407310ed785e215",
+   "error": "15ad5b353300: symbol server returned unindexed build 89244ac21df9; d3e4fbe23e03: symbol server returned unindexed build d3cbe69a62c3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "d3e4fbe23e03704d6ee0a0c33a630e8a51e468383e6f72112a759efd6795ebe1",
+   "error": "d3e4fbe23e03: symbol server returned unindexed build d3cbe69a62c3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "825c4ffd01a0b35a59b15380746ee8c3ca3d5eb17bcf0749e032c0e6842606cd",
+   "error": "825c4ffd01a0: NotFound: no timestamp/image size in winbindex, no symbol server URL; 85cd52ce59d8: NotFound: no timestamp/image size in winbindex, no symbol server URL; 15ad5b353300: symbol server returned unindexed build 89244ac21df9; d3e4fbe23e03: symbol server returned unindexed build d3cbe69a62c3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "825c4ffd01a0b35a59b15380746ee8c3ca3d5eb17bcf0749e032c0e6842606cd",
+   "error": "825c4ffd01a0: NotFound: no timestamp/image size in winbindex, no symbol server URL; 15ad5b353300: symbol server returned unindexed build 89244ac21df9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "f253d918650de194b8daf0a4d0c9af9a2f5feeaef418e52e40071bd38eb0e00e",
+   "error": "f253d918650d: NotFound: no timestamp/image size in winbindex, no symbol server URL; aa8ad87b2441: NotFound: no timestamp/image size in winbindex, no symbol server URL; 5d1060a02595: NotFound: no timestamp/image size in winbindex, no symbol server URL; df839c441301: symbol server returned unindexed build 7e9cb29b3993"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "4702da704c8eb0ef7a9ea2901b52d3444d8613677643e16932b266e34ad7830c",
+   "error": "4702da704c8e: symbol server returned unindexed build 7caeb7f692eb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "4702da704c8eb0ef7a9ea2901b52d3444d8613677643e16932b266e34ad7830c",
+   "error": "4702da704c8e: symbol server returned unindexed build 7caeb7f692eb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "12c81129b2f1582c61034acf2ddab5d41198d98af0f9f72e7d68a6187bcb9803",
+   "error": "12c81129b2f1: symbol server returned unindexed build ad97e241a6cb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "ed1699ab31e583479695ea4031251b28bac697fe5a75c470c44dc917e7445cc8",
+   "error": "ed1699ab31e5: symbol server returned unindexed build e205ddbcc5a5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "2fe3148b626d9c20a828225889547916e0402f806ac01e66e15344d209603513",
+   "error": "2fe3148b626d: symbol server returned unindexed build d0d375bfe60e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "b9ef114aeee9941bda7bbbafa19ea99f401b1826c424c2e6cd8be480a52d854f",
+   "error": "b9ef114aeee9: symbol server returned unindexed build 72e2c729a19b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "34bed7a8c9629351b222b0d81168f1f926248911d29e8c8f0bbb2184fe3c65c7",
+   "error": "34bed7a8c962: symbol server returned unindexed build fcbc31a19995"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "34bed7a8c9629351b222b0d81168f1f926248911d29e8c8f0bbb2184fe3c65c7",
+   "error": "34bed7a8c962: symbol server returned unindexed build fcbc31a19995"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "c3f6f6f1c310d0d61c2d07950fb2bd23d2b8a979e52d94cb623435aaed30ec60",
+   "error": "c3f6f6f1c310: symbol server returned unindexed build 38fac2661f34"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4ba169b99214833a9fe8bdad700f4ff497cf0ae2289f2ba0c76d73ad3e186c04",
+   "error": "4ba169b99214: symbol server returned unindexed build c6d692b57e93; c3f6f6f1c310: symbol server returned unindexed build 38fac2661f34"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "c3f6f6f1c310d0d61c2d07950fb2bd23d2b8a979e52d94cb623435aaed30ec60",
+   "error": "c3f6f6f1c310: symbol server returned unindexed build 38fac2661f34"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "742c56a07f85784aedf3f46dbde1124a1ec6f3e50a8fdec7e918821582f8c8bb",
+   "error": "742c56a07f85: NotFound: no timestamp/image size in winbindex, no symbol server URL; 99d5e217d677: NotFound: no timestamp/image size in winbindex, no symbol server URL; 4ba169b99214: symbol server returned unindexed build c6d692b57e93; c3f6f6f1c310: symbol server returned unindexed build 38fac2661f34"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "742c56a07f85784aedf3f46dbde1124a1ec6f3e50a8fdec7e918821582f8c8bb",
+   "error": "742c56a07f85: NotFound: no timestamp/image size in winbindex, no symbol server URL; 4ba169b99214: symbol server returned unindexed build c6d692b57e93"
+  }
+ ]
+}

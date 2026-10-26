@@ -1,0 +1,64 @@
+{
+ "name": "spatialaudiolicensesrv.exe",
+ "builds": [
+  {
+   "sha256": "81a68192a81168851c9766fba7717206a67506cadf1622f3729c6b2a9ffd1859",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SpatialLicenseSrv.exe",
+   "internal_name": "Spatial License AppService Broker",
+   "file_description": "Spatial License AppService Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SpatialAudioLicenseSrv.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "40437e585d7050bf857df406d361ac8e93c3b304a41d72d828da60753fec893d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpatialLicenseSrv.exe",
+   "internal_name": "Spatial License AppService Broker",
+   "file_description": "Spatial License AppService Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SpatialAudioLicenseSrv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SpatialLicenseSrv.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

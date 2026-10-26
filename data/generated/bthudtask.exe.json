@@ -1,0 +1,64 @@
+{
+ "name": "bthudtask.exe",
+ "builds": [
+  {
+   "sha256": "d198bb10ac0ce2d0b5ebbb882c159ad63cfec66cf62a47dc7af691287243cf27",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "BthUdTask.exe",
+   "internal_name": "BthUdTask",
+   "file_description": "Bluetooth Uninstall Device Task",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\bthudtask.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "73a5b2c12f246faa1beddc1e0c4c830dab010cf33cac3f0115dd4a13d636a4a6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BthUdTask.exe",
+   "internal_name": "BthUdTask",
+   "file_description": "Bluetooth Uninstall Device Task",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bthudtask.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BthUdTask.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7920",
+   "max_version": "10.0.26100.7920",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

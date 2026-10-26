@@ -1,0 +1,64 @@
+{
+ "name": "fondue.exe",
+ "builds": [
+  {
+   "sha256": "6ae162ca49c19b0fe32932b105d1aba46c24c8f135f98ca508821d15dd3b9ec3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Fondue.EXE",
+   "internal_name": "Fondue",
+   "file_description": "Windows Features on Demand UX",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Fondue.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "65e877650ee0810802190689124adaabaea9857a8695ba4a3b27358574755524",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Fondue.EXE",
+   "internal_name": "Fondue",
+   "file_description": "Windows Features on Demand UX",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Fondue.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Fondue.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

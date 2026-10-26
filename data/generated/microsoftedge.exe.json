@@ -1,0 +1,373 @@
+{
+ "name": "microsoftedge.exe",
+ "builds": [
+  {
+   "sha256": "822bd9046e1881e9fe7c53c3047436a7a87f434144f460246fb8089d5090ce45",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.14393.5582 (rs1_release.221130-1719)",
+   "fixed_file_version": "11.0.14393.5582",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2022-12-13",
+   "last_seen": "2023-02-14",
+   "os_builds": [
+    "14393.5582",
+    "14393.5648",
+    "14393.5717"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/6388239874f000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0bc554957d4ad388ff1eddfec1288aed5cd73a7abc08bff8987f31041f4e8d1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/7B3FFF63f9d000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "afcddf723c2a91b0e1220081cc3ab4e82ad2cb9ecf5894fca626df3b4f0a04b0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.17134.2145 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17134.2145",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-04-13",
+   "last_seen": "2021-04-13",
+   "os_builds": [
+    "17134.2145"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/606EB452e53000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3b42dc5f164a40312ee3ca939f5a310016ce592f4a50a3fdfd786d9555c184c8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.17763.1879 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17763.1879",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2021-04-13",
+   "last_seen": "2021-04-13",
+   "os_builds": [
+    "17763.1879"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/606EBAD1f52000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "58b6fd363a69597a005efd1b477addc8614655110948d839ac453a432dbb8710",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.18362.1411 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.1411",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-02-16",
+   "last_seen": "2021-03-18",
+   "os_builds": [
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/60220A0Bf2f000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7255e6aa80643ea7575055db56e000537658a39ee861fc4d503e90815906ea40",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/5FF79056b1a000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d578398fc529d6630f561addefdc28cf1e19f3d24f93ede336a7265c644c17f6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.18362.1171 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.1171",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-10-20",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/5F7FE083f30000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6c00ce8d1233554ececaa2575642af9f84213b70b98ee2a5fdc5a5bb75f34dee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.19041.423 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.423",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2020-07-31",
+   "last_seen": "2020-10-20",
+   "os_builds": [
+    "19041.423",
+    "19041.450",
+    "19041.488",
+    "19041.508"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/76836FC5f9a000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "161e20bdbdbcd2f7e395b2ab2d353abfae0f370217c9c1682edc5662e18969c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.16299.2166",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/5F743CC0d0e000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0bf1941c2cdc0003af6f2b040b6acb54bf4ebef0e6a7273d0dea30246c1db06d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "11.0.10586.1540",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/5AB49D25707000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "72abbb7a72aa4283800d2aed7c08b807de134182f8e4df8275661a8c6650a96d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdge.exe",
+   "internal_name": "MicrosoftEdge",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "11.00.10240.17446 (th1_escrow.170616-1918)",
+   "fixed_file_version": "11.0.10240.17446",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2017-06-27",
+   "last_seen": "2017-06-27",
+   "os_builds": [
+    "10240.17446"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/microsoftedge.exe/5944D1545fe000/microsoftedge.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MicrosoftEdge.exe",
+   "builds": 11,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2"
+   ],
+   "min_version": "11.0.10240.17446",
+   "max_version": "11.0.19041.906",
+   "first_seen": "2017-06-27",
+   "last_seen": "2023-02-14",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

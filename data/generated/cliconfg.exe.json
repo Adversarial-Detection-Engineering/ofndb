@@ -1,0 +1,64 @@
+{
+ "name": "cliconfg.exe",
+ "builds": [
+  {
+   "sha256": "fbc8b21ab087a9dbe03fb161fd3251d567bf8d5db636fa68e49455916cb9681b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "cliconfg.exe",
+   "internal_name": "cliconfg.exe",
+   "file_description": "SQL Client Configuration Utility EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\cliconfg.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "9284e5d50f490c02f12ab09fe96893372dc7a0edd07e432bb601501daea41ccd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "cliconfg.exe",
+   "internal_name": "cliconfg.exe",
+   "file_description": "SQL Client Configuration Utility EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cliconfg.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "cliconfg.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

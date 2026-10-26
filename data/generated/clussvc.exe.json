@@ -1,0 +1,474 @@
+{
+ "name": "clussvc.exe",
+ "builds": [
+  {
+   "sha256": "9fd6cab99bbe49d6a4c27c854b6f22b600a7cb69511695f239b0dd00a98641ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9339 (rs1_release.260710-1833)",
+   "fixed_file_version": "10.0.14393.9339",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/6A51C2D9aab000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f831027917667ff1c7eda7e2275e5c74798a884c54f8722facc113df5a08b4f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/DE08DBA3c32000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7f46fb5a247fbd4a4eace76c10fc2330aacbbef0f50e6c352b5146feb6612938",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/18A4ED82bee000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d40f7b721613525a1ea072e11b7491df0fa394a5fc63222f1a2b8a15a2e34306",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7309 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7309",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-12-01",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/24F3664Fbf1000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "205f0f1da3032296a1f45614ed7a136c0e5a7b3022503e2108a3d373e0f83ae8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.900 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.900",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2022-11-29",
+   "last_seen": "2022-12-13",
+   "os_builds": [
+    "22621.900",
+    "22621.963"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/B26E670Ac2c000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e723e5d8bca03c4cfb8a18327b8e920ea611a4865ae6c448a8b305cbc1d42670",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1949 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1949",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-08-26",
+   "last_seen": "2022-08-26",
+   "os_builds": [
+    "19042.1949"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/34292A73b59000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c369cc4469e96c1a8e70141bdce37d40497aaa5e3b62d6cb41b7b0900ea52b81",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1415 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1415",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-12-14",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1415"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/D5AF8D07b5c000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "886e032d78667c00d4cd3dc25afa5202de7f2b6ea178c4facf8e0cb1ba912350",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1533 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1533",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-04-22",
+   "last_seen": "2021-06-15",
+   "os_builds": [
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/CA4D92F9c2f000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e538d1c295448a3f33e514ee52018a30f7ef3e943b201b2bc555d4a1c5d699a6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2409 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2409",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/D047863Fac1000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c5c395d2b4503b15e971fe83baa2a977b9db36e3a6919854a258572d89f73583",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1110 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1110",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-09-16",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/7F328C5Dc29000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "49e63ab0a5c80672f67eeb8963dc16e5433e67630610bccf1a9118be299fb7fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/EE63CDC4b78000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f7fa79c1fbf24744dc3afb92ea0dcb0fbd56c6ad59d4f22d4bf268193eaa4c39",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1067 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1067",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-10-08",
+   "last_seen": "2020-02-25",
+   "os_builds": [
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/DA60ABD7bee000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "76f81181d5ae0f1152cbb2bbc6f34c4494c9d973959586b46ee748b4431b3321",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.589 (th2_release.160906-1759)",
+   "fixed_file_version": "10.0.10586.589",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-09-13",
+   "last_seen": "2017-11-02",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/57CF95FC8c2000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6aaa179db07bbc3f2ea2f025c2734b118ac7eda11c49bfcd1b2d1af264233261",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clussvc",
+   "internal_name": "clussvc",
+   "file_description": "Microsoft Failover Cluster Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.17113 (th1.160906-1755)",
+   "fixed_file_version": "10.0.10240.17113",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2016-09-13",
+   "last_seen": "2017-06-27",
+   "os_builds": [
+    "10240.17113",
+    "10240.17146",
+    "10240.17190",
+    "10240.17202",
+    "10240.17236",
+    "10240.17319",
+    "10240.17320",
+    "10240.17354",
+    "10240.17394",
+    "10240.17443",
+    "10240.17446"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clussvc.exe/57CF95F384d000/clussvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "clussvc",
+   "builds": 14,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-22H2",
+    "11-24H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2"
+   ],
+   "min_version": "10.0.10240.17113",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2016-09-13",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

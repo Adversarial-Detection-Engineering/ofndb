@@ -1,0 +1,64 @@
+{
+ "name": "mtstocom.exe",
+ "builds": [
+  {
+   "sha256": "c2d5abb486cda892f0ff74d42edbb55120ea3c57ecda17f1de630e217ff231b0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MTSTOCOM.EXE",
+   "internal_name": "MTSTOCOM.EXE",
+   "file_description": "COM+",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\mtstocom.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "24d125b2bc0875b559da89a9d6df34445d455ecddc5b67404d2bc6b27ea6efbb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MTSTOCOM.EXE",
+   "internal_name": "MTSTOCOM.EXE",
+   "file_description": "COM+",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mtstocom.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MTSTOCOM.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "2001.12.10941.16384",
+   "max_version": "2001.12.10941.16384",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "name": "register-cimprovider.exe",
+ "builds": [
+  {
+   "sha256": "f59b5a2847efef7475016d86f1d5d7719f89032b7655be5da88f699bfedbe030",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/59F4FDC0d000/register-cimprovider.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Register-CimProvider.exe"
+  },
+  {
+   "sha256": "1b1bb4f05a7e83576d14d7a910115292ea9a739919d3b5bd9d5472da091feddf",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/87BD3C90a000/register-cimprovider.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Register-CimProvider.exe"
+  },
+  {
+   "sha256": "9cb89f4d7557e1659848e7561ec35a7955e7abf259103bd1bb48bee16cd1c9b5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/57899AB4a000/register-cimprovider.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "08f6185dc43040babf0219914f4af40a0ae18b53f3f979f0c1f729d599644270",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/57898FF29000/register-cimprovider.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b03bdfc5c3986a107a6b509459089cef53faba122dec43ddd47e2c3fca32a2fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/5632D84Aa000/register-cimprovider.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2d9e49a6c8afc43ae7764886812cdf014dd7d14d3bcd7b6953d7437e873daaef",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/5632D7DD9000/register-cimprovider.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c333123c6df4c815ce2838bf8d557c622652cfa8f3e78e367823dc72091ca9d0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/559F3BE89000/register-cimprovider.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5638af3f3d4e0f7056b79ac219f254f2cba0bb611dca83622bfc5fd5de13394c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Register-CimProvider2.exe",
+   "internal_name": "Register-CimProvider2.exe",
+   "file_description": "WMI",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/register-cimprovider.exe/559F397Aa000/register-cimprovider.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Register-CimProvider2.exe",
+   "builds": 8,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "a3a9274559a268b62858679c7fa69b6055b4fe26905eca0ddb7a23eb871dc37f",
+   "error": "a3a9274559a2: symbol server returned unindexed build 9deb328c080a; cc1cfeca8722: symbol server returned unindexed build 9deb328c080a; 99ad64286ccf: symbol server returned unindexed build 9deb328c080a; 63e3fc6a6755: symbol server returned unindexed build 9deb328c080a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "9deeb672e3fed60fedac7048957b053e2d3a422a600071c7c91ac9c96d00a9fc",
+   "error": "9deeb672e3fe: symbol server returned unindexed build d0c55ff0c02b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "9deeb672e3fed60fedac7048957b053e2d3a422a600071c7c91ac9c96d00a9fc",
+   "error": "9deeb672e3fe: symbol server returned unindexed build d0c55ff0c02b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ebcc941ace3f9c73a68a6778af4b33650339d4a8c298d4b24c94cf32cbbd04be",
+   "error": "ebcc941ace3f: symbol server returned unindexed build 84f6fe4a509f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "d95ec53d09d4f1a6c5dd872f7b8f3b64e2faa6a8c605dcb8899eb61d6894d76b",
+   "error": "d95ec53d09d4: symbol server returned unindexed build 858c2085c39e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "64e80f1ee602ee4d7128728b990df06c542fb499186135d57985f66f3b6d96d2",
+   "error": "64e80f1ee602: symbol server returned unindexed build eae4fcb4249b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "088de004b2abc256739060c61b89a4b3eaa892907b0a61ea30c2eb4533add373",
+   "error": "088de004b2ab: symbol server returned unindexed build bfa184a576a0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d9395667ab0ecb3e2ff40e2e9098ecb0a431db782d70ae222827ee13b9afaa15",
+   "error": "d9395667ab0e: symbol server returned unindexed build fee6e38a0f2e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d9395667ab0ecb3e2ff40e2e9098ecb0a431db782d70ae222827ee13b9afaa15",
+   "error": "d9395667ab0e: symbol server returned unindexed build fee6e38a0f2e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "5311c4b92bda7852580c8df50922f8328eb5a238012f10ded7b38dc3b9d00d8e",
+   "error": "5311c4b92bda: symbol server returned unindexed build e1afcb8c26bb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "5311c4b92bda7852580c8df50922f8328eb5a238012f10ded7b38dc3b9d00d8e",
+   "error": "5311c4b92bda: symbol server returned unindexed build e1afcb8c26bb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "5311c4b92bda7852580c8df50922f8328eb5a238012f10ded7b38dc3b9d00d8e",
+   "error": "5311c4b92bda: symbol server returned unindexed build e1afcb8c26bb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "5311c4b92bda7852580c8df50922f8328eb5a238012f10ded7b38dc3b9d00d8e",
+   "error": "5311c4b92bda: symbol server returned unindexed build e1afcb8c26bb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "5311c4b92bda7852580c8df50922f8328eb5a238012f10ded7b38dc3b9d00d8e",
+   "error": "5311c4b92bda: symbol server returned unindexed build e1afcb8c26bb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "a0ddae8b65c4bcef0b3e179daad98e9923a7e359e6ec05d268b4cd8578cae78d",
+   "error": "a0ddae8b65c4: symbol server returned unindexed build 73a2e1277ae5; ec382e380fdb: symbol server returned unindexed build 73a2e1277ae5; 6cbe57a0e0f9: symbol server returned unindexed build 73a2e1277ae5; 8b76f4c4e0d1: symbol server returned unindexed build 73a2e1277ae5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "5b6452d53838e682e10b97a7e15aa188c42247e71236ff0a630fc4bcd389e342",
+   "error": "5b6452d53838: symbol server returned unindexed build 4e77151a08c7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "5b6452d53838e682e10b97a7e15aa188c42247e71236ff0a630fc4bcd389e342",
+   "error": "5b6452d53838: symbol server returned unindexed build 4e77151a08c7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "3086b2944b96ec024efbf58d2c3905640f85133fddc547b2e78c42937f104186",
+   "error": "3086b2944b96: symbol server returned unindexed build 10a6e6b76d80"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "2653d0f19e5467303214fe8e00bb504d04aea9fcff08b7131841d468a7f16b86",
+   "error": "2653d0f19e54: symbol server returned unindexed build c9cb2c625dbc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "0e9b7211f06de7fda8189ff9bd5d3de7bad78342e1db58f016d6146355057324",
+   "error": "0e9b7211f06d: symbol server returned unindexed build 77f9b374f701"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "11fc84778b6b88dde720b4b84354a64f3256be6149cd5f558350bb3f5ce8c204",
+   "error": "11fc84778b6b: symbol server returned unindexed build 06456a428c23"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "e971bb623a908f47e54ae84bd8c16ffa8d43c0a8cb1eeec104fcefa3119ae32f",
+   "error": "e971bb623a90: symbol server returned unindexed build b3fcea456c58"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "e971bb623a908f47e54ae84bd8c16ffa8d43c0a8cb1eeec104fcefa3119ae32f",
+   "error": "e971bb623a90: symbol server returned unindexed build b3fcea456c58"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "7946dd01fd7a3c2b9f33ecedf6ce04f04d6f494830900338f4469de6464caa0e",
+   "error": "7946dd01fd7a: symbol server returned unindexed build f04288e6b29c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "7946dd01fd7a3c2b9f33ecedf6ce04f04d6f494830900338f4469de6464caa0e",
+   "error": "7946dd01fd7a: symbol server returned unindexed build f04288e6b29c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "7946dd01fd7a3c2b9f33ecedf6ce04f04d6f494830900338f4469de6464caa0e",
+   "error": "7946dd01fd7a: symbol server returned unindexed build f04288e6b29c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "7946dd01fd7a3c2b9f33ecedf6ce04f04d6f494830900338f4469de6464caa0e",
+   "error": "7946dd01fd7a: symbol server returned unindexed build f04288e6b29c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "7946dd01fd7a3c2b9f33ecedf6ce04f04d6f494830900338f4469de6464caa0e",
+   "error": "7946dd01fd7a: symbol server returned unindexed build f04288e6b29c"
+  }
+ ]
+}

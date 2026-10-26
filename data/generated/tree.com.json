@@ -1,0 +1,417 @@
+{
+ "name": "tree.com",
+ "builds": [
+  {
+   "sha256": "a82d1f83d3955b8d9dedc07bdd6314cf456422b4d201ac2225ed726094af33d8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/D0E609F3b000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "95c86772841923fdbd0addb85d18f1a482865f86fd68b2953affb3ffc43e260c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/F09FE1D18000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7b8597696d29c268394810789d55c58e0a499caf2886958aa5cae5309a9bbeca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/52C058D3a000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b2f228961bef4411042df473682e19aea8f96f74a6abafddb473626171c7b364",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/5789999Ea000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2dd11d1445ba72251703a4500ef14372b1174993ab321b4b7992b395fb52845c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/57898EC08000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "988545b7050b404c34a4ea781b1282db40ea2289e5d49ee46df849082a2f0bce",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/5632D8A48000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4c3a6feb8625f3d3e28f18432f365c0f1977e5f6f9ca1b1012d67aa52e71081a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/5632D8FAa000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9a9c03080571fa5e2c1ec6fe29e78e8624c0f99300ec169354a6033af62d83d4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/559F3B298000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7d78f6b262e7e9b48d66c386d6c7c53840e2c6cc057ec5bddd61321acac5a2d8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TREE.COM",
+   "internal_name": "tree",
+   "file_description": "Tree Walk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tree.com/559F38B4a000/tree.com",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TREE.COM",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "e41d003f1ee0e8b7295defa5ce7328f9c30f92eac3b7868309918ab75af2f66a",
+   "error": "e41d003f1ee0: NotFound: no timestamp/image size in winbindex, no symbol server URL; 801f0d8b9a35: NotFound: no timestamp/image size in winbindex, no symbol server URL; c4df83f00d3d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2d63ffb2351b: symbol server returned unindexed build f3e20ab9fa85"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "fe5d653005df9d6c900f61d9cbb2ec0dc74662b87b327006541198ccd382b32c",
+   "error": "fe5d653005df: symbol server returned unindexed build bf2d78eecd6a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "fe5d653005df9d6c900f61d9cbb2ec0dc74662b87b327006541198ccd382b32c",
+   "error": "fe5d653005df: symbol server returned unindexed build bf2d78eecd6a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "026f1e9d10d8f2a0a4b6ca32938b357fb8fd8aa90076f4560893c45d144c8de7",
+   "error": "026f1e9d10d8: symbol server returned unindexed build 53820b54dc9c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "75ef28721c7cae3d2d53bc910e33feacc23086cdae0960f9306cf8a82e5239ed",
+   "error": "75ef28721c7c: symbol server returned unindexed build 1b0b36a13166"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "7aeb7b288cd8e5f76aa663b360f0c7d59709b9ac546f8eb59169a00a8bd65f32",
+   "error": "7aeb7b288cd8: symbol server returned unindexed build e46df2f11682"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "8d8cebea8c1c6524c61571fd36c7df90b4b62e0755b6488dc866d38d41fa5d95",
+   "error": "8d8cebea8c1c: symbol server returned unindexed build 93368c8f622b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "8d8cebea8c1c6524c61571fd36c7df90b4b62e0755b6488dc866d38d41fa5d95",
+   "error": "8d8cebea8c1c: symbol server returned unindexed build 93368c8f622b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "fc306b15135c7a9ddb55c1157ed462c03e2588974fea3764c89b83e759635aef",
+   "error": "fc306b15135c: symbol server returned unindexed build 75549837b64e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "df74ff55f6e919e2a8477d3cb6e72fb162dba70b628b4f55b76032230e06ee58",
+   "error": "df74ff55f6e9: symbol server returned unindexed build f2d83cfc6a3f; fc306b15135c: symbol server returned unindexed build 75549837b64e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "fc306b15135c7a9ddb55c1157ed462c03e2588974fea3764c89b83e759635aef",
+   "error": "fc306b15135c: symbol server returned unindexed build 75549837b64e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "612476253ed90686ab38ae1b12e2860a9a7472a6330914f9ebecf0ac137a7f3f",
+   "error": "612476253ed9: NotFound: no timestamp/image size in winbindex, no symbol server URL; a835e8a5d5de: NotFound: no timestamp/image size in winbindex, no symbol server URL; df74ff55f6e9: symbol server returned unindexed build f2d83cfc6a3f; fc306b15135c: symbol server returned unindexed build 75549837b64e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "612476253ed90686ab38ae1b12e2860a9a7472a6330914f9ebecf0ac137a7f3f",
+   "error": "612476253ed9: NotFound: no timestamp/image size in winbindex, no symbol server URL; df74ff55f6e9: symbol server returned unindexed build f2d83cfc6a3f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "cf52bb29708d054cab76a3a7267e2aebaa2d7475fd9fae680e6b88b62b43e2a5",
+   "error": "cf52bb29708d: NotFound: no timestamp/image size in winbindex, no symbol server URL; c6f44f1bd93d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 745df1d55312: NotFound: no timestamp/image size in winbindex, no symbol server URL; c0ed437a08fd: symbol server returned unindexed build 9094cd605b24"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "efb0cd2d1fbbccb22ee35a0e0519e07c9f3820bff44ba189b154aa82c0a6ab77",
+   "error": "efb0cd2d1fbb: symbol server returned unindexed build 914764463727"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "efb0cd2d1fbbccb22ee35a0e0519e07c9f3820bff44ba189b154aa82c0a6ab77",
+   "error": "efb0cd2d1fbb: symbol server returned unindexed build 914764463727"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "62c1885ec41a065d2dfa2a4f4893a396a8a21f12997046acc26c58af8c09a350",
+   "error": "62c1885ec41a: symbol server returned unindexed build 40ba1f1936c5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "943d188277900f20978414b8ced0ab1bf3d598218d5eabd9579125d61da5f897",
+   "error": "943d18827790: symbol server returned unindexed build 72b07e69b5b5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "f250a334d1d841b99cf0f8401f43591e5ff402b1270d3333ba346dc346e88df2",
+   "error": "f250a334d1d8: symbol server returned unindexed build bb86791e4b17"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "d40edec1b37f9da1b1938a7c969792739d7b4543180289e7e2c8aa32e7c41bf6",
+   "error": "d40edec1b37f: symbol server returned unindexed build b7e2e43489f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "6c707e6b97725a3ffc1c95e1a09fc16c352c5973226c1aa4a890722567201caa",
+   "error": "6c707e6b9772: symbol server returned unindexed build 9113f18e52bb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "6c707e6b97725a3ffc1c95e1a09fc16c352c5973226c1aa4a890722567201caa",
+   "error": "6c707e6b9772: symbol server returned unindexed build 9113f18e52bb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "c0a2d6b70c92214727dd022dcf0bd80ea2c1dd282ec000f09bc120675817fe3e",
+   "error": "c0a2d6b70c92: symbol server returned unindexed build 8aeadb57f8a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "b751fdd9eb2ec86a5db24511d86bf59faf7026c4dcdc69425a0999f2399a61d0",
+   "error": "b751fdd9eb2e: symbol server returned unindexed build 7e3edd43e772; c0a2d6b70c92: symbol server returned unindexed build 8aeadb57f8a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "c0a2d6b70c92214727dd022dcf0bd80ea2c1dd282ec000f09bc120675817fe3e",
+   "error": "c0a2d6b70c92: symbol server returned unindexed build 8aeadb57f8a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "4daa12ceca89f454ec8f2aa8bfa762028c3f4fb6214984027745e6ea7226b31d",
+   "error": "4daa12ceca89: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2b74c2b1ad1c: NotFound: no timestamp/image size in winbindex, no symbol server URL; b751fdd9eb2e: symbol server returned unindexed build 7e3edd43e772; c0a2d6b70c92: symbol server returned unindexed build 8aeadb57f8a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "4daa12ceca89f454ec8f2aa8bfa762028c3f4fb6214984027745e6ea7226b31d",
+   "error": "4daa12ceca89: NotFound: no timestamp/image size in winbindex, no symbol server URL; b751fdd9eb2e: symbol server returned unindexed build 7e3edd43e772"
+  }
+ ]
+}

@@ -1,0 +1,804 @@
+{
+ "name": "aspnet_regiis.exe",
+ "builds": [
+  {
+   "sha256": "8b984cba87d5085d990e54709fc8649ed7565671bd3dd1cd16288c12bea3e2f2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "2.0.50727.8977 (QFE.050727-8900)",
+   "fixed_file_version": "2.0.50727.8977",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507",
+    "1607"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/665AC3CBb000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7e4f0bad326e3d8097c9e8e05be8615a5fc35659efa1dd1a0f7461f916bde800",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "2.0.50727.8977 (QFE.050727-8900)",
+   "fixed_file_version": "2.0.50727.8977",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507",
+    "1607"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/665ABAD010000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b3af9ff8082088353b82baa92734f74c10671005a0b30fde764e6cd588912577",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/685320FBf000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e0f53c4ccdf56fad6dc5e565ff4e15260d8e044e9589fa2875b88f7a6c2e5c8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/68532154c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "859e9437d6ed4d16a25fd12e6234da3eb7aad4861650fea36468280e985ada7f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/6250AB86f000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "05596d10d500cb810d43a816e4250b8f683672df89d9a674f7056fd3036e0e3d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/6250AB36c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ed99c2402ac2ccc1ca9ebf21f10c12ee27e8d33f1e67bea3cb34da9cd0b4b58c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5DDA3E47c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "038f55a19b3eb3b4b5c6433b96f2e0bc1bda40b071820f16ac3b5c74c56e308d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5DDA44BEf000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d0563c49d9e645ae243465f33304a278d966393c4bdb138a7e9565afe2896124",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5E5E9AAEf000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "86b52ae9fcf0e8dd7943dbab5ae9ad88b11f15401c499b1cb3338e75e0dce900",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5E5E972Bc000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e306fc9f5751340d8d111a62e7a82b9c32f0ee8d561ef82a36577e4b6f547b35",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5C7A16E9f000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7bfe2c71e6a9680acb2e1bf730c5a1476d497c10ab12e917b2d690a095c9ea6a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5C7A2436c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6c08b02b98ba750db628e075f1577772f6d5a2f9abec8e9377ad858bba427929",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5B693BEDf000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4606cded75e04ce0ff8e80e53d8843743291a570b248f3b13f709c89800dc740",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5B6947FBc000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db8cf4f392177cc55d4b2a01594f1922035d1f91d04801e51d143a7b85e814ae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5A8E5A76f000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ce65a7fca2d01220e85eb823c0d9f89bc4605b98d7874c4ed7842917cc1692d1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5A8E5A22c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44dc9f931102b54c41531a7eb4b36078036e2446933d1498a2db2c56c5305b9e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.494",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5615D519f000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "29dc4f48828d06ac406c3e3094cb894dce663bdb84a44464b897fa60a8eba0ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.494",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/5615C2C5c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ad761e49dde6c1d307083198415ff20ea19b9e16b77ffda5579432cd60255335",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/59B8361Dc000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "99baaf2dc05a04dcf425608597cf5c6133eb8ac32c74dd16c08a85735411535b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/59B8364Ff000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f738efa98c491867b75078ec7c4ac06a4b68feb836e6733f5a2770772d09ac41",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/589C0710c000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "99eb923c00436644753503a2dffc8f08b79fda3046c1ebc0ba2731d59946e911",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/aspnet_regiis.exe/589C091Ff000/aspnet_regiis.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9ed3f9f27d2a665108435175a19a1737bb9781447ddb9837788479f157153468",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet_regiis.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "3688a3df42ca7b1379304f2c30ea98eb99a840cff748bf81b1fe696bf009d66b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regiis.exe",
+   "internal_name": "aspnet_regiis.exe",
+   "file_description": "aspnet_regiis.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\aspnet_regiis.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "aspnet_regiis.exe",
+   "builds": 24,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "2.0.50727.8977",
+   "max_version": "4.8.10001.0",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

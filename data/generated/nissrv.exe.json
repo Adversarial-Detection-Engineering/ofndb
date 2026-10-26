@@ -1,0 +1,501 @@
+{
+ "name": "nissrv.exe",
+ "builds": [
+  {
+   "sha256": "e5a72bcf8e9da513bdaa5a022aebe4a385cc05cca1277bf05249e6f55b8636a0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.10.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "4.10.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/6AC8D85254000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d70405bac6b0de403c34973606f1934db979c809f18e42e5e89a368022cb778",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.25080.5 (aec027e97d1d7ab25370672d0fb4548480483a83)",
+   "fixed_file_version": "4.18.25080.5",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-12-01",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/61370B9143e000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8ea646537ac31ea3645a37db105d75766a97ed4c5e4b966004b0e0712d8b40cb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1807.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1807.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/AA87600439c000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "076f8e117434af84985893302c719e1d0031499570dc4e196d990442e37bb556",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.8.10240.19235 (th1.220301-1704)",
+   "fixed_file_version": "4.8.10240.19235",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2022-03-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/621F01F857000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2d23819f7085853faa8f57d40e2f5f471a70ed8da4db57f65528969c816cfc60",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.23110.3 (9ebb3643d539a6fc4659898b1df3124d5da4c0a9)",
+   "fixed_file_version": "4.18.23110.3",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/FDF11920314000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6bfe5b785d96525c9f060474837a83434e9eeab498a07396c5edb7ea925bf8b9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.2201.11 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.2201.11",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2023-10-31",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/E6D476862d0000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0a5b312dc2a130e2ca129feb36f4a7ffd189d1b079a5a96e56a4b81d07109e3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1909.6 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1909.6",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/F6E269B62e3000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3bbaa72413571b18979428250cc34ee4f8db54cbf092192b076aeaaeb66e2bcd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.2104.10 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.2104.10",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/92EB6D2A283000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "15f7fc86106ed78ef7b7de024e6b9e96bd25f5e4b023ec3aa2d8871dd441ef55",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.13.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.13.17134.1967",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/8DBF804942c000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e17dcee0d4644e9f731057a1fb6cf23444beaf17be4b6d0dcd084ede84dbc086",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.11.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.11.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/8560E53252000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a750f6b4a9475377ac26022fe296c0d4af5b84db403e72398705f97380ac0cbb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1902.5 (GitEnlistment(winpbld).190221-1742)",
+   "fixed_file_version": "4.18.1902.5",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/FBE8C04F3dd000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "377526a1575613ced8cdf2819c490273491f951f3596df6877e15151d92a706a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.9.10586.672 (th2_release_sec.161024-1825)",
+   "fixed_file_version": "4.9.10586.672",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-11-08",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/580F017857000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6d7f3813f39a016301218fe0437113ceee46fecbbe044e68a6a97a70cd867f1c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NisSrv.exe",
+   "internal_name": "NisSrv.exe",
+   "file_description": "Microsoft Network Realtime Inspection Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.12.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.12.16299.15",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nissrv.exe/25C3F70B56000/nissrv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NisSrv.exe",
+   "builds": 13,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.8.10240.19235",
+   "max_version": "4.18.25080.5",
+   "first_seen": "2016-11-08",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

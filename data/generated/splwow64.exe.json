@@ -1,0 +1,415 @@
+{
+ "name": "splwow64.exe",
+ "builds": [
+  {
+   "sha256": "856211a64c0e27ae71d6c85066cd067337e571d8ec83f526117df9e87d964d2e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/6AC8D9C026000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "814cba81364ef85c3e55683438d9a96f16bfc2866ba85b971df866addd120d10",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/63A2E1F437000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "60f7ea47faa3130d2fb2264092c6d36239a1e3a30da89ad554d45c0d2ddea84d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/3E3CBB4E2f000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06d76e398439ddae57bb95f5f45b10f6f500dffd198151566308791791a86a31",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/C659B76337000/splwow64.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\splwow64.exe"
+  },
+  {
+   "sha256": "107633bd5ef018aa2f925177e0e4a6383793d6f12941660fd96579f050b47da0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/68E670B223000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b8db2dfdf4a65b9a61816296b930437c99705536dc932058d8d5b5af292b24f5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/99EC473339000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc1ec720bc57d7b2f92d47a02e3eb289d94c2bbff35559134d4288d417a2664e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1902 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1902",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-12-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "17134.1902"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/87E3F5D32c000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3acac5bf87306da10a3d129a182157992a21ff7b1d4c6e739900288b81b19cde",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.959 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.959",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-11-19",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/F72E86012d000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2e01a47bcb50170ca98b5b3cb8353871960ca0891675400ea6afb0861a5b38a3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1992",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/1494359B25000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "260a49b5f97b98c41dfa06f64f8b098c46358650c9b613a3fe25473b23d3808e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2409 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2409",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-06-18",
+   "os_builds": [
+    "15063.2409",
+    "15063.2411"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/8DBE13DF25000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ba1c6d13d26099b4ef3dd272131d54c89aae2c2b0cf60e9764fc0926e7dec431",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "splwow64.exe",
+   "internal_name": "splwow64.exe",
+   "file_description": "Print driver host for applications",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1356 (th2_release.180101-0600)",
+   "fixed_file_version": "10.0.10586.1356",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-03",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/splwow64.exe/5A4A843523000/splwow64.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "splwow64.exe",
+   "builds": 11,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1903",
+    "21H2"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-01-03",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "1804f21ee8da83cad3dd53d5fddca0645dfbd0c509920f98e6249d77cc37e2fd",
+   "error": "1804f21ee8da: symbol server returned unindexed build 0efb87482811; 0127406f1f69: symbol server returned unindexed build 0efb87482811; 16b4e75499f2: symbol server returned unindexed build 0efb87482811; 103d64273e58: symbol server returned unindexed build 0efb87482811"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "8b233854d667c35e65addaab0d007be710f9afee1534bc1beece4ee562fa30ac",
+   "error": "8b233854d667: symbol server returned unindexed build 4a6636837ba3; 100be82d02ad: symbol server returned unindexed build 4a6636837ba3; c6ef0c1fd665: symbol server returned unindexed build e9c64f568886; 0538826f70a5: symbol server returned unindexed build a0cadb73c6e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "2eedcc056cd6caea1136c0412c239182f5f71940c67380ab50d870d4e11e5a18",
+   "error": "2eedcc056cd6: symbol server returned unindexed build df66083ae47d; e9b0e3bb3ec4: symbol server returned unindexed build ae292810592e; d2a9321488d1: symbol server returned unindexed build d0afd9a79844; b042ecd06c9c: symbol server returned unindexed build d0afd9a79844"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "48dc9fe1b78b974d9d07139327dd1dbe1ae341b8580924f540473b6cffb9299a",
+   "error": "48dc9fe1b78b: symbol server returned unindexed build 5aac024b605a; dc1e54c6f7c1: symbol server returned unindexed build 2fac99f12561; 1d12f00ce989: symbol server returned unindexed build 54b56a862514; a673e2ed591c: symbol server returned unindexed build 54b56a862514"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "df0ed88a47cfeb30d5d488f828a8b5be23e39ddb36148b5b27b3440aeb39801d",
+   "error": "df0ed88a47cf: symbol server returned unindexed build fe485e4d49c2; 57325bee42f5: symbol server returned unindexed build 1fa863e2fa25; 68c8d5ef6713: symbol server returned unindexed build 1fa863e2fa25; 5d8b1c6d349b: symbol server returned unindexed build 1fa863e2fa25"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "efe99e2f7f9c04e841089d0b6ddb069626d641028fdfba4a50b9fd5cb8471f5c",
+   "error": "efe99e2f7f9c: symbol server returned unindexed build e04829d01a54; e0e96fbf3d6b: symbol server returned unindexed build e04829d01a54; 572954b4bd75: symbol server returned unindexed build e04829d01a54; c5f24a3650d9: symbol server returned unindexed build e04829d01a54"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "fc90ba7fe29f4455cd5220af13c92c9493fd0c45cb7478ba1216f9f39a2402a4",
+   "error": "fc90ba7fe29f: symbol server returned unindexed build 1e5b0722864e; 1f0c730c121f: symbol server returned unindexed build f154ca4124ea; bc39fc0079ef: symbol server returned unindexed build f154ca4124ea; d09ab93f8d0b: symbol server returned unindexed build f154ca4124ea"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "65cb951b0df6f2304dae9f28aa0f7f2f9c71dbfc858f4c7a3b1bded33e4d6dce",
+   "error": "65cb951b0df6: symbol server returned unindexed build dfa0d6afbcae"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "8c1f9f102c46dc0405f4bbe506e93b5ae3a53ae9b5764b72474aa96f534d3673",
+   "error": "8c1f9f102c46: symbol server returned unindexed build 4d6ab173eefe; 90103d4d02f0: symbol server returned unindexed build 4db85ea35459; 3b8879490de7: symbol server returned unindexed build 7bce81e1412f; cf50db5a92f1: symbol server returned unindexed build 16322db63186"
+  }
+ ]
+}

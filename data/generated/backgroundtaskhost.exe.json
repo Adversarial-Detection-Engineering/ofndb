@@ -1,0 +1,695 @@
+{
+ "name": "backgroundtaskhost.exe",
+ "builds": [
+  {
+   "sha256": "d22d854833e3cbec46174a6609afc8b18eab6bfa251ec17cc27d8a77951fc68d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/4582F378a000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a750ec05b81a5ac4a4435d20bc05e309daee1a185cb6756df4e8d38875a4c550",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/7262C8D88000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3cb5ec15407212ab5220d6ec38c8304f834840e6e38b2b43ebe5c3bf7a161f6f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/FD690D08a000/backgroundtaskhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\backgroundTaskHost.exe"
+  },
+  {
+   "sha256": "24a0856e22616c20aabe950eb0083ea4dabbb3d0a3eab432246620bbf2015600",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/5AF1D54E8000/backgroundtaskhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\backgroundTaskHost.exe"
+  },
+  {
+   "sha256": "b7d2c17e0038945aa4b72ae7a89e54d29b04ccc0feb62df5c9b7b67de43c2530",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/5BC61463a000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a3d1c46995e9a8eb8036375fda90ad20b81784dad4229db61b0941e08de1215e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/A299FA0E8000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cd2bf90fe5cd57dc49af50950c8ce3cfc6433cce7b68fb20dfd78e30a865b134",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-10-01",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/5AA8E03C6000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20330d3ca71d58f4aeb432676cb6a3d5b97005954e45132fb083e90782efdd50",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-10-01",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/1D3A15E77000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "655d6b2adcfb5f1cabd60607616d234f8c0d89682d8357a2475467e90c778613",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/578991796000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "23a80e09dae6db17909e81b1ca7e9bf43158bdee69c1646125fc62e6bfe2745b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/57899BB27000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "66a0eebb2170dd4722b8151defaf5e802508eb8de7193d3bc5452c37ae3280ad",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/5632D8996000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "65b6fe118757e7eb7645df39161e40da41944e881c6eb24ceda4e5586077f7a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/5632D8F07000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "79a8a52dca15960df22841a8b2a45908dd89f3eea9671c1edaba724390059b63",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/559F38C57000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4d143a0b6f1fa8aa8235cdd5ee25cce108e4e5c65b561cf3fc8fe769b9fc6959",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "backgroundTaskHost.exe",
+   "internal_name": "Background Task Host",
+   "file_description": "Background Task Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/backgroundtaskhost.exe/559F3B406000/backgroundtaskhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "backgroundTaskHost.exe",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "3974ccc64faa92230554d21d1292fa8587dbc55f9d4a2ef2b8ee16f552aaa812",
+   "error": "3974ccc64faa: UnindexedBuild: symbol server returned unindexed build (unindexed:size=37152)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "4c8915e07be1904a3bc02e4f8db0a80bb932ce610d97eabb9151b4e51f449980",
+   "error": "4c8915e07be1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=37088)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "4c8915e07be1904a3bc02e4f8db0a80bb932ce610d97eabb9151b4e51f449980",
+   "error": "4c8915e07be1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=37088)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "238d1d9a7a9afe44cab13e61e9f1896424598b9405402acaece0a4244b8f61b1",
+   "error": "238d1d9a7a9a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=19864)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "e762aa456f3b27285010729a222379c3db1dfd658761604128fed6814a55b6ba",
+   "error": "e762aa456f3b: symbol server returned unindexed build 90349a14b34b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "48b9eb1e31b0c2418742ce07675d58c974dd9f03007988c90c1e38f217f5c65b",
+   "error": "48b9eb1e31b0: UnindexedBuild: symbol server returned unindexed build (unindexed:size=19464)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "b8e176fe76a1454a00c4af0f8bf8870650d9c33d3e333239a59445c5b35c9a37",
+   "error": "b8e176fe76a1: symbol server returned unindexed build b9ce682f3e7a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "74b3323405cdfb85cfc9d5c1cd29c816c80361df154801e44f14863c9058906e",
+   "error": "74b3323405cd: symbol server returned unindexed build d2ae5bbb3b73"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "74b3323405cdfb85cfc9d5c1cd29c816c80361df154801e44f14863c9058906e",
+   "error": "74b3323405cd: symbol server returned unindexed build d2ae5bbb3b73"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "329061796eae488a7975f2afd2a6d006b6b298f46efec27586f912133edfde77",
+   "error": "329061796eae: UnindexedBuild: symbol server returned unindexed build (unindexed:size=20448)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "7f45dc64ce210b8076064dc80049e247f5e7d88390f5ba9d8ab53a4a66165348",
+   "error": "7f45dc64ce21: UnindexedBuild: symbol server returned unindexed build (unindexed:size=15072)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "7f45dc64ce210b8076064dc80049e247f5e7d88390f5ba9d8ab53a4a66165348",
+   "error": "7f45dc64ce21: UnindexedBuild: symbol server returned unindexed build (unindexed:size=15072)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "6c8a862941f391f2fb959dea4a61386d598fa569f6a692de3f72f4555e13622d",
+   "error": "6c8a862941f3: symbol server returned unindexed build 45551fd21065"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "2fadffbbf9c249a6ffdcae6e70f23d85f027ef220cf7a0015d8cec1c075790a0",
+   "error": "2fadffbbf9c2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=13648)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "4ebab259a1d69b80263de9b8a1aa7760cc964ed5f8a2f9acf5fafefb40bbc17b",
+   "error": "4ebab259a1d6: symbol server returned unindexed build 59e09e667303"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "1b170e9624d0c6a699f6fed4f612802b3d82c21b6c27f9b41296c1f814a0f668",
+   "error": "1b170e9624d0: symbol server returned unindexed build 0885f2acb3d6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "80898e0ba235c0b49dc7336f7079bd303302be396ce14f05f8e2e5b969156301",
+   "error": "80898e0ba235: UnindexedBuild: symbol server returned unindexed build (unindexed:size=18768)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "80898e0ba235c0b49dc7336f7079bd303302be396ce14f05f8e2e5b969156301",
+   "error": "80898e0ba235: UnindexedBuild: symbol server returned unindexed build (unindexed:size=18768)"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "remoteposworker.exe",
+ "builds": [
+  {
+   "sha256": "88310b08b26d92dd8fad1f693f555e70833a438fe2acf0a0f4220849806aeb71",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RemotePosWorker.exe",
+   "internal_name": "RemotePosWorker",
+   "file_description": "Remote Pos Driver Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RemotePosWorker.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RemotePosWorker.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

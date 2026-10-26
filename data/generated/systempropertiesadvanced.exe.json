@@ -1,0 +1,503 @@
+{
+ "name": "systempropertiesadvanced.exe",
+ "builds": [
+  {
+   "sha256": "ddeda461ccf3382fae26cd3a375e040eca4dba00c4a4fc9b5bd346488f66b4fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/E590CE761a000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "67cdb45b4435b030b613c5b87f60b6fc4ce9fb3dce2df021c3004f4bf4b8548c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/B516EF3C18000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "de17124d11e0873220bb9f2af8f68dbf404bfb6d7f4e633dcd6e72e6286b4b80",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/A3A9704B1a000/systempropertiesadvanced.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SystemPropertiesAdvanced.exe"
+  },
+  {
+   "sha256": "93f6f5f5c8df30fcb342a33809f1c0d7f10cf8124ed8b79a6292ada236fbbe5f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/8AF5DB5A18000/systempropertiesadvanced.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SystemPropertiesAdvanced.exe"
+  },
+  {
+   "sha256": "d8e5d959cafda784d9612cc3c4a18cce68d8dcb4a100b22fa8304c5962db6ba2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/88BEBD7919000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0aa8c07a382405ed6c58eed6656592e3319811b38a819fa6530c8ea92d3be313",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/57899B6E19000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "008aa893ac6c129390b25437810563bdb1c0288b959b11f84821009e71626870",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/5789916418000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f040b025d532fd304388bbdf525f5efd06125510f89676bb681bc95afd6f0df0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/5632D7A218000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8f3028a5de892b73bb0e1e903d47f0839ba123a41865dca4c427edc434b20318",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/5632D81519000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5e7a38f0b3590df5e5476eee02ca0bfe015beedfc1663a85d72d888604fefcc3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/559F3C4A18000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0148c5359c7fa9f372cd5680f5dfae098515d6e1cfd38aca67ad33eb9d1ae490",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesAdvanced.EXE",
+   "internal_name": "SystemPropertiesAdvanced",
+   "file_description": "Advanced System Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systempropertiesadvanced.exe/559F39C719000/systempropertiesadvanced.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SystemPropertiesAdvanced.EXE",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "936e27d6d970a50a9a8b520b9922733dfc15cb438be85f92d4e53e80d197853b",
+   "error": "936e27d6d970: symbol server returned unindexed build 3c3494dd16f0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "e32459fd6d5fbb3e7c98a2b9a21040ced0deba34ee299930d4cfe930651c62ea",
+   "error": "e32459fd6d5f: symbol server returned unindexed build fa31ba48c99d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "e32459fd6d5fbb3e7c98a2b9a21040ced0deba34ee299930d4cfe930651c62ea",
+   "error": "e32459fd6d5f: symbol server returned unindexed build fa31ba48c99d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "480aa5e419e066e1dd84ae98f07cca9e21e6b72e82f6fbc9b54bbbefbe2f79b9",
+   "error": "480aa5e419e0: symbol server returned unindexed build 61ca49342da7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "f321bb53bbc41c2cbffabc56837f9fa723aa0c6acb68a0c200cbc7427202dc9e",
+   "error": "f321bb53bbc4: symbol server returned unindexed build 23df2f43f1af"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "8d7826605d9c8428efe3fc374c32c6dace4a574462192f4a8dd187c6916d31c0",
+   "error": "8d7826605d9c: symbol server returned unindexed build 371f5d9a8220"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "fbd13bbaf279f7e7e006659f9e02e68528ec8fab02e93891139d805aedc48e85",
+   "error": "fbd13bbaf279: symbol server returned unindexed build a6696fc153d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "fbd13bbaf279f7e7e006659f9e02e68528ec8fab02e93891139d805aedc48e85",
+   "error": "fbd13bbaf279: symbol server returned unindexed build a6696fc153d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "c61fa0f8c5d8d61110adbcceaa453a6c1d31255b3244dc7e3b605a4a931c245c",
+   "error": "c61fa0f8c5d8: symbol server returned unindexed build b94c2ea0796b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "c61fa0f8c5d8d61110adbcceaa453a6c1d31255b3244dc7e3b605a4a931c245c",
+   "error": "c61fa0f8c5d8: symbol server returned unindexed build b94c2ea0796b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "c61fa0f8c5d8d61110adbcceaa453a6c1d31255b3244dc7e3b605a4a931c245c",
+   "error": "c61fa0f8c5d8: symbol server returned unindexed build b94c2ea0796b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c61fa0f8c5d8d61110adbcceaa453a6c1d31255b3244dc7e3b605a4a931c245c",
+   "error": "c61fa0f8c5d8: symbol server returned unindexed build b94c2ea0796b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "c61fa0f8c5d8d61110adbcceaa453a6c1d31255b3244dc7e3b605a4a931c245c",
+   "error": "c61fa0f8c5d8: symbol server returned unindexed build b94c2ea0796b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "2012767a5996711e79f4f8eb20a10b4706c799b8992dad9a8e008f5d877b0c1a",
+   "error": "2012767a5996: symbol server returned unindexed build b12f45b0883b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "4995194b9880c0f9a495a7a4a32e2502626e3308370ab6cede08b06dfd519f09",
+   "error": "4995194b9880: symbol server returned unindexed build 0ea63c68d04c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "4995194b9880c0f9a495a7a4a32e2502626e3308370ab6cede08b06dfd519f09",
+   "error": "4995194b9880: symbol server returned unindexed build 0ea63c68d04c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "795156f18149bccd542d99fe2e4b497a1af0ecea67386a9a260f85a658dad0b3",
+   "error": "795156f18149: symbol server returned unindexed build 08667d53ee91"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "d4302565168c995db44cd43ec1b5779bf82b09252af3e6850b5d6b3fe36b4763",
+   "error": "d4302565168c: symbol server returned unindexed build 8985b37393d7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "eafdfc33fd238a35a941c2cda6a0cda8d531135802895539a9b7720c77c19770",
+   "error": "eafdfc33fd23: symbol server returned unindexed build bac33fd6b534"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "86c7db0e662ca65f8e5989a629e00b03354cc385a9aee8bed7aaae28672d0a5f",
+   "error": "86c7db0e662c: symbol server returned unindexed build 774fc8f294cb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "ba3d4468f5abc84d2088c3ac69e4d17b1b95618f0f47ce8655a8f154f55384fd",
+   "error": "ba3d4468f5ab: symbol server returned unindexed build ca93568e2dee"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "ba3d4468f5abc84d2088c3ac69e4d17b1b95618f0f47ce8655a8f154f55384fd",
+   "error": "ba3d4468f5ab: symbol server returned unindexed build ca93568e2dee"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "3c52e817a18efd5670c1b8a2febba53673dc70875271933c075116990ef0c255",
+   "error": "3c52e817a18e: symbol server returned unindexed build 74fa5c64394f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "3c52e817a18efd5670c1b8a2febba53673dc70875271933c075116990ef0c255",
+   "error": "3c52e817a18e: symbol server returned unindexed build 74fa5c64394f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "3c52e817a18efd5670c1b8a2febba53673dc70875271933c075116990ef0c255",
+   "error": "3c52e817a18e: symbol server returned unindexed build 74fa5c64394f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "3c52e817a18efd5670c1b8a2febba53673dc70875271933c075116990ef0c255",
+   "error": "3c52e817a18e: symbol server returned unindexed build 74fa5c64394f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "3c52e817a18efd5670c1b8a2febba53673dc70875271933c075116990ef0c255",
+   "error": "3c52e817a18e: symbol server returned unindexed build 74fa5c64394f"
+  }
+ ]
+}

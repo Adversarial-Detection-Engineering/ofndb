@@ -1,0 +1,407 @@
+{
+ "name": "driverquery.exe",
+ "builds": [
+  {
+   "sha256": "6723abdd517f5113ad9480c0b37e9008e496f4106e4a183a6fcc7ccefc71a845",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "drvqry.exe",
+   "internal_name": "driverquery.exe",
+   "file_description": "Queries the drivers on a system",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/driverquery.exe/0F043F9419000/driverquery.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3446ffc8d1d631f46514c1a61cf75429d10847b9aecbb603a28bb2555b89b5f0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "drvqry.exe",
+   "internal_name": "driverquery.exe",
+   "file_description": "Queries the drivers on a system",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/driverquery.exe/91C5804114000/driverquery.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ec380b8c0f942f69e4a6d7cc48503e9c57e6d78d5fa7f6341714f905b52f7d47",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "drvqry.exe",
+   "internal_name": "driverquery.exe",
+   "file_description": "Queries the drivers on a system",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\driverquery.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "84b5a5ebdc2cf3f4e76ecb4c76de2fe082efa48ca0e7897aab4780c033008f9d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "drvqry.exe",
+   "internal_name": "driverquery.exe",
+   "file_description": "Queries the drivers on a system",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\driverquery.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "drvqry.exe",
+   "builds": 4,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "min_version": "10.0.22000.653",
+   "max_version": "10.0.26100.4202",
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "01f13ae42639cfff58b121de5db7edbf3e84199bd50a9f1e6bab8008b315824f",
+   "error": "01f13ae42639: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/32B4478419000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "01f13ae42639cfff58b121de5db7edbf3e84199bd50a9f1e6bab8008b315824f",
+   "error": "01f13ae42639: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/32B4478419000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "84b5a5ebdc2cf3f4e76ecb4c76de2fe082efa48ca0e7897aab4780c033008f9d",
+   "error": "84b5a5ebdc2c: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/CC4E160D1a000/driverquery.exe; 553e90f6977a: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/8DEEF9C71a000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "84b5a5ebdc2cf3f4e76ecb4c76de2fe082efa48ca0e7897aab4780c033008f9d",
+   "error": "84b5a5ebdc2c: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/CC4E160D1a000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1507",
+   "sha256": "5fea3241e2e2c3232f3dafa3bf72c9ba0e88df2781f2a742d4369813f99ce952",
+   "error": "5fea3241e2e2: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/559F389919000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "f049fecc0897f0da168e0f7769926830cee955ea748cc9b945d723edd733ed29",
+   "error": "f049fecc0897: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/5632D7F019000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "c201d26820b30bdca8fcdba7f043ef5a191f6fa1ff8a82f7a56ea6fe449ba4c7",
+   "error": "c201d26820b3: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/57899A7419000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b7b55b2c5d3fbff8c3b0b27b40fed2aaec4e8332df47f64ac5c28fefa21b7265",
+   "error": "b7b55b2c5d3f: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/2FBE2B1618000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "f5edaeb20c6c049235784579b35d12cefbefa4e411e88549eca77d00bdd7b6bb",
+   "error": "f5edaeb20c6c: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/45ED3D7B18000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "cf68d3b6d88885d7cf1a3a399bb607a107fbfcdfd8a198fd52d38e4dd8b18373",
+   "error": "cf68d3b6d888: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/DC4CEEF719000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "4cb5b035e0f4e62350f91366bf16ca816bec39aeda4f11dff44b01525ddbe272",
+   "error": "4cb5b035e0f4: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/0AAB37D819000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "0d0b565f8aeb0ed951320b790ab5ee120ac485c1f502757c5e3f9c337a83be57",
+   "error": "0d0b565f8aeb: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/3BDD7DB019000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "0d0b565f8aeb0ed951320b790ab5ee120ac485c1f502757c5e3f9c337a83be57",
+   "error": "0d0b565f8aeb: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/3BDD7DB019000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "6696bf1b9d15f90031dcdbf5f227c137ce9a85f5459bdc2d9b906d93b216e055",
+   "error": "6696bf1b9d15: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/B9F14C931a000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "6696bf1b9d15f90031dcdbf5f227c137ce9a85f5459bdc2d9b906d93b216e055",
+   "error": "6696bf1b9d15: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/B9F14C931a000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6696bf1b9d15f90031dcdbf5f227c137ce9a85f5459bdc2d9b906d93b216e055",
+   "error": "6696bf1b9d15: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/B9F14C931a000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "6696bf1b9d15f90031dcdbf5f227c137ce9a85f5459bdc2d9b906d93b216e055",
+   "error": "6696bf1b9d15: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/B9F14C931a000/driverquery.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "6696bf1b9d15f90031dcdbf5f227c137ce9a85f5459bdc2d9b906d93b216e055",
+   "error": "6696bf1b9d15: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/B9F14C931a000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "dc440461d5fffd071825050b95bb137831ff385995af55549b703b64e10d4f19",
+   "error": "dc440461d5ff: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/C3C9E69814000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "dc440461d5fffd071825050b95bb137831ff385995af55549b703b64e10d4f19",
+   "error": "dc440461d5ff: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/C3C9E69814000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-24H2",
+   "sha256": "ec380b8c0f942f69e4a6d7cc48503e9c57e6d78d5fa7f6341714f905b52f7d47",
+   "error": "ec380b8c0f94: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/1125578014000/driverquery.exe; c4f7cf5c2ba9: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/8D24D1CD14000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "ec380b8c0f942f69e4a6d7cc48503e9c57e6d78d5fa7f6341714f905b52f7d47",
+   "error": "ec380b8c0f94: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/1125578014000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1507",
+   "sha256": "e7c4ac036571b5795a4664fdf4f629658ae1db56216e3f1d641ae34c6c33f748",
+   "error": "e7c4ac036571: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/559F3B0B14000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1511",
+   "sha256": "dc8cb7bcd3944db79b05191be6567164ff8217747d12b28cc5f327e1cdadeffb",
+   "error": "dc8cb7bcd394: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/5632D77B14000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1607",
+   "sha256": "8034e5dfbd3e66212ff59916536826ed259ceb9f9d85c3df3dd01037b4619641",
+   "error": "8034e5dfbd3e: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/57898F8114000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "8e0859104b6f59251804a35e4912d77b8c5efdba508dba3c62cbd976c5f67adc",
+   "error": "8e0859104b6f: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/CA7DDCCC14000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "cda548845dff15199fc6eb25c82c5b3c930a2c619d0047fd68056cfba1c7333c",
+   "error": "cda548845dff: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/CF0E5CB214000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "aadefa57f1e278a33686883f653bcabd53ea52f5931957cbc3e17683398fb3bd",
+   "error": "aadefa57f1e2: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/C68806D314000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "54bd0e8075f63285c1408516913abd9913ba058a80a43e345ad42b34f36f6c12",
+   "error": "54bd0e8075f6: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/D728355214000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "a743accacb3ed1b0b0e9d941f6c8bdeb7e36b9a65004630788adb64c92777a2a",
+   "error": "a743accacb3e: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/04E268A614000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "a743accacb3ed1b0b0e9d941f6c8bdeb7e36b9a65004630788adb64c92777a2a",
+   "error": "a743accacb3e: NotFound: https://msdl.microsoft.com/download/symbols/driverquery.exe/04E268A614000/driverquery.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "42ec0718e29088ea73bbac9c96eaf02807ba556a392fa8c830ae9b425b7e0cc0",
+   "error": "42ec0718e290: symbol server returned unindexed build 099ee52413b1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "42ec0718e29088ea73bbac9c96eaf02807ba556a392fa8c830ae9b425b7e0cc0",
+   "error": "42ec0718e290: symbol server returned unindexed build 099ee52413b1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "42ec0718e29088ea73bbac9c96eaf02807ba556a392fa8c830ae9b425b7e0cc0",
+   "error": "42ec0718e290: symbol server returned unindexed build 099ee52413b1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "42ec0718e29088ea73bbac9c96eaf02807ba556a392fa8c830ae9b425b7e0cc0",
+   "error": "42ec0718e290: symbol server returned unindexed build 099ee52413b1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "42ec0718e29088ea73bbac9c96eaf02807ba556a392fa8c830ae9b425b7e0cc0",
+   "error": "42ec0718e290: symbol server returned unindexed build 099ee52413b1"
+  }
+ ]
+}

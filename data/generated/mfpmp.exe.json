@@ -1,0 +1,64 @@
+{
+ "name": "mfpmp.exe",
+ "builds": [
+  {
+   "sha256": "b5a4203ac24623f67b577d9433501fdc8730d90d0d45fbfd17749bdcd46f64ea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mf.dll",
+   "internal_name": "Media Foundation Protected Pipeline EXE",
+   "file_description": "Media Foundation Protected Pipeline EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7309 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7309",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mfpmp.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "7fc56bdee78ed9d82ce40ee6493cf5d62f010b761bf3e494c913dc93da9aca57",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mf.dll",
+   "internal_name": "Media Foundation Protected Pipeline EXE",
+   "file_description": "Media Foundation Protected Pipeline EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7309 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7309",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\mfpmp.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mf.dll",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7309",
+   "max_version": "10.0.26100.7309",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

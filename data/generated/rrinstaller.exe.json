@@ -1,0 +1,64 @@
+{
+ "name": "rrinstaller.exe",
+ "builds": [
+  {
+   "sha256": "bafd5474eaebb124ab1c102fcae0befa8a1657de6704e4e5cfe579cc57bf1a43",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rrinstaller.exe",
+   "internal_name": "rrinstaller.exe",
+   "file_description": "R&R installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® DRM",
+   "file_version": "11.0.26100.1",
+   "fixed_file_version": "11.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\rrinstaller.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "7e6a52fefb044d83bfd6ed9fdea5eaf537e009da2d8998044030ae0663abcac0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rrinstaller.exe",
+   "internal_name": "rrinstaller.exe",
+   "file_description": "R&R installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® DRM",
+   "file_version": "11.0.26100.1150",
+   "fixed_file_version": "11.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\rrinstaller.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rrinstaller.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.1",
+   "max_version": "11.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "mcu.exe",
+ "builds": [
+  {
+   "sha256": "dca5b706c6fd796d04d9bf347121c391790a88a93b412da60d4e54044a87b294",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MCU.exe",
+   "internal_name": "MCU.exe",
+   "file_description": "NVIDIA Maximus Configuration Utility",
+   "company_name": "NVIDIA Corporation",
+   "product_name": "NVIDIA Maximus Configuration Utility",
+   "file_version": "1.1.5204.20580",
+   "fixed_file_version": "1.1.5204.20580",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MCU.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MCU.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.1.5204.20580",
+   "max_version": "1.1.5204.20580",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

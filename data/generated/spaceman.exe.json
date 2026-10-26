@@ -1,0 +1,44 @@
+{
+ "name": "spaceman.exe",
+ "builds": [
+  {
+   "sha256": "4920f1b8837b051dcae906086c27a93e108b6d8a74ef34d94e616540c24f6dbd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spaceman.exe",
+   "internal_name": "spaceman.exe",
+   "file_description": "Storage Spaces Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\spaceman.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "spaceman.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

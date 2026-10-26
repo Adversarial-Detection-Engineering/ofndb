@@ -1,0 +1,64 @@
+{
+ "name": "chkdsk.exe",
+ "builds": [
+  {
+   "sha256": "e4ca0c8bb70af2a851a5ab31bb77df6d40db8d7fab131a449b0a1af628a46bd0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHKDSK.EXE",
+   "internal_name": "chkdsk",
+   "file_description": "Check Disk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\chkdsk.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "a9af21db4d6ac051eb3e63fa8d9a242229c80649a45f0c06044577a7143867a7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CHKDSK.EXE",
+   "internal_name": "chkdsk",
+   "file_description": "Check Disk Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\chkdsk.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CHKDSK.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9444",
+   "max_version": "10.0.26100.9444",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

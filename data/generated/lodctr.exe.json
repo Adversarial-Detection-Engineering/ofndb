@@ -1,0 +1,721 @@
+{
+ "name": "lodctr.exe",
+ "builds": [
+  {
+   "sha256": "3a2479d501d3d017ca45bb31b76926addb4e2abc8b2c7e2765b9f4ca9294b3fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/9A8109EA21000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3148b6bc7c4f05c92f59137030554680dc9790ce638e6956890b76ef807de821",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/788F6C0819000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1f0fb80f599344e0d21585b5b902331c90e206276ea5dfa6aacc2566559d3a98",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/7B3A98DE20000/lodctr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\lodctr.exe"
+  },
+  {
+   "sha256": "03873ad4947d9d1292284fd41ed2c77efdfc08c9abeb98cb42c85e3de7600fb9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/E8038B9019000/lodctr.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\lodctr.exe"
+  },
+  {
+   "sha256": "c6f2b29564b81dfb91dc9c32955d9b88500a8332a8d9a8a27ec58c87fb94260c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.2454 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.2454",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-11-21",
+   "last_seen": "2026-01-24",
+   "os_builds": [
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/BAB2D4071a000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "195dafd5a5374882898585e089965671c78487410718a504d6f72ac79885c028",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.2454 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.2454",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-11-21",
+   "last_seen": "2026-01-24",
+   "os_builds": [
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/539267F114000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8e9353fc3c070861eb933c7c33f2d08d7c015496e81b90d48d9ea6d6700ed1ed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/559F38C211000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3c283dbe8d402dc6fa30787f668d343bbdc55281f34c08542b0c4be3cf50c562",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/559F3B33e000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e64c1ce04a6ce1cfb212c723564b1faee575df75cb51c4e52fbe139bbeabab92",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/5789912Fe000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aeae0d1edc73e853a73fa9bc1a0836557e05910e777682d9b80e516b9c9e874d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/57899B7C11000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "efeaa7f3dd6c24be2e0d39c43342fc315bed1436341d349c23be70ae56ce88be",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/5632D7CFe000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1f51c352c9b00efefe85760c49538a31b202a6d432a456749e56bea144fa9842",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LODCTR.EXE",
+   "internal_name": "LODCTR.EXE",
+   "file_description": "Load PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/lodctr.exe/5632D84011000/lodctr.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "LODCTR.EXE",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "e006d8e6b5251568c00afc56932b707956f3aaa79d73884e94361624b8524438",
+   "error": "e006d8e6b525: symbol server returned unindexed build c4e9072506bd; 0656d799c2f1: symbol server returned unindexed build c0586a376d03; 81bb4671b2f7: symbol server returned unindexed build c0586a376d03; a2646227a4f7: symbol server returned unindexed build b61a8dc2f507"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b0166e7d6084b01540de31ae1284b22a38a01910dec73fb9235e92ee92e96f9f",
+   "error": "b0166e7d6084: symbol server returned unindexed build 847c78991ba8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b0166e7d6084b01540de31ae1284b22a38a01910dec73fb9235e92ee92e96f9f",
+   "error": "b0166e7d6084: symbol server returned unindexed build 847c78991ba8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "82722be63f1797fc439f53e96eb75123b4325b206bdb982b8be8468c49b72fd5",
+   "error": "82722be63f17: symbol server returned unindexed build a5d969fa5073"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "e500d8004edf43b4d64565c26fbcd5c708e23fc7661360616c8bb57a1b32a589",
+   "error": "e500d8004edf: symbol server returned unindexed build 4a624ca41394"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "0a5fafc6f68945fb3613a7f46446f146827ed3d60ba0c8d3210055067d920b51",
+   "error": "0a5fafc6f689: symbol server returned unindexed build be49caa95cb1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "7810a59464d4bd915b3225471ff32f8b4cec67d09bbbc90c67326ab264b96007",
+   "error": "7810a59464d4: symbol server returned unindexed build 28178cb72052"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "af64080aaa7f5b9841828ddd6afcf78e03980445707c77917a20e5da7d407e9e",
+   "error": "af64080aaa7f: symbol server returned unindexed build 75ed97d1aee1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "af64080aaa7f5b9841828ddd6afcf78e03980445707c77917a20e5da7d407e9e",
+   "error": "af64080aaa7f: symbol server returned unindexed build 75ed97d1aee1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "a68dc00716e93540692ce686922b1cf6d3f216fc9e0396c6d6b7291778dba6ed",
+   "error": "a68dc00716e9: symbol server returned unindexed build dafe23015c06"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "a68dc00716e93540692ce686922b1cf6d3f216fc9e0396c6d6b7291778dba6ed",
+   "error": "a68dc00716e9: symbol server returned unindexed build dafe23015c06"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "a68dc00716e93540692ce686922b1cf6d3f216fc9e0396c6d6b7291778dba6ed",
+   "error": "a68dc00716e9: symbol server returned unindexed build dafe23015c06"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "a68dc00716e93540692ce686922b1cf6d3f216fc9e0396c6d6b7291778dba6ed",
+   "error": "a68dc00716e9: symbol server returned unindexed build dafe23015c06"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "a68dc00716e93540692ce686922b1cf6d3f216fc9e0396c6d6b7291778dba6ed",
+   "error": "a68dc00716e9: symbol server returned unindexed build dafe23015c06"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "51a4a1a4388e6ce9447795e469fcdca0f5d7af5ab5a3328f0294091d7c12626e",
+   "error": "51a4a1a4388e: symbol server returned unindexed build 3ec0619e09fa; 2e129f12fae2: symbol server returned unindexed build 3ec0619e09fa; f594dd359c40: symbol server returned unindexed build 3ec0619e09fa; e56d0c81ef4d: symbol server returned unindexed build 3ec0619e09fa"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "03741462872bb60c43579b91e576e7e00239be9ff293f45c7669c2a0dcb2dfa8",
+   "error": "03741462872b: symbol server returned unindexed build b128dae9a4ce"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "03741462872bb60c43579b91e576e7e00239be9ff293f45c7669c2a0dcb2dfa8",
+   "error": "03741462872b: symbol server returned unindexed build b128dae9a4ce"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "0d0feea21890a846902217eeeecc0d560de7c80ad67977e52a881988437e45b2",
+   "error": "0d0feea21890: symbol server returned unindexed build fcb05de9acaf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "ee80b1d2fbffc368745799c460f5fe25de458034cfd8d67ae5f5e5eb81d1e5f5",
+   "error": "ee80b1d2fbff: symbol server returned unindexed build 5798de60b655"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "8a298f73c613e85d9e956f2f183d90efa98d780bc564e62c34209d2fe3d33310",
+   "error": "8a298f73c613: symbol server returned unindexed build 69a09fb59818"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "914650f6dc5783422e107159e0b69a0917d43cd5016ecdc14f06577a11ff36f0",
+   "error": "914650f6dc57: symbol server returned unindexed build 586750573be3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "8f2a9cda849446e9312441429f26fc6a13c2428e512ee84c58fb837d2be8065f",
+   "error": "8f2a9cda8494: symbol server returned unindexed build 79403c30fe9f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "8f2a9cda849446e9312441429f26fc6a13c2428e512ee84c58fb837d2be8065f",
+   "error": "8f2a9cda8494: symbol server returned unindexed build 79403c30fe9f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "3915bfb4520c2947e3dc9b4bdd4af56aabdeda1923b60f17a6e742a2231ea50d",
+   "error": "3915bfb4520c: symbol server returned unindexed build 247ae029bc7e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "3915bfb4520c2947e3dc9b4bdd4af56aabdeda1923b60f17a6e742a2231ea50d",
+   "error": "3915bfb4520c: symbol server returned unindexed build 247ae029bc7e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "3915bfb4520c2947e3dc9b4bdd4af56aabdeda1923b60f17a6e742a2231ea50d",
+   "error": "3915bfb4520c: symbol server returned unindexed build 247ae029bc7e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "3915bfb4520c2947e3dc9b4bdd4af56aabdeda1923b60f17a6e742a2231ea50d",
+   "error": "3915bfb4520c: symbol server returned unindexed build 247ae029bc7e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "3915bfb4520c2947e3dc9b4bdd4af56aabdeda1923b60f17a6e742a2231ea50d",
+   "error": "3915bfb4520c: symbol server returned unindexed build 247ae029bc7e"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "raserver.exe",
+ "builds": [
+  {
+   "sha256": "ad49c165fcc5ddc392379d80f5480364cf369e87cab09374af1b4f315e3b0f9a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "raserver.exe",
+   "internal_name": "raserver.exe",
+   "file_description": "Windows Remote Assistance COM Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8875 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8875",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\raserver.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "a3ab4bbf2e96631892efddd7d011caafea7d053e2b4c1c8b48ae3642f1ef9c3a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "raserver.exe",
+   "internal_name": "raserver.exe",
+   "file_description": "Windows Remote Assistance COM Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8875 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8875",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\raserver.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "raserver.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8875",
+   "max_version": "10.0.26100.8875",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

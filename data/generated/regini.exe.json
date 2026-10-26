@@ -1,0 +1,576 @@
+{
+ "name": "regini.exe",
+ "builds": [
+  {
+   "sha256": "d8a8aa47a13a433f5191e8968ed0c81e8e1b5e7e1aca45ba6282a0f9cf5c0b52",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/4E0CA6D912000/regini.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\regini.exe"
+  },
+  {
+   "sha256": "cfe39149d820a35a3e1fc2ffb7b7ee0fd55ae6cf30a7cd9f159e8dea7a1973b1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/5D94F38Ef000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c057a07766e6972249af5713ee1adedbceef8bc3ba20d3a12f685af4cf4a0c2a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/4BB313DDe000/regini.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\regini.exe"
+  },
+  {
+   "sha256": "7e95e6741da4284ca3732d920fa309645e3f58bbb836114c5e30b7385b10fba4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/0F9422E412000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "887ab98cb1d41d4f2ba9f7fb0db3843ba331d2d4d4e586883e2d84233e10ef82",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/FED3F9DDd000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f8c2840361890958e4863fc81d52c59c213292577abe6a285ec2ddbd34454507",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/5789916Fd000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b376e9da3ec084b011120483f63b155b02d054bbdfa28a842f274f8f121fa6e3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/57899BDE11000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6e38e3377a91d4f4034a8e0bdd7ed71e040860702ee67e66fee62eec037f791b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/5632D8E811000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "67ac5605b1af57d78d8e7a9ca2d71b3d3864fa93b3a5300d5fc77e4e5cf324d3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/5632D891e000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "97413f566c1f94e1cec88361138dcf08b3284d5170037b0455c3f172aef9fb54",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/559F3AC311000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9698fe5597f8c7ede90202b7f4498544103c640724b8d2a94beceddb3e926837",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "REGINI.EXE",
+   "internal_name": "REGINI.EXE",
+   "file_description": "Registry Initializer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regini.exe/559F3D4De000/regini.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "REGINI.EXE",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "e7801a52687e767dca7667bd983b13ff5a8d302013ee359dcd0e4f423b1cc9a5",
+   "error": "e7801a52687e: symbol server returned unindexed build 7b71959a2886"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "6c8abb75b75c89f26bf1eea9b4d92091db7aab1da877b98386104cd14554fb9c",
+   "error": "6c8abb75b75c: symbol server returned unindexed build eba162256ad4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "6c8abb75b75c89f26bf1eea9b4d92091db7aab1da877b98386104cd14554fb9c",
+   "error": "6c8abb75b75c: symbol server returned unindexed build eba162256ad4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b20b975389da32f12b7e3d64a29dc1af21ccec1feb543cdec4e18a46688e3359",
+   "error": "b20b975389da: symbol server returned unindexed build 7813c8cbbd57"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "0b38c2bb33ab07b83303229372c8efd3a845f434821ef04b8a5e46936ce5267c",
+   "error": "0b38c2bb33ab: symbol server returned unindexed build 70af1ab03ced"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "55ce52f4aa58a3a0434725436d4a3835fe75f0c9b837a81aedd8ddb28e2a5b2b",
+   "error": "55ce52f4aa58: symbol server returned unindexed build 3f63079d076c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "ce02c12cff31e588ee786462599f38528f899eab8690eda74744d04215107dff",
+   "error": "ce02c12cff31: symbol server returned unindexed build 941b498649f9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d7e1669e51e9c921bc70aeda2e9dd7005e3298137638a7dabee39730e3550fad",
+   "error": "d7e1669e51e9: symbol server returned unindexed build c62719610930"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d7e1669e51e9c921bc70aeda2e9dd7005e3298137638a7dabee39730e3550fad",
+   "error": "d7e1669e51e9: symbol server returned unindexed build c62719610930"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "c2ee2ffe2fae173188c3568c47c8090347e6cb09085c249936df2d52c0521dbb",
+   "error": "c2ee2ffe2fae: symbol server returned unindexed build 1c89b8b29b50"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "c2ee2ffe2fae173188c3568c47c8090347e6cb09085c249936df2d52c0521dbb",
+   "error": "c2ee2ffe2fae: symbol server returned unindexed build 1c89b8b29b50"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "c2ee2ffe2fae173188c3568c47c8090347e6cb09085c249936df2d52c0521dbb",
+   "error": "c2ee2ffe2fae: symbol server returned unindexed build 1c89b8b29b50"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c2ee2ffe2fae173188c3568c47c8090347e6cb09085c249936df2d52c0521dbb",
+   "error": "c2ee2ffe2fae: symbol server returned unindexed build 1c89b8b29b50"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "c2ee2ffe2fae173188c3568c47c8090347e6cb09085c249936df2d52c0521dbb",
+   "error": "c2ee2ffe2fae: symbol server returned unindexed build 1c89b8b29b50"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "7604e1a172d4fe0006b68c66e5f780b5a2137d3475cad7a8c3d1040acae30853",
+   "error": "7604e1a172d4: symbol server returned unindexed build 455b95df065b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "1b2fba7294af36c8384db8a81346220a44fcde742f1d89cb42299388d69da962",
+   "error": "1b2fba7294af: symbol server returned unindexed build a49d04911b7f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "1b2fba7294af36c8384db8a81346220a44fcde742f1d89cb42299388d69da962",
+   "error": "1b2fba7294af: symbol server returned unindexed build a49d04911b7f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "37c5302a1d53162e65430be37aac1a0dc7483dc22a05f313a21bf9a66ffbce94",
+   "error": "37c5302a1d53: symbol server returned unindexed build 3177796b2bc4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "0f63081dca192a10c576dd9f857f6e7ee65b66cbcdadecdf1a8a8e98a6be7f41",
+   "error": "0f63081dca19: symbol server returned unindexed build 233f99e200ea"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "40ed5ee39901b8537bcbc487b939ed7f50ec3a86eaf248db1783641daa0e47c9",
+   "error": "40ed5ee39901: symbol server returned unindexed build c7dbcaff4ab0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "cb161024f2c006402f88da9f1dc9f2cd782c3e959d02c2d48600288fc1bad696",
+   "error": "cb161024f2c0: symbol server returned unindexed build 071733e40c73"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "cb161024f2c006402f88da9f1dc9f2cd782c3e959d02c2d48600288fc1bad696",
+   "error": "cb161024f2c0: symbol server returned unindexed build 071733e40c73"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "04d137f3f2873a75fab8d71d54e79b5792d047854b7b7501cc9d4e2b231d1cb1",
+   "error": "04d137f3f287: symbol server returned unindexed build 3d04751fcaa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "04d137f3f2873a75fab8d71d54e79b5792d047854b7b7501cc9d4e2b231d1cb1",
+   "error": "04d137f3f287: symbol server returned unindexed build 3d04751fcaa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "04d137f3f2873a75fab8d71d54e79b5792d047854b7b7501cc9d4e2b231d1cb1",
+   "error": "04d137f3f287: symbol server returned unindexed build 3d04751fcaa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "04d137f3f2873a75fab8d71d54e79b5792d047854b7b7501cc9d4e2b231d1cb1",
+   "error": "04d137f3f287: symbol server returned unindexed build 3d04751fcaa4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "04d137f3f2873a75fab8d71d54e79b5792d047854b7b7501cc9d4e2b231d1cb1",
+   "error": "04d137f3f287: symbol server returned unindexed build 3d04751fcaa4"
+  }
+ ]
+}

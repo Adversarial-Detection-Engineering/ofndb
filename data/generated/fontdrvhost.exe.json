@@ -1,0 +1,920 @@
+{
+ "name": "fontdrvhost.exe",
+ "builds": [
+  {
+   "sha256": "bf8967a8c0a5cf5672dbc87ea0206d7772d91f8a3f852c393c14e916c8bad54f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/231431ABce000/fontdrvhost.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fontdrvhost.exe"
+  },
+  {
+   "sha256": "70caf6987a29a52379f3a5000b59037930d1444e45102856f31f825eb8557431",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/A1B32F3Dc8000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5ae456e064f82653f2bed482eb1e4f5da7e007d088e4eed4a18aab50e50f99ef",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/6A979AE788000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ba6162f552d103bd260d4b5f11b5c5a7e81070333fc33f75752811c7d9f4f5d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/F16EC160d1000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "36153e53b8466f9e57c44b8cfdfc4acdebc60abc5afcfd62b4fc80e31f65827b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/B272B1ADac000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "287b245c2a227c568bc7baa3cd524493253794ae62b9d19105e80ed15f79f711",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/6A9798019e000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "216686e0e75cb58847f34667fac5ea9e17ce8e80bcd746938d01047af0772309",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/74BC8D59a7000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8a6fe3284213c5e1481515d7632314d61927089a2a1e8f99f3925beb66a7a992",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3912 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3912",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-04-25",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/86D7636Cca000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9210ab718456859d451e5b753e8bb30ab50bd65442adc81dd6638dfe056b1d50",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21072 (th1.250630-1851)",
+   "fixed_file_version": "10.0.10240.21072",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/686378D688000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "56ec3cff2e13843e84f038d047ee2787fcc44559ede37825bf4e94501d644a36",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21072 (th1.250630-1851)",
+   "fixed_file_version": "10.0.10240.21072",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/68637A6A9b000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f38d165071e3aaedec9903913b35ce5c49c81800595389c01ae937d792e6a941",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5124 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5124",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-03-25",
+   "last_seen": "2025-04-11",
+   "os_builds": [
+    "22621.5126",
+    "22621.5189",
+    "22621.5192"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/3E8AB91Dd1000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f13ba9fdf99a9c4237093ae10671e86a86c059e340ea6a6d508d1d7475e580cb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-01-19",
+   "last_seen": "2023-03-14",
+   "os_builds": [
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/A025E2A4cf000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8e9b0bc80ceb39aca1d12bb1e3bb91d3a4f2fa28aab18b179d884087a806aa5f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1620 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1620",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2022-03-22",
+   "last_seen": "2022-10-18",
+   "os_builds": [
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/2B1DACC6a9000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "702a773247a763095d5649f05e4e3ec48517458b5d743abcea78c26870289d97",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2212 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2212",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-04-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/CF42AB49cf000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eb9dcfe6af7025b91e6a09be32baad66b1ae225424dde6184a3074da636fd23a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1916 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1916",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-11-09",
+   "last_seen": "2021-11-09",
+   "os_builds": [
+    "18363.1916"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/DAF1EA76a9000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ad6731a03531b1214e9fbd8afdf925ebf8adb490e79127729f0312316add3207",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/6E75FF64cf000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "17a7dd01a9fabc6b6127585e34b946cb26f132f17e1965865a5839f58c63a1ab",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/FAC01256a9000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "77fd486c97c5cc9b00952a1dcaf1ae1390ac7577ae0c385bf31f27498ab9f155",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2026 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2026",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-02-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/08DD8D87a4000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "690a245570e4972e0a90de1a8f12dd39c70e0b7da307bc65fa3eaadb40e88868",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2026 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2026",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-02-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/DDD247BDc4000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b80e8c923209a42f8eda749fd5779cb12dbad9b74390ca9f07605cdd146b5f4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2642 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2642",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-02-09",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/30946832bb000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d3b79d7427c8bd42b8d622128d9af86a0537cf97cda266cb874bfabc7b19d9ab",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1110 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1110",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-09-16",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/6C572200aa000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6c0954cce5b0218ee47b9ecf23b750bbb30c7ba85a12342d076bad29457987f6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2500 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2500",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584",
+    "15063.2614"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/10DB45A99b000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5af98e779ce4127a68ebe3a3219fbef91310a547eeee1cce500116270aac2d79",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1110 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1110",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-09-16",
+   "last_seen": "2021-01-12",
+   "os_builds": [
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/9C34DA00d1000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cfb1659921de3eb01579f30f346957cb3ebd90f5e19ab5c96ad5b18bf603c434",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2107 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2107",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/D2A749CAc2000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7797f38d7241d7eb86324c39daf6e6522edb789d89e27b168b1bc6ca424fd15b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2107 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2107",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/B8B3B86Da1000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "835aebf795833454aa5ab4d99244ae8348a0d9d3fbd75deb8d0ff52277d79430",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "10.0.10586.1540",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/5AB493EF88000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6ec55531035080715637fd65bbcd5619dcfb51cfd114283e3535486ca2157ba6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fontdrvhost.exe",
+   "internal_name": "fontdrvhost.exe",
+   "file_description": "Usermode Font Driver Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "10.0.10586.1540",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fontdrvhost.exe/5AB4AF8D9e000/fontdrvhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "fontdrvhost.exe",
+   "builds": 27,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-22H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21072",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-04-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "b9d1e9a318f9155a3b3a150e6fceca9d6fd4472d0688d0efefa1ae312905a626",
+   "error": "b9d1e9a318f9: UnindexedBuild: symbol server returned unindexed build (unindexed:size=865144); 1de1862e73f8: symbol server returned unindexed build 6b77ac4c0525; 92b0924653de: symbol server returned unindexed build 9f0fe82201cc; 8e4d7454646a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=869248)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "db1810e92948ff78d9f9ffcbdf4817745d497ce6d1ac06b1aab91c765537e5e8",
+   "error": "db1810e92948: UnindexedBuild: symbol server returned unindexed build (unindexed:size=878608); 5368fcf7759e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=861000); 3fa5464f3f57: UnindexedBuild: symbol server returned unindexed build (unindexed:size=852712); 5986feb162f9: symbol server returned unindexed build 0c691e300220"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "0994fb53a4d2a73fc0528bf068e483dafd17560f572bf6ac4c7c778a540fe90c",
+   "error": "0994fb53a4d2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=836192); 6ec929d0b26a: symbol server returned unindexed build 7de954adeae2; c7a61b67b4fd: symbol server returned unindexed build 0fd8301419cf; 46809ec76dd8: symbol server returned unindexed build 0fd8301419cf"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "3c5d14682b5787ca00c5aa6ff5df5ee8b28d55af2f965ae6744337889a7c5be6",
+   "error": "3c5d14682b57: symbol server returned unindexed build 660c8c4d97e6; acac7380dc53: UnindexedBuild: symbol server returned unindexed build (unindexed:size=838872); c339dd12f67e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=830144); f9e40584676d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=835168)"
+  }
+ ]
+}

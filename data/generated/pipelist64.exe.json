@@ -1,0 +1,47 @@
+{
+ "name": "pipelist64.exe",
+ "builds": [
+  {
+   "sha256": "d493a763bd8783a33ac466fba08447ee54f9771a54c979d83b9ac6cb4d68f97e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pipelist.exe",
+   "internal_name": "PipeList",
+   "file_description": "Lists open named pipes",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PipeList",
+   "file_version": "1.03",
+   "fixed_file_version": "1.3.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PipeList",
+   "release": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "download_url": "https://live.sysinternals.com/pipelist64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pipelist.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.3.0.0",
+   "max_version": "1.3.0.0",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "provenance": "parsed"
+  }
+ ]
+}

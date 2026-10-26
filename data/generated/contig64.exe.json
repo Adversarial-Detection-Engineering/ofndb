@@ -1,0 +1,47 @@
+{
+ "name": "contig64.exe",
+ "builds": [
+  {
+   "sha256": "063473719cdffa94ef10c380dee3eacf148cc6643a3a8c2c7cc214a180ed2826",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Contig.exe",
+   "internal_name": "Contig",
+   "file_description": "Contig",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals Contig",
+   "file_version": "1.83",
+   "fixed_file_version": "1.8.3.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Contig",
+   "release": "2023-03-09",
+   "last_seen": "2023-03-09",
+   "download_url": "https://live.sysinternals.com/Contig64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Contig.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.8.3.0",
+   "max_version": "1.8.3.0",
+   "first_seen": "2023-03-09",
+   "last_seen": "2023-03-09",
+   "provenance": "parsed"
+  }
+ ]
+}

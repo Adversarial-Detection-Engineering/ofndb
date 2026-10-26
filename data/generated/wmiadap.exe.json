@@ -1,0 +1,64 @@
+{
+ "name": "wmiadap.exe",
+ "builds": [
+  {
+   "sha256": "d6caaf572b37e2354177ed956e0df58dde43f93fc284d5c76de1a9cd348402fd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wmicookr.dll",
+   "internal_name": "wmicookr.dll",
+   "file_description": "WMI Reverse Performance Adapter Maintenance Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wbem\\WMIADAP.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "9419fe3d62f87e06435762b870a55a4705954c394ec49a49b6a32af9f8a1827b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wmicookr.dll",
+   "internal_name": "wmicookr.dll",
+   "file_description": "WMI Reverse Performance Adapter Maintenance Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wbem\\WMIADAP.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wmicookr.dll",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

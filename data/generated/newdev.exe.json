@@ -1,0 +1,64 @@
+{
+ "name": "newdev.exe",
+ "builds": [
+  {
+   "sha256": "654e232bb12bde5ad2deb2d9762e518adb3e4a2684ca78b83572bf5797cb79b7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NewDev.EXE",
+   "internal_name": "NewDev.EXE",
+   "file_description": "Device driver software installation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\newdev.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "04dd5a333cb2695bc9092d1f5cd7f047da85e80d618493d26bfe222405bc984c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "NewDev.EXE",
+   "internal_name": "NewDev.EXE",
+   "file_description": "Device driver software installation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\newdev.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NewDev.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "5.2.3668.0",
+   "max_version": "5.2.3668.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

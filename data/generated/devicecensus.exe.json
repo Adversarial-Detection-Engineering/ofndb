@@ -1,0 +1,308 @@
+{
+ "name": "devicecensus.exe",
+ "builds": [
+  {
+   "sha256": "b3ce52054bc18076efac3489f300dc901846c3c59ae6841af581d095ca551474",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DeviceCensus.exe",
+   "internal_name": "DeviceCensus",
+   "file_description": "Device Census",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/devicecensus.exe/F740EC5422000/devicecensus.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "16d6f401c795a924cc44e161c05f9d0e5122488e98571f60c5b88ffca7d63419",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DeviceCensus.exe",
+   "internal_name": "DeviceCensus",
+   "file_description": "Device Census",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/devicecensus.exe/0411839E24000/devicecensus.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\DeviceCensus.exe"
+  },
+  {
+   "sha256": "34571e920f9db21cc3b83b08e87d5bed4fc645041d06e2d7c7b7c1cc02dbc7bc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DeviceCensus.exe",
+   "internal_name": "DeviceCensus",
+   "file_description": "Device Census",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/devicecensus.exe/015923F422000/devicecensus.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d2e38aef42e08f8c1aacba6a20018272dca3c6f0ec6b8667e2c80b4ce2bdfe3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DeviceCensus.exe",
+   "internal_name": "DeviceCensus",
+   "file_description": "Device Census",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1015 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1015",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2023-06-23",
+   "last_seen": "2023-06-23",
+   "os_builds": [
+    "10240.19986"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/devicecensus.exe/8068015Ad000/devicecensus.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d583cff76ba2ff06fb3393b3660733bd7022c1e1e028a979cf48957401627984",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DeviceCensus.exe",
+   "internal_name": "DeviceCensus",
+   "file_description": "Device Census",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17060.1019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17060.1019",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2018-02-22",
+   "last_seen": "2018-03-08",
+   "os_builds": [
+    "15063.936"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/devicecensus.exe/17B3F69Cc000/devicecensus.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9496569791ef4a17d8b3f8861034c83dc1dbbe23012d92725fecfb48d340164e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DeviceCensus.exe",
+   "internal_name": "DeviceCensus",
+   "file_description": "Device Census",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16287.1005 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16287.1005",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-11-22",
+   "last_seen": "2018-01-17",
+   "os_builds": [
+    "15063.729",
+    "15063.786",
+    "15063.877"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/devicecensus.exe/463B2F79b000/devicecensus.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DeviceCensus.exe",
+   "builds": 6,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1703"
+   ],
+   "min_version": "10.0.16287.1005",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-11-22",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "1507",
+   "sha256": "c67b4e492549aa237b8a311289244209248f684263e3b4cf3222b8c534aae5a7",
+   "error": "c67b4e492549: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "c6b5c2a1fb8ada6620b91c2b7b85cf6e57a0ad4337367e4a4b4b9d3c40235d73",
+   "error": "c6b5c2a1fb8a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=58752); a23946004ec0: UnindexedBuild: symbol server returned unindexed build (unindexed:size=58752); 3747338d09d6: UnindexedBuild: symbol server returned unindexed build (unindexed:size=58752)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "1f008a4af634d02ac6350533cdfe0f438035b2ec5ef9cebebfbb9f3fabf22849",
+   "error": "1f008a4af634: symbol server returned unindexed build 7e88f724d882; d0e88635a591: symbol server returned unindexed build 244b8ec61dd3; 32016a26a837: symbol server returned unindexed build 72574b6bb5b5; c1af366dd1ff: UnindexedBuild: symbol server returned unindexed build (unindexed:size=169368)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "6663247c425e598aad9240a13c5989afd319baba6d84dbe74089ea2e730b3861",
+   "error": "6663247c425e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=179552); 400302e44d6d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=179552); 8ce205cfb036: symbol server returned unindexed build 155e1fb5a3da; da8d95448061: symbol server returned unindexed build 155e1fb5a3da"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "7575d7e7dca35ba331216e620dcc69ea545e6d568ec63330e2789641f6f93754",
+   "error": "7575d7e7dca3: collided with d583cff76ba2 from another release; 8e996566f324: collided with d583cff76ba2 from another release; 5be4e623f772: collided with d583cff76ba2 from another release; 6cc1d3b42725: collided with 9496569791ef from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "e59e0234b5b46a5a441037ab7ac13eee6231689fe4d19c01650de6286c9815a0",
+   "error": "e59e0234b5b4: symbol server returned unindexed build 482b7c832b45; 9fd8183da864: symbol server returned unindexed build 482b7c832b45; 5042eeb100cc: symbol server returned unindexed build 482b7c832b45; 41a671d9d7b0: symbol server returned unindexed build 482b7c832b45"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "7c291744e34147ceaac396ad1b51de616603e8f46a55ce2b0f2ccbca3e7be9a0",
+   "error": "7c291744e341: collided with 5d2e38aef42e from another release; 53246db6f0f3: collided with 5d2e38aef42e from another release; c3d7acfe9349: collided with 5d2e38aef42e from another release; 9f14f13e9be7: collided with 5d2e38aef42e from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "b2207c7cbd1387a3afec1955250686a9a4cdc213e51646b8b00e9b9e9a12842f",
+   "error": "b2207c7cbd13: collided with 5d2e38aef42e from another release; 2859ac5f30af: collided with 5d2e38aef42e from another release; 8416d525a112: collided with 5d2e38aef42e from another release; c846d4d3c1cc: collided with 5d2e38aef42e from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "7e043611246650b705809e856c12cc6f200d34ced92810781a47935abc657bf6",
+   "error": "7e0436112466: symbol server returned unindexed build 482b7c832b45; afd0d80a782e: symbol server returned unindexed build 482b7c832b45; dbea7473d5e7: collided with 5d2e38aef42e from another release; cf8efbcfbb98: collided with 5d2e38aef42e from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "92f9ce72fede730b0f706194577569c0d15f46590e59255e3f2eefbdda751bc2",
+   "error": "92f9ce72fede: symbol server returned unindexed build 482b7c832b45; 42d05239f096: collided with 5d2e38aef42e from another release; b408d0850fa6: collided with 5d2e38aef42e from another release; 16d700e47fcf: collided with 5d2e38aef42e from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "5a6cba287b1efb7ce4b9bfaaa0782ef1680d72f5e33bfb41216e0957e7c6e144",
+   "error": "5a6cba287b1e: symbol server returned unindexed build 482b7c832b45; 2445279b83ac: symbol server returned unindexed build 482b7c832b45; 92f9ce72fede: symbol server returned unindexed build 482b7c832b45; 16d700e47fcf: collided with 5d2e38aef42e from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "76490be66e4d2ebf054c9d536b02c82a5c6bb97209f8e4cffc69974a04fa7bd7",
+   "error": "76490be66e4d: symbol server returned unindexed build 482b7c832b45; 787babc52767: symbol server returned unindexed build 482b7c832b45; 1041623963e1: symbol server returned unindexed build 482b7c832b45; d26defa5d3e0: symbol server returned unindexed build c7e938a02da6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "72f8fe48ec36570ff9a65cf472624eb64a9e480904e9b9fc0023a6bdb54fef48",
+   "error": "72f8fe48ec36: symbol server returned unindexed build 482b7c832b45; a151ea0b6eaf: symbol server returned unindexed build 482b7c832b45; 76490be66e4d: symbol server returned unindexed build 482b7c832b45; d26defa5d3e0: symbol server returned unindexed build c7e938a02da6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "787babc5276737f5f0d1063300883d3381c57a344cc787deb16badaab6d04dd7",
+   "error": "787babc52767: symbol server returned unindexed build 482b7c832b45"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "e637fc77c06272de29c9ad32bb6f54206ff9806db1964b4cb3482d7b32bea10c",
+   "error": "e637fc77c062: symbol server returned unindexed build 2b82bcf6c105; 5431403f762b: symbol server returned unindexed build 2b82bcf6c105; a4efc6bf1cf3: symbol server returned unindexed build 2b82bcf6c105; d42fb8a07c22: symbol server returned unindexed build 2b82bcf6c105"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "fd9a6d02b93b0b5ab9ee0768b37c8f74f368770dd3116105603f2813cbe583f7",
+   "error": "fd9a6d02b93b: symbol server returned unindexed build 2b82bcf6c105; c04a545bb5be: symbol server returned unindexed build 50da66863409; 567f96443e6d: symbol server returned unindexed build 50da66863409; 3bd7a6b9f542: symbol server returned unindexed build 662cf1d6c81c"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "chglogon.exe",
+ "builds": [
+  {
+   "sha256": "9b1ac773f872a0a2386e1ecbcb4ae45193c30f8f97ee9c69e14abd2ca4e594ec",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "chglogon.exe",
+   "internal_name": "chglogon",
+   "file_description": "Change Logon Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\chglogon.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "chglogon.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7623",
+   "max_version": "10.0.26100.7623",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,760 @@
+{
+ "name": "iscsicpl.exe",
+ "builds": [
+  {
+   "sha256": "b319f0513777d8bc6a8a7c070d942ff1f6bedaf85e33fd8129284608fc0a9206",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/A0999E127000/iscsicpl.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\iscsicpl.exe"
+  },
+  {
+   "sha256": "6c02bd09d43a7d6a3bfb8b54bd22f11a86d33b1eb6b82930efc9d0945515c78c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/29932BF88000/iscsicpl.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\iscsicpl.exe"
+  },
+  {
+   "sha256": "1de34cc54b4e15859b438714e6bfdc4ed127947e7f6c479368bc865abff02999",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/5D19DFB97000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f0e9f0643889163f32f9119ffe5a25def3b39891e456a97d608e4515c2e943b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/C298AC658000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0d9b7015b80dd2823e0325afaac6d867fd085c9491b54f2ef31dd4376d7eb64c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/B3F6F1618000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "934c6a831c0a96d9feb305414a265c3323968735663417bfec1da96a049c941f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/67FB6C617000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2385dfcc9a5b14fd3c14372533f61175bc39a970fe86418b139bed227c113b77",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/ED11AB3C7000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a7df6dd54600762c4209e378402f80630cad92c12019871ad498d1e296d11cde",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.0 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2018-03-22",
+   "os_builds": [
+    "15063.994"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/0FE3556922000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "97d4eb1c0c7386ea60924106edb99f45c97b5917b8c49a237c7b3e7f9272427a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.0 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2018-03-22",
+   "os_builds": [
+    "15063.994"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/C368E1C421000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f172d2f71eb88fd70f1bdbf2f2bfeffd8c09ba03daee8a182c47ae77db1a4dda",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/578999D122000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "59505ccfdcb36882dd053b15f4df2212e73090a3c6ec333e5c1c3a17ba79b8e5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/57898EE622000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8b3565502ba5fb48259e02604f11be0bc6e8e961200c003ba42aa9263458ea3b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/5632D7D222000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5a63ada152de5d53d1657859dfa49132ec25f7ba63b41598de62aff6c297f0ff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/5632D84122000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7fe5b8b04e5660ec66edb7a0eeaf9286c8680574ac0c6fe6493725591a425077",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/559F3CB522000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5f471a07ad1dd32751c1aa79d22f36edd3cad12790ebc7a69113cd1e22c0117f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iscsicpl.exe",
+   "internal_name": "iscsicpl",
+   "file_description": "Microsoft iSCSI Initiator Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/iscsicpl.exe/559F3A2522000/iscsicpl.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "iscsicpl.exe",
+   "builds": 15,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "0275cc0d81b8606519a0e8da7b99364e8e589e28259c05f84a24bd8c69673a12",
+   "error": "0275cc0d81b8: symbol server returned unindexed build 5fd442747f63; 11a27931bd07: symbol server returned unindexed build 5fd442747f63"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "0275cc0d81b8606519a0e8da7b99364e8e589e28259c05f84a24bd8c69673a12",
+   "error": "0275cc0d81b8: symbol server returned unindexed build 5fd442747f63; 11a27931bd07: symbol server returned unindexed build 5fd442747f63"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "504f2b8038a67e11a8b4fa49b503f6d3edf8e8b5c76c59adc0dfc12c5d15e251",
+   "error": "504f2b8038a6: symbol server returned unindexed build d5e4bbb00c41"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "21fdbe153da197c99f7c04ecaa24ff6cd90e3e633e591e896334eba1e5cc74f6",
+   "error": "21fdbe153da1: symbol server returned unindexed build f5e905431f8c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "feb783c81b0bc6a5e7bedf3e1eb71106c95b2b818272b841902f14f33b507dd5",
+   "error": "feb783c81b0b: symbol server returned unindexed build c034871ede0e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "77a6f696058c0181bcc4392b821c80391ccab203f37e8f143b228c588bfbac7b",
+   "error": "77a6f696058c: symbol server returned unindexed build 0561b0fe9bb5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "77a6f696058c0181bcc4392b821c80391ccab203f37e8f143b228c588bfbac7b",
+   "error": "77a6f696058c: symbol server returned unindexed build 0561b0fe9bb5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "e5e2f1673d1da42b134c35d74655cbeb7272686d52f65b5fb3c1fe2b2f75586e",
+   "error": "e5e2f1673d1d: symbol server returned unindexed build d280d52b3cda"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "e5e2f1673d1da42b134c35d74655cbeb7272686d52f65b5fb3c1fe2b2f75586e",
+   "error": "e5e2f1673d1d: symbol server returned unindexed build d280d52b3cda"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "e5e2f1673d1da42b134c35d74655cbeb7272686d52f65b5fb3c1fe2b2f75586e",
+   "error": "e5e2f1673d1d: symbol server returned unindexed build d280d52b3cda"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "e5e2f1673d1da42b134c35d74655cbeb7272686d52f65b5fb3c1fe2b2f75586e",
+   "error": "e5e2f1673d1d: symbol server returned unindexed build d280d52b3cda"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "e5e2f1673d1da42b134c35d74655cbeb7272686d52f65b5fb3c1fe2b2f75586e",
+   "error": "e5e2f1673d1d: symbol server returned unindexed build d280d52b3cda"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "e9ea83b440039cca5c702177671601b01befe4dd37d34cce0ac64f2a82e4b0b4",
+   "error": "e9ea83b44003: symbol server returned unindexed build 6068cb8fa666; 956a0fdb0d73: symbol server returned unindexed build 6068cb8fa666"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "e9ea83b440039cca5c702177671601b01befe4dd37d34cce0ac64f2a82e4b0b4",
+   "error": "e9ea83b44003: symbol server returned unindexed build 6068cb8fa666; 956a0fdb0d73: symbol server returned unindexed build 6068cb8fa666"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "12f744f6114613194e1a713b0e21dd00e622bb56e228ef06fb2a074d7ef20f32",
+   "error": "12f744f61146: symbol server returned unindexed build f9ed563a7f89"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "4e63bb0dffde423610055f5be4ffac53603f446d37151f523e813bf1fb40642a",
+   "error": "4e63bb0dffde: symbol server returned unindexed build 9d53eec0bfa0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "f3a8986adb353e75fdfca44a0c1dc6796ddbfbdeb936f2482c5386f6f7a27df7",
+   "error": "f3a8986adb35: symbol server returned unindexed build 8a1b76e2f0ce"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "5ba25830e3af7ebcb288940e549ca86ca08e09ce953db69de71cbfa689142989",
+   "error": "5ba25830e3af: symbol server returned unindexed build 1979a8bb31a0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "5ba25830e3af7ebcb288940e549ca86ca08e09ce953db69de71cbfa689142989",
+   "error": "5ba25830e3af: symbol server returned unindexed build 1979a8bb31a0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "4138f8fee342c54723a38d2f07f56f3e482926f72b078a937492a94d45571f78",
+   "error": "4138f8fee342: symbol server returned unindexed build cbdb8c204b0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4138f8fee342c54723a38d2f07f56f3e482926f72b078a937492a94d45571f78",
+   "error": "4138f8fee342: symbol server returned unindexed build cbdb8c204b0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "4138f8fee342c54723a38d2f07f56f3e482926f72b078a937492a94d45571f78",
+   "error": "4138f8fee342: symbol server returned unindexed build cbdb8c204b0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "4138f8fee342c54723a38d2f07f56f3e482926f72b078a937492a94d45571f78",
+   "error": "4138f8fee342: symbol server returned unindexed build cbdb8c204b0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "4138f8fee342c54723a38d2f07f56f3e482926f72b078a937492a94d45571f78",
+   "error": "4138f8fee342: symbol server returned unindexed build cbdb8c204b0a"
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+notes: >-
+  Windows 10 1511 and 1607 builds report `sctasks.exe`; every later build
+  reports `schtasks.exe`.

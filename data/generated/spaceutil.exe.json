@@ -1,0 +1,44 @@
+{
+ "name": "spaceutil.exe",
+ "builds": [
+  {
+   "sha256": "f5476f0ce409f184bc6032666dac371f22bb3d7fe89c6cfaa1d6ad2c6c4c51e7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spaceutil.exe",
+   "internal_name": "spaceutil.exe",
+   "file_description": "Console utility for management of Storage Spaces",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\spaceutil.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "spaceutil.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "psgetsid64.exe",
+ "builds": [
+  {
+   "sha256": "5bc1cb8cd8a3ce3d63c6a33e1e0aae50dd1f092c8f44be61d8886c055853e751",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PsGetSid.exe",
+   "internal_name": "PsGetSid",
+   "file_description": "Translates SIDs to names and vice versa",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsGetSid",
+   "file_version": "1.47",
+   "fixed_file_version": "1.47.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsGetSid",
+   "release": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "download_url": "https://live.sysinternals.com/PsGetsid64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "PsGetSid.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.47.0.0",
+   "max_version": "1.47.0.0",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "icacls.exe",
+ "builds": [
+  {
+   "sha256": "cb9e55d4c02f4e55100724d2da9a1267f49e196bd39fcdf36cec6ea6314fad2a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "iCACLS.EXE",
+   "internal_name": "icacls",
+   "file_description": null,
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\icacls.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "a02445dbd6a37c0d83d814f6fcd59d2ddf37b18aac50b853a0eb87a63d6fb805",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "iCACLS.EXE",
+   "internal_name": "icacls",
+   "file_description": null,
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\icacls.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "iCACLS.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

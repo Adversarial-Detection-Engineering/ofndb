@@ -1,0 +1,64 @@
+{
+ "name": "msfeedssync.exe",
+ "builds": [
+  {
+   "sha256": "ebb807ee99884456c434f7104746f49968257f1376faa234df84017a7331ed00",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "msfeedssync.exe",
+   "internal_name": "msfeedssync",
+   "file_description": "Microsoft Feeds Synchronization",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\msfeedssync.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "3cc13026d64647b2c8dbe98a93b77924047b24b0b4b18de1a8bcd8b83db513a9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "msfeedssync.exe",
+   "internal_name": "msfeedssync",
+   "file_description": "Microsoft Feeds Synchronization",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.8328 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.8328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\msfeedssync.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "msfeedssync.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.1150",
+   "max_version": "11.0.26100.8328",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

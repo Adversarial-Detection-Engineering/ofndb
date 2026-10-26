@@ -1,0 +1,44 @@
+{
+ "name": "mschedexe.exe",
+ "builds": [
+  {
+   "sha256": "cc410e421b2c43caa99399dfac2d213c1d7520db8199c971c80488242562acc5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSchedExe.EXE",
+   "internal_name": "MSchedExe",
+   "file_description": "Automatic Maintenance",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MSchedExe.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MSchedExe.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

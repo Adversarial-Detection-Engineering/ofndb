@@ -1,0 +1,700 @@
+{
+ "name": "applaunch.exe",
+ "builds": [
+  {
+   "sha256": "5afab8c77eaff1923d14976db03a7b7ddd23b8b8eab71754ada1edb86d88ca3f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/68531EED19000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1128d27961c249d325ff1ed3f389fa564933f469d65f45cca631dade2a789313",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/68531EFF1c000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e5ffa8881a973ae0890d2ebafe2a3e3413747531912caa819a144eaf97a93093",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/6250A8BA1c000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2989110d5554f231036c279da4e2dce639aa7c23fcbf56b2edb603032a88b2b5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/6250A7FF19000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc5ac8d4d6d5b230ab73415c80439b4da77da1cfde18214ef601897f661abdac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5DDA3CAD19000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3682f6c9357e653150b1b7a96c30347e1abfa368a356db7c65a4c805f4eeb25e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5DDA42111f000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e759747d776ab3a306291617a47e8c7e8828441905560081028b95d84f2d24db",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5E5E97DE1f000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1830afacaa1f2cee9cb28918f9a0163e39f47b527b2cbaf62edbda54d6a8ac28",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5E5E959F19000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44af34c74d8f5978b8b58a33ebd3e2aed959f6a90b651f602607482939b55bdc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5C7A225819000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f5ee64090fe5a67fb6aa0881961005c1967a2cf896debc81ed56e3278c104d8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5C7A14851f000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fcecf396f9ef1b3ddadde1aeeda5d49cf2d28c85ebdb3f6678d7a064b4069278",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5B69462B18000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e158940fb6e376eeec75030e77106e200f35a53c2877a6f4d18b48b9696fa8ae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5B69397D1d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "86ddf376204f726381f4076f36669f6fe9f51a4256b6dd25eef5ed039731508d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5A8E58051d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "115d04150f524c103ca08e18305b0b103a3767336e19404235d2017f4b233ce5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5A8E585F18000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5a43223c45fb8311ed8a3159cf53719f3473b9ddf459be35f9a50c6009ac1d7c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/59B833DA18000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c5fd74d07055f4d922c2793dd507997b441f485c06ce127dd29479269251a31",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/59B833B31d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c3a863ce5e66d491b998b4cf0896203a38c27919b41f029c75de6d02e82a777d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/589C06071d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ae76df1ed637efd9df878d83f8ac3826679abef7557e4abe41511c893427eceb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/589C056018000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f523490d5b552cd2ed0bd2bcde1ad6602d24679c4d38811e3f6b78c3298391f5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/575A13701d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8707ea2b10d3bcfd052c54d829adecfc0f04f89c1be8910029d1c72189b6fd36",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/575A126718000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "838c59b560710c042d53a68abb4e4665368005b426b7c7864af7b809362f91e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5615C18418000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3475082684073a65ccf2e138555d0edd6fa1b5691349d9c339f489a600ff5b9f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/5615D2081d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7961012e716441afe795119763c8363b33c144b0f99390ca630a43b9cf118330",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/556BC24018000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ca6f80d6e868ab5bcb19437590221be3e84d1c5e6aceb3ca7bd7fc6f7b4425d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/applaunch.exe/556BC4961d000/applaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d91bc62b0f25b7e9e48ef78280a55025e9c1421bece7dc40f9ad6e6002a0e933",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\AppLaunch.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "044bdab1290d77472d0d297ef51325153790e7228da75f9d3696bc6ff4b0df90",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "applaunch.exe",
+   "internal_name": "applaunch.exe",
+   "file_description": "Microsoft .NET ClickOnce Launch Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\AppLaunch.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "applaunch.exe",
+   "builds": 26,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.6.79.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

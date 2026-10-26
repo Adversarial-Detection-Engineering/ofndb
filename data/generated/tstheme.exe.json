@@ -1,0 +1,64 @@
+{
+ "name": "tstheme.exe",
+ "builds": [
+  {
+   "sha256": "ad7c418e8084fd6e3d6206a2deb29bff40db6f8ab064cad770825cc0427b0ff3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TSThemeS.exe",
+   "internal_name": "TSThemeS.exe",
+   "file_description": "TSTheme Server Module",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\TSTheme.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "3dbe5dfe3517eed4b876dedd6dd596adaa3bf26dac69ed03edab97b50e970969",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TSThemeS.exe",
+   "internal_name": "TSThemeS.exe",
+   "file_description": "TSTheme Server Module",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\TSTheme.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TSThemeS.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7705",
+   "max_version": "10.0.26100.7705",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

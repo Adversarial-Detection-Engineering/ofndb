@@ -1,0 +1,47 @@
+{
+ "name": "disk2vhd.exe",
+ "builds": [
+  {
+   "sha256": "7c2ca32561cc5d41606b86ebadd0a6a526f669a818fa40ea2023eaed02efc4f7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Disk2vhd",
+   "internal_name": "Sysinternals Disk to VHD converter",
+   "file_description": "Disk to VHD converter",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Disk2vhd",
+   "file_version": "2.02",
+   "fixed_file_version": "2.0.2.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Disk2vhd",
+   "release": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "download_url": "https://live.sysinternals.com/disk2vhd.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Disk2vhd",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.0.2.0",
+   "max_version": "2.0.2.0",
+   "first_seen": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "provenance": "parsed"
+  }
+ ]
+}

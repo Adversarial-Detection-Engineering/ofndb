@@ -1,0 +1,745 @@
+{
+ "name": "fsutil.exe",
+ "builds": [
+  {
+   "sha256": "91e847eeada566267bae51a6bab8237a584ec13bbe2673702ec891d09256281a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/4912140E33000/fsutil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\fsutil.exe"
+  },
+  {
+   "sha256": "5e09c3d178bcd34894bb2718e65428d085e44c410d85962516a84697f949f296",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/54EBE0E434000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "513f93d9f765f7f038c48028049c773632e6e33b37c491fe7abc18adee231af4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/310F255343000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3fca44b7ce971031c08296647821e04dc7aa62c0f5846a3a0dc7015d5a4bc501",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/6078010A42000/fsutil.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fsutil.exe"
+  },
+  {
+   "sha256": "8c9d23d6ee8a5f80f66b5714b0a72dc5309f434afd5591e0fedd9d7cfb4bc095",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/AD7A3FF442000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "827b3ce0adf19356e2b62edf089f7e50248b88d493bde96db31c8afe5196fd46",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/015683C233000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3762905d403535575b1cba85beaf5863ed16529012ff416e2ef0f1d6b4964bfb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1757 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1757",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2021-02-09",
+   "last_seen": "2024-03-25",
+   "os_builds": [
+    "17763.1757",
+    "17763.1790",
+    "17763.1817",
+    "17763.1821",
+    "17763.1823",
+    "17763.1852",
+    "17763.1879",
+    "17763.1911",
+    "17763.1935",
+    "17763.1971",
+    "17763.1999",
+    "17763.2028",
+    "17763.2029",
+    "17763.2061",
+    "17763.2090",
+    "17763.2091",
+    "17763.2114",
+    "17763.2145",
+    "17763.2183",
+    "17763.2210",
+    "17763.2237",
+    "17763.2268",
+    "17763.2300",
+    "17763.2305",
+    "17763.2330",
+    "17763.2366",
+    "17763.2369",
+    "17763.2452",
+    "17763.2458",
+    "17763.2510",
+    "17763.2565",
+    "17763.2628",
+    "17763.2686",
+    "17763.2746",
+    "17763.2803",
+    "17763.2867",
+    "17763.2928",
+    "17763.2931",
+    "17763.2989",
+    "17763.3046",
+    "17763.3113",
+    "17763.3165",
+    "17763.3232",
+    "17763.3287",
+    "17763.3346",
+    "17763.3406",
+    "17763.3469",
+    "17763.3532",
+    "17763.3534",
+    "17763.3650",
+    "17763.3653",
+    "17763.3770",
+    "17763.3772",
+    "17763.3887",
+    "17763.4010",
+    "17763.4131",
+    "17763.4252",
+    "17763.4377",
+    "17763.4499",
+    "17763.4645",
+    "17763.4737",
+    "17763.4851",
+    "17763.4974",
+    "17763.5122",
+    "17763.5206",
+    "17763.5329",
+    "17763.5458",
+    "17763.5576",
+    "17763.5579"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/83991FBC34000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9fe14610c16fb1b1a6f23a6b5cdffcb6caf8294177ffd78eb505deed6443386",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.282 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.282",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-21",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.282",
+    "22000.318",
+    "22000.348",
+    "22000.376",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/3C5E6D362f000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ec750391d52bba76bb5bbb2ff6fd53eef03b043bc48da72bac0b9c07cd0241be",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/57898EAE24000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "66a36effc1ccac37a95ed1d268c1e5f92f47707f8e0c8039c2bd8c954c5f4100",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/578999902b000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f1c627fbbc2914a9fcadc05ae3993cac17c4dd5bced9263cccb6208a136ada72",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/5632D71F23000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dbd1d95d0a06b7f6395ad1a382015d9e61ba9f4c4533e7d13b96fe00a52b59b5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/5632D7932a000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44a3f3493f1a155b3fc3124b31e195174fb6fca2196ce69bc6f82e88f7b985ad",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/559F3B1123000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "357cdc6aa5ad40e51d41a06ab64a6d432e5712f9728ab061ff98c96a8bc22dca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsutil.exe",
+   "internal_name": "fsutil.exe",
+   "file_description": "fsutil.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fsutil.exe/559F38AC2a000/fsutil.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "fsutil.exe",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1809"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "8b131b9e7c801996b0b0dc89b51022ac80ec88664a532fd993cfbcc766164133",
+   "error": "8b131b9e7c80: symbol server returned unindexed build 4f7850f28cee; cb607d898284: symbol server returned unindexed build 46af05c7d32a; 0b87d9d7c633: UnindexedBuild: symbol server returned unindexed build (unindexed:size=259440); 6004cd4a0f1f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=259440)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "4aa918abdcaece25e302b30dec972b54b70c01cd231631a258db5fcce00aab95",
+   "error": "4aa918abdcae: UnindexedBuild: symbol server returned unindexed build (unindexed:size=267752); da3a337d685b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=271816); 5d39ff76204d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=271816); 3ce54fa0382d: symbol server returned unindexed build 6b3f7d5b9c67"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "4aa918abdcaece25e302b30dec972b54b70c01cd231631a258db5fcce00aab95",
+   "error": "4aa918abdcae: UnindexedBuild: symbol server returned unindexed build (unindexed:size=267752); ca0ce55de51b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=267648)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "08be195fc44f842a762c29fbdbb42e01f138fcd596124302dd7bab48a5a14299",
+   "error": "08be195fc44f: symbol server returned unindexed build 5313f9af2b7d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "3fed60dcbc09f02746ca8789dc02748276c182901b2342c1169b6e99a55f7939",
+   "error": "3fed60dcbc09: symbol server returned unindexed build 156c337a78bc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "38478bf9a29fe401c0e5dd026668a601bd0d67bee333f9fccc7464f1b7fc39fa",
+   "error": "38478bf9a29f: symbol server returned unindexed build 8bc3d487ef1b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e9d78e39bfd9395798cc85c583ad15b0b107e17f81f3ec24b5f1bbf4ace92e14",
+   "error": "e9d78e39bfd9: symbol server returned unindexed build f4ae854abd7b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "53a01f13294dc154f0fcf36976e7292c7dc4b0c409b6edfc2f2651464ac00e42",
+   "error": "53a01f13294d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=204120); 6139e23aad6c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=204120); e9d78e39bfd9: symbol server returned unindexed build f4ae854abd7b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "8767bc230a6928df40b66a1d127c7dbaedf70bd18d5c20c094ffc7f23902a7cf",
+   "error": "8767bc230a69: UnindexedBuild: symbol server returned unindexed build (unindexed:size=210720)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "8767bc230a6928df40b66a1d127c7dbaedf70bd18d5c20c094ffc7f23902a7cf",
+   "error": "8767bc230a69: UnindexedBuild: symbol server returned unindexed build (unindexed:size=210720)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "8767bc230a6928df40b66a1d127c7dbaedf70bd18d5c20c094ffc7f23902a7cf",
+   "error": "8767bc230a69: UnindexedBuild: symbol server returned unindexed build (unindexed:size=210720)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "773132392502a2f7bb4580363a782f79dbf26f64428dbddb44f1049badc714ae",
+   "error": "773132392502: UnindexedBuild: symbol server returned unindexed build (unindexed:size=216008); b007f834d64c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=221168); 5c79781ca9af: UnindexedBuild: symbol server returned unindexed build (unindexed:size=220656); 8767bc230a69: UnindexedBuild: symbol server returned unindexed build (unindexed:size=210720)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "773132392502a2f7bb4580363a782f79dbf26f64428dbddb44f1049badc714ae",
+   "error": "773132392502: UnindexedBuild: symbol server returned unindexed build (unindexed:size=216008); b007f834d64c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=221168); 5c79781ca9af: UnindexedBuild: symbol server returned unindexed build (unindexed:size=220656); 8767bc230a69: UnindexedBuild: symbol server returned unindexed build (unindexed:size=210720)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "555add902ee1b2791e5b699f58611a8c0584821b38cef8c3897be0963f7b2965",
+   "error": "555add902ee1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=208200); 65eb37535b1e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=201632); 8efae6313537: symbol server returned unindexed build 312fb63c33c4; 0bbc82fdf03b: symbol server returned unindexed build 37e28bdca538"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "555add902ee1b2791e5b699f58611a8c0584821b38cef8c3897be0963f7b2965",
+   "error": "555add902ee1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=208200); cb89a8ccdb93: UnindexedBuild: symbol server returned unindexed build (unindexed:size=200168)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "a00779c5739973991ea20d5c37ac2d8e7e7cd6db880c99dbef301ca10dd5479f",
+   "error": "a00779c57399: symbol server returned unindexed build 24e338c4ad99"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "7e791acbaa84d2d9e73c0c9dbf5e225e9b69b25d5b9af598f7802cd56f4ab01b",
+   "error": "7e791acbaa84: symbol server returned unindexed build 6e44d96e6f60"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "d911c86f32f1b14f9371a0a87b57d78a97b2a9971fd15fcf562957cdc5f81d64",
+   "error": "d911c86f32f1: symbol server returned unindexed build a21d8b950a55"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "dd5ff77175d679a964f819a4327fca74722ba9f365955e785eaaf3d1833542a5",
+   "error": "dd5ff77175d6: symbol server returned unindexed build 52ec0a87a209; fb84c6acc2f4: symbol server returned unindexed build 477179bca3ad; 2da711476150: symbol server returned unindexed build 606246587057; 91ccc04bc4d4: symbol server returned unindexed build f18d9c6f7bb1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "663176115ad56014efc43b792aead9658c3d1045cc64fe794c3ef9d4105a8f3a",
+   "error": "663176115ad5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163856)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "0aee5e468186b32274a71a3ace9b089ad40fe663d1627c9592cfe2a48e7bc877",
+   "error": "0aee5e468186: UnindexedBuild: symbol server returned unindexed build (unindexed:size=167232); 9b5bd90d6101: UnindexedBuild: symbol server returned unindexed build (unindexed:size=167232); 663176115ad5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163856)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "b732e4e29a2d768417bbcd1b18368b1ba9bfecf0eb4af320c27b5d800d1f8da2",
+   "error": "b732e4e29a2d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163104)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "b732e4e29a2d768417bbcd1b18368b1ba9bfecf0eb4af320c27b5d800d1f8da2",
+   "error": "b732e4e29a2d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163104)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "b732e4e29a2d768417bbcd1b18368b1ba9bfecf0eb4af320c27b5d800d1f8da2",
+   "error": "b732e4e29a2d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163104)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "462479f19c2818a580a14b37592a95a6f4408b246559cf4a5e1757654ea27d75",
+   "error": "462479f19c28: UnindexedBuild: symbol server returned unindexed build (unindexed:size=168440); 2a15c4f22ff4: symbol server returned unindexed build 7f556fa89712; 91dbd74be3db: UnindexedBuild: symbol server returned unindexed build (unindexed:size=172416); b732e4e29a2d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163104)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "462479f19c2818a580a14b37592a95a6f4408b246559cf4a5e1757654ea27d75",
+   "error": "462479f19c28: UnindexedBuild: symbol server returned unindexed build (unindexed:size=168440); 2a15c4f22ff4: symbol server returned unindexed build 7f556fa89712; 91dbd74be3db: UnindexedBuild: symbol server returned unindexed build (unindexed:size=172416); b732e4e29a2d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=163104)"
+  }
+ ]
+}

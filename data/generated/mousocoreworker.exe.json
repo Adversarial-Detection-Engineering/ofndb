@@ -1,0 +1,294 @@
+{
+ "name": "mousocoreworker.exe",
+ "builds": [
+  {
+   "sha256": "8f620aa31913f049231c360a414171ee5e2c01df28d836d368b4b0f3fce20d03",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1510.2610.1012.0",
+   "fixed_file_version": "1510.2610.1012.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/7459D69B5d7000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6af52345550cb85868a363efb7c441920c2cafd2262129c0c42d11e6234611d3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/7721D2331e8000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8890784985e44e3cd66a447d19c4dcbd101bb61c6c9af34570842beaf6e8b7c8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.5794 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.5794",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2025-04-22",
+   "os_builds": [
+    "19045.5796"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/6CCC8E091e7000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5990277b28b40292496e60264c1a9749eb9c3eb0130f88a0e6b1b1896b917b32",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/D9A08CE730c000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eb76b56b6f4fac87353961645dfae2f842c0c8ced6b86c2eb48de0f144d2dc05",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2788 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2788",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-21",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/08E862EA1a2000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "387318f5072222b1663eace421f731ebdd21bd10449e363f9749da57332e13b6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/D0A3F44D198000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e3f03283f8ba070498351ca3068b3b0ff54df8275b0276bd6b26639fa04ed34",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MoUSOCoreWorker.exe",
+   "internal_name": "MoUSO Core Worker Process",
+   "file_description": "MoUSO Core Worker Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.418 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.418",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-10-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mousocoreworker.exe/3CB05DE9b3000/mousocoreworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MoUSOCoreWorker.exe",
+   "builds": 7,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.18362.418",
+   "max_version": "1510.2610.1012.0",
+   "first_seen": "2019-10-08",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b21d2991a4bb741bfbcfe2b4c18d6b1be4eac4f0141f6f502bd0819a40b7ffbf",
+   "error": "b21d2991a4bb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4487120); 273465bf80f6: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4704760); 4620384b3a54: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4702608); 986cbf6b7bd3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4487056)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "1005947867ef92500777540b691966740c32c5893a6bbb878ca47398fea9f839",
+   "error": "1005947867ef: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4730712); b21d2991a4bb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4487120); 53f7878c124b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4704752); 273465bf80f6: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4704760)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "9bcb05c3685758acf14953850cdc63d522216bdd57c10b579acf7c7f249c7528",
+   "error": "9bcb05c36857: UnindexedBuild: symbol server returned unindexed build (unindexed:size=5017040); 262b106fc45a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=4749808)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "b611e410a0154227c6e608b7c43deaeed88244256940954fe0d2176cb6d2f783",
+   "error": "b611e410a015: UnindexedBuild: symbol server returned unindexed build (unindexed:size=6052816); 663a742faaeb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=6009888); f4fd5ad8889a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=6127096); 99c10be7fe22: UnindexedBuild: symbol server returned unindexed build (unindexed:size=6048760)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "cffdc20a3864f1b0d503ba6b4fe5e9974cfa361b4f82d4ebe1a54e2c1feb8c8d",
+   "error": "cffdc20a3864: symbol server returned unindexed build 34042d0799ba"
+  }
+ ]
+}

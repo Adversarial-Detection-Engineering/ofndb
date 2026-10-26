@@ -1,0 +1,47 @@
+{
+ "name": "psloggedon64.exe",
+ "builds": [
+  {
+   "sha256": "fdadb6e15c52c41a31e3c22659dd490d5b616e017d1b1aa6070008ce09ed27ea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "psloggedon.exe",
+   "internal_name": "PsLoggedon",
+   "file_description": "See who's logged on",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsLoggedon",
+   "file_version": "1.35",
+   "fixed_file_version": "1.35.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsLoggedon",
+   "release": "2016-06-28",
+   "last_seen": "2016-06-28",
+   "download_url": "https://live.sysinternals.com/PsLoggedon64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psloggedon.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.35.0.0",
+   "max_version": "1.35.0.0",
+   "first_seen": "2016-06-28",
+   "last_seen": "2016-06-28",
+   "provenance": "parsed"
+  }
+ ]
+}

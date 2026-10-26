@@ -1,0 +1,47 @@
+{
+ "name": "hex2dec64.exe",
+ "builds": [
+  {
+   "sha256": "786d92b9457a1122dec26bcd4354e79af03eb7678a00d4dd930c32662a7d7209",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "hex2dec.exe",
+   "internal_name": "Hex2dec",
+   "file_description": "converts hex to decimal and vice versa",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals hex2dec",
+   "file_version": "1.1",
+   "fixed_file_version": "1.1.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals hex2dec",
+   "release": "2020-09-14",
+   "last_seen": "2020-09-14",
+   "download_url": "https://live.sysinternals.com/hex2dec64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "hex2dec.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.1.0.0",
+   "max_version": "1.1.0.0",
+   "first_seen": "2020-09-14",
+   "last_seen": "2020-09-14",
+   "provenance": "parsed"
+  }
+ ]
+}

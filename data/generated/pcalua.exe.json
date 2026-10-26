@@ -1,0 +1,517 @@
+{
+ "name": "pcalua.exe",
+ "builds": [
+  {
+   "sha256": "c343cd38a40825170e109ca53613ee168feec2417e0d02c3d2af29b4eb5684f3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/B60F356020000/pcalua.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\pcalua.exe"
+  },
+  {
+   "sha256": "c22feda76575fb73d75ac33f6053a8404353c3fc66abd21bef084ebc4a192cb8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/1C9D141A20000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f9f114ae511de0b0375abfdc5122bb7b33cd24117739a474b03123b1f746896",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/730F48CA1a000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "553781b2aec99053bae5cd23a93bd9f93010934b741a613e9a93a69fbade2c82",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/4EF7D10211000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "08393cd18bdf690951884a94ac01bf94b84935e5e412460b839977967e2ca8d6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9612 (rs1_release.261011-1819)",
+   "fixed_file_version": "10.0.14393.9612",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/6ACC39E6b000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18343e1fdf69e5ddaccf330d431175690c4fef68c9506cd4bb84e1ac7da8f34a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/68E66B1Fb000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d1ac8602757973a74dfec0e394f5cd1e80d7161b774d13a7ec72a9d4647f0119",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/4B0C8EB420000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8c3f1db11ddbe5be4e8c9af52618d317901c31fa10fe5c2734393f2ce4a1fa42",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/A7459D1512000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2799fff1b6c9ee8b0158f8013d25ec67ede1c434afba66e3d1c5a699759bfd4b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.137",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.165",
+    "17134.1667",
+    "17134.167",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.191",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.228",
+    "17134.254",
+    "17134.285",
+    "17134.286",
+    "17134.320",
+    "17134.345",
+    "17134.376",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.829",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/E9AC670910000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8813cc507f703bbd530ebdb9a9a66798566f15235cb1ee5f275cc80f00439daf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.449 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.449",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2019-10-24",
+   "last_seen": "2020-03-12",
+   "os_builds": [
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/AF5D9E5C11000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4eedcf856149d36e28cb1c12691ac669eca904a8ffa9e7f493ed32340bc3b4eb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "10.0.10586.1540",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pcalua.exe/5AB4B416b000/pcalua.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 11,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1803",
+    "1809",
+    "1903",
+    "2004",
+    "21H1",
+    "21H2"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-04-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "1507",
+   "sha256": "1ebcdf4f1a3ad2fed8982b2e11e7623e3b3ffa0621e354bc6eac8913ee39b270",
+   "error": "1ebcdf4f1a3a: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "a925faeaa15f01d1f8c0d01c237c37dcc43888389797898a2cde0797ba8c706b",
+   "error": "a925faeaa15f: symbol server returned unindexed build 18a6350271f8; e8e97687b3f6: symbol server returned unindexed build 18a6350271f8; 8cbf8692c4a2: symbol server returned unindexed build 8f184d832258; 2b91bde9355f: symbol server returned unindexed build 8f184d832258"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "793cea139864419ddd494ba82beddbb43b938616582485bfd02ec15bc7dcd840",
+   "error": "793cea139864: symbol server returned unindexed build 9cc80eebf520; b5c4af455ef8: symbol server returned unindexed build e2fab5b23414; b349c86e8fac: symbol server returned unindexed build d9e630c12c8d; 00dadbdc7033: symbol server returned unindexed build b8ce65a3cafe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "1784cd9060f586a75a16b6b6adbf9970e025ad077775cbacafa55e9bef359130",
+   "error": "1784cd9060f5: symbol server returned unindexed build 05d6e23542d9; 3572a80b09e8: symbol server returned unindexed build 05d6e23542d9; 8fcdb1e60f57: symbol server returned unindexed build 05d6e23542d9; 5a94943cc3cf: symbol server returned unindexed build 0d71dd734d71"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ae8c9e3e6295d1a9036c24795a743a716fa6ad444acec891a5a8097f9f1af5d0",
+   "error": "ae8c9e3e6295: symbol server returned unindexed build 203142dd6f05; 28a814a8821e: symbol server returned unindexed build 203142dd6f05; bc01c58437ad: symbol server returned unindexed build 203142dd6f05; 549961ea8769: symbol server returned unindexed build 203142dd6f05"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "81b94a6aa224f5c6ac2bc9dc8d0928ef0977b59b8500162122a26cbcd12f632a",
+   "error": "81b94a6aa224: symbol server returned unindexed build f620f443b19a; ea66c5a81f6c: symbol server returned unindexed build f620f443b19a; 66c21710c008: symbol server returned unindexed build f620f443b19a; ab972ca5694d: symbol server returned unindexed build f620f443b19a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "32d1d56c187eb9b6898f99dfcf34aeead36900034377fea31d85935e23763490",
+   "error": "32d1d56c187e: symbol server returned unindexed build 384c24ccf1cc; 5fa34ea07afd: symbol server returned unindexed build 384c24ccf1cc; a98844b3c9a1: symbol server returned unindexed build 384c24ccf1cc; 36fab5459b1c: collided with 8813cc507f70 from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "bc5ac65cd67f1b934b1cd2fb2735a5bddeb54cad5745ef33884ea808d37e9643",
+   "error": "bc5ac65cd67f: symbol server returned unindexed build 26de853b0156; e59b0cc672c1: symbol server returned unindexed build 8c42a005732a; 1d528a686a58: symbol server returned unindexed build 8c42a005732a; 6ffc6399f7aa: symbol server returned unindexed build 4dc6a3b63c1e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "2095371fc754fc533f2fa62a53a4e042160451b6f7fe87fbf822bd9899013979",
+   "error": "2095371fc754: symbol server returned unindexed build 6ee32392a2ec; 30905ed838da: symbol server returned unindexed build fcdc4a02eb37; 99f225ebd31f: symbol server returned unindexed build 20be61a661fd; 6cd463d0fa9b: symbol server returned unindexed build 1cc085da736a"
+  }
+ ]
+}

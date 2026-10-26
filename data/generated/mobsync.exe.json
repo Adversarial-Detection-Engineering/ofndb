@@ -1,0 +1,577 @@
+{
+ "name": "mobsync.exe",
+ "builds": [
+  {
+   "sha256": "d6798d7c82c8f04503fc1bc62074010c39d9a27c0c3171f14b301b2c41615139",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/BFF4093E20000/mobsync.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mobsync.exe"
+  },
+  {
+   "sha256": "d029f04cbb175f78c589cb4a0d3ce80dd6699f5e913a6f1fc53651fcd4da1382",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/B5965BB71c000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "504994a3a8943e9ad96a9034291ccd4007ce467df980f7f6e18fd4a2573f3056",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/561DD3D41c000/mobsync.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\mobsync.exe"
+  },
+  {
+   "sha256": "3bcd4168c8742fa1fa1ad6ed80d923717496597803af8ac494dc0e38a3fddb0c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/19A9BE0C20000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc95d8c153ad3b004819bc9f18c3f5bb98b70cf8b243ea32736c895a9a370a69",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/E8236A6B20000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0eca0c7c6385b0135e31bb5ae02126b6a1dc3912de2262a3f81f76cb3d8240e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/E55F50F81c000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "65c2a4ad1e69454bad5c2be41828e0025749f132786f394f0d38679ea0c68931",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/57899B491d000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2455b74524ea8f12aee8c6b47ce9a463bfd1e1de1bdec0b2a60abd28bcf357e1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/5789913F1b000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "996cc0a0b28099bec3f24c97b517abd04b8c76c8093011efbbb9683dc17f4005",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/5632D84D1b000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4487cfa3f475f51662c22a7e6f3e8664213b30efc77b72ce1c0a40abb0e12ae9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/5632D7DD1a000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "81fafb1127c969f570ca18598a71b2f94ffb974ba2d565eec5927eae3833fe0c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/559F39B21b000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4cd4da575608694123741e4a19f2ad3a9a5b7f41207258f2cdd7434c04868a0f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mobsync.exe",
+   "internal_name": "mobsync.exe",
+   "file_description": "Microsoft Sync Center",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mobsync.exe/559F3C2C1a000/mobsync.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mobsync.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "920fee21d5462174d40654842fbfc4ea91e0d0f61042bf677782a11af98d7ec8",
+   "error": "920fee21d546: symbol server returned unindexed build 34a2cad11d89; 8ac1528e9627: symbol server returned unindexed build 34a2cad11d89; 93b5f615354a: symbol server returned unindexed build 34a2cad11d89; cc2316416cd1: symbol server returned unindexed build 51847e4987fc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "bdfcfe064bdf9ef52283ef472d989f3a28cec2ee59516970cd3ed3a0ee42158a",
+   "error": "bdfcfe064bdf: symbol server returned unindexed build ad0b6c76a7ac; 7b64dc3751fc: symbol server returned unindexed build 8afcd1a2b74a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "bdfcfe064bdf9ef52283ef472d989f3a28cec2ee59516970cd3ed3a0ee42158a",
+   "error": "bdfcfe064bdf: symbol server returned unindexed build ad0b6c76a7ac; 7b64dc3751fc: symbol server returned unindexed build 8afcd1a2b74a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b012f04988f3e2f08a7521e3e143378869462bc8ad84c433ef7df55062a85b8d",
+   "error": "b012f04988f3: symbol server returned unindexed build de389a3d6d94"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "20e6957282a357da0466a2bdcee63e10c819c291fa4a87a16c6489890b3c1d69",
+   "error": "20e6957282a3: symbol server returned unindexed build e19ecd1b99ae"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "7dc063b41e33e50ce34da6d3eb4066d160590acc62884d48b537ccb2d1a197c0",
+   "error": "7dc063b41e33: symbol server returned unindexed build 2bc7048fc5b9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "61248f04a068b1ff16c3609e1454b8e787dd40bff57cc46f4fc18db40ffb8028",
+   "error": "61248f04a068: symbol server returned unindexed build d732490fcffe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "04fe9960d579a3ecfc947928ccb6800d3249216e8b50e74e8b4ae1d20a134941",
+   "error": "04fe9960d579: symbol server returned unindexed build 104e4cf87b65"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "04fe9960d579a3ecfc947928ccb6800d3249216e8b50e74e8b4ae1d20a134941",
+   "error": "04fe9960d579: symbol server returned unindexed build 104e4cf87b65"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "6e83030a6a3e447acb1d38cc07035c1fd5bd2c9e136a57ce99f3ac1be45a7d3d",
+   "error": "6e83030a6a3e: symbol server returned unindexed build 13428e5214b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "6e83030a6a3e447acb1d38cc07035c1fd5bd2c9e136a57ce99f3ac1be45a7d3d",
+   "error": "6e83030a6a3e: symbol server returned unindexed build 13428e5214b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6e83030a6a3e447acb1d38cc07035c1fd5bd2c9e136a57ce99f3ac1be45a7d3d",
+   "error": "6e83030a6a3e: symbol server returned unindexed build 13428e5214b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "fc0a9d457f7ea459e386576ae77deac1a6b95805c2da357086326f5777899928",
+   "error": "fc0a9d457f7e: symbol server returned unindexed build ba6889c1ebc7; 6e83030a6a3e: symbol server returned unindexed build 13428e5214b7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "fc0a9d457f7ea459e386576ae77deac1a6b95805c2da357086326f5777899928",
+   "error": "fc0a9d457f7e: symbol server returned unindexed build ba6889c1ebc7; 6e83030a6a3e: symbol server returned unindexed build 13428e5214b7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "643a36cc8cb43c24ea0a59a6c761f9c77b5aab60ddd4425441790909b6a1e5d4",
+   "error": "643a36cc8cb4: symbol server returned unindexed build 229000e64274; 64e26ec183a8: symbol server returned unindexed build 229000e64274; 09a7a3c11c04: symbol server returned unindexed build 229000e64274; 3d072ea7f458: symbol server returned unindexed build 9b329cb786ba"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "96b22f826e548b9de7719a2b9a78641837e0cb5caadd9f7968f98984f7d3b363",
+   "error": "96b22f826e54: symbol server returned unindexed build 8aa2d6aec456; 46ac69aebd44: symbol server returned unindexed build fb8b2964301a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "96b22f826e548b9de7719a2b9a78641837e0cb5caadd9f7968f98984f7d3b363",
+   "error": "96b22f826e54: symbol server returned unindexed build 8aa2d6aec456; 46ac69aebd44: symbol server returned unindexed build fb8b2964301a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "8689bcff83fbc50214c31cc4a35e413e47c421df17842f7956d4ee2a82de8187",
+   "error": "8689bcff83fb: symbol server returned unindexed build 53b1755b9c8d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "75310f5a78505bde27c4b4b58ae8a4bc14907a698df1f053fd0f8aa7609b0a61",
+   "error": "75310f5a7850: symbol server returned unindexed build 96f45de04b0c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "168a455ae43f8e3c4b531a8b1f19bf51064880c973d035efa33073e2c3169acd",
+   "error": "168a455ae43f: symbol server returned unindexed build 7d3c417aea31"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "a584b2dd163daabdc51f9e41ab3ef154b3e880d17c06dc3fdafd62fc6e266c4f",
+   "error": "a584b2dd163d: symbol server returned unindexed build 807b15db13f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "9b4f0c3f3aa65da01641909996e5455d8030340671b8631a41c5429ceaf35e26",
+   "error": "9b4f0c3f3aa6: symbol server returned unindexed build 5dd180ed78b7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "9b4f0c3f3aa65da01641909996e5455d8030340671b8631a41c5429ceaf35e26",
+   "error": "9b4f0c3f3aa6: symbol server returned unindexed build 5dd180ed78b7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "244b65dc083f033047f8bdcbfe128d6d118d72c113d1dc21e0d2fd16c09a735a",
+   "error": "244b65dc083f: symbol server returned unindexed build 6f6ba5c59eea"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "244b65dc083f033047f8bdcbfe128d6d118d72c113d1dc21e0d2fd16c09a735a",
+   "error": "244b65dc083f: symbol server returned unindexed build 6f6ba5c59eea"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "244b65dc083f033047f8bdcbfe128d6d118d72c113d1dc21e0d2fd16c09a735a",
+   "error": "244b65dc083f: symbol server returned unindexed build 6f6ba5c59eea"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "cfd4424c620f0a6646516ee3383837e778e8696a8681b204b9f48256e5973107",
+   "error": "cfd4424c620f: symbol server returned unindexed build 80537b5a28f3; 244b65dc083f: symbol server returned unindexed build 6f6ba5c59eea"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "cfd4424c620f0a6646516ee3383837e778e8696a8681b204b9f48256e5973107",
+   "error": "cfd4424c620f: symbol server returned unindexed build 80537b5a28f3; 244b65dc083f: symbol server returned unindexed build 6f6ba5c59eea"
+  }
+ ]
+}

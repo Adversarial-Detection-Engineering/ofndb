@@ -1,0 +1,64 @@
+{
+ "name": "imtclnwz.exe",
+ "builds": [
+  {
+   "sha256": "82bc2f8bc7a216707affda6926c4a51de514d7a82180e279cdf5d95053ef44cf",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IMTCLNWZ.exe",
+   "internal_name": "IMTCLNWZ.exe",
+   "file_description": "IMTCLNWZ.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\IMETC\\IMTCLNWZ.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "6777a6b03d5d4593349bbd8e5a7619d6e2abbf110982d1eadcfba52a597b6515",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IMTCLNWZ.exe",
+   "internal_name": "IMTCLNWZ.exe",
+   "file_description": "IMTCLNWZ.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\IMETC\\IMTCLNWZ.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IMTCLNWZ.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

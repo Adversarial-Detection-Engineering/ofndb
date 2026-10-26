@@ -1,0 +1,64 @@
+{
+ "name": "magnify.exe",
+ "builds": [
+  {
+   "sha256": "f93f9974338eddf74722ac92d9799ef1ccd2053d4e75211997b22159f2321a54",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ScreenMagnifier.exe",
+   "internal_name": "ScreenMagnifier.exe",
+   "file_description": "Microsoft Screen Magnifier",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Magnify.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "ada841c1f25e19d83bfd55167e03d5c353994be799fdb01eac8611f691b65f4a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScreenMagnifier.exe",
+   "internal_name": "ScreenMagnifier.exe",
+   "file_description": "Microsoft Screen Magnifier",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Magnify.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ScreenMagnifier.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

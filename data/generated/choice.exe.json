@@ -1,0 +1,442 @@
+{
+ "name": "choice.exe",
+ "builds": [
+  {
+   "sha256": "f0ae8be77fa295e2f7d7261dbc26b6a410d9dee83fe5e3dd9cebdceb01952631",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/F49425FEe000/choice.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\choice.exe"
+  },
+  {
+   "sha256": "6b86f22d00f1526ae8d346a984ef899612ca00a226738c777c427f61c09a726a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/8C461A4Eb000/choice.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\choice.exe"
+  },
+  {
+   "sha256": "f11a3916e2a4d93d823dfcfb043048b49bac84340037f438c96b2af6602719b6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/3235D7D1a000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5c9d93dad910614907b517acde072b9f8614fd6a31685ab739b143067ee63ba1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/A2DC7701d000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "df8085fb7d979c644a751804ed6bd3b74b26ce682291b5e5ede4c76eca599e7e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/578999C9d000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dbf371b359e27fd7595e4487235940ed2e92fd88021965c589c6723a5226ff70",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/57898ED9b000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c50d57fafbc8a3127c9f14bbc10fd27a09b8e1198f002d21c7daed0ebd1f5790",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/5632D7BFb000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5209abe8871cf84b1a148549a5fe3c95cf0f9b310a5ac5b1b768e27dcf003f00",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/5632D82Fd000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e02fd2f66b2a96cc120d7409cf9fb105f1697caa0a0620d2f4cb35f60a5e55b6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/559F3B0Ab000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1edeadafe9d9d2915c4239bd08e99109825b1211aa0c9451dc051cb431c9dc3d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "choice.exe",
+   "internal_name": "choice.exe",
+   "file_description": "Offers the user a choice",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/choice.exe/559F3898d000/choice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "choice.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "93df6338fc616f7748da400123e43d90dcfd3b16b4805be22515911c57e248ef",
+   "error": "93df6338fc61: symbol server returned unindexed build 8a240cd3ec9c; deff057d48ca: symbol server returned unindexed build aaccf5ebc310; 0db0ef126f62: symbol server returned unindexed build aaccf5ebc310; fb6ef3e6e2cd: symbol server returned unindexed build 7b4dd6a48840"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b6ea2f9d8f0777d50c4201d7ad30d27f75987618eb1cc0eaa7712cf268707a8e",
+   "error": "b6ea2f9d8f07: symbol server returned unindexed build 27342c7caf7c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b6ea2f9d8f0777d50c4201d7ad30d27f75987618eb1cc0eaa7712cf268707a8e",
+   "error": "b6ea2f9d8f07: symbol server returned unindexed build 27342c7caf7c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "31b5a9bb971d7321bb0823014be08b6c0cf04ff615421f69345331c95b4ad016",
+   "error": "31b5a9bb971d: symbol server returned unindexed build 77a0407aba69"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "64529cc55f15b19f553948a992f6bed2434019c4e4cb73eb897a7011f81b280e",
+   "error": "64529cc55f15: symbol server returned unindexed build 0bc7ef22dd6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "90f352c1fb7b21cc0216b2f0701a236db92b786e4301904d28f4ec4cb81f2a0b",
+   "error": "90f352c1fb7b: symbol server returned unindexed build 72ff0c718e1b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c31a9d52fd3719b9a984ea8c8e911cc7f08d351c2567e0c165d5f95962df786b",
+   "error": "c31a9d52fd37: symbol server returned unindexed build a880a93ec51b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c31a9d52fd3719b9a984ea8c8e911cc7f08d351c2567e0c165d5f95962df786b",
+   "error": "c31a9d52fd37: symbol server returned unindexed build a880a93ec51b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "b2191c32538842d3fdeff972e5a77527fa35d69fa400aad2aa2798b86fc6cf2a",
+   "error": "b2191c325388: symbol server returned unindexed build ef1efc8923f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "b2191c32538842d3fdeff972e5a77527fa35d69fa400aad2aa2798b86fc6cf2a",
+   "error": "b2191c325388: symbol server returned unindexed build ef1efc8923f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "b2191c32538842d3fdeff972e5a77527fa35d69fa400aad2aa2798b86fc6cf2a",
+   "error": "b2191c325388: symbol server returned unindexed build ef1efc8923f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "b2191c32538842d3fdeff972e5a77527fa35d69fa400aad2aa2798b86fc6cf2a",
+   "error": "b2191c325388: symbol server returned unindexed build ef1efc8923f1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "b2191c32538842d3fdeff972e5a77527fa35d69fa400aad2aa2798b86fc6cf2a",
+   "error": "b2191c325388: symbol server returned unindexed build ef1efc8923f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "40057a7ef5316128610b40add3c1784dccbcee5b1fd9176d7cb5209342b61a18",
+   "error": "40057a7ef531: symbol server returned unindexed build 19ffecac4371; 2368ebf70401: symbol server returned unindexed build 8ef82b328eee; d9d159afe074: symbol server returned unindexed build 8ef82b328eee; 7e2b56d75c1c: symbol server returned unindexed build af3970a488a5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "f1a6b50255ea131758aeeef68fab18c749aca2168d1d6be208f68961d2e47be5",
+   "error": "f1a6b50255ea: symbol server returned unindexed build b2beb9030cda"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "f1a6b50255ea131758aeeef68fab18c749aca2168d1d6be208f68961d2e47be5",
+   "error": "f1a6b50255ea: symbol server returned unindexed build b2beb9030cda"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "c92a65c9dee8e057d74ac6abea8425f4a0da2cffe4420039b7ea2f2534dc97d8",
+   "error": "c92a65c9dee8: symbol server returned unindexed build 22731256393e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "1836b2584b3f081edeefcea3b7ccef91721f8b9a4daea3c6b3e08886a4d0adb8",
+   "error": "1836b2584b3f: symbol server returned unindexed build dca6f7cab0a3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "58900c00ba169518386d4f114a91edef83c2cc1040cc1a0210449f86b1104453",
+   "error": "58900c00ba16: symbol server returned unindexed build 97d912ae87d4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "a5a0b18ec249033cbc5629cc477ee81aa1b159c3f8b8eed4be95f4494d4b52bd",
+   "error": "a5a0b18ec249: symbol server returned unindexed build 94fa3fa6a385"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "a5a0b18ec249033cbc5629cc477ee81aa1b159c3f8b8eed4be95f4494d4b52bd",
+   "error": "a5a0b18ec249: symbol server returned unindexed build 94fa3fa6a385"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "f6e5759793032bb3ce69658d0d4f0049a06e25fdc316d457846bb644212730af",
+   "error": "f6e575979303: symbol server returned unindexed build 643dfabdc2a3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "f6e5759793032bb3ce69658d0d4f0049a06e25fdc316d457846bb644212730af",
+   "error": "f6e575979303: symbol server returned unindexed build 643dfabdc2a3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "f6e5759793032bb3ce69658d0d4f0049a06e25fdc316d457846bb644212730af",
+   "error": "f6e575979303: symbol server returned unindexed build 643dfabdc2a3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "f6e5759793032bb3ce69658d0d4f0049a06e25fdc316d457846bb644212730af",
+   "error": "f6e575979303: symbol server returned unindexed build 643dfabdc2a3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "f6e5759793032bb3ce69658d0d4f0049a06e25fdc316d457846bb644212730af",
+   "error": "f6e575979303: symbol server returned unindexed build 643dfabdc2a3"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "mrt.exe",
+ "builds": [
+  {
+   "sha256": "3efb81098f35bc2efb39f9d46af3e13b34f8d804d5e7db055e77d47890edbcc6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mrt.exe",
+   "internal_name": "mrt.exe",
+   "file_description": "أداة إزالة البرامج الضارة لـ Microsoft Windows",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Windows Malicious Software Removal Tool",
+   "file_version": "5.146.26100.1003 (00d5e7f60e0821c56bc95aec60e9be9ae726c9af)",
+   "fixed_file_version": "5.146.26100.1003",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MRT.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mrt.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "5.146.26100.1003",
+   "max_version": "5.146.26100.1003",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

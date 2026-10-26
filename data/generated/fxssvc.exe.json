@@ -1,0 +1,447 @@
+{
+ "name": "fxssvc.exe",
+ "builds": [
+  {
+   "sha256": "c685b1bf3c5ed6328ffaa4214a16c0df5afb7dc0bfd192c22793255edcf6563f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.5717 (rs1_release.230203-1742)",
+   "fixed_file_version": "10.0.14393.5717",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2023-02-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.5717",
+    "14393.5786",
+    "14393.5850",
+    "14393.5921",
+    "14393.5989",
+    "14393.5996",
+    "14393.6085",
+    "14393.6167",
+    "14393.6252",
+    "14393.6351",
+    "14393.6452",
+    "14393.6529",
+    "14393.6614",
+    "14393.6709",
+    "14393.6796",
+    "14393.6799",
+    "14393.6897",
+    "14393.6981",
+    "14393.7070",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/63DDDAAFa3000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5f284ac2c8951e5d1e21246a218f8ada4de8f4df1d5b73b69024dedc1b045988",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/F7FECF44b2000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2fa6bbbb9644938d52a28fcc46f3dea3a80ec12ccaf71c67e8a4abdd9d240ed3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/634714E4b2000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f31b81c73d3d8bfeb154d8e233251bd671777e8234a1379e1877ec319a6b0cb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.19747 (th1.230130-1720)",
+   "fixed_file_version": "10.0.10240.19747",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2023-02-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/63D8AC0Ea5000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "19b0c89d01b857d126b562ad21668270dc4687f172f22326f009639d23d9074d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2604 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2604",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-02-14",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/303014B9a7000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c88f0dd3e30bb9138a1c7f71f2801f5dd09bc108ec27cee1e92e0d4e79665e83",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.856 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.856",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-08-09",
+   "last_seen": "2023-01-19",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/B780EA74a7000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9bc4e25f7f49517dbedeaca1bb31060fbc587ac31b80b510d9ca61076c6ec6cd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.3165 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.3165",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2022-07-12",
+   "last_seen": "2022-07-21",
+   "os_builds": [
+    "17763.3165",
+    "17763.3232"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/ED7CDD7Ea0000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1de2be783c9ef9221df773284db103892eb6f69ca38e4d2518ef0ff5f2d3d622",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2026 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2026",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-02-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/287085DEa2000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9e1ec0c719877ef198aa4ddbe896e9ddead360aac1fc6df305e7c5c73c7a761d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FXSSVC.EXE",
+   "internal_name": "FXSSVC.EXE",
+   "file_description": "Fax Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/fxssvc.exe/5632D672a5000/fxssvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FXSSVC.EXE",
+   "builds": 9,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1803",
+    "1809",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.19747",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "93bde3b8118769dec6c481415a5f5300937f892d829faf41aabf1fe88e47345d",
+   "error": "93bde3b81187: symbol server returned unindexed build 8913fc2ceffe; 69ef759216b7: symbol server returned unindexed build 2d8c33945587; 89c7543c9eb6: symbol server returned unindexed build 43875825c79c; 2dcacdba0994: symbol server returned unindexed build 177af2a8fce0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "93bde3b8118769dec6c481415a5f5300937f892d829faf41aabf1fe88e47345d",
+   "error": "93bde3b81187: symbol server returned unindexed build 8913fc2ceffe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "2dc08d4db682a549a319f12e28076b2d2773570f8053ea96b55d8b76e411f27a",
+   "error": "2dc08d4db682: symbol server returned unindexed build c6381aaed981; 3d18997e878c: symbol server returned unindexed build 44ea2aca0de8; 15948d017e3b: symbol server returned unindexed build aa19167f7748"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "edd852ef89afbddbbbe002e6675eafcc46742b6136eb22428c84d737c6229fea",
+   "error": "edd852ef89af: symbol server returned unindexed build c7c2703e476b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "0257954d0c8978c7e163c918a79a5d35aa7626d9d5236ba55feaa3eb5a44dbef",
+   "error": "0257954d0c89: symbol server returned unindexed build bfa0471403d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c02db4d20440df85607a71133492b7a76ff2eba149e9abbaf3b44474654d027f",
+   "error": "c02db4d20440: symbol server returned unindexed build e2cdb7002dcd; 063a677670cb: symbol server returned unindexed build ce1a11370573; 0257954d0c89: symbol server returned unindexed build bfa0471403d2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "f5f1381269a303798d5c879cca0f7f627be5081ab292fe652a86564010cd7e6e",
+   "error": "f5f1381269a3: symbol server returned unindexed build 42dae381214c; d70cb3598af1: symbol server returned unindexed build 20bc0691a46e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "f5f1381269a303798d5c879cca0f7f627be5081ab292fe652a86564010cd7e6e",
+   "error": "f5f1381269a3: symbol server returned unindexed build 42dae381214c"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "streams.exe",
+ "builds": [
+  {
+   "sha256": "f0e8bdbf4f75c13fa55eb983ca9380ce5da0ac0fdc9a8f02d82446fab664fe96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "streams.exe",
+   "internal_name": "streams",
+   "file_description": "Reveal NTFS alternate streams.",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Streams",
+   "file_version": "1.60",
+   "fixed_file_version": "1.60.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Streams",
+   "release": "2020-04-30",
+   "last_seen": "2020-04-30",
+   "download_url": "https://live.sysinternals.com/streams.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "streams.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.60.0.0",
+   "max_version": "1.60.0.0",
+   "first_seen": "2020-04-30",
+   "last_seen": "2020-04-30",
+   "provenance": "parsed"
+  }
+ ]
+}

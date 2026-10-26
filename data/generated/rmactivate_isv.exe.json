@@ -1,0 +1,64 @@
+{
+ "name": "rmactivate_isv.exe",
+ "builds": [
+  {
+   "sha256": "c7154aa751bf09eea9c9682c0881c050bee79a02a030667821edc39d6b803155",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rmactivate.exe",
+   "internal_name": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "file_description": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RMActivate_isv.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "c0461d5ce9b1d69a82de8f1ce0a405008d4e8b06842a9724fafa0de56d07b009",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rmactivate.exe",
+   "internal_name": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "file_description": "Windows Rights Management Services Activation for Desktop Security Processor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RMActivate_isv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rmactivate.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

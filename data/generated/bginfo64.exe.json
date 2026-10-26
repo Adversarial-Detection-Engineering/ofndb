@@ -1,0 +1,47 @@
+{
+ "name": "bginfo64.exe",
+ "builds": [
+  {
+   "sha256": "1d00da4ecb04825ae2106adc5fe70e9317976c5ace85f335894d22c4e2c04d54",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BGInfo.exe",
+   "internal_name": "BGInfo",
+   "file_description": "BGInfo - Wallpaper text configurator",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "BGInfo",
+   "file_version": "4.34",
+   "fixed_file_version": "4.34.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "BGInfo",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/Bginfo64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BGInfo.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "4.34.0.0",
+   "max_version": "4.34.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

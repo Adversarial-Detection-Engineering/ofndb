@@ -1,0 +1,44 @@
+{
+ "name": "inspectvhddialog.exe",
+ "builds": [
+  {
+   "sha256": "f680cf1ddc2097c5247868f8d2f892b058afa4a0faeb5cb4531c7912cfbf8f52",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InspectVhdDialog.exe",
+   "internal_name": "InspectVhdDialog.exe",
+   "file_description": "Inspect VHD Dialog",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\InspectVhdDialog\\v4.0_10.0.0.0__31bf3856ad364e35\\InspectVhdDialog.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "InspectVhdDialog.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

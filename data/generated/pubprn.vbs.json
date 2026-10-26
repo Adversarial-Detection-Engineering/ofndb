@@ -1,0 +1,129 @@
+{
+ "name": "pubprn.vbs",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "11-21H2",
+   "sha256": "053b04dbf8496eb4f9a690a90beac37786044fc18cb71bcc0ce73028afcc1fbf",
+   "error": "053b04dbf849: NotFound: no timestamp/image size in winbindex, no symbol server URL; 25b64fac0620: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "11-22H2",
+   "sha256": "c00ae416495d5be873373955b8dce884ffba0cbb760968001d8470f3ca3b7cd2",
+   "error": "c00ae416495d: NotFound: no timestamp/image size in winbindex, no symbol server URL; b955accb3a64: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "11-23H2",
+   "sha256": "c00ae416495d5be873373955b8dce884ffba0cbb760968001d8470f3ca3b7cd2",
+   "error": "c00ae416495d: NotFound: no timestamp/image size in winbindex, no symbol server URL; b955accb3a64: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "11-24H2",
+   "sha256": "0ac3ea39d24debb146d4ab306fbaec9478554e240d4d4ebff6adbf14b7e22a5b",
+   "error": "0ac3ea39d24d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfd289b7439: NotFound: no timestamp/image size in winbindex, no symbol server URL; 1c603bcaf553: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2c315accac88: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "11-25H2",
+   "sha256": "66cfcceb4bcdc78c2d44262e83c9b06e4ae3ca49741fcc96613c27ebb0994d8c",
+   "error": "66cfcceb4bcd: NotFound: no timestamp/image size in winbindex, no symbol server URL; 015b48b8d584: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "11-26H1",
+   "sha256": "0ac3ea39d24debb146d4ab306fbaec9478554e240d4d4ebff6adbf14b7e22a5b",
+   "error": "0ac3ea39d24d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfd289b7439: NotFound: no timestamp/image size in winbindex, no symbol server URL; 1c603bcaf553: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2c315accac88: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1507",
+   "sha256": "b44adfa5190da89521cf52354321a6e8e5bde1c993c5d0ba2f0bea9adfa456d0",
+   "error": "b44adfa5190d: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1511",
+   "sha256": "b44adfa5190da89521cf52354321a6e8e5bde1c993c5d0ba2f0bea9adfa456d0",
+   "error": "b44adfa5190d: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1607",
+   "sha256": "b44adfa5190da89521cf52354321a6e8e5bde1c993c5d0ba2f0bea9adfa456d0",
+   "error": "b44adfa5190d: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1703",
+   "sha256": "0ac3ea39d24debb146d4ab306fbaec9478554e240d4d4ebff6adbf14b7e22a5b",
+   "error": "0ac3ea39d24d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfd289b7439: NotFound: no timestamp/image size in winbindex, no symbol server URL; 1c603bcaf553: NotFound: no timestamp/image size in winbindex, no symbol server URL; 1eb344920601: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1709",
+   "sha256": "6bfde3f021a093111c7e124dba7e9988610fe46703ecffa90ec5bf81ce96a3ba",
+   "error": "6bfde3f021a0: NotFound: no timestamp/image size in winbindex, no symbol server URL; bee12c034dcf: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0ac3ea39d24d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfd289b7439: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1803",
+   "sha256": "0ac3ea39d24debb146d4ab306fbaec9478554e240d4d4ebff6adbf14b7e22a5b",
+   "error": "0ac3ea39d24d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfd289b7439: NotFound: no timestamp/image size in winbindex, no symbol server URL; 1c603bcaf553: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2c315accac88: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1809",
+   "sha256": "0ac3ea39d24debb146d4ab306fbaec9478554e240d4d4ebff6adbf14b7e22a5b",
+   "error": "0ac3ea39d24d: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfd289b7439: NotFound: no timestamp/image size in winbindex, no symbol server URL; 1c603bcaf553: NotFound: no timestamp/image size in winbindex, no symbol server URL; 2c315accac88: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1903",
+   "sha256": "619111f5aa72605a8833370b0429e35c748de85966360ad78015ff8202900679",
+   "error": "619111f5aa72: NotFound: no timestamp/image size in winbindex, no symbol server URL; 9f9b47ede21d: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "1909",
+   "sha256": "619111f5aa72605a8833370b0429e35c748de85966360ad78015ff8202900679",
+   "error": "619111f5aa72: NotFound: no timestamp/image size in winbindex, no symbol server URL; 9f9b47ede21d: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "2004",
+   "sha256": "44d2e86c1c7d0592133bc7bc0464b32ff97c3bfb74dc47b9bbd3b4fe0451ce80",
+   "error": "44d2e86c1c7d: NotFound: no timestamp/image size in winbindex, no symbol server URL; dea23e3f89fa: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "20H2",
+   "sha256": "44d2e86c1c7d0592133bc7bc0464b32ff97c3bfb74dc47b9bbd3b4fe0451ce80",
+   "error": "44d2e86c1c7d: NotFound: no timestamp/image size in winbindex, no symbol server URL; dea23e3f89fa: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "21H1",
+   "sha256": "44d2e86c1c7d0592133bc7bc0464b32ff97c3bfb74dc47b9bbd3b4fe0451ce80",
+   "error": "44d2e86c1c7d: NotFound: no timestamp/image size in winbindex, no symbol server URL; dea23e3f89fa: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "21H2",
+   "sha256": "44d2e86c1c7d0592133bc7bc0464b32ff97c3bfb74dc47b9bbd3b4fe0451ce80",
+   "error": "44d2e86c1c7d: NotFound: no timestamp/image size in winbindex, no symbol server URL; dea23e3f89fa: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "None",
+   "windows_version": "22H2",
+   "sha256": "44d2e86c1c7d0592133bc7bc0464b32ff97c3bfb74dc47b9bbd3b4fe0451ce80",
+   "error": "44d2e86c1c7d: NotFound: no timestamp/image size in winbindex, no symbol server URL; dea23e3f89fa: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "atieclxx.exe",
+ "builds": [
+  {
+   "sha256": "9276c537b2f80bdfa2c82a7ddcd20d5496c5e3ab82b444db38a461952c684725",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ATIECLXX.EXE",
+   "internal_name": "ATIECLXX.EXE",
+   "file_description": "AMD External Events Client Module",
+   "company_name": "AMD",
+   "product_name": "AMD External Events",
+   "file_version": "6.14.11.1290",
+   "fixed_file_version": "32.0.21036.18",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\atieclxx.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ATIECLXX.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "32.0.21036.18",
+   "max_version": "32.0.21036.18",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

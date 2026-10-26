@@ -1,0 +1,47 @@
+{
+ "name": "psservice.exe",
+ "builds": [
+  {
+   "sha256": "d3a816fe5d545a80e4639b34b90d92d1039eb71ef59e6e81b3c0e043a45b751c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "psservice.exe",
+   "internal_name": "PsService",
+   "file_description": "Service information and configuration utility",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals psservice",
+   "file_version": "2.26",
+   "fixed_file_version": "2.26.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals psservice",
+   "release": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "download_url": "https://live.sysinternals.com/PsService.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psservice.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.26.0.0",
+   "max_version": "2.26.0.0",
+   "first_seen": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "provenance": "parsed"
+  }
+ ]
+}

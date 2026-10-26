@@ -1,0 +1,452 @@
+{
+ "name": "scrcons.exe",
+ "builds": [
+  {
+   "sha256": "e99cba8b5ede83202875121def3e665e1bd0b637c37e73bcc205bcac8306e627",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScrCons",
+   "internal_name": "ScrCons",
+   "file_description": "WMI Standard Event Consumer - scripting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/scrcons.exe/E02EF98E12000/scrcons.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wbem\\scrcons.exe"
+  },
+  {
+   "sha256": "877426e95dbe8925b26b42e3707b6753128b0b0d087d7f6fd347a011470ad518",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScrCons",
+   "internal_name": "ScrCons",
+   "file_description": "WMI Standard Event Consumer - scripting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/scrcons.exe/675BBFAD12000/scrcons.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "87d8af6c1c730f6ccc495e16a1cdcd2513b078982880973d21dca768401432d4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScrCons",
+   "internal_name": "ScrCons",
+   "file_description": "WMI Standard Event Consumer - scripting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/scrcons.exe/E74B164012000/scrcons.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e4aa4dbff38e5bf92669ecb2bb616323d26807e8001d92ec372ae3534032115a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScrCons",
+   "internal_name": "ScrCons",
+   "file_description": "WMI Standard Event Consumer - scripting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.17797 (th1_st1.180228-1829)",
+   "fixed_file_version": "10.0.10240.17797",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2018-03-13",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.17797",
+    "10240.17831",
+    "10240.17861",
+    "10240.17889",
+    "10240.17914",
+    "10240.17918",
+    "10240.17946",
+    "10240.17976",
+    "10240.18005",
+    "10240.18036",
+    "10240.18063",
+    "10240.18064",
+    "10240.18094",
+    "10240.18132",
+    "10240.18135",
+    "10240.18158",
+    "10240.18186",
+    "10240.18187",
+    "10240.18215",
+    "10240.18218",
+    "10240.18244",
+    "10240.18275",
+    "10240.18305",
+    "10240.18308",
+    "10240.18333",
+    "10240.18334",
+    "10240.18335",
+    "10240.18368",
+    "10240.18395",
+    "10240.18427",
+    "10240.18453",
+    "10240.18486",
+    "10240.18519",
+    "10240.18545",
+    "10240.18575",
+    "10240.18608",
+    "10240.18609",
+    "10240.18638",
+    "10240.18666",
+    "10240.18696",
+    "10240.18725",
+    "10240.18756",
+    "10240.18782",
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/scrcons.exe/5A97990110000/scrcons.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7154b0624717dfe981520581e31ad7e53f3d77ba9edceed88be397aa5e4e9b19",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScrCons",
+   "internal_name": "ScrCons",
+   "file_description": "WMI Standard Event Consumer - scripting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/scrcons.exe/57899AB310000/scrcons.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cd9cab47d032963a0f305744ceab21f5f81038d3b698b7051473df671e1b27e7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ScrCons",
+   "internal_name": "ScrCons",
+   "file_description": "WMI Standard Event Consumer - scripting",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/scrcons.exe/5632D80D10000/scrcons.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ScrCons",
+   "builds": 6,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.17797",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "e345e2bdbefb8f63b1f07801393205c3d3d9fd6015b147301a8422759afc20cf",
+   "error": "e345e2bdbefb: symbol server returned unindexed build 0b56f3dfc7ff; 1b5c1cfde98a: symbol server returned unindexed build 0b56f3dfc7ff; c424f0babf9a: symbol server returned unindexed build 0b56f3dfc7ff; 30ad459b1aa8: symbol server returned unindexed build 0b56f3dfc7ff"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "2905470594e35528d9604935e2f4a8c3deac6d5fecb39ae546ac188a6220ed94",
+   "error": "2905470594e3: symbol server returned unindexed build 7640bf348311"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "2905470594e35528d9604935e2f4a8c3deac6d5fecb39ae546ac188a6220ed94",
+   "error": "2905470594e3: symbol server returned unindexed build 7640bf348311"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "4da3e6f87ccfd5d32a17d3cb6a5bb5b9ffd069fd92a96a6fb155f998581ab4a1",
+   "error": "4da3e6f87ccf: symbol server returned unindexed build 2a7ed4f91649; 6d92af5931fe: symbol server returned unindexed build de379b1a94ee"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "3ea7f6348c8783d810353f2961e1e7ee82e8dfa1366a1d65dc38eeb0a1866ae6",
+   "error": "3ea7f6348c87: symbol server returned unindexed build 888839e4a134"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "688d4afc0874b4f4d1ed7066428271572b9698ac1d63fd70690a28088665e52a",
+   "error": "688d4afc0874: symbol server returned unindexed build 8fa91a34b0b5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "2c91f17dd33e78430451d47f2e26715eb6e1fd8125e530182ec0caceb4cd755f",
+   "error": "2c91f17dd33e: symbol server returned unindexed build 909d0f04c257"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "6c02d54afe705d7df7db7ee94d92afdefb2fb91f9d1805c970126a096df52786",
+   "error": "6c02d54afe70: symbol server returned unindexed build ac0736310dc6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6c02d54afe705d7df7db7ee94d92afdefb2fb91f9d1805c970126a096df52786",
+   "error": "6c02d54afe70: symbol server returned unindexed build ac0736310dc6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "f96c187199362265fac87adb337db242d24f9b313407646f89da62a1ed12b6d9",
+   "error": "f96c18719936: symbol server returned unindexed build 915ecc4afbc3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "f96c187199362265fac87adb337db242d24f9b313407646f89da62a1ed12b6d9",
+   "error": "f96c18719936: symbol server returned unindexed build 915ecc4afbc3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "f96c187199362265fac87adb337db242d24f9b313407646f89da62a1ed12b6d9",
+   "error": "f96c18719936: symbol server returned unindexed build 915ecc4afbc3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "f96c187199362265fac87adb337db242d24f9b313407646f89da62a1ed12b6d9",
+   "error": "f96c18719936: symbol server returned unindexed build 915ecc4afbc3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "f96c187199362265fac87adb337db242d24f9b313407646f89da62a1ed12b6d9",
+   "error": "f96c18719936: symbol server returned unindexed build 915ecc4afbc3"
+  }
+ ]
+}

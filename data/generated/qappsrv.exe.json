@@ -1,0 +1,44 @@
+{
+ "name": "qappsrv.exe",
+ "builds": [
+  {
+   "sha256": "5581617f747ecce4a00e987f1d7bc708a6ca417695cd5ef2457d9d117c5331c9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qappsrv.exe",
+   "internal_name": "qappsrv",
+   "file_description": "Query Remote Desktop Session Host Server Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\qappsrv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "qappsrv.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7623",
+   "max_version": "10.0.26100.7623",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

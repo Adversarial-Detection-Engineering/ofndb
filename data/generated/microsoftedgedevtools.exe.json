@@ -1,0 +1,44 @@
+{
+ "name": "microsoftedgedevtools.exe",
+ "builds": [
+  {
+   "sha256": "4bb852d856f93e6895639220ffe698c5fe88f95703b4a6af1b66d83692143791",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MicrosoftEdgeCP.exe",
+   "internal_name": "MicrosoftEdgeCP",
+   "file_description": "Microsoft Edge Content Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge Web Platform",
+   "file_version": "11.00.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MicrosoftEdgeDevTools.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MicrosoftEdgeCP.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.8115",
+   "max_version": "11.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

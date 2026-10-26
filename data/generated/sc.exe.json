@@ -1,0 +1,567 @@
+{
+ "name": "sc.exe",
+ "builds": [
+  {
+   "sha256": "f4146eac9a056d855a55bf688684fdf90c630c271830e7055b0dca9e1b3e95ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/790CBF0F14000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a452bfcb6000d03942ddfaddcda5a7eb121447ed99b1ba090446b4a989f1f7ae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4484 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4484",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-06-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/A10B588219000/sc.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sc.exe"
+  },
+  {
+   "sha256": "42167403ed27f1f61e02a6a73dad01a66093283943e59d59174608f20572897b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4484 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4484",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-06-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/0804F3A714000/sc.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\sc.exe"
+  },
+  {
+   "sha256": "1880d7836af12a76bd2cb38418fd95cdae3e37daa7913a37142716fcf5f23805",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/CCCF2BEE1a000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b6ce75e1d5b462cf6814c917d294232e8b83083539e6898ee2deac009f60e56d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/578990C113000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8a775b86ce1a057e290ccd26c59c96070684468a3119790743a346cd54f4dfdf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/57899B5116000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9530f19fa267a5fdf3cc29a51c68529950af90b0bf1115a9dca5b65c8a6e232d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/5632D7B516000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3fa82ae9766dbcd17181d0f9ee475327f3e127faea0b76a636227f2dc2d4b233",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/5632D73812000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c31d04bf1dbca0b23b09d6d20d043c6e7944a1857eb515a8e9307c1b7a1853ab",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/559F3B1012000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5b9cb431bb0557cd3a6e61542c8bec0399399a1096608aa5c4ccc5a8c45d956e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sc.exe",
+   "internal_name": "sc.exe",
+   "file_description": "Service Control Manager Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sc.exe/559F389E16000/sc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sc.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "8a5410d1a08fcc5cf03b9ce98e62e0049e8e8295cd35b845eebdc882ca657bc1",
+   "error": "8a5410d1a08f: symbol server returned unindexed build 14e952af7c04"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "67cbe3a7b9c9b7a2e9fb10a33c1a9a3fd297b6f1598aea374bd9b5d2dee352ec",
+   "error": "67cbe3a7b9c9: symbol server returned unindexed build 5f67ceffc07c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "67cbe3a7b9c9b7a2e9fb10a33c1a9a3fd297b6f1598aea374bd9b5d2dee352ec",
+   "error": "67cbe3a7b9c9: symbol server returned unindexed build 5f67ceffc07c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "434afbe89876afbc27b6fcd1995eadef02d9a76c6fb044b9108a2f48dfce5c6b",
+   "error": "434afbe89876: symbol server returned unindexed build ce910289b198"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "34128709cb5bc2b222dc6f25561a07b1f90689800a84931ac5d37c50a548f908",
+   "error": "34128709cb5b: symbol server returned unindexed build 31c2d1ba57d9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "aeb241959f4a7b7c29f45d27fd65c5326f9592d25badd1a7659de0da351bf96e",
+   "error": "aeb241959f4a: symbol server returned unindexed build d3997e84a41a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "78097c7cd0e57902536c60b7fa17528c313db20869e5f944223a0ba4c801d39b",
+   "error": "78097c7cd0e5: symbol server returned unindexed build 5eb65ab962c9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "39c59c362649090b4d34e5c8221c6e86552c07fe2df3478d591a68b70917bc0a",
+   "error": "39c59c362649: symbol server returned unindexed build 64e4c0575a17"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "39c59c362649090b4d34e5c8221c6e86552c07fe2df3478d591a68b70917bc0a",
+   "error": "39c59c362649: symbol server returned unindexed build 64e4c0575a17"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "41f067c3a11b02fe39947f9eba68ae5c7cb5bd1872a6009a4cd1506554a9aba9",
+   "error": "41f067c3a11b: symbol server returned unindexed build 246f2a518495"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "41f067c3a11b02fe39947f9eba68ae5c7cb5bd1872a6009a4cd1506554a9aba9",
+   "error": "41f067c3a11b: symbol server returned unindexed build 246f2a518495"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "41f067c3a11b02fe39947f9eba68ae5c7cb5bd1872a6009a4cd1506554a9aba9",
+   "error": "41f067c3a11b: symbol server returned unindexed build 246f2a518495"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "41f067c3a11b02fe39947f9eba68ae5c7cb5bd1872a6009a4cd1506554a9aba9",
+   "error": "41f067c3a11b: symbol server returned unindexed build 246f2a518495"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "41f067c3a11b02fe39947f9eba68ae5c7cb5bd1872a6009a4cd1506554a9aba9",
+   "error": "41f067c3a11b: symbol server returned unindexed build 246f2a518495"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "3dfd292a4ae6bfd43b7796b009198d1f7b9342b14acd0a20613ef0fe0dd0cbd8",
+   "error": "3dfd292a4ae6: symbol server returned unindexed build cf39d7b5d6e5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "3ce81fa5051c945f70953a70d71be30708d7831b97a5c95070bf9972d6e9fce2",
+   "error": "3ce81fa5051c: symbol server returned unindexed build 4d94c129802d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "3ce81fa5051c945f70953a70d71be30708d7831b97a5c95070bf9972d6e9fce2",
+   "error": "3ce81fa5051c: symbol server returned unindexed build 4d94c129802d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "6137d580bf63b78946eb38c759e1088ea575230862bd2f5033f2e11de8edccf8",
+   "error": "6137d580bf63: symbol server returned unindexed build 4c676e870ad5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "4d1668fb5d66a972ac0fb7e3fea69003d7fa50116b8f21e5f277972f0177c042",
+   "error": "4d1668fb5d66: symbol server returned unindexed build 704680d94dbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "3047d5c22a245d1e4294fcd547ec5fb0f2e5ef030b764424acc74e7744fbe32e",
+   "error": "3047d5c22a24: symbol server returned unindexed build e0802acc9021"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "604492b8398751f0798079cec26d674c125885f55b2beab1bc484ebdb723bb63",
+   "error": "604492b83987: symbol server returned unindexed build 25c4600d6036"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "23e7f413deb59eec7f0769c44c35dd332e2c9838e79bc05eb3ee9d653269e614",
+   "error": "23e7f413deb5: symbol server returned unindexed build 675860d075c3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "23e7f413deb59eec7f0769c44c35dd332e2c9838e79bc05eb3ee9d653269e614",
+   "error": "23e7f413deb5: symbol server returned unindexed build 675860d075c3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "4fe6d9eb8109fb79ff645138de7cff37906867aade589bd68afa503a9ab3cfb2",
+   "error": "4fe6d9eb8109: symbol server returned unindexed build 5b15d02a4d2e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4fe6d9eb8109fb79ff645138de7cff37906867aade589bd68afa503a9ab3cfb2",
+   "error": "4fe6d9eb8109: symbol server returned unindexed build 5b15d02a4d2e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "4fe6d9eb8109fb79ff645138de7cff37906867aade589bd68afa503a9ab3cfb2",
+   "error": "4fe6d9eb8109: symbol server returned unindexed build 5b15d02a4d2e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "4fe6d9eb8109fb79ff645138de7cff37906867aade589bd68afa503a9ab3cfb2",
+   "error": "4fe6d9eb8109: symbol server returned unindexed build 5b15d02a4d2e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "4fe6d9eb8109fb79ff645138de7cff37906867aade589bd68afa503a9ab3cfb2",
+   "error": "4fe6d9eb8109: symbol server returned unindexed build 5b15d02a4d2e"
+  }
+ ]
+}

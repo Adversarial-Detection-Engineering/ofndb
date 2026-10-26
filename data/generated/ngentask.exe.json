@@ -1,0 +1,64 @@
+{
+ "name": "ngentask.exe",
+ "builds": [
+  {
+   "sha256": "737c36ec37518f2b996ce884cf1dc2a3e23fdc5e01ff4c8cd1b08c85e8ebcd1b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "NGenTask.exe",
+   "internal_name": "NGenTask.exe",
+   "file_description": "Microsoft .NET Framework optimization service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10002.0 built by: 62a134a4c000002",
+   "fixed_file_version": "4.8.10002.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ngentask.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "47fa996723f26b7a33303e1e95b5297c76566d1f72a75194bb622b8525180f27",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NGenTask.exe",
+   "internal_name": "NGenTask.exe",
+   "file_description": "Microsoft .NET Framework optimization service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10002.0 built by: 62a134a4c000000",
+   "fixed_file_version": "4.8.10002.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\ngentask.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NGenTask.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10002.0",
+   "max_version": "4.8.10002.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

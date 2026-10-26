@@ -1,0 +1,417 @@
+{
+ "name": "chcp.com",
+ "builds": [
+  {
+   "sha256": "de572182868756f714f44fe9ec0ad514710e0745c2a1795764ff8e38fbf45d62",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/B697F1DC7000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8d75e783f327f899a42927fc2927f0e3d1ec62c4ca1dc88de04dd67de9ae555d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/11B05F339000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c5d29fd4a61366c3f1dcbf5066254de119ca1cf743e1c637310b001ba86b2a45",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/C5A3D2DD8000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9fdbdf88cf2bb2794c416e3083553f2898ac9dc92dfac2478b4c1df667df7c74",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/578999FA8000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "28414f889ce62f31a97231cc9c2e45da4e504f03ccd1dd5f935c1b5736bed64d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/57898F087000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e40c68b6428b1033cf84747adf3d5dae956c99323427e501ed17bd5456809025",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/5632D8FF9000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "917e7a8b8273b8cd11327a3bc5a757ae218ac997c4fcef7a6115d3d521ba569f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/5632D8A97000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "127df852c85fd8a71e72c2ced01e61c830e0db29f1dd76269e06be7356b76817",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/559F3B297000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1224d2ef1962ace08b7fa3a40c34e3549b49d3592427b201a3e36eaf9ca5cb4f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CHCP.COM",
+   "internal_name": "chcp",
+   "file_description": "Change CodePage Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/chcp.com/559F38B79000/chcp.com",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CHCP.COM",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "c6c6afb19bc8fd23ddccf6bb8e372b475f90e4757a5a7f021298862854bd79ca",
+   "error": "c6c6afb19bc8: symbol server returned unindexed build b2919a6c1463"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "ab5581453ba81f7ef13a7800ce2f94b46f74e36991b6ff61115c353b025ae53b",
+   "error": "ab5581453ba8: symbol server returned unindexed build 185d2956d2e9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "ab5581453ba81f7ef13a7800ce2f94b46f74e36991b6ff61115c353b025ae53b",
+   "error": "ab5581453ba8: symbol server returned unindexed build 185d2956d2e9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "d669e9dc381759520bbfbbd8ecff201af34914326cba580e611b35702c1d34bd",
+   "error": "d669e9dc3817: symbol server returned unindexed build 966089736bd6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "27a4e9f4699e4e592f385dc018e4eb4d7bdaae437434237db1350b14851c8bf9",
+   "error": "27a4e9f4699e: symbol server returned unindexed build 574158023716"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "1262351d764fb4baa16acff7fb89d9715cff7b4641eec1ab4dffba2e7a53d79b",
+   "error": "1262351d764f: symbol server returned unindexed build f419ce133f7d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "a4b7008f01941927476eb733e80808eabbb9e8051bd4bb20444daebf88fe277e",
+   "error": "a4b7008f0194: symbol server returned unindexed build 1f67250fb62c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "a4b7008f01941927476eb733e80808eabbb9e8051bd4bb20444daebf88fe277e",
+   "error": "a4b7008f0194: symbol server returned unindexed build 1f67250fb62c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "1f29da3086e3bcd9f191528ff7b47bd5070509199a63dab7a19bf39d21a7f618",
+   "error": "1f29da3086e3: symbol server returned unindexed build 1b27c25eaa6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "025622772afb1486f4f7000b70cc51a20a640474d6e4dbe95a70beb3fd53ad40",
+   "error": "025622772afb: symbol server returned unindexed build 587764a34de4; 1f29da3086e3: symbol server returned unindexed build 1b27c25eaa6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "1f29da3086e3bcd9f191528ff7b47bd5070509199a63dab7a19bf39d21a7f618",
+   "error": "1f29da3086e3: symbol server returned unindexed build 1b27c25eaa6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "f596974158428e42aa47e9eddccb5a854f20cbd2df9d0c044093f38514c56328",
+   "error": "f59697415842: NotFound: no timestamp/image size in winbindex, no symbol server URL; 40f8a52eea41: NotFound: no timestamp/image size in winbindex, no symbol server URL; 025622772afb: symbol server returned unindexed build 587764a34de4; 1f29da3086e3: symbol server returned unindexed build 1b27c25eaa6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "f596974158428e42aa47e9eddccb5a854f20cbd2df9d0c044093f38514c56328",
+   "error": "f59697415842: NotFound: no timestamp/image size in winbindex, no symbol server URL; 025622772afb: symbol server returned unindexed build 587764a34de4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "c8e2f1fe42fc320fcf65f96637c4a1f9adf5bf3902caa36f990aafd5d92c057c",
+   "error": "c8e2f1fe42fc: symbol server returned unindexed build 4687164f7043"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "a8cdb0ec6269d5c6bdbc3d769d4784f5a9ab42033b7944b1f5d78570a2bc6c5b",
+   "error": "a8cdb0ec6269: symbol server returned unindexed build 4730840cb2a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "a8cdb0ec6269d5c6bdbc3d769d4784f5a9ab42033b7944b1f5d78570a2bc6c5b",
+   "error": "a8cdb0ec6269: symbol server returned unindexed build 4730840cb2a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "ff4ad0d9200442e19ee6a8ae9b51b5dd8b684c9449635ab9f58f5e361e41dbac",
+   "error": "ff4ad0d92004: symbol server returned unindexed build 14bf9ec0f229"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "9465ac026770dd4bf54193f02dec5fbf874af69aa690301c4c7ffa686c0f896a",
+   "error": "9465ac026770: symbol server returned unindexed build b779b0b9cb4f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "652738201a4e6e77da1d874f8be39847ccb3dfa891a53dc92d4643fef5c7e19f",
+   "error": "652738201a4e: symbol server returned unindexed build 81bc7c404741"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "d3abfc0fadf6788608951a8c4dfc6f82ccdc1b058b4f56b20fc541e72af1fc14",
+   "error": "d3abfc0fadf6: symbol server returned unindexed build 8c7b3e48a814"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "4e72893dd301e4be489550ca810340198cb53cf7547dbdfd15dbf4a39b12f2aa",
+   "error": "4e72893dd301: symbol server returned unindexed build d6dca5cf4d93"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "4e72893dd301e4be489550ca810340198cb53cf7547dbdfd15dbf4a39b12f2aa",
+   "error": "4e72893dd301: symbol server returned unindexed build d6dca5cf4d93"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "5a8a9faa296ac0cd9f0c384ad60d2ef532a7f6d424e43151528017e1ef309684",
+   "error": "5a8a9faa296a: symbol server returned unindexed build 835720809370"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "0a42011c0d10b81b57970b63776b51c135994a34521e4170249752490ddd1f92",
+   "error": "0a42011c0d10: symbol server returned unindexed build cb1fa4e203ac; 5a8a9faa296a: symbol server returned unindexed build 835720809370"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "5a8a9faa296ac0cd9f0c384ad60d2ef532a7f6d424e43151528017e1ef309684",
+   "error": "5a8a9faa296a: symbol server returned unindexed build 835720809370"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "0f4223f2ffaafb90226bcfc4511f4c4b23a8124d3932f2366223957d16586887",
+   "error": "0f4223f2ffaa: NotFound: no timestamp/image size in winbindex, no symbol server URL; 5d68bada34b1: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0a42011c0d10: symbol server returned unindexed build cb1fa4e203ac; 5a8a9faa296a: symbol server returned unindexed build 835720809370"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "0f4223f2ffaafb90226bcfc4511f4c4b23a8124d3932f2366223957d16586887",
+   "error": "0f4223f2ffaa: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0a42011c0d10: symbol server returned unindexed build cb1fa4e203ac"
+  }
+ ]
+}

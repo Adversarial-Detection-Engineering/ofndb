@@ -1,0 +1,44 @@
+{
+ "name": "uimgrbroker.exe",
+ "builds": [
+  {
+   "sha256": "381079ba3baa84005be4467d992a9a85dd92a46dec4bdc54dba4c4d146657e6b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UIMgrBroker.exe",
+   "internal_name": "UIMgrBroker.exe",
+   "file_description": "Microsoft UIManager Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UIMgrBroker.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UIMgrBroker.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

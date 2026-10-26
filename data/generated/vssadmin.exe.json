@@ -1,0 +1,347 @@
+{
+ "name": "vssadmin.exe",
+ "builds": [
+  {
+   "sha256": "ca35cb78f589520db0eaa2af0453dc472e6aa75709a6cb3053dc38f125024e50",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/D5EA920429000/vssadmin.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\vssadmin.exe"
+  },
+  {
+   "sha256": "8a597914c4481c7c78936e0e581107a96c5ad02f7353e12d0666f330ca89f051",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/57898F0B1f000/vssadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4fe71eb779b57354e5600dc31e3dc1875adc8a06663654aec83f11109751e8fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/578999FC28000/vssadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b82ec4cb86670551db1171e6ea901f340a363b78e9327d6b4b40ae3afccb51a3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/5632D7AD28000/vssadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aa0e88e0679ba320dd6707f283079b5f0e67ae78ee44acb869d584a36bc4d708",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/5632D7301e000/vssadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9498be98f998b7b1f3521525a1b1ed0d1af83d4f06f0769bfea031981701c2a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/559F38D228000/vssadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5316e0129c61c79fbb4b88b59f537cd07de92cbfbcbc4b05461c1e81e62e42f1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "VSSADMIN.EXE",
+   "internal_name": "VSSADMIN.EXE",
+   "file_description": "Command Line Interface for Microsoft® Volume Shadow Copy Service ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vssadmin.exe/559F3B4A1e000/vssadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "VSSADMIN.EXE",
+   "builds": 7,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.5074",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "516e49fbdc74525d62f7d9928b883133485a5d37feecad1fceb2786ed0068b3b",
+   "error": "516e49fbdc74: symbol server returned unindexed build 04fe308c0dd5; 19c097cec03d: symbol server returned unindexed build 1d40e3fcad88; 922c63d1391e: symbol server returned unindexed build 1d40e3fcad88; 4858a31c974f: symbol server returned unindexed build 6f6eb1c37c47"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "39d1bca6060207c9f8d9f3eea060428f250f4aa542c6aac6e66da24464dfc10f",
+   "error": "39d1bca60602: symbol server returned unindexed build bdd0265af361"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "39d1bca6060207c9f8d9f3eea060428f250f4aa542c6aac6e66da24464dfc10f",
+   "error": "39d1bca60602: symbol server returned unindexed build bdd0265af361"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "4016e8ef6bcb7ce6fd86e4e44912cd1dab7f80147d11133d18fd1a8785ca0de5",
+   "error": "4016e8ef6bcb: symbol server returned unindexed build 419f3008fe24"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "3083bfcbf6e240716676c6710d252c9178eea70c5694398ade94444a1b23fe99",
+   "error": "3083bfcbf6e2: symbol server returned unindexed build b126f8c19c3d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "c946c4eda61355a1b8e134e7a184a15c9a358b9675b6172a83e4937ae9ef4b03",
+   "error": "c946c4eda613: symbol server returned unindexed build 4b9c3ae65bb5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "d7577fb88cca3169c7931dc0d8ec9a444227dc14f6c71d6d39d86a0c5cad1976",
+   "error": "d7577fb88cca: symbol server returned unindexed build 61f5f648f596"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "acdcc96d628ee8ff7f07fc5d795a05c22eb239be0d44a9f01727b6124a9619a9",
+   "error": "acdcc96d628e: symbol server returned unindexed build 05a206ec776e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "acdcc96d628ee8ff7f07fc5d795a05c22eb239be0d44a9f01727b6124a9619a9",
+   "error": "acdcc96d628e: symbol server returned unindexed build 05a206ec776e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "8c1fabcc2196e4d096b7d155837c5f699ad7f55edbf84571e4f8e03500b7a8b0",
+   "error": "8c1fabcc2196: symbol server returned unindexed build 7e36e8c3f7ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "8c1fabcc2196e4d096b7d155837c5f699ad7f55edbf84571e4f8e03500b7a8b0",
+   "error": "8c1fabcc2196: symbol server returned unindexed build 7e36e8c3f7ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "8c1fabcc2196e4d096b7d155837c5f699ad7f55edbf84571e4f8e03500b7a8b0",
+   "error": "8c1fabcc2196: symbol server returned unindexed build 7e36e8c3f7ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "8c1fabcc2196e4d096b7d155837c5f699ad7f55edbf84571e4f8e03500b7a8b0",
+   "error": "8c1fabcc2196: symbol server returned unindexed build 7e36e8c3f7ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "8c1fabcc2196e4d096b7d155837c5f699ad7f55edbf84571e4f8e03500b7a8b0",
+   "error": "8c1fabcc2196: symbol server returned unindexed build 7e36e8c3f7ef"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "94caeb0937faf81d9c8240d87a4796e478db745ffa73a42d69936a3b0337e74a",
+   "error": "94caeb0937fa: symbol server returned unindexed build 7643913005e5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "9d3cee88e010136e3bf9a1e519549cf5ca270284a1fc0830a0e9bed2bfd6e76a",
+   "error": "9d3cee88e010: symbol server returned unindexed build 75a9c5a1ba42"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "bb1d73c5104a722f228b39ccb24c6f2bb13efcca2ea65b013d33433550e3bce7",
+   "error": "bb1d73c5104a: symbol server returned unindexed build 84849f4685ee"
+  }
+ ]
+}

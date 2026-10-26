@@ -1,0 +1,44 @@
+{
+ "name": "notification_helper.exe",
+ "builds": [
+  {
+   "sha256": "572ba7c42e4c0f923907781665976018b6839981d1f368dccc1528e4886d20b5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "notification_helper.exe",
+   "internal_name": "notification_helper_exe",
+   "file_description": "Microsoft Edge",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge",
+   "file_version": "152.0.4191.53",
+   "fixed_file_version": "152.0.4191.53",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\notification_helper.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "notification_helper.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "152.0.4191.53",
+   "max_version": "152.0.4191.53",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

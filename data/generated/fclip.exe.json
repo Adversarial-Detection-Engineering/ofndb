@@ -1,0 +1,44 @@
+{
+ "name": "fclip.exe",
+ "builds": [
+  {
+   "sha256": "f891e36ef9f2f32915c6a27c2ff64958216145cbce1e65d99f263c9cb1fb4884",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FClip.exe",
+   "internal_name": "Acquire IMDS response",
+   "file_description": "Acquire IMDS response",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fclip.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FClip.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

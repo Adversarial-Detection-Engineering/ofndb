@@ -1,0 +1,436 @@
+{
+ "name": "pktmon.exe",
+ "builds": [
+  {
+   "sha256": "f444c0abef0f154460ed004444cbcd1c91235fdf398d678126744baef9a12ef5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/AAB66E22159000/pktmon.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\PktMon.exe"
+  },
+  {
+   "sha256": "b69078b29fb32b9938ddd7966b0062fe24e13f768b32d0f94878868cb4f92747",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/A6B5F70B159000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2289770e93bf5fa129492bd1e8c95a9bf90c6df11ecbf6890b103aea12403ad7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/1F90882015a000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e8f66b7e7740d5be64c2daa5049544e0bdfe131917d2f0de2c91f1505928b177",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/0CEDDB9F15a000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "97eb0a71f6f55e2f2efdea0e49eaee6435db104d88f938f9ffa3ddccccc6fdba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.3570 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.3570",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2023-10-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "19044.3570"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/5B0A5C8E158000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "92ebe1c83ba5ef70bcc05d21183f82668e347c83830eb5b39c5a62dcb49f2879",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2193 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2193",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-10-25",
+   "last_seen": "2023-04-11",
+   "os_builds": [
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/25821FE3158000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d7a5e957eff4dce4712c0d9e9d465d803ebf47401dd1ab3bb5ddcdbd15d02c90",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1320 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1320",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2021-10-26",
+   "last_seen": "2022-10-18",
+   "os_builds": [
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/4381964C159000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6b5f5eba6f3ac8336f722a7a2035718522d82e5339c35221ee970d15615931ef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-10-17",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/1AE84A6C158000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ec0c08e061dc5844475bc73301fef2bed844741811eb04a73da4049b25bc8be7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1474 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1474",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-03-25",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/1893F28715b000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2eb43a4118620977fdb7bc4ab761149b30770b25caf2aad8948d0d1bdc4b8de5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PktMon.exe",
+   "internal_name": "PktMon.exe",
+   "file_description": "Packet Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-11-16",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/pktmon.exe/A2F7875F158000/pktmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "PktMon.exe",
+   "builds": 10,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.18362.1474",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2021-03-25",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "66581fd110bd221f7427e848f29102cc5d12eb264c7121718943d28e9c58e7c1",
+   "error": "66581fd110bd: UnindexedBuild: symbol server returned unindexed build (unindexed:size=697784); 61457a38c66c: symbol server returned unindexed build a8a2f9941353; 91187218e666: symbol server returned unindexed build f677c5d26258; 7f2546b073ca: symbol server returned unindexed build 960cb73e8e3f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "6c18ed9a76b9be7b68df1537f8c020775a41f39a31f6818b5aa947c49c596e99",
+   "error": "6c18ed9a76b9: UnindexedBuild: symbol server returned unindexed build (unindexed:size=706000); 66581fd110bd: UnindexedBuild: symbol server returned unindexed build (unindexed:size=697784); 8044be9b2a3c: symbol server returned unindexed build 3b70f09c370b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "a639e83214550cba38ac4ddce07faeef1f25064e714ec9bd8d51b84eeccaed59",
+   "error": "a639e8321455: UnindexedBuild: symbol server returned unindexed build (unindexed:size=494056); dcc25390b674: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493952); d254f5d10461: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493952); 9e9959e5ffa9: UnindexedBuild: symbol server returned unindexed build (unindexed:size=493936)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "b5aed5c28238e219b64d495a2c4066552d481ce453806dff9a9f32beaba052f3",
+   "error": "b5aed5c28238: UnindexedBuild: symbol server returned unindexed build (unindexed:size=172368); 395364bae8eb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=172344)"
+  }
+ ]
+}

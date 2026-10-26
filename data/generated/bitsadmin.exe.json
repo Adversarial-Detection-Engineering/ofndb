@@ -1,0 +1,468 @@
+{
+ "name": "bitsadmin.exe",
+ "builds": [
+  {
+   "sha256": "bae099b0b25f9f044aa0e655234bbd91e854171022acea5d3c92ebd19c01f34a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.8.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/AD00668A59000/bitsadmin.exe",
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bitsadmin.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5421c77e534dd624f37665b8ef2c756d547047baed7ee4160de11fb8d2b65f24",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.8.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/CA706E824f000/bitsadmin.exe",
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\bitsadmin.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f1503782ae3ff15fd76d99d3fc506fba8ac7a7a43a73049fe839d423bca2f47",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.8.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/244DB33446000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2b090bb7151bf87fc6fa36e13f509b5059a68e694eec2253f1ab74f9a7a0247b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "7.8.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/C32C436550000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ecbc94e6dc79346702cbb0b5721e800ac5388a2fbfb586098bf6eadf5e062193",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "7.8.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/57898FE543000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e1057a20945bce8f00c0be5e3db40c4a98ab33f42f4d2df919aedb0ef6651d6e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "7.8.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/57899AA64a000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c075d1bfa41e553586f5fa44e139597d40601cb5d316e05f31976dcb264018af",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "7.8.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/5632D7474c000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6da0d3e5feff9dec7772b0525e847eb8e080a6fa7b00385eb9da7fc8378a42e0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "7.8.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/5632D6C544000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f461a86806e4ba1bf2d9700b198c38f922e98d9f37fb21a900daa17ad0c7ee1f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "7.8.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/559F39554c000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5e4b87c28ab592f863793a73170ea586b66d22607c1b8d96dde8098b221a14de",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bitsadmin.exe",
+   "internal_name": "bitsadmin.exe",
+   "file_description": "BITS administration utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "7.8.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "7.8.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/bitsadmin.exe/559F3BC944000/bitsadmin.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "original_filenames": [
+  {
+   "value": "bitsadmin.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "7.8.10240.16384",
+   "max_version": "7.8.26100.9549",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "68a40d15b139edd8133d814e3a0ec98bd935630f1df711383e35f02fe742ffe0",
+   "error": "68a40d15b139: symbol server returned unindexed build 0c2e6acb111a; 8317f5adb2a1: symbol server returned unindexed build 0c2e6acb111a; 7cd50a06c743: symbol server returned unindexed build 0c2e6acb111a; 8db6ff73aeeb: symbol server returned unindexed build 0c2e6acb111a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7c2365b752f8d2708c737bc34260d5f3d1568fdd2e12892d3ca3e4952add0230",
+   "error": "7c2365b752f8: symbol server returned unindexed build c0835b0b0df8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7c2365b752f8d2708c737bc34260d5f3d1568fdd2e12892d3ca3e4952add0230",
+   "error": "7c2365b752f8: symbol server returned unindexed build c0835b0b0df8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "db5b148ce6ca0d5c1bb78121d0665c7984539f874b1a565ca5bc0c1dfc30a7c7",
+   "error": "db5b148ce6ca: symbol server returned unindexed build 787dc8854049"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "3375272da344cde1644afadc1f7fc880a00d7f2c48885776650a299e98f1dcd1",
+   "error": "3375272da344: symbol server returned unindexed build 1a978fac3eb4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "1adecd9049ffd027f5b709866725a5ae1b22497dd89ee86b68698167cbd100d5",
+   "error": "1adecd9049ff: symbol server returned unindexed build 8ba0e47a0bd3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "03c7e317e277bbd6c9c1159f8718a9d302e6f78e0d80c09d52a994b7598c0f30",
+   "error": "03c7e317e277: symbol server returned unindexed build dd5d5dc24b06"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "eaae8536d554d0e86d8540a8b34db2649bd884843f389495d0b6e91636c6cf54",
+   "error": "eaae8536d554: symbol server returned unindexed build 6c445a6f1843"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "eaae8536d554d0e86d8540a8b34db2649bd884843f389495d0b6e91636c6cf54",
+   "error": "eaae8536d554: symbol server returned unindexed build 6c445a6f1843"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "739b2dd012ea183895cc01116906f339c9aa1c0baabf6f22c8e59e25a0c12917",
+   "error": "739b2dd012ea: symbol server returned unindexed build 0a50c1b80784"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "739b2dd012ea183895cc01116906f339c9aa1c0baabf6f22c8e59e25a0c12917",
+   "error": "739b2dd012ea: symbol server returned unindexed build 0a50c1b80784"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "739b2dd012ea183895cc01116906f339c9aa1c0baabf6f22c8e59e25a0c12917",
+   "error": "739b2dd012ea: symbol server returned unindexed build 0a50c1b80784"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "739b2dd012ea183895cc01116906f339c9aa1c0baabf6f22c8e59e25a0c12917",
+   "error": "739b2dd012ea: symbol server returned unindexed build 0a50c1b80784"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "739b2dd012ea183895cc01116906f339c9aa1c0baabf6f22c8e59e25a0c12917",
+   "error": "739b2dd012ea: symbol server returned unindexed build 0a50c1b80784"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "a1ac8d96efbf72093f7e95f87879c742076cc609786e1926b1b81752ea230348",
+   "error": "a1ac8d96efbf: symbol server returned unindexed build a22aab009885; d51489526325: symbol server returned unindexed build a22aab009885; 1d5651e31294: symbol server returned unindexed build a22aab009885; be099ee67b12: symbol server returned unindexed build a22aab009885"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "5b40108796e385205a83d038f11ee938b3b5d8c9f661ef60eea64df16c80c05d",
+   "error": "5b40108796e3: symbol server returned unindexed build a23bbe6f46f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "5b40108796e385205a83d038f11ee938b3b5d8c9f661ef60eea64df16c80c05d",
+   "error": "5b40108796e3: symbol server returned unindexed build a23bbe6f46f0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "452eb204875973149566fed16fe8869f3ee9cb11961b50dd088e5efb5a093889",
+   "error": "452eb2048759: symbol server returned unindexed build 9d7fa72614b9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "1479b1f834ee9205aef5e06a6594d47361cc2fc8074ca6153b1bc7eae514165e",
+   "error": "1479b1f834ee: symbol server returned unindexed build 313da0015358"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "ffabee87d6e0159ab95b73a367499dbe9689f887fe23b5919ef86095f3b930aa",
+   "error": "ffabee87d6e0: symbol server returned unindexed build f407dde1f666"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "4adc7b6e2e43726eff05bb3ff3df554f8427ab093ef3efed6a425769bd52f158",
+   "error": "4adc7b6e2e43: symbol server returned unindexed build 42b9454d78cf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "c5adc38e0ce99a16cbbfcc10f16aa3a340ca0dcff836607d6f6152322013a129",
+   "error": "c5adc38e0ce9: symbol server returned unindexed build 95937417b3fb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "c5adc38e0ce99a16cbbfcc10f16aa3a340ca0dcff836607d6f6152322013a129",
+   "error": "c5adc38e0ce9: symbol server returned unindexed build 95937417b3fb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "c93b7734470cf96c5170f7b21f361cdf3f74ca819626c83c4b8a68210deeb35c",
+   "error": "c93b7734470c: symbol server returned unindexed build 499673ed940f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "c93b7734470cf96c5170f7b21f361cdf3f74ca819626c83c4b8a68210deeb35c",
+   "error": "c93b7734470c: symbol server returned unindexed build 499673ed940f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "c93b7734470cf96c5170f7b21f361cdf3f74ca819626c83c4b8a68210deeb35c",
+   "error": "c93b7734470c: symbol server returned unindexed build 499673ed940f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "c93b7734470cf96c5170f7b21f361cdf3f74ca819626c83c4b8a68210deeb35c",
+   "error": "c93b7734470c: symbol server returned unindexed build 499673ed940f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "c93b7734470cf96c5170f7b21f361cdf3f74ca819626c83c4b8a68210deeb35c",
+   "error": "c93b7734470c: symbol server returned unindexed build 499673ed940f"
+  }
+ ],
+ "updated": "2026-10-26"
+}

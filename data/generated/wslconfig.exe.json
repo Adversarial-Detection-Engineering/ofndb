@@ -1,0 +1,44 @@
+{
+ "name": "wslconfig.exe",
+ "builds": [
+  {
+   "sha256": "cf9b83ceab84d9f6bb27baa969aff58c9c9ad48136a89419fee1bcd6bd74be34",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wslconfig.exe",
+   "internal_name": "wslconfig.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Configuration Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wslconfig.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wslconfig.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

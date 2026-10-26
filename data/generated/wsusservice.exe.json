@@ -1,0 +1,184 @@
+{
+ "name": "wsusservice.exe",
+ "builds": [
+  {
+   "sha256": "ea60b77d237e8368ae7c1d310a29bec60c523237c71921f45c762644d55c099f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WsusService.exe",
+   "internal_name": "WsusService.exe",
+   "file_description": "WSUS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.14393.9611",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsusservice.exe/6AC8D09Fec000/wsusservice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "570033c325a7f2fcdb31842dd58b66a355719e92ee0dc69b757444222e8d109e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WsusService.exe",
+   "internal_name": "WsusService.exe",
+   "file_description": "WSUS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.17763.9376",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsusservice.exe/E0CEBD3A136000/wsusservice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "74cd3588ba26f11b4e8648b6aef185fd11c5921f894f6e8bb1cc71da46d2f4ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WsusService.exe",
+   "internal_name": "WsusService.exe",
+   "file_description": "WSUS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.26100.1",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2024-09-10",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsusservice.exe/D5E89FFDa000/wsusservice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "38a4a5c9e1341e88fc532bb4740dd17d53f7e07ead5189b8a3204420006c594b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WsusService.exe",
+   "internal_name": "WsusService.exe",
+   "file_description": "WSUS",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.10240.16384",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2016-09-13",
+   "last_seen": "2017-06-27",
+   "os_builds": [
+    "10240.17113",
+    "10240.17146",
+    "10240.17190",
+    "10240.17202",
+    "10240.17236",
+    "10240.17319",
+    "10240.17320",
+    "10240.17354",
+    "10240.17394",
+    "10240.17443",
+    "10240.17446"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wsusservice.exe/559F3154a000/wsusservice.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WsusService.exe",
+   "builds": 4,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "1507",
+    "1607",
+    "1809"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2016-09-13",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "11-26H1",
+   "sha256": "8db49fcbe7b96a4890192921d5b012f438692c0c37872b1448619046637cb05b",
+   "error": "8db49fcbe7b9: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "2f0d33ed3ca473e0ccf41e9b0373913a863496dc68549444ddb71ff32f3dc7ce",
+   "error": "2f0d33ed3ca4: symbol server returned unindexed build 9532d227d8b4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "2f0d33ed3ca473e0ccf41e9b0373913a863496dc68549444ddb71ff32f3dc7ce",
+   "error": "2f0d33ed3ca4: symbol server returned unindexed build 9532d227d8b4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "83f059967ca6dde63f410cdfd145b28c79b01b19fd68578998350fed1d36b867",
+   "error": "83f059967ca6: symbol server returned unindexed build d9d06fd9f75b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "83f059967ca6dde63f410cdfd145b28c79b01b19fd68578998350fed1d36b867",
+   "error": "83f059967ca6: symbol server returned unindexed build d9d06fd9f75b"
+  }
+ ]
+}

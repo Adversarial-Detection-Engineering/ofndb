@@ -1,0 +1,64 @@
+{
+ "name": "autochk.exe",
+ "builds": [
+  {
+   "sha256": "8f20434370ed318eb76122cfc44241a8acd2ee4d520a870bfe9c1b958fa15c25",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AutoChk.Exe",
+   "internal_name": "AutoChk",
+   "file_description": "Auto Check Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\autochk.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2821a85a8cae3607a53c68b56ecb4ff62d517219b297287b0ab16aa7766eff14",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AutoChk.Exe",
+   "internal_name": "AutoChk",
+   "file_description": "Auto Check Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9444 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9444",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\autochk.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AutoChk.Exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9444",
+   "max_version": "10.0.26100.9444",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

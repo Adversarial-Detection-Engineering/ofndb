@@ -1,0 +1,47 @@
+{
+ "name": "pspasswd.exe",
+ "builds": [
+  {
+   "sha256": "6ed5d50cf9d07db73eaa92c5405f6b1bf670028c602c605dfa7d4fcb80ef0801",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pspasswd.exe",
+   "internal_name": "PsPasswd",
+   "file_description": "Local and remote password changer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsPasswd",
+   "file_version": "1.25",
+   "fixed_file_version": "1.25.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsPasswd",
+   "release": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "download_url": "https://live.sysinternals.com/pspasswd.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pspasswd.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.25.0.0",
+   "max_version": "1.25.0.0",
+   "first_seen": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "provenance": "parsed"
+  }
+ ]
+}

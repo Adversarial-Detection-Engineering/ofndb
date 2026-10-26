@@ -1,0 +1,633 @@
+{
+ "name": "sihclient.exe",
+ "builds": [
+  {
+   "sha256": "c2ff853a89f6dbd09967ab70ccce41a0c9d52f6793cde576464457f59f127f65",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/52A7D7D851000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "54bad177635da046d7fa608b3467b825f2c3a6cbbb69a413a5b2e7f32dbcd990",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1510.2610.1012.0",
+   "fixed_file_version": "1510.2610.1012.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/30FCA3318c000/sihclient.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SIHClient.exe"
+  },
+  {
+   "sha256": "43fc17980c3b476e5681e096c19ea6782f9066ebcf81f24bdea649bbaca9f665",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/6AC8D8783d000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7547790fb6b77c11a6fc31afb4449557ced8a52596d43bfbb0fe5acf37cbb030",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/BC6E07236a000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7dcfa6c2c87cbb9e5de850c60a8b592d09ef8b62da5e128c8dc1668a4308993c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.19060 (th1.210911-1603)",
+   "fixed_file_version": "10.0.10240.19060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2021-09-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/613D810A37000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "48afa26d6896bc19af2c9e6dbdb3d0a51732e673370e84998804994a773c04a6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6033 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6033",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-06-24",
+   "last_seen": "2025-06-24",
+   "os_builds": [
+    "19045.6036"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/6C255AB169000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1166a5d3766a3ff203a6c2357561be8a7549ef2e276ddb49a10240131fa9af33",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1949 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1949",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2022-08-26",
+   "last_seen": "2022-10-18",
+   "os_builds": [
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/81852E0E60000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "874a0793ba8aa8bd633f340aa7655adae97f85dbbec4d48692060fdba4737119",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1202",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-09-01",
+   "last_seen": "2021-09-01",
+   "os_builds": [
+    "19041.1202"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/CDF951535b000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5558cad7f415ee432756e17ec2de04b0199d65b84a78d881ae7ad85bc2674b59",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1474 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1474",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-03-25",
+   "last_seen": "2021-08-26",
+   "os_builds": [
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/8B86C0F54c000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8f0d59f251400d5897523658666b7ca2c497f69b034e71e8bd44065de07ae1bf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-07-13",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/1C6219A35b000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bf268796e61dd43b8a38b612ef69e9e3c26e3b179d83027a1b5a9ee221c606f2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2087 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2087",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/D6C0B5E448000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "65c54832807566ef128897ac5285a8f11b589c6f6fb6f93a33f8e7de74a63b5d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2679 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2679",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/F6336C333d000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "705d416c777a04b0ef8bb836e98b65f1de16d02d2c434a480a8956d9a07a873b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1082 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1082",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-09-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/07EB972F4c000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0836c03a1cfa4967a498ac5aec7fffe45d40d6a0d0882cf586912b3d00d8915e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.579 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.579",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2018-07-24",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/6184146D46000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6bb8ab3b7883a62dfacfab6324ac79e061f34d1dcbcad4a9e37fd8930c97eb8a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sihclient.exe",
+   "internal_name": "SIH Client",
+   "file_description": "SIH Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "10.0.10586.1540",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sihclient.exe/5AB4B05A37000/sihclient.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sihclient.exe",
+   "builds": 15,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.19060",
+   "max_version": "1510.2610.1012.0",
+   "first_seen": "2018-04-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "6a70e0cc915fc036fa51282c119a26e4f9df7c7f3c428f5075523d4f95c4d7cf",
+   "error": "6a70e0cc915f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=460208); 7782f2637e08: UnindexedBuild: symbol server returned unindexed build (unindexed:size=464336); 89cb5835d827: UnindexedBuild: symbol server returned unindexed build (unindexed:size=464200); 552e1488ea0d: symbol server returned unindexed build 8d2f2c5b13e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "09097193e26ef76fc37cae7e6d8cc581b06a2a15306eb75948427e5610e4e438",
+   "error": "09097193e26e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=510984); 0f0fa77f47c6: UnindexedBuild: symbol server returned unindexed build (unindexed:size=509888); 6f2c96ae047b: symbol server returned unindexed build fa588d143041; 74c7f263d2e3: UnindexedBuild: symbol server returned unindexed build (unindexed:size=508376)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "1b3d2c87189bf505c3057967c9461f3289efa4a0897c157d655bcb6b8e64194e",
+   "error": "1b3d2c87189b: symbol server returned unindexed build cc1246942b4d; d5f613358f5d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=510984); 09097193e26e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=510984); b984069241e1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=422528)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "30ad5f19ce0da6f93ec4c01cfa9c2401eaefa210d12b78b6dfaa040acf8e2432",
+   "error": "30ad5f19ce0d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=534528)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "1b0bf1fbbfcabba77bee3807e5a79fb02fd4611cb580465cd25c52144eabe35d",
+   "error": "1b0bf1fbbfca: symbol server returned unindexed build 95336ab453c0; 5be03a43c447: UnindexedBuild: symbol server returned unindexed build (unindexed:size=561584); f9db074098f3: symbol server returned unindexed build ad550fe51837; fd4320687b94: symbol server returned unindexed build b1ba1d544328"
+  }
+ ]
+}

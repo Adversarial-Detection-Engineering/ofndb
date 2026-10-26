@@ -1,0 +1,629 @@
+{
+ "name": "shimgvw.dll",
+ "builds": [
+  {
+   "sha256": "f1cf358d5e534507841a2fbd3ff6a92903d80d5456e697f8b299cb5d1ed7b932",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/7B62FA08b000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dce076d10958db2703773edf450e8fb1d8c6afa1743e8b257598896c667c9882",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/92E76F70b000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a18b79fa606f2350be1eb99e718b30fa422c9af8e21b313713ac7f15d339d5b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/BD89EF74f000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f172a9d7af0aca77a1649029cc4482df63e2bb956fb6bcd91c689b42a8d9b50",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/3BDA5CF5f000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b881373568b2305a44764f76fecb10cbc548eb6fbf9c05346787298bde3a2540",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/169A041Df000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7d015f39f2abe56eb082dcb6d8c2ef15bde4a416bced694fa40dc38b81757564",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/433F4B56b000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f7f63c9e935234f911d702407ce504a5cc99e2846ac8719791b6622efdd14607",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/578990DBa000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7d1768117e39158e654ed263f51276d81ddd3a354c624e8022eef3e333a237e9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/57899B44c000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc6e3f205649526d54034889e0d27c962848698819510a3439b3cacac764a91d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/5632D7598000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db41bf065745e290c2af955a779134203415e86c1ca52022c582dccf92c2496d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/5632D7D1a000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e9963da06052ffeebb3468860d195cb7c06c8ae3005f995a661a100fa7934b50",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/559F39ACa000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "14f9c5bbfdf5ce79bb4ecd6579dc8adfb6377c5220372ca5796ecc5f8e673c25",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shimgvw.dll",
+   "internal_name": "ShImgVw.dll",
+   "file_description": "Photo Gallery Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/shimgvw.dll/559F3C2B8000/shimgvw.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "shimgvw.dll",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "bcea320bba2867bd63e73fc60f6b8639983ba07c2428f7d8a58afc5a0250a48f",
+   "error": "bcea320bba28: symbol server returned unindexed build 3bb0be33c967; 7e27f2d9bf44: symbol server returned unindexed build 0b7ae350020d; eae6d9857af3: symbol server returned unindexed build 0b7ae350020d; 263b506d228c: symbol server returned unindexed build 0b7ae350020d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3d270da8651c5d170a36ba810fef11ea5ad5adc6eee9d345a6401a2bfafafec8",
+   "error": "3d270da8651c: symbol server returned unindexed build 46a298235d90; 8595d76b27cb: symbol server returned unindexed build 663dc3089a43"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3d270da8651c5d170a36ba810fef11ea5ad5adc6eee9d345a6401a2bfafafec8",
+   "error": "3d270da8651c: symbol server returned unindexed build 46a298235d90; 8595d76b27cb: symbol server returned unindexed build 663dc3089a43"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b507dce5dcd381d1a446e53ca188353e2632e3be859cf395ea26d009067b422e",
+   "error": "b507dce5dcd3: symbol server returned unindexed build 299fe073dc0d; 7aa7e7d42c18: symbol server returned unindexed build de84cbfbac4d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "7c499014738c795ce4994b6bba4fb07f5e95fc2f68b19801e0eddf79af2b55ca",
+   "error": "7c499014738c: symbol server returned unindexed build 85d0f3677bf1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "9dae8314598d070c3168d4edfbb9529e3aa11478f34250889aa46eee40040bb2",
+   "error": "9dae8314598d: symbol server returned unindexed build fadbc83b14b4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "810bfd14734b42844cc2a3a06bfa0fa43acdaa39dcc2414a75e04805ea623f5a",
+   "error": "810bfd14734b: symbol server returned unindexed build 5a70d5081ac6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "6e7f290ec95b5ce7ce632b01e8b7b62ba8fffccbcb67caa41daffcb81c4c203c",
+   "error": "6e7f290ec95b: symbol server returned unindexed build 7afbb48e30e9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6e7f290ec95b5ce7ce632b01e8b7b62ba8fffccbcb67caa41daffcb81c4c203c",
+   "error": "6e7f290ec95b: symbol server returned unindexed build 7afbb48e30e9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "15bb8bcc96a3ef928b3a42097784faca0c1180e7982e6e142406224ebd821004",
+   "error": "15bb8bcc96a3: symbol server returned unindexed build 531cbad54d66"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "15bb8bcc96a3ef928b3a42097784faca0c1180e7982e6e142406224ebd821004",
+   "error": "15bb8bcc96a3: symbol server returned unindexed build 531cbad54d66"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "15bb8bcc96a3ef928b3a42097784faca0c1180e7982e6e142406224ebd821004",
+   "error": "15bb8bcc96a3: symbol server returned unindexed build 531cbad54d66"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "220164a058bf172bb1d69942441ca006492ae66d3885cc720e2fa2194d54dc9c",
+   "error": "220164a058bf: symbol server returned unindexed build c8f264b3b22b; 15bb8bcc96a3: symbol server returned unindexed build 531cbad54d66"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "220164a058bf172bb1d69942441ca006492ae66d3885cc720e2fa2194d54dc9c",
+   "error": "220164a058bf: symbol server returned unindexed build c8f264b3b22b; 15bb8bcc96a3: symbol server returned unindexed build 531cbad54d66"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "2be8df5f7a5ad51ec6025e40ce13f0b1468064a85e2a6bd49cb8d24054cdda11",
+   "error": "2be8df5f7a5a: symbol server returned unindexed build 93b5f0ede4de; 25892fabb709: symbol server returned unindexed build 0c953651a5a2; 44c8ab0c171a: symbol server returned unindexed build 0c953651a5a2; f58e91555582: symbol server returned unindexed build 0c953651a5a2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "2a4ebf5c3dac17c104b8044bdb308ca24e0ec60918f6d4174cfcb4a3ad24dff2",
+   "error": "2a4ebf5c3dac: symbol server returned unindexed build 1d9035f913e9; ac3169bd902f: symbol server returned unindexed build 5505fc65f055"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "2a4ebf5c3dac17c104b8044bdb308ca24e0ec60918f6d4174cfcb4a3ad24dff2",
+   "error": "2a4ebf5c3dac: symbol server returned unindexed build 1d9035f913e9; ac3169bd902f: symbol server returned unindexed build 5505fc65f055"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "0d4d1201178802b22ab0c0893e4a03136ffc4fef3eee2d22da3e6deb676eac10",
+   "error": "0d4d12011788: symbol server returned unindexed build cd3dab1da157; f20742e660bd: symbol server returned unindexed build 93b4d0c38515"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "d9b37f2e8027183b36a175bac9edf11e28017e32b0e3d40982381aa39f8bc6b2",
+   "error": "d9b37f2e8027: symbol server returned unindexed build 3e836535bf2d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "9258288f47c16e05da2e930f22ca0db2db638f4e4f508f63a7a43b349630b00f",
+   "error": "9258288f47c1: symbol server returned unindexed build 520282f63307"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "c8df017627dd76f8c65be5e533e9d6898f2af02a780fca500d1ac550e63889a6",
+   "error": "c8df017627dd: symbol server returned unindexed build 0333c8edb5cc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "c9a2d01073e9fb0b9faecfeca10d1fb1aa108470320048b4783770c1a771ceff",
+   "error": "c9a2d01073e9: symbol server returned unindexed build 7a0f49039ee3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "c9a2d01073e9fb0b9faecfeca10d1fb1aa108470320048b4783770c1a771ceff",
+   "error": "c9a2d01073e9: symbol server returned unindexed build 7a0f49039ee3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "aea4881823c929866f4214154b482464fba9c05bb63a7d516785c691a4e78801",
+   "error": "aea4881823c9: symbol server returned unindexed build e250dc7286a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "aea4881823c929866f4214154b482464fba9c05bb63a7d516785c691a4e78801",
+   "error": "aea4881823c9: symbol server returned unindexed build e250dc7286a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "aea4881823c929866f4214154b482464fba9c05bb63a7d516785c691a4e78801",
+   "error": "aea4881823c9: symbol server returned unindexed build e250dc7286a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "747baf06871ca789f89db2c704ca1f4e052d62f2f11183a2074938e5eb93cec1",
+   "error": "747baf06871c: symbol server returned unindexed build 56ad1a33b9bd; aea4881823c9: symbol server returned unindexed build e250dc7286a1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "747baf06871ca789f89db2c704ca1f4e052d62f2f11183a2074938e5eb93cec1",
+   "error": "747baf06871c: symbol server returned unindexed build 56ad1a33b9bd; aea4881823c9: symbol server returned unindexed build e250dc7286a1"
+  }
+ ]
+}

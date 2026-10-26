@@ -1,0 +1,740 @@
+{
+ "name": "winlogon.exe",
+ "builds": [
+  {
+   "sha256": "efd3511fdb3040f627046e5157b052fc28fee737305a909c701a9782db094d6e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/FFFF3BCDf4000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "edf75701a7b3bfad862bbed206bb090d2f3a7f736bdf74ce0595fc984522a77f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/0012592Ded000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "57b1a58b02550446bd889180103dc4abaeef1b2346f0bcbf9ad9eaafdc93ddc9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/6AC8D47Faa000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "493e4bdc3866357d2dd7636a344c6c1182e817d3a652b720d43911fdc31015d6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/D59A3FA0c4000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2baa43fa3e9b1694fbe86b789854b24217a1cf4802a94d1bc28bc45290a89d63",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/063A5381f7000/winlogon.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\winlogon.exe"
+  },
+  {
+   "sha256": "1e50cab91e791c4eb22d71c4e3c69c184b62932a8797e79cbd242419fe63a7d1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/414B00F3f5000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "408727849509ac3cfb86075779f4e7be4c21c6af9945f4f6dcb0c01a1dc11165",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.18333 (th1.190828-1709)",
+   "fixed_file_version": "10.0.10240.18333",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2019-09-10",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.18333",
+    "10240.18334",
+    "10240.18335",
+    "10240.18368",
+    "10240.18395",
+    "10240.18427",
+    "10240.18453",
+    "10240.18486",
+    "10240.18519",
+    "10240.18545",
+    "10240.18575",
+    "10240.18608",
+    "10240.18609",
+    "10240.18638",
+    "10240.18666",
+    "10240.18696",
+    "10240.18725",
+    "10240.18756",
+    "10240.18782",
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/5D674D4193000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b0752daabaabe2cc836af172fced09662bb8e3700111b32b3472822558841c15",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/B5C38D3Beb000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4aa0e16a1b7d784007ca49ae441a1accc09bec621f252e1c0a6fec7f5cb1152c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.5794 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.5794",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2025-08-19",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19044.5965",
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19045.5796",
+    "19045.5917",
+    "19045.5968",
+    "19045.6036",
+    "19045.6159"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/8C249F9Fed000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "12b01686504828451a6c6364a479e1830ab7f6663a0685e3391fb45232d36374",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5413 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5413",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-05-27",
+   "last_seen": "2025-05-27",
+   "os_builds": [
+    "22621.5413"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/830CCC1Ff3000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b4861ff69d5c52800da96f715151224347dc4a4db02600c4c26062403c34865c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.2960 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.2960",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-05-14",
+   "last_seen": "2024-05-14",
+   "os_builds": [
+    "22000.2960"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/475900BFdb000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "24263fe01c799f690318ec99688dfd2355277d7cd4618e77e7f2a3f20d9fc87c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2913",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-06-13",
+   "os_builds": [
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/2E0FA632e3000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6bcb35ba7cdfe08e2c3a2e77cac9facc8152a97df411a4eec1985d0b09cf6e8c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-07-13",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/0E5E72CDe3000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "75de21086ecd93bcae44520afd6d70e6c6f8eec0702525ecd42b981896312a66",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1345 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1345",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2020-02-25",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/929F1AE6aa000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "865a1ce9edde201bad5e5cd57c2576a355f2507a5fb62c97c159b2c5877ea902",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2045 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2045",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2019-09-10",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/7C83A4C9b1000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2ec0d43046ede721f183efb437d1d048c408f9b3121b9f45e458710dc25ca407",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-09-10",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/EC858CABb4000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6cf2dd482973ac4cf05a784b7bbc08de07fb4a55a8e2a6390250019a800d5b72",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.693 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.693",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-02-27",
+   "last_seen": "2020-09-16",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/EDA872DCd3000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "24ad1339ad3b4a364b793d1a74d1e68f116d6e983b93b596f78e5beb3877af63",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WINLOGON.EXE",
+   "internal_name": "winlogon",
+   "file_description": "Windows Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1356 (th2_release.180101-0600)",
+   "fixed_file_version": "10.0.10586.1356",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-03",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/winlogon.exe/5A4A7AFF94000/winlogon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WINLOGON.EXE",
+   "builds": 18,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.18333",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-01-03",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "af7de734e94967099d52ee7c28358835efdde61da858eca11d412ed86767d104",
+   "error": "af7de734e949: symbol server returned unindexed build e25e25a5681a; bdd51724c66f: symbol server returned unindexed build e25e25a5681a; 22e2e1038dc1: symbol server returned unindexed build 33924d3cfe9d; 1a133145b1af: symbol server returned unindexed build d5cab5b0b435"
+  }
+ ]
+}

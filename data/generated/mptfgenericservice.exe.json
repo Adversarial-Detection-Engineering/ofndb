@@ -1,0 +1,44 @@
+{
+ "name": "mptfgenericservice.exe",
+ "builds": [
+  {
+   "sha256": "f71968066f13a2f01b93ffa54ad081874166583da657d06fa53d7fc0958f918f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MptfGenericService.exe",
+   "internal_name": "MptfGenericService.exe",
+   "file_description": "MPTF Generic Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MptfGenericService.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MptfGenericService.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "name": "msedge_proxy.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "536907a0ac6af331670d93ffafba1d0b479f91ec579070969e7937bd475fb743",
+   "error": "536907a0ac6a: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/60A5B127106000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "8d7d3a8c71246892693830d5bc93bba7d11cf2ab8623df0a5e9c686ecd3f16c2",
+   "error": "8d7d3a8c7124: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/624DFEB1117000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "8d7d3a8c71246892693830d5bc93bba7d11cf2ab8623df0a5e9c686ecd3f16c2",
+   "error": "8d7d3a8c7124: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/624DFEB1117000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "18a6332f53de5b0f5996485603a4e51061069682c6639bed71daf6520552906f",
+   "error": "18a6332f53de: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/65FB328D139000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "4108ffb9b71729a60ae944e44ffb92fcce277807330582ae2a68e730ae316d3a",
+   "error": "4108ffb9b717: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/68C20E6A18e000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "faa015ba254bc380c516a14fcb69e3701226a369d7b07c4697c34770051ff143",
+   "error": "faa015ba254b: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/5F2535D4c3000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6db995915ab27dfdb60c130d3227f724e576aeda3163574f5e04ed88d6b877b5",
+   "error": "6db995915ab2: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/6065256B108000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "28586db9ddf3f671180a054831e98619ab177b81d5df6fb8fd37d97adb77f963",
+   "error": "28586db9ddf3: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/610B5A4011a000/msedge_proxy.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "28586db9ddf3f671180a054831e98619ab177b81d5df6fb8fd37d97adb77f963",
+   "error": "28586db9ddf3: NotFound: https://msdl.microsoft.com/download/symbols/msedge_proxy.exe/610B5A4011a000/msedge_proxy.exe"
+  }
+ ]
+}

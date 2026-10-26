@@ -1,0 +1,64 @@
+{
+ "name": "imjpuexc.exe",
+ "builds": [
+  {
+   "sha256": "e19002ce2a789078999125f718d42c62f58b34f1cb868e2dc54940a24b7802ff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "imjpuexc.exe",
+   "internal_name": "imjpuexc.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\IMEJP\\imjpuexc.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1d95c4c3c2ccb5f238a0fe4a103226929eaeb68a57c406ef06c3db17b2d732da",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "imjpuexc.exe",
+   "internal_name": "imjpuexc.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\IMEJP\\imjpuexc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "imjpuexc.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

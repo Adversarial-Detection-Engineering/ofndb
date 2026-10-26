@@ -1,0 +1,44 @@
+{
+ "name": "netcfg.exe",
+ "builds": [
+  {
+   "sha256": "3a203f40ecb3c41f24b99026bc8592b6633c6426a8fcaf67288baf2d7cb6be5d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netcfg.exe",
+   "internal_name": "snetcfg.exe",
+   "file_description": "WinPE network installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\netcfg.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "netcfg.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

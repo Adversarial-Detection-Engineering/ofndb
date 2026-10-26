@@ -1,0 +1,64 @@
+{
+ "name": "poqexec.exe",
+ "builds": [
+  {
+   "sha256": "b5076c36b9793c4a8a0a546361289529056d13dd9dd94a59b33bbb8b3eda63b7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "poqexec.exe",
+   "internal_name": "POQExec",
+   "file_description": "Primitive Operations Queue Executor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9703 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9703",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\poqexec.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "176304a5beedfedaf192c133ccd4433b8bcb28f553c69789f1edccc13f2cb6e9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "poqexec.exe",
+   "internal_name": "POQExec",
+   "file_description": "Primitive Operations Queue Executor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9703 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9703",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\poqexec.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "poqexec.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9703",
+   "max_version": "10.0.26100.9703",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

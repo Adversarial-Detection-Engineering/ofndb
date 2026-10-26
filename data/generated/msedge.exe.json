@@ -1,0 +1,63 @@
+{
+ "name": "msedge.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "ddda6f7397e8ebe11981b6ba137af2d99a72fe3ac1b14afee00737eca6738ed3",
+   "error": "ddda6f7397e8: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/60A5B12733b000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "2c842b4d343ec4ce6a0ebf186df4d552b46be9264635d23f687d5b1ea78d4bf0",
+   "error": "2c842b4d343e: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/624DFEB1370000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "2c842b4d343ec4ce6a0ebf186df4d552b46be9264635d23f687d5b1ea78d4bf0",
+   "error": "2c842b4d343e: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/624DFEB1370000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "da30bd1c7b2df35d6734a263666a9391ff1202fa1999b46227f165d7c162eac9",
+   "error": "da30bd1c7b2d: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/65FB328D3f3000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "ef9d1b42ca58103e9647763f67303519a0701c7b1278af0ad25f7f673c10743b",
+   "error": "ef9d1b42ca58: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/68C20E6A424000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "5ac866677ae2b92c38715761b948c362d2f388efd5e2b85616e53a59b732e0cb",
+   "error": "5ac866677ae2: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/5F2535D42d1000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "a9e592770fa1a63126ada4f3b2f35fae5ebf38d40a8178e412d5df187d4d6162",
+   "error": "a9e592770fa1: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/6065256B30f000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "73d84d249f16b943d1d3f9dd9e516fadd323e70939c29b4a640693eb8818ee9a",
+   "error": "73d84d249f16: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/610B5A40337000/msedge.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "73d84d249f16b943d1d3f9dd9e516fadd323e70939c29b4a640693eb8818ee9a",
+   "error": "73d84d249f16: NotFound: https://msdl.microsoft.com/download/symbols/msedge.exe/610B5A40337000/msedge.exe"
+  }
+ ]
+}

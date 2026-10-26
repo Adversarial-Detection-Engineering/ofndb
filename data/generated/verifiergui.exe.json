@@ -1,0 +1,64 @@
+{
+ "name": "verifiergui.exe",
+ "builds": [
+  {
+   "sha256": "979f553b3272d3ef6537a1babc3b60d2ad0a1361dbc35225bda4952f039f2919",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "verifiergui.exe",
+   "internal_name": "verifiergui.exe",
+   "file_description": "Driver Verifier Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\verifiergui.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "4eb4044e7fab74349fe1228398a4b2240889d17ebf7286b48b7c5442abb9bb9e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "verifiergui.exe",
+   "internal_name": "verifiergui.exe",
+   "file_description": "Driver Verifier Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\verifiergui.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "verifiergui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "printui.exe",
+ "builds": [
+  {
+   "sha256": "bdb94eddbc6ecd7d9d0a8f4550b0bf851c754f46545ea721b627c1802681656a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "printui.exe",
+   "internal_name": "printui",
+   "file_description": "Change Printing Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\printui.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "4d03ba56c05461b1ac9c388c0ed115109fb4216592ef01dbd43b58321e1cf0e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "printui.exe",
+   "internal_name": "printui",
+   "file_description": "Change Printing Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\printui.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "printui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

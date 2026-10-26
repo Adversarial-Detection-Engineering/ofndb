@@ -1,0 +1,47 @@
+{
+ "name": "psloglist64.exe",
+ "builds": [
+  {
+   "sha256": "5e55b4caf47a248a10abd009617684e969dbe5c448d087ee8178262aaab68636",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "psloglist.exe",
+   "internal_name": "PsLoglist",
+   "file_description": "local and remote event log viewer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsLogList",
+   "file_version": "2.82",
+   "fixed_file_version": "2.82.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsLogList",
+   "release": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "download_url": "https://live.sysinternals.com/psloglist64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psloglist.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.82.0.0",
+   "max_version": "2.82.0.0",
+   "first_seen": "2023-03-30",
+   "last_seen": "2023-03-30",
+   "provenance": "parsed"
+  }
+ ]
+}

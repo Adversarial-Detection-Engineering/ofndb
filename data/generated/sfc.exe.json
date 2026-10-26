@@ -1,0 +1,64 @@
+{
+ "name": "sfc.exe",
+ "builds": [
+  {
+   "sha256": "408067cad0fd71c66291bae33d260f88d6ad205b3aeadee77666340d77173364",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sfc.exe",
+   "internal_name": "sfc.exe",
+   "file_description": "System Integrity Check and Repair",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\sfc.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2cf11d47fb662d5adfdbd47af5d19cc8481cadd2a7190cbff3f213bd90150d1c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sfc.exe",
+   "internal_name": "sfc.exe",
+   "file_description": "System Integrity Check and Repair",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sfc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sfc.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

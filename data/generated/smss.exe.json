@@ -1,0 +1,505 @@
+{
+ "name": "smss.exe",
+ "builds": [
+  {
+   "sha256": "fe1b4be45147db3b22cb22080cbda05bdff0dde2124ca7231244908a64dcf6d9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.7870 (rs1_release.250210-1748)",
+   "fixed_file_version": "10.0.14393.7870",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2025-03-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/67AB50242b000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "38e6518e0965798d69303858c67a907346a864b7651ee5517a9e11cadbf47988",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/F799251E36000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0d05e81c571aa03f1dde5e8fa40cef98b77e8eca64821ae4efab121983d81de6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/551BE6B138000/smss.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\smss.exe"
+  },
+  {
+   "sha256": "b790e8ee03dc617071a94de4259262b48f9ec2a45579338682c4657641fd6fbc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20973 (th1.250321-1753)",
+   "fixed_file_version": "10.0.10240.20973",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-04-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/67DE47D628000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "26a5402f6c414a6eb73f6d2ef5884ced8fc2b33ddde71008b753fa39bbe8b5b4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/07B0475137000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "04b88647bcbbdc67d3de1771c5203d7714da077d6927b3d13c672074ee208699",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.6893 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.6893",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2025-02-11",
+   "last_seen": "2025-02-11",
+   "os_builds": [
+    "17763.6893"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/CD90AEA32b000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f77972f1e5ff7993e2cd206d3d2b8f42ea9807f1384d0a8ec90f08a6f075b751",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.590 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.590",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-02-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.829",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/FD585F6825000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db9b51a3767ea7eebf3b36f82ab59c41f529bc26d68fc30730f253f9d4e6effa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1059 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1059",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-03-19",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/AA4464D725000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3601ce0df53f7b14132cbd435c073ce009694f4b73ea5fff46b93a7413daf8e2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.329 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.329",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-08-30",
+   "last_seen": "2020-03-12",
+   "os_builds": [
+    "18362.329",
+    "18362.356",
+    "18362.357",
+    "18362.387",
+    "18362.388",
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/AC6650D026000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ad66d14cc18eeeadf7eb9adc52c15e58bc4a7f4ee0a24b812eb7be0e3a83e283",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "smss.exe",
+   "internal_name": "smss.exe",
+   "file_description": "Windows Session Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/smss.exe/5632D70724000/smss.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "smss.exe",
+   "builds": 10,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909"
+   ],
+   "min_version": "10.0.10240.20973",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "be09b15c760cd37ccab1e227cf0ce829e8efb1c88840e14ed9e48cfcea1817ab",
+   "error": "be09b15c760c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=169792)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7c221162ed878291d92eb31cd25cb586fa47e058d87bc887ef56d982c8eee43f",
+   "error": "7c221162ed87: UnindexedBuild: symbol server returned unindexed build (unindexed:size=199888); f4692eb39815: UnindexedBuild: symbol server returned unindexed build (unindexed:size=199840); 5d0c1b1a973e: symbol server returned unindexed build 48d608235535; a89617c1bade: symbol server returned unindexed build 358ff0e8554b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7c221162ed878291d92eb31cd25cb586fa47e058d87bc887ef56d982c8eee43f",
+   "error": "7c221162ed87: UnindexedBuild: symbol server returned unindexed build (unindexed:size=199888); b6800c2ca4bf: UnindexedBuild: symbol server returned unindexed build (unindexed:size=183280)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "f6066162e9e4f279d2d5f0c207c209ae8c2b13fc7555186f32c7e8ce49eb52a2",
+   "error": "f6066162e9e4: symbol server returned unindexed build 8c0d1775a919"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "56afe5133fdc5806ec6b19436f7b55f1499cfc94619740c171424fbcf7808fd3",
+   "error": "56afe5133fdc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=159824); e11ae324ba8c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=155984); 5c0faebcede7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151840)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "56afe5133fdc5806ec6b19436f7b55f1499cfc94619740c171424fbcf7808fd3",
+   "error": "56afe5133fdc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=159824); 5c0faebcede7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151840)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "e11ae324ba8c7ad66869bc34d16594f053c9447f0b11bf8d147da259ad19dc92",
+   "error": "e11ae324ba8c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=155984)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "d1600402493effd173cc7488974340b729829435a3b1ed3c6e2a82a00efbe5c9",
+   "error": "d1600402493e: symbol server returned unindexed build 11436b81520d; 7fd480e87a53: UnindexedBuild: symbol server returned unindexed build (unindexed:size=175264); 72d73ee62287: UnindexedBuild: symbol server returned unindexed build (unindexed:size=179848); d44c73818b0c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=157168)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "7fd480e87a53902476a8803a7932156601b349b7f9a5618e7739aeb340666a6d",
+   "error": "7fd480e87a53: UnindexedBuild: symbol server returned unindexed build (unindexed:size=175264); 72d73ee62287: UnindexedBuild: symbol server returned unindexed build (unindexed:size=179848); d44c73818b0c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=157168); 56afe5133fdc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=159824)"
+  }
+ ]
+}

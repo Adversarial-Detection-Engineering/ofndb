@@ -1,0 +1,44 @@
+{
+ "name": "edit.exe",
+ "builds": [
+  {
+   "sha256": "5f54a0fa8cbf5423aef8be8502173a59183cf3adbc913212b1066ef8fff3d9c0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Microsoft Edit",
+   "company_name": null,
+   "product_name": "edit",
+   "file_version": "1.2.1",
+   "fixed_file_version": "1.2.1.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\edit.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.2.1.0",
+   "max_version": "1.2.1.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

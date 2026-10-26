@@ -1,0 +1,44 @@
+{
+ "name": "immersivetpmvscmgrsvr.exe",
+ "builds": [
+  {
+   "sha256": "ac223080351ec6e96a14dd33ad2429baa7dfac939fea93f03849d84566d32fa0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ImmersiveTpmVscMgrSvr.exe",
+   "internal_name": "ImmersiveTpmVscMgrSvr",
+   "file_description": "Immersive TPM Virtual Smart Card Manager COM Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\immersivetpmvscmgrsvr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ImmersiveTpmVscMgrSvr.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

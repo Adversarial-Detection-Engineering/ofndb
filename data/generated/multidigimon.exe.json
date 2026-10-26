@@ -1,0 +1,44 @@
+{
+ "name": "multidigimon.exe",
+ "builds": [
+  {
+   "sha256": "101d1681a445ebe33e8c41b484ed8328374c441dad1037d96a7cdc347039d731",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MultiDigiMon.exe",
+   "internal_name": "MultiDigiMon.exe",
+   "file_description": "Digitizer to Monitor Mapping Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MultiDigiMon.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MultiDigiMon.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

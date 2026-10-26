@@ -1,0 +1,64 @@
+{
+ "name": "netbtugc.exe",
+ "builds": [
+  {
+   "sha256": "220dfd0653e41f6202930b67a6f38e1c3d95ca9647616c93a63a0af5109a20e8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netbtugc.exe",
+   "internal_name": "netbtugc.exe",
+   "file_description": "NetBT Unattend Generic Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\netbtugc.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1a89748813b4bb8abc58c933f3484017522d74c0d1b7f6b7f14dae111c6f913d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netbtugc.exe",
+   "internal_name": "netbtugc.exe",
+   "file_description": "NetBT Unattend Generic Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\netbtugc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "netbtugc.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8521",
+   "max_version": "10.0.26100.8521",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

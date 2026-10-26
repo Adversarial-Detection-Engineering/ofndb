@@ -1,0 +1,64 @@
+{
+ "name": "tokenbrokercookies.exe",
+ "builds": [
+  {
+   "sha256": "fcfcfc2dead522104a4c873c9eb2a0fd9ffb8aafece758c12fff08e811c15ab4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TokenBrokerCookies.exe",
+   "internal_name": "TokenBrokerCookies",
+   "file_description": "Token Broker Cookie Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\TokenBrokerCookies.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "f1a7a7af47e8471b88216fde409cde43d4a42b0fa9c31bdc33a7b5c2fa6a2abd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TokenBrokerCookies.exe",
+   "internal_name": "TokenBrokerCookies",
+   "file_description": "Token Broker Cookie Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\TokenBrokerCookies.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TokenBrokerCookies.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

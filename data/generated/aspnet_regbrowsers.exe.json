@@ -1,0 +1,64 @@
+{
+ "name": "aspnet_regbrowsers.exe",
+ "builds": [
+  {
+   "sha256": "e159d965b676d956480217d799bb687affbc7fb740f1bf7a24f5eae38ab9c9d1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regbrowsers.exe",
+   "internal_name": "aspnet_regbrowsers.exe",
+   "file_description": "aspnet_regbrowsers.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet_regbrowsers.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "b806aadd004c096fcea5890cd386aa3713bf3b00db0d8f9f8f91b9d5fa755cca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_regbrowsers.exe",
+   "internal_name": "aspnet_regbrowsers.exe",
+   "file_description": "aspnet_regbrowsers.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\aspnet_regbrowsers.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "aspnet_regbrowsers.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10001.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

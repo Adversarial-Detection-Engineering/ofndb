@@ -1,0 +1,442 @@
+{
+ "name": "clip.exe",
+ "builds": [
+  {
+   "sha256": "daaf0229e624d95e0ca1cddd89ed502418bec60fa511207cbc76d7e94afc4e26",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/0AF2578Ba000/clip.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\clip.exe"
+  },
+  {
+   "sha256": "90c461ec4437a8f0de53cb69bca491c1294cc2e6fa1b91b1f608412ab59a1f35",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/925995DFe000/clip.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\clip.exe"
+  },
+  {
+   "sha256": "cf8a179ed7a0bd4842dbe4b0274aeabaa9238cf9061d05faf9adec697209ba64",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/27540967c000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8e8d633436589760a07f3427929e173ffd145a0fc479edb1fce066cda4f4668f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/89C0A725a000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dd959663068e11ce7bb7ada4aa0636879a9bb454d7c0fd3085081ad4b1a78d1b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/57898F5Da000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b57333b76e5caabc4b8a8ae4264cd664e1eeec3cc4a7f6bed76c23d53b5418da",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/57899A52c000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f3d77e0b8b3a53ed96980553c6fe673741dc5500b88d6969784d17d13981de4b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/5632D842c000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3de06055a791644c4f9f516dd390998f46d934379612b3895fe5923d7b89a524",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/5632D7D4a000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f90ff91fd66193418dca97666dd1cbc399887164e3777888874935d54225a94a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/559F3B0Ba000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "14cfebe5f2889438d375b53f28fb3ea60aec1efb7ae0ff567d6c5a7f7838acd1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "clip.exe",
+   "internal_name": "clip.exe",
+   "file_description": "Clip - copies the data into clipboard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/clip.exe/559F3899c000/clip.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "clip.exe",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "f94c535fc765400ad35d94d90dca66bcea1941130c00e3280c089fcae8e73164",
+   "error": "f94c535fc765: symbol server returned unindexed build 35b1f894b91e; f832304cb169: symbol server returned unindexed build 52d589b4cc90; a94b08f27543: symbol server returned unindexed build 52d589b4cc90; db10c74d475a: symbol server returned unindexed build 05f56def2ab6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3cfc03ac663a4ea6b078eeb2fd9245294dee402376c52ebfef3a218cbbdbaefc",
+   "error": "3cfc03ac663a: symbol server returned unindexed build 995f8faadc41"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3cfc03ac663a4ea6b078eeb2fd9245294dee402376c52ebfef3a218cbbdbaefc",
+   "error": "3cfc03ac663a: symbol server returned unindexed build 995f8faadc41"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "9a1172e8dc7378c4c5df69442f2dc7beb633f630bde870931acee87201c04c61",
+   "error": "9a1172e8dc73: symbol server returned unindexed build d9ec69f16553"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "879860147909fd9eac9f6292ba56232c23aadf96eb80879ffb9756f00d17ea82",
+   "error": "879860147909: symbol server returned unindexed build 552ce9e69082"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "79a0404570d2ae09ca66d7b68b3528679da03337ec1c6bc59ec8105df2417b1c",
+   "error": "79a0404570d2: symbol server returned unindexed build 32358a798968"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "cb7ed224b854c6503928dab334f1e0e42cbbb9617b187e5e86acd4e03858879f",
+   "error": "cb7ed224b854: symbol server returned unindexed build 88deb0970813"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "cb7ed224b854c6503928dab334f1e0e42cbbb9617b187e5e86acd4e03858879f",
+   "error": "cb7ed224b854: symbol server returned unindexed build 88deb0970813"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "5ad606bcbbbdb95dda19c955e4129b436295cac249e2370fee3d0285d387cf55",
+   "error": "5ad606bcbbbd: symbol server returned unindexed build 867c8f2844ca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "5ad606bcbbbdb95dda19c955e4129b436295cac249e2370fee3d0285d387cf55",
+   "error": "5ad606bcbbbd: symbol server returned unindexed build 867c8f2844ca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "5ad606bcbbbdb95dda19c955e4129b436295cac249e2370fee3d0285d387cf55",
+   "error": "5ad606bcbbbd: symbol server returned unindexed build 867c8f2844ca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "5ad606bcbbbdb95dda19c955e4129b436295cac249e2370fee3d0285d387cf55",
+   "error": "5ad606bcbbbd: symbol server returned unindexed build 867c8f2844ca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "5ad606bcbbbdb95dda19c955e4129b436295cac249e2370fee3d0285d387cf55",
+   "error": "5ad606bcbbbd: symbol server returned unindexed build 867c8f2844ca"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "32dffd9adb16c65da3624af0b2f17cec40a08c6ec4e73343a1b4f811c93483a5",
+   "error": "32dffd9adb16: symbol server returned unindexed build 003b6c1ecb1d; e8f1609a4d1d: symbol server returned unindexed build b384bda619d4; 9873ac0bfb89: symbol server returned unindexed build b384bda619d4; e84054040607: symbol server returned unindexed build 27d3ecbb8ad6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "17cfb5da82ee4658ae904c40c569bccb707c44dded14e6620ddb3baaeeeaf035",
+   "error": "17cfb5da82ee: symbol server returned unindexed build 29eb4ba5841c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "17cfb5da82ee4658ae904c40c569bccb707c44dded14e6620ddb3baaeeeaf035",
+   "error": "17cfb5da82ee: symbol server returned unindexed build 29eb4ba5841c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "0a24f147078d4d04ab1479ed4eba8f62ffa4d62887204956a0d3f4b8111c61c7",
+   "error": "0a24f147078d: symbol server returned unindexed build d7b28a9ad9bf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "7568cee52e04e89241a680b5bac1f9266115402f86e73b50cf4feac3e1ff8700",
+   "error": "7568cee52e04: symbol server returned unindexed build f8d452baa63f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "32f91b0ce7278e96f19b134722ab5260990d59d1b3381116bc5078b860ae57a8",
+   "error": "32f91b0ce727: symbol server returned unindexed build cfb17372f1f8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "b1fc6760432bad0591f5eefc461f54592de3ba7818b785b0dcf5128c0c6bf251",
+   "error": "b1fc6760432b: symbol server returned unindexed build bf1ed7e8028f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "b1fc6760432bad0591f5eefc461f54592de3ba7818b785b0dcf5128c0c6bf251",
+   "error": "b1fc6760432b: symbol server returned unindexed build bf1ed7e8028f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "6cdc8d3c147dcf7253c0fb7bb552b4ae918aba4058cc072a2320a7297d4fbed7",
+   "error": "6cdc8d3c147d: symbol server returned unindexed build 14ad6dee2d04"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "6cdc8d3c147dcf7253c0fb7bb552b4ae918aba4058cc072a2320a7297d4fbed7",
+   "error": "6cdc8d3c147d: symbol server returned unindexed build 14ad6dee2d04"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "6cdc8d3c147dcf7253c0fb7bb552b4ae918aba4058cc072a2320a7297d4fbed7",
+   "error": "6cdc8d3c147d: symbol server returned unindexed build 14ad6dee2d04"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "6cdc8d3c147dcf7253c0fb7bb552b4ae918aba4058cc072a2320a7297d4fbed7",
+   "error": "6cdc8d3c147d: symbol server returned unindexed build 14ad6dee2d04"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "6cdc8d3c147dcf7253c0fb7bb552b4ae918aba4058cc072a2320a7297d4fbed7",
+   "error": "6cdc8d3c147d: symbol server returned unindexed build 14ad6dee2d04"
+  }
+ ]
+}

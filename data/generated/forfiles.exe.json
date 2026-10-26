@@ -1,0 +1,473 @@
+{
+ "name": "forfiles.exe",
+ "builds": [
+  {
+   "sha256": "d81a80fe838790e3a1bc7daf3bde666c71d4a8aba8b4f8a371b2db2ff236a72e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/D1B29730d000/forfiles.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\forfiles.exe"
+  },
+  {
+   "sha256": "715b741d06464a7c5f3b67fec479806bf83543498e04e73b5a2e364bc07968b9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/EFE0E79312000/forfiles.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\forfiles.exe"
+  },
+  {
+   "sha256": "751563f4ef08327431328010f09c853ea76dcb4790098c964c2f46cdbb82d924",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2024-09-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/1C3A004812000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d6b22bfb82a68827b2ff761a277545885ca931644603a2123ca66e52642fdf8a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/923FEDDDd000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ce5a6110e0c8a44f858b0654f6e28ba05341d2b6bf94a758f77bacdaa6261fee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/AE5D7C1E10000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5b2ba93b56d9da593cbd896fd153414bf6c2c301f5fb034974d1504fa087b955",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/57899A1210000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "092db96382406a82080d353da255a38107868425c91267a47e17053a1fd67139",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/57898F1Bd000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cfd8bb79725e8912a5c587630d63603ec2eb770aa7bc7cb5a2ad7def86ccb17d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/5632D83610000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2ee3fb56325f300ac21749888baf9aad75f4126a979ecca72fcc40b6c1eccc37",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/5632D7C8d000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9fc8838b805dc526676f347c869654bf54eac2d212d8fce2c30628bb1d0f91ab",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/559F3B0Dd000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "470b7c1b4fcc98641b686e4c7f331f064614ac2d1b4f644fe348df15d6743fa8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "forfiles.exe",
+   "internal_name": "forfiles.exe",
+   "file_description": "ForFiles - Executes a command on selected files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/forfiles.exe/559F389910000/forfiles.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "forfiles.exe",
+   "builds": 11,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1150",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "a7a89aba23e39d9e16100a0614f52f069c63bb234c8a5de2d68eb63e626e0568",
+   "error": "a7a89aba23e3: symbol server returned unindexed build e3dd279d4ad6; dfb7169d984a: symbol server returned unindexed build 9988c19a05ae; f6fd4358ecf1: symbol server returned unindexed build 9988c19a05ae; 12d888332064: symbol server returned unindexed build 9234e085081a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "279e14fed5b2fef29d94063354075ff16fdaebe91e8a801c95a6bffccee77372",
+   "error": "279e14fed5b2: symbol server returned unindexed build 69ee415304a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "279e14fed5b2fef29d94063354075ff16fdaebe91e8a801c95a6bffccee77372",
+   "error": "279e14fed5b2: symbol server returned unindexed build 69ee415304a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "adaf05593e82d31223dde457a274fce262a23aac4a7eb13b0ce774450edecb48",
+   "error": "adaf05593e82: symbol server returned unindexed build 0f131e62b510"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "48fa1897066b4cf215dc57da67fd40d4ff55500f8d1aaad72452fcac77c78a60",
+   "error": "48fa1897066b: symbol server returned unindexed build 0646c417776e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "fa84d5b043ead140fe304cbc71a9bfb3d24d3542fab45db65606c47808bd9272",
+   "error": "fa84d5b043ea: symbol server returned unindexed build 53da6ab2956a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "0027ce0037fdee37f189aa74facf0eb7683524a0306c124621db79b366ce9ff9",
+   "error": "0027ce0037fd: symbol server returned unindexed build 10361989f772"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "0027ce0037fdee37f189aa74facf0eb7683524a0306c124621db79b366ce9ff9",
+   "error": "0027ce0037fd: symbol server returned unindexed build 10361989f772"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "9b4886f187489a190bb2c412772c1998539f086c63a4cfd72ff3b107cbc21907",
+   "error": "9b4886f18748: symbol server returned unindexed build aa5c6d229916"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "9b4886f187489a190bb2c412772c1998539f086c63a4cfd72ff3b107cbc21907",
+   "error": "9b4886f18748: symbol server returned unindexed build aa5c6d229916"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "9b4886f187489a190bb2c412772c1998539f086c63a4cfd72ff3b107cbc21907",
+   "error": "9b4886f18748: symbol server returned unindexed build aa5c6d229916"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "9b4886f187489a190bb2c412772c1998539f086c63a4cfd72ff3b107cbc21907",
+   "error": "9b4886f18748: symbol server returned unindexed build aa5c6d229916"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9b4886f187489a190bb2c412772c1998539f086c63a4cfd72ff3b107cbc21907",
+   "error": "9b4886f18748: symbol server returned unindexed build aa5c6d229916"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "624dadf85cf2fa7501ba944fbd531b4156198a4a09e0733c0f11a117a3ac5b2c",
+   "error": "624dadf85cf2: symbol server returned unindexed build 94564470e921; aa9b6d2a0f01: symbol server returned unindexed build 8b34b47758d7; 8951953efe29: symbol server returned unindexed build 8b34b47758d7; a9553f890313: symbol server returned unindexed build 4646295ee136"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "10901a2f96d35a03ab6df1199e8a254aecde3caa074c84e98b2acfc075cd11bb",
+   "error": "10901a2f96d3: symbol server returned unindexed build c18f276de159"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "10901a2f96d35a03ab6df1199e8a254aecde3caa074c84e98b2acfc075cd11bb",
+   "error": "10901a2f96d3: symbol server returned unindexed build c18f276de159"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "e02bb885e495e34dc04b7d8f5df74a4545b8f7fd5d459770fbf9132244e3001f",
+   "error": "e02bb885e495: symbol server returned unindexed build f85a00fd638c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "11d08f409ae0825cf2b1b6942c875bc536b639547d295cdf7e418cee5144fe19",
+   "error": "11d08f409ae0: symbol server returned unindexed build 5408dbdcb69c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "ff892cc591bed1b9ba539aeabd86e9d19387d4378f050676553f21e340df68ef",
+   "error": "ff892cc591be: symbol server returned unindexed build 6fa59f578c60"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "ace18b3bdac31fb4d731377f3950d78db28b09896aa71224658b9d49de2e47d2",
+   "error": "ace18b3bdac3: symbol server returned unindexed build f75949aae911"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "ace18b3bdac31fb4d731377f3950d78db28b09896aa71224658b9d49de2e47d2",
+   "error": "ace18b3bdac3: symbol server returned unindexed build f75949aae911"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "7074d2a9c3d669a15d5b3a7ba1226dbba05888cc537cf055fed6371f32f0c1f5",
+   "error": "7074d2a9c3d6: symbol server returned unindexed build aba45167c229"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "7074d2a9c3d669a15d5b3a7ba1226dbba05888cc537cf055fed6371f32f0c1f5",
+   "error": "7074d2a9c3d6: symbol server returned unindexed build aba45167c229"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "7074d2a9c3d669a15d5b3a7ba1226dbba05888cc537cf055fed6371f32f0c1f5",
+   "error": "7074d2a9c3d6: symbol server returned unindexed build aba45167c229"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "7074d2a9c3d669a15d5b3a7ba1226dbba05888cc537cf055fed6371f32f0c1f5",
+   "error": "7074d2a9c3d6: symbol server returned unindexed build aba45167c229"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "7074d2a9c3d669a15d5b3a7ba1226dbba05888cc537cf055fed6371f32f0c1f5",
+   "error": "7074d2a9c3d6: symbol server returned unindexed build aba45167c229"
+  }
+ ]
+}

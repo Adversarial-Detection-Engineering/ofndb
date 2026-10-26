@@ -1,0 +1,47 @@
+{
+ "name": "pendmoves.exe",
+ "builds": [
+  {
+   "sha256": "e6fb98119483d466c62eb3d51e557fb561595764d3ba474d13591d5c7aa940f6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pendmoves.exe",
+   "internal_name": "PendMoves",
+   "file_description": "Lists pending delayed movefile operations",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Pendmoves",
+   "file_version": "1.3",
+   "fixed_file_version": "1.3.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Pendmoves",
+   "release": "2020-09-03",
+   "last_seen": "2020-09-03",
+   "download_url": "https://live.sysinternals.com/pendmoves.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pendmoves.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.3.0.0",
+   "max_version": "1.3.0.0",
+   "first_seen": "2020-09-03",
+   "last_seen": "2020-09-03",
+   "provenance": "parsed"
+  }
+ ]
+}

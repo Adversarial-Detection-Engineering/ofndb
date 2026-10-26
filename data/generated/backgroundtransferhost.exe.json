@@ -1,0 +1,64 @@
+{
+ "name": "backgroundtransferhost.exe",
+ "builds": [
+  {
+   "sha256": "8db8ab30f1bfe0895b9caf7a5006490a6be3066f0a50656b749cf58252025892",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "BackgroundTransferHost.exe",
+   "internal_name": "BackgroundTransferHost.exe",
+   "file_description": "Download/Upload Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\BackgroundTransferHost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "506d794258e6c28dbff40ede73895e24348c6d01137dc1490e08065555e14ffc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BackgroundTransferHost.exe",
+   "internal_name": "BackgroundTransferHost.exe",
+   "file_description": "Download/Upload Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\BackgroundTransferHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BackgroundTransferHost.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

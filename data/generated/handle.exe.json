@@ -1,0 +1,47 @@
+{
+ "name": "handle.exe",
+ "builds": [
+  {
+   "sha256": "84c22579ca09f4fd8a8d9f56a6348c4ad2a92d4722c9f1213dd73c2f68a381e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Nthandle.exe",
+   "internal_name": "Nthandle",
+   "file_description": "Handle viewer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Handle",
+   "file_version": "5.0",
+   "fixed_file_version": "5.0.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Handle",
+   "release": "2022-10-26",
+   "last_seen": "2022-10-26",
+   "download_url": "https://live.sysinternals.com/handle.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Nthandle.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "5.0.0.0",
+   "max_version": "5.0.0.0",
+   "first_seen": "2022-10-26",
+   "last_seen": "2022-10-26",
+   "provenance": "parsed"
+  }
+ ]
+}

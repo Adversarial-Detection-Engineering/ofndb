@@ -1,0 +1,64 @@
+{
+ "name": "imccphr.exe",
+ "builds": [
+  {
+   "sha256": "3d118e9914015f212bfa741f2bf551c232b9a9b80577d341e911553fb4656557",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IMCCPHR.exe",
+   "internal_name": "IMCCPHR.exe",
+   "file_description": "IMCCPHR.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\SHARED\\IMCCPHR.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "0e045135db19decb190f48edc284f5762597c633b87b9ce07f15c6700650cfb8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IMCCPHR.exe",
+   "internal_name": "IMCCPHR.exe",
+   "file_description": "IMCCPHR.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\SHARED\\IMCCPHR.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IMCCPHR.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "shrpubw.exe",
+ "builds": [
+  {
+   "sha256": "51f8d936fbda8408b9d04a591f3d8a6ca6663b38d5c60a8ee6a232a847f804ff",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "shrpubw.exe",
+   "internal_name": "SHRWIZ",
+   "file_description": "Share Creation Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\shrpubw.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1644cbc90c124791447f62fba642c85ffecb7561e35d068d270fb5124b132440",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "shrpubw.exe",
+   "internal_name": "SHRWIZ",
+   "file_description": "Share Creation Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\shrpubw.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "shrpubw.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

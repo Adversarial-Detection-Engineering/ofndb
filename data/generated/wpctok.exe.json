@@ -1,0 +1,44 @@
+{
+ "name": "wpctok.exe",
+ "builds": [
+  {
+   "sha256": "adf64ae3f71db75d0614e71d6a204c0c792399e70ea33372185006b161b540b9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WpcTok.exe",
+   "internal_name": "WpcTok.exe",
+   "file_description": "Family Safety Token Auth",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WpcTok.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WpcTok.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

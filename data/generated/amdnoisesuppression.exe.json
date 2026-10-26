@@ -1,0 +1,44 @@
+{
+ "name": "amdnoisesuppression.exe",
+ "builds": [
+  {
+   "sha256": "f7ee1340a4491a1eae7bfa3f778c8ebf9107e6feefe8073f281415fba3c785d9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AMDNoiseSuppression.exe",
+   "internal_name": "AMDNoiseSuppression.exe",
+   "file_description": "AMD Noise Suppression",
+   "company_name": "Advanced Micro Devices, Inc.",
+   "product_name": "AMD Noise Suppression",
+   "file_version": "1.1.0.1",
+   "fixed_file_version": "1.1.0.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AMD\\ANR\\AMDNoiseSuppression.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AMDNoiseSuppression.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.1.0.1",
+   "max_version": "1.1.0.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

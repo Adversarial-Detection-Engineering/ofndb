@@ -1,0 +1,47 @@
+{
+ "name": "accesschk.exe",
+ "builds": [
+  {
+   "sha256": "69bd46e5dba2767a63408731b0c7842b9ac37aeb67586682efce4cc51057d793",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "accesschk.exe",
+   "internal_name": "Accesschk",
+   "file_description": "Reports effective permissions for securable objects",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals AccessChk",
+   "file_version": "6.15",
+   "fixed_file_version": "6.15.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals AccessChk",
+   "release": "2022-05-11",
+   "last_seen": "2022-05-11",
+   "download_url": "https://live.sysinternals.com/accesschk.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "accesschk.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "6.15.0.0",
+   "max_version": "6.15.0.0",
+   "first_seen": "2022-05-11",
+   "last_seen": "2022-05-11",
+   "provenance": "parsed"
+  }
+ ]
+}

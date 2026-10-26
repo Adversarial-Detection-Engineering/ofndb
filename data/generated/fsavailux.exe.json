@@ -1,0 +1,44 @@
+{
+ "name": "fsavailux.exe",
+ "builds": [
+  {
+   "sha256": "ae4b9a544071b9814a79915fc65464eae42e2d96f27709b284dcd39057f44481",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "fsavailux.exe",
+   "internal_name": "fsavailux.exe",
+   "file_description": "Microsoft\\fsavailux",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fsavailux.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "fsavailux.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

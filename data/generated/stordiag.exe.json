@@ -1,0 +1,352 @@
+{
+ "name": "stordiag.exe",
+ "builds": [
+  {
+   "sha256": "6e9632dacee247d587dda04b3df6666e01e49ed8c068a86bf6f67c734cd7f197",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "stordiag.exe",
+   "internal_name": "stordiag.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.14393.4046",
+   "fixed_file_version": "10.0.14393.4046",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2020-11-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.4046",
+    "14393.4048",
+    "14393.4104",
+    "14393.4169",
+    "14393.4225",
+    "14393.4283",
+    "14393.4288",
+    "14393.4350",
+    "14393.4402",
+    "14393.4467",
+    "14393.4470",
+    "14393.4530",
+    "14393.4532",
+    "14393.4583",
+    "14393.4651",
+    "14393.4704",
+    "14393.4770",
+    "14393.4771",
+    "14393.4825",
+    "14393.4827",
+    "14393.4886",
+    "14393.4889",
+    "14393.4946",
+    "14393.5006",
+    "14393.5066",
+    "14393.5125",
+    "14393.5127",
+    "14393.5192",
+    "14393.5246",
+    "14393.5291",
+    "14393.5356",
+    "14393.5427",
+    "14393.5429",
+    "14393.5501",
+    "14393.5502",
+    "14393.5582",
+    "14393.5648",
+    "14393.5717",
+    "14393.5786",
+    "14393.5850",
+    "14393.5921",
+    "14393.5989",
+    "14393.5996",
+    "14393.6085",
+    "14393.6167",
+    "14393.6252",
+    "14393.6351",
+    "14393.6452",
+    "14393.6529",
+    "14393.6614",
+    "14393.6709",
+    "14393.6796",
+    "14393.6799",
+    "14393.6897",
+    "14393.6981",
+    "14393.7070",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/stordiag.exe/5F9A3A3Ac000/stordiag.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "006209dfba6fc9955fe300274d44777eded97498ba0670c863ec6bcb2fb1da4a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "stordiag.exe",
+   "internal_name": "stordiag.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.16299.15",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/stordiag.exe/B1DBEA4918000/stordiag.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4348fcc1974aae1b45289bb2c8b8d84ddfab303cdd68b44e5f4dd09a45604d11",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "stordiag.exe",
+   "internal_name": "stordiag.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.15063.0",
+   "fixed_file_version": "10.0.15063.0",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/stordiag.exe/58CCB2B718000/stordiag.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a29bb2c2108a431cb489f991a22f77c655e8c58a52915080d02b3d01e01168f9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "stordiag.exe",
+   "internal_name": "stordiag",
+   "file_description": "Windows storage diagnostic tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\stordiag.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "44e3ad789f92c3fda9b7dbd71856dcd6117731b1a9a1deb17d35fb8d39ae7ead",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "stordiag.exe",
+   "internal_name": "stordiag",
+   "file_description": "Windows storage diagnostic tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\stordiag.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "stordiag.exe",
+   "builds": 5,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1607",
+    "1703",
+    "1709"
+   ],
+   "min_version": "10.0.14393.4046",
+   "max_version": "10.0.26100.9711",
+   "first_seen": "2017-04-05",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "4961e716918c93ee77003192011bb24f25c1b59d83d26bad9e23ca65f1567087",
+   "error": "4961e716918c: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/BE6BE2E62d000/stordiag.exe; 6e2e42024b64: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/A512F6FD2d000/stordiag.exe; 1290770c564d: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/F8D9D6E42d000/stordiag.exe; 0be9fe7c7b69: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/9EBCCA372d000/stordiag.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "e505f01896c674c67ae180c7527d39e7369a225ff60ed554853e845887cb6f3d",
+   "error": "e505f01896c6: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/95793ADA2d000/stordiag.exe; 4961e716918c: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/BE6BE2E62d000/stordiag.exe; 01c504d1ba20: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/EA55DFCB2d000/stordiag.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "44e3ad789f92c3fda9b7dbd71856dcd6117731b1a9a1deb17d35fb8d39ae7ead",
+   "error": "44e3ad789f92: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/BC7D061531000/stordiag.exe; cf1913496ad4: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/1810BCCE31000/stordiag.exe; 2c98c15b3d69: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/94EC15B831000/stordiag.exe; 38ba6f92e1e1: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/EDB20B7C31000/stordiag.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "4d4b8dd729ef04148f381e87343a9f8899c2791456138d3c743e18fbf2a3b607",
+   "error": "4d4b8dd729ef: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/82D561AD31000/stordiag.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "fd4602765b5d9d6a7cc29e5cb2948b26c7e7515f1cac8ced7c1051188fb022d7",
+   "error": "fd4602765b5d: NotFound: no timestamp/image size in winbindex, no symbol server URL; ed48c39c01bd: NotFound: no timestamp/image size in winbindex, no symbol server URL; 91d455aa0762: NotFound: no timestamp/image size in winbindex, no symbol server URL; ae528e125ffc: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "caebdba030a9458f6ecb452faf79a6a3e19a666e16471f12ac26017714cb1a2a",
+   "error": "caebdba030a9: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/9DC0170122000/stordiag.exe; cd78de487410: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/A2BE35AB22000/stordiag.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "c22bb89729639a4c08c0ae1f737d19047e155a90bdac91bec0b472d5f6eda640",
+   "error": "c22bb8972963: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/F233B2DC24000/stordiag.exe; d2e060849e02: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/A2513E0024000/stordiag.exe; 914223491f29: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/C183CC5624000/stordiag.exe; 91e1acf8828e: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/5187407424000/stordiag.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "c8752e64e32ce4d81d9adea09f52c10f8541e2e0c5f662643b1e9a21d1a237d9",
+   "error": "c8752e64e32c: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/C2AEE19224000/stordiag.exe; c22bb8972963: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/F233B2DC24000/stordiag.exe; bb5a83db3b7f: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/B35D4A4E24000/stordiag.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-24H2",
+   "sha256": "a29bb2c2108a431cb489f991a22f77c655e8c58a52915080d02b3d01e01168f9",
+   "error": "a29bb2c2108a: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/0AE3F8DC27000/stordiag.exe; 6874c6bb5439: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/CD7B814327000/stordiag.exe; 94feef552f52: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/75D0C3FB27000/stordiag.exe; e6c8e782e558: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/733A8D9127000/stordiag.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "3e529fe668608649830759b2506144be977e3f4d47d4f993f3199203327f85bd",
+   "error": "3e529fe66860: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/81961F1527000/stordiag.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-26H1",
+   "sha256": "d15d29fafedc135888f636fca09b1f9d438dc5a094d32abfeb25d314ead2ac4d",
+   "error": "d15d29fafedc: NotFound: no timestamp/image size in winbindex, no symbol server URL; 0dfff2c5193e: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/75DB3E4128000/stordiag.exe; b48f317ffff9: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/2BF6727D28000/stordiag.exe; ec739eaa40f6: NotFound: https://msdl.microsoft.com/download/symbols/stordiag.exe/7328C0EC28000/stordiag.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "44c967ef094af5c2cd5f92b66a1206b3eef03f3efad385c090f9b148b9807182",
+   "error": "44c967ef094a: symbol server returned unindexed build 1c85e4cdf1fd; a9913700d070: symbol server returned unindexed build 7bdfbb614443"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "d706dc037c51b48e412e6ca00129fc34f06830c27260a5d84f7d30d61237e980",
+   "error": "d706dc037c51: symbol server returned unindexed build e5c282b713fb; ddc1c81667a9: symbol server returned unindexed build c31292d2a41b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "04785b45f5e89cf98a45f917948826b63d2f9bc155d291544626f5b8b9c01318",
+   "error": "04785b45f5e8: symbol server returned unindexed build 6a489527b4a6; 3bc839b933d9: symbol server returned unindexed build 30e851a43748"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "04785b45f5e89cf98a45f917948826b63d2f9bc155d291544626f5b8b9c01318",
+   "error": "04785b45f5e8: symbol server returned unindexed build 6a489527b4a6; 3bc839b933d9: symbol server returned unindexed build 30e851a43748"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "6a13dac8bd42767dad55d4c1ed4640f4e7f01abb08ca05ddcdc2c348fcd6f8b3",
+   "error": "6a13dac8bd42: symbol server returned unindexed build 08de7165987f; b812162f140a: symbol server returned unindexed build 75edf4ad1896"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "6a13dac8bd42767dad55d4c1ed4640f4e7f01abb08ca05ddcdc2c348fcd6f8b3",
+   "error": "6a13dac8bd42: symbol server returned unindexed build 08de7165987f; b812162f140a: symbol server returned unindexed build 75edf4ad1896"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "6a13dac8bd42767dad55d4c1ed4640f4e7f01abb08ca05ddcdc2c348fcd6f8b3",
+   "error": "6a13dac8bd42: symbol server returned unindexed build 08de7165987f; b812162f140a: symbol server returned unindexed build 75edf4ad1896"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "6a13dac8bd42767dad55d4c1ed4640f4e7f01abb08ca05ddcdc2c348fcd6f8b3",
+   "error": "6a13dac8bd42: symbol server returned unindexed build 08de7165987f; b812162f140a: symbol server returned unindexed build 75edf4ad1896"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "6a13dac8bd42767dad55d4c1ed4640f4e7f01abb08ca05ddcdc2c348fcd6f8b3",
+   "error": "6a13dac8bd42: symbol server returned unindexed build 08de7165987f; b812162f140a: symbol server returned unindexed build 75edf4ad1896"
+  }
+ ]
+}

@@ -1,0 +1,1162 @@
+{
+ "name": "mshtml.dll",
+ "builds": [
+  {
+   "sha256": "eabc52a638000c133ea053e7b8a3565866e9cb9aabd72276aafad4a3d309d178",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/58AB81241681000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c8237251427e3ee9982395de992528201c326ccc4f516ed48a3765787a5a2755",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/55DEC800133e000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7f089524be1287a60574b78bc7917882ef6586c14498c5c1a1b954ddef75ba02",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/B4A775151676000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "61001b4eae2514b157d66423e1c1996cc4f2e1e98afcc8c31bc6adbbff8d6df5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/6FA5937416fe000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "53cfaadfb062f1448525885e7bcce44833e99d44bc10c69bd42568fcb0564026",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "11.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/6AC8D68116bb000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "51da825cff3ac1848457ff3c4e110b59cccebb5ddf9fc2fc361d98e53d726e44",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/4A5CC1DA1725000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "433a556de4fff610db9bfa88289d400b5b3a50970c0ab1105315f4f0b563cbb3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "11.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/6AC8D5521398000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1d08ce9426224e7bcb5433fb9e44bcc3f212d10622407646d31211972c6add68",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/F471B1F4120a000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b64e93a23bf8834747d15d2be464987fb874d79da66d4ed30106c40e21461a7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/4D3EA41C121d000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8429ec324ad7f1da7ddd027f876e9de36ab74dce8c6ec3698a1b550e4bc23717",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.6931 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.6931",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-04-14",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "22621.7582",
+    "22631.6936",
+    "22631.7079",
+    "22631.7219",
+    "22631.7376",
+    "22631.7517",
+    "22631.7584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/46119F141629000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4f58cf96bb9f9dc049b4cb3825d6668245bc3b0379f14d09731da743f88b9d5c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.6931 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.6931",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-04-14",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "22621.7582",
+    "22631.6936",
+    "22631.7079",
+    "22631.7219",
+    "22631.7376",
+    "22631.7517",
+    "22631.7584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/21BEBAF7130a000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2bc26bd1aff5ae7dd382b9abb55c37dcb5d00ea55da2c6dd6909b3355d0e2c2d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.7725 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.7725",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "19045.7725",
+    "19045.7727"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/9B435CF41253000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "99611f2856110a3cd6b6987b7f024fe36c6a827d9283f4ce04f513707cf4f38a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "11.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/68E6760E1382000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "58bfc248800d7fdceb81d5acc2ce909544bd434c50f6d011514ffc7e0abd5752",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.5983 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.5983",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-09-23",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060",
+    "22631.5984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/9A2084F7130a000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "57ddd2c0958161865a7c21a1675d6f2f30831c75dfd9d2a0ade531e901af7381",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.5983 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.5983",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-09-23",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "22621.6060",
+    "22631.5984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/D6D6C3F21629000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "04104a6193a236476191081f05f4619e036e94aea14e1d2c3eac1ebe605e85de",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "11.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/68E67A041794000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b46c378809ca8d4e093ab57db7e5c83b6cddedc45eeed677bb8888231b2bf196",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/50849BC91705000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2617e2300d4fb1494afbe9c09ceffaaa178caa3fb2c24c5ab03e48373ab01fae",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/A0F3F5E512e7000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ca9135608cde9180e48521ca9c96fc7aea8fe453e383c38604c078d83f27108",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.6392",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/781BEBEB1253000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0a810fc50d307767b30ca3d41d89bf140cbc31feddbcc4d581c145b867bb2174",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.6392",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/03E4A0861676000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "73e62dfa5714b61b66664c48d5979aba75c07413bc97af6b82109fc33e07d0b4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/EAC06BCA1316000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3d13347b7bff486a26b7a9cff2022172a231b8909f74126b6aebb8cc4cc13d21",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/11633CAF16a0000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc5092953218f2613009470040e2977085422e6993b84818b0f9e05645656d8c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.2965 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.2965",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-05-09",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/C65750401675000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d5f257456b342395cae84447ca3727b2d444607640312df7fd4f226baad25cf6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.2965 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.2965",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-05-09",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/4609FFE71252000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e9bb747ed3a6dbd5c37ed4cf545a5f4967eccc0353002c96535c0e19e9f8fde8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.2274",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/19B7C5641248000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "198a678ac2a83f32f63e46d351e8f25ce9f9e7364680a24eb163f93076ace552",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.2274",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/7025CEBF15b6000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cce063914c39338c1769615f2a619f3d1c6a720cd7412bda1c0a939706f5a8d7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.1415 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.1415",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-12-14",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1415"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/EA70FA931254000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "30ea771e223774bc6cc541d53891876d76e925dcf41f8c1e7aa42f5aeb9970ea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.1415 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.1415",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-12-14",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1415"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/054F8AA41677000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "732b9fa7d070c9f64b4067906cdb8eb343e0434319dbecd4860f1c8dba1ac2cb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/352C08F71678000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "37a2d1c6b29f3de832596d6058739719f97f8643f9ce2b6166b2dfcfc877ec46",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/BFC37FB61253000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c20f433c5c47dfa34a19feb0e4accb2831cc2c6dae3e5806f456e88620c078fb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17134.2208",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/9F21594D1393000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9487497ead1e2c90524ec74c50021813f0db34a68dc573334e7a3fdda58405a7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17134.2208",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/A5AD2B4115d1000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f635d1b09f3012355f757bd9402d4e0de432d7ae95c98b4ca02a995d869206b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.15063.2679 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.15063.2679",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/0F74253C16b1000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3c4e9552bfd574d5b36a7b3a794fe1692e10f1e31205a141877564c3a1535a05",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.15063.2679 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.15063.2679",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/AB8612C5137f000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6a6c8a98c8562cdc32491b1890de0123f6e9379a54e2a3c45258fb47d60f66a6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/D274E1851249000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "08b681a8d719eb215b9cde80d733233bb05ad78cb046d94bc2ff5502b59a7d54",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/362823CC15b7000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9a61f2b50f201c1f55333d287387528d8c39800c278d6b76bee9f78ea14d1b69",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.16299.2166",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/F5E49E1416b6000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "823e1ce7d86ad20d75bde983c0c87a91f77d50428ceef30d992570cb2f7c70ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.16299.2166",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/03EC506B1388000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cfc1b1062dd975dd8c152af89ca0f4f388aa5f34a3832d5e3ed3e8c07ecfede1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "11.0.10586.1540",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/5AB4888C1385000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3c8de2e4ae7d3a8559f0e40e3afceaa3ecdc4e947512b2d194bd94d68ecb535b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MSHTML.DLL",
+   "internal_name": "MSHTML",
+   "file_description": "Microsoft (R) HTML Viewer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "11.0.10586.1540",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mshtml.dll/5AB49B511790000/mshtml.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MSHTML.DLL",
+   "builds": 40,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "11.0.10240.21161",
+   "max_version": "11.0.28000.3231",
+   "first_seen": "2018-04-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "1507",
+   "sha256": "85adcb9a111f59e012581631e9e1760b94cf0fbdf5fa1179168eee0ac9362275",
+   "error": "85adcb9a111f: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  }
+ ]
+}

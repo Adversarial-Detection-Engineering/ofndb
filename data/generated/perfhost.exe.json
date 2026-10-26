@@ -1,0 +1,44 @@
+{
+ "name": "perfhost.exe",
+ "builds": [
+  {
+   "sha256": "a2fc0b2607c5c32c783c3dbe57ed2215d7596aedf1f2a86a2a0188f1a6687c32",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "perfhost.exe",
+   "internal_name": "perfhost.exe",
+   "file_description": "x86 Performance Counter Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\perfhost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "perfhost.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

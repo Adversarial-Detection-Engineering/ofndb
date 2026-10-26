@@ -1,0 +1,44 @@
+{
+ "name": "dxpserver.exe",
+ "builds": [
+  {
+   "sha256": "4c5908c1181ae4f0157a8cee9a9520c9cbf20dcd190e5cc456ccc03a2346a181",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DXPServer.EXE",
+   "internal_name": "DXPServer",
+   "file_description": "Device Stage Platform Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Dxpserver.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DXPServer.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

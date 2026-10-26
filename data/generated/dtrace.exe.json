@@ -1,0 +1,161 @@
+{
+ "name": "dtrace.exe",
+ "builds": [
+  {
+   "sha256": "81ff3a5251c695a7955acc40a1d2825ace9a04b62a35b10883aa5cb345676335",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dtrace.exe",
+   "internal_name": "dtrace.exe",
+   "file_description": "DTrace/NT",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-05-28",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dtrace.exe/C0510E5F10000/dtrace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "acc034e9faa9b8af762e3a18e6cd13a5cd16547110f8f29884228feade2041ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dtrace.exe",
+   "internal_name": "dtrace.exe",
+   "file_description": "DTrace/NT",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.546",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2020-10-01",
+   "last_seen": "2022-08-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/dtrace.exe/579482B9e000/dtrace.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dtrace.exe",
+   "builds": 2,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "2004",
+    "20H2"
+   ],
+   "min_version": "10.0.19041.546",
+   "max_version": "10.0.26100.4202",
+   "first_seen": "2020-10-01",
+   "last_seen": "2025-12-09",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "11-26H1",
+   "sha256": "df99a238b90edd895f9c165f8d453b05a3c72fec48ee75ceea3413a16714f6e4",
+   "error": "df99a238b90e: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  }
+ ]
+}

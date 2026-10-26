@@ -1,0 +1,44 @@
+{
+ "name": "mdeserver.exe",
+ "builds": [
+  {
+   "sha256": "81ee5595f1dd13c507ac23b2f8e62677b5e3c623b19a117984d2d4707a97fd0a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MDEServer.exe",
+   "internal_name": "Cast to Device Server",
+   "file_description": "Cast to Device Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MDEServer.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MDEServer.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

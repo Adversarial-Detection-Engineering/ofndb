@@ -1,0 +1,64 @@
+{
+ "name": "migregdb.exe",
+ "builds": [
+  {
+   "sha256": "76c1e721761f359d49625950e6f968e8acbebdafbdffd69d1f222d05acb0a5c0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MIGREGDB.EXE",
+   "internal_name": "MIGREGDB.EXE",
+   "file_description": "COM+",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Com\\MigRegDB.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1c372ecac644d596bed2b4c7de4571d34175c37f608ffbce97f103117bda8e1f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MIGREGDB.EXE",
+   "internal_name": "MIGREGDB.EXE",
+   "file_description": "COM+",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Com\\MigRegDB.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MIGREGDB.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "2001.12.10941.16384",
+   "max_version": "2001.12.10941.16384",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

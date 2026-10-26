@@ -1,0 +1,64 @@
+{
+ "name": "cttune.exe",
+ "builds": [
+  {
+   "sha256": "49bd02ad9ac65fce885857900e30981f4550b8762c1d19f90ce246f0a8a812b9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CTTUNE.EXE",
+   "internal_name": "CtTune",
+   "file_description": "ClearType Tuner",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cttune.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "0bf362633d9d88e46c451aa10e9c73a31231a088646795d20b842a7c6fe52a06",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CTTUNE.EXE",
+   "internal_name": "CtTune",
+   "file_description": "ClearType Tuner",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\cttune.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CTTUNE.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

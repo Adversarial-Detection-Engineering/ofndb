@@ -1,0 +1,47 @@
+{
+ "name": "sdelete.exe",
+ "builds": [
+  {
+   "sha256": "04e86e1a3db487ce85091448b0a4c6ef3a3bb4e9da2032f0e8f5fdcab28d3ea7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sdelete.exe",
+   "internal_name": "SDelete",
+   "file_description": "Secure file delete",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Sdelete",
+   "file_version": "2.06",
+   "fixed_file_version": "2.6.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Sdelete",
+   "release": "2026-03-05",
+   "last_seen": "2026-03-05",
+   "download_url": "https://live.sysinternals.com/sdelete.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sdelete.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.6.0.0",
+   "max_version": "2.6.0.0",
+   "first_seen": "2026-03-05",
+   "last_seen": "2026-03-05",
+   "provenance": "parsed"
+  }
+ ]
+}

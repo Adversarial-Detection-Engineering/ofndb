@@ -1,0 +1,732 @@
+{
+ "name": "provlaunch.exe",
+ "builds": [
+  {
+   "sha256": "d14e23770e4521f5fc8091f6344b359eeb6943fe15b8755bf312b22b3ca57397",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/15B6D28B10000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ccf6eda3be367426ab7960732830b78b0bc7d9bbd4fb63a6a8f246b946f55d84",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/FFC7050F15000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7c68a4e7473f346650f661ed9e3751ad4f0df63dd0cee221501a8bfe720d3fa1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/0CDCD10C15000/provlaunch.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\provlaunch.exe"
+  },
+  {
+   "sha256": "1336950ae5527576050569f82531c6ea9eee564cc68e6afe8ccc575364329453",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.8146 (rs1_release.250519-1743)",
+   "fixed_file_version": "10.0.14393.8146",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2025-06-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/682BF10B11000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0a5f73ef16805bfcad0c75b7edb3e850420d884ef12da80aaa21f5ce028b4e0b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/180BC7EEf000/provlaunch.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\provlaunch.exe"
+  },
+  {
+   "sha256": "d411ceeb26a53638f1dbe56711a886f1bc3467f1740af1921aea9e5923c601e5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3470 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3470",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-03-11",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/9C7DDE0015000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "99a922935a8ae859f4c8575d3af544640623c76c7c854328d80dfc62f5a1f5e0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3470 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3470",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-03-11",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/C93DAB0Ef000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f74b09f2d2472274c88f2c8c4d7fc4536588e39f23e8216108052ab63bf504f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2024-05-14",
+   "os_builds": [
+    "17763.1697",
+    "17763.1728",
+    "17763.1757",
+    "17763.1790",
+    "17763.1817",
+    "17763.1821",
+    "17763.1823",
+    "17763.1852",
+    "17763.1879",
+    "17763.1911",
+    "17763.1935",
+    "17763.1971",
+    "17763.1999",
+    "17763.2028",
+    "17763.2029",
+    "17763.2061",
+    "17763.2090",
+    "17763.2091",
+    "17763.2114",
+    "17763.2145",
+    "17763.2183",
+    "17763.2210",
+    "17763.2237",
+    "17763.2268",
+    "17763.2300",
+    "17763.2305",
+    "17763.2330",
+    "17763.2366",
+    "17763.2369",
+    "17763.2452",
+    "17763.2458",
+    "17763.2510",
+    "17763.2565",
+    "17763.2628",
+    "17763.2686",
+    "17763.2746",
+    "17763.2803",
+    "17763.2867",
+    "17763.2928",
+    "17763.2931",
+    "17763.2989",
+    "17763.3046",
+    "17763.3113",
+    "17763.3165",
+    "17763.3232",
+    "17763.3287",
+    "17763.3346",
+    "17763.3406",
+    "17763.3469",
+    "17763.3532",
+    "17763.3534",
+    "17763.3650",
+    "17763.3653",
+    "17763.3770",
+    "17763.3772",
+    "17763.3887",
+    "17763.4010",
+    "17763.4131",
+    "17763.4252",
+    "17763.4377",
+    "17763.4499",
+    "17763.4645",
+    "17763.4737",
+    "17763.4851",
+    "17763.4974",
+    "17763.5122",
+    "17763.5206",
+    "17763.5329",
+    "17763.5458",
+    "17763.5576",
+    "17763.5579",
+    "17763.5696",
+    "17763.5820"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/0DA991A213000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a61daf3657f2e3cc2d19c2ade81b47f868c133cf9307e672757ea078491e2450",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.112",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.137",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.165",
+    "17134.1667",
+    "17134.167",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.191",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.228",
+    "17134.254",
+    "17134.285",
+    "17134.286",
+    "17134.320",
+    "17134.345",
+    "17134.376",
+    "17134.407",
+    "17134.441",
+    "17134.471",
+    "17134.472",
+    "17134.523",
+    "17134.556",
+    "17134.590",
+    "17134.619",
+    "17134.648",
+    "17134.677",
+    "17134.706",
+    "17134.753",
+    "17134.765",
+    "17134.766",
+    "17134.799",
+    "17134.81",
+    "17134.829",
+    "17134.83",
+    "17134.858",
+    "17134.860",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/5498CD5D13000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e8883ac9a0aef618228aafb720e66e549ffe49f54b01345f66ddfe4e51667a43",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "provlaunch",
+   "internal_name": "provlaunch",
+   "file_description": "Provisioning package runtime command launching tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/provlaunch.exe/5632D831e000/provlaunch.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "provlaunch",
+   "builds": 10,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1511",
+    "1607",
+    "1803",
+    "1809"
+   ],
+   "min_version": "10.0.10586.0",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "ac320f5e6f92d903980fcbab7759965fabba508a17e0255f134c8cefba3c05a5",
+   "error": "ac320f5e6f92: symbol server returned unindexed build e748987b06b4; 037f91cbb157: symbol server returned unindexed build e748987b06b4; 095832b2ddae: symbol server returned unindexed build e748987b06b4; eec6e883c0cf: symbol server returned unindexed build e748987b06b4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "2f1e2ac322f74e5dc9b967b97ab79bc7a0859156d468b5706236ef3487c163e6",
+   "error": "2f1e2ac322f7: symbol server returned unindexed build d5314de06a48; 7813fab4038f: symbol server returned unindexed build d5314de06a48; a73c99fc4ecb: symbol server returned unindexed build d5314de06a48; a44a4cd1eebb: symbol server returned unindexed build 512ae587b682"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "2f1e2ac322f74e5dc9b967b97ab79bc7a0859156d468b5706236ef3487c163e6",
+   "error": "2f1e2ac322f7: symbol server returned unindexed build d5314de06a48; 03a88b273113: symbol server returned unindexed build f6a6dbcfbf78"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "4fe3fe8494d89177a7ef26ac57edf2a7025a320ae89c689a8e0c7aa912fa63a6",
+   "error": "4fe3fe8494d8: symbol server returned unindexed build d8c8eadf6c1d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "f2e829021fb1f3598ab5acd5ab590330c38dd7b21a741228b470890ad4f59f2b",
+   "error": "f2e829021fb1: symbol server returned unindexed build 5664ef7262c9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "d4ecb735ee81515e2eb1c06504897c377387a8857d7a6a22d042867bf360d455",
+   "error": "d4ecb735ee81: symbol server returned unindexed build dafe1b0e02f8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "d4ecb735ee81515e2eb1c06504897c377387a8857d7a6a22d042867bf360d455",
+   "error": "d4ecb735ee81: symbol server returned unindexed build dafe1b0e02f8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "337569c120a3f113a4dfd907427d939a44d60da2e6d300c85c8a286048bfd851",
+   "error": "337569c120a3: symbol server returned unindexed build e20d039f2d80"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "2672eb8c9e172589f94f0601d33f2966061d20958c363929f598d097d15987f3",
+   "error": "2672eb8c9e17: symbol server returned unindexed build 707e9a390b16; d7fcd41795d1: symbol server returned unindexed build 707e9a390b16; c2aa99e1e830: symbol server returned unindexed build 707e9a390b16; 337569c120a3: symbol server returned unindexed build e20d039f2d80"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "337569c120a3f113a4dfd907427d939a44d60da2e6d300c85c8a286048bfd851",
+   "error": "337569c120a3: symbol server returned unindexed build e20d039f2d80"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "711b3b0957e2630cc90345e4b6948dd90677bcf899d38b4254f9432bed1e6c16",
+   "error": "711b3b0957e2: symbol server returned unindexed build 1aa9cb093876; fcf80a8bed19: symbol server returned unindexed build 1aa9cb093876; 25415a7004d9: symbol server returned unindexed build 1aa9cb093876; fa59827d3de1: symbol server returned unindexed build 10ef17cb83e6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "711b3b0957e2630cc90345e4b6948dd90677bcf899d38b4254f9432bed1e6c16",
+   "error": "711b3b0957e2: symbol server returned unindexed build 1aa9cb093876; fcf80a8bed19: symbol server returned unindexed build 1aa9cb093876; 25415a7004d9: symbol server returned unindexed build 1aa9cb093876; fa59827d3de1: symbol server returned unindexed build 10ef17cb83e6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "78afbd5c629b8c484dd82f842730ea1a7ea09186b1e5b03bad84a085726b07e0",
+   "error": "78afbd5c629b: symbol server returned unindexed build 5250fb5714f5; 5ca06a5af212: symbol server returned unindexed build 5250fb5714f5; 0e59af6080f1: symbol server returned unindexed build 5250fb5714f5; 0c759b3848f1: symbol server returned unindexed build 5250fb5714f5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "167c75b4a5e9c0655d95fb80db246346f40ebd0447f2ab98e3fd212d4488c37d",
+   "error": "167c75b4a5e9: symbol server returned unindexed build 6429e29afece; 19cfb2596a0d: symbol server returned unindexed build 6429e29afece; fc4f374611d2: symbol server returned unindexed build 6429e29afece; a329b27d8517: symbol server returned unindexed build f18d00ce7e7a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "167c75b4a5e9c0655d95fb80db246346f40ebd0447f2ab98e3fd212d4488c37d",
+   "error": "167c75b4a5e9: symbol server returned unindexed build 6429e29afece; 5dd61b159ea2: symbol server returned unindexed build 7baafec7bca3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "f92fb597ad1264c66c4e4ebdfa1747bf6bd66d858f17f941dc5f8446328e0b1b",
+   "error": "f92fb597ad12: symbol server returned unindexed build 4ab726362a21"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "7f41be8fcb3f9c951def7cebbfc76ff255bd792754c4ae13a30710d765501812",
+   "error": "7f41be8fcb3f: symbol server returned unindexed build 8b79e54e426d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "7547d8dbedeabe307ddc281bf260b8dcd75e612208b6e31e97dae18f5992decc",
+   "error": "7547d8dbedea: symbol server returned unindexed build 557f2b578e1d; 97522b1660e9: symbol server returned unindexed build 557f2b578e1d; 7541b80fa92c: symbol server returned unindexed build 557f2b578e1d; c24b4b784c54: symbol server returned unindexed build 557f2b578e1d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "493fc3d1298666ad2168efa6f2166ed169f1879ee6520d61c7696dddaa53491a",
+   "error": "493fc3d12986: symbol server returned unindexed build 84b3b1d87cbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "493fc3d1298666ad2168efa6f2166ed169f1879ee6520d61c7696dddaa53491a",
+   "error": "493fc3d12986: symbol server returned unindexed build 84b3b1d87cbe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "b602337a386a68aa4b7d1e3d863a158601cf0891c22abf8b29427cae87853f82",
+   "error": "b602337a386a: symbol server returned unindexed build 34527bccce3a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "7b532c12f1433a622d0948ccbae4b9b08182e2e5dfa5ac152adcc799eede7d35",
+   "error": "7b532c12f143: symbol server returned unindexed build 37f1f38df89b; 0e71bce10c02: symbol server returned unindexed build 37f1f38df89b; 2773f30766e4: symbol server returned unindexed build 37f1f38df89b; b602337a386a: symbol server returned unindexed build 34527bccce3a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "b602337a386a68aa4b7d1e3d863a158601cf0891c22abf8b29427cae87853f82",
+   "error": "b602337a386a: symbol server returned unindexed build 34527bccce3a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "a17098536cf33dcefbf1350a0f8982d978d0f9e5937a23268474591c052adf22",
+   "error": "a17098536cf3: symbol server returned unindexed build 3da4b053ae77; 99c19ccdc0b5: symbol server returned unindexed build 3da4b053ae77; 6adf57a54e88: symbol server returned unindexed build 3da4b053ae77; be1628f68cad: symbol server returned unindexed build 86a044fddd50"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "a17098536cf33dcefbf1350a0f8982d978d0f9e5937a23268474591c052adf22",
+   "error": "a17098536cf3: symbol server returned unindexed build 3da4b053ae77; 99c19ccdc0b5: symbol server returned unindexed build 3da4b053ae77; 6adf57a54e88: symbol server returned unindexed build 3da4b053ae77; be1628f68cad: symbol server returned unindexed build 86a044fddd50"
+  }
+ ]
+}

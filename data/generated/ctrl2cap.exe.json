@@ -1,0 +1,47 @@
+{
+ "name": "ctrl2cap.exe",
+ "builds": [
+  {
+   "sha256": "ec4d9c4fec56f118ef4992e0e81c36a7b7ea7223b511555532a4bfadfdb16a73",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ctrl2cap.exe",
+   "internal_name": "Ctrl2Cap",
+   "file_description": "Ctrl2Cap - Caps Lock to Ctrl remapper",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Ctrl2Cap",
+   "file_version": "3.0",
+   "fixed_file_version": "3.0.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Ctrl2Cap",
+   "release": "2025-02-13",
+   "last_seen": "2025-02-13",
+   "download_url": "https://live.sysinternals.com/ctrl2cap.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ctrl2cap.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "3.0.0.0",
+   "max_version": "3.0.0.0",
+   "first_seen": "2025-02-13",
+   "last_seen": "2025-02-13",
+   "provenance": "parsed"
+  }
+ ]
+}

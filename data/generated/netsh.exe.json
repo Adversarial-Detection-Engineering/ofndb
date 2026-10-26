@@ -1,0 +1,568 @@
+{
+ "name": "netsh.exe",
+ "builds": [
+  {
+   "sha256": "e16f0ef226e204fb5fb80e3687159fbbf4d386766d8a0dd3c57ead3677756f67",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8328 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/754C9E391e000/netsh.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\netsh.exe"
+  },
+  {
+   "sha256": "c8e915989db9f051ec90fa4b5dab61e94769d10fd7c9d4d5a2c8319b7c328c2c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2179 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2179",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/D2B5896F1e000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b4fe2ea236ed6d360614a1502dc024adc9400d8ad2d1507e2b874e95629e73eb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8328 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/D301761625000/netsh.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\netsh.exe"
+  },
+  {
+   "sha256": "945cbb6ec2db179a5976d49407059e2f6a36b76ce1809064348c04fc76dd1c0e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2179 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2179",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/259E2B8325000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f62b477c197e871db9d7b96dd6e80fbe2997f63d2c37bcdb379d6b22d6db76d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/F916B29026000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6a3e084827c4d82b3e486b860c081af1423d34ee1825fa0b865add9222cf77dc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/3E414BB81f000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e5888e649c881e4bbbce472f6808f93b2b5564d3094995a5a08e66b2406c1607",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/57899B2022000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "00b424fce60e8c3abb5bc05e2e1c4d86f14b07db48d08660a5a7bb25fc9e3c23",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/578990D21e000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "329326ac87ca4fd41f890e902abba32cb9bf5ad38dffcd7e7031145feccf1c4d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/5632D6CE1e000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1651ff286ddd894b6a5a1108782fe1e19a54d29614b276af0dde5a66567d2165",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/5632D75222000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e9e24fb71b09913424236131a896329ed726e0a6c796735462ff6ab440d7287c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/559F3AE11e000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d726eefa3d553461af726ce1d4bad1f4c8f1cd159dc0657865c050fee3f1769",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "netsh.exe",
+   "internal_name": "netsh.exe",
+   "file_description": "Network Command Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/netsh.exe/559F388122000/netsh.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "netsh.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2179",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "ec59c040e63856b4c73726e3b325e812ed163bac0116ebade7a4d11d9295c50e",
+   "error": "ec59c040e638: symbol server returned unindexed build a69ce36cc7a8; 03d57da07fd5: symbol server returned unindexed build 0b7f3e8d48b6; 0c5909ee7e37: symbol server returned unindexed build 0b7f3e8d48b6; b8f9a8275d94: symbol server returned unindexed build 2624906ee264"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "3e91414a1a005937925e449627d4634e73b1da9dc12d1008b1baa54c77637c44",
+   "error": "3e91414a1a00: symbol server returned unindexed build 63e00430b742"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "3e91414a1a005937925e449627d4634e73b1da9dc12d1008b1baa54c77637c44",
+   "error": "3e91414a1a00: symbol server returned unindexed build 63e00430b742"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "0427f35170e8038e1dd7c913bfd7784ae539245c2faa0e1270056920fd41c22a",
+   "error": "0427f35170e8: symbol server returned unindexed build 9c405b7e46f6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "41100c756bc97ffca70a69d18c4440d446bad9a876ff4f3d52210dd0bdaee014",
+   "error": "41100c756bc9: symbol server returned unindexed build 7e00eafcd425"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "d6072e8809e95b8297fbdc431ffda58a04b845664145a8443318fc4fc2eab573",
+   "error": "d6072e8809e9: symbol server returned unindexed build e9395b7571f3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "d70d165b6706c61c56f2ca91307f4bbdb9846acae1da3cfd84bf978ffb21af23",
+   "error": "d70d165b6706: symbol server returned unindexed build 840e94c6431f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "90f0822d26680c8ffd703a080c876f87695580747a3704c169e39e1a8802ea38",
+   "error": "90f0822d2668: symbol server returned unindexed build 99df26085a5e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "90f0822d26680c8ffd703a080c876f87695580747a3704c169e39e1a8802ea38",
+   "error": "90f0822d2668: symbol server returned unindexed build 99df26085a5e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "6b691b06fa865f52c9484ef4f10e2e02ed6d7c3a3f474b8b138a33af7258b2a9",
+   "error": "6b691b06fa86: symbol server returned unindexed build bbbb8a0a78a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "6b691b06fa865f52c9484ef4f10e2e02ed6d7c3a3f474b8b138a33af7258b2a9",
+   "error": "6b691b06fa86: symbol server returned unindexed build bbbb8a0a78a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6b691b06fa865f52c9484ef4f10e2e02ed6d7c3a3f474b8b138a33af7258b2a9",
+   "error": "6b691b06fa86: symbol server returned unindexed build bbbb8a0a78a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "6b691b06fa865f52c9484ef4f10e2e02ed6d7c3a3f474b8b138a33af7258b2a9",
+   "error": "6b691b06fa86: symbol server returned unindexed build bbbb8a0a78a4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "6b691b06fa865f52c9484ef4f10e2e02ed6d7c3a3f474b8b138a33af7258b2a9",
+   "error": "6b691b06fa86: symbol server returned unindexed build bbbb8a0a78a4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "967bc82763de3043e6bb659b099cbf9e2a31eb03da136f3a4bb12d06fd568785",
+   "error": "967bc82763de: symbol server returned unindexed build e850c3cb4ea2; c69273e4257e: symbol server returned unindexed build e74eb66feae7; bbe966f2c59d: symbol server returned unindexed build e74eb66feae7; 53cfae69bb8b: symbol server returned unindexed build 65b1e72dd1fc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "4b280ebc106c820d07c7768d24edd5df8c5c4d5b8b86c87d3899e40e3cb90ff1",
+   "error": "4b280ebc106c: symbol server returned unindexed build 0edec76eb96f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "4b280ebc106c820d07c7768d24edd5df8c5c4d5b8b86c87d3899e40e3cb90ff1",
+   "error": "4b280ebc106c: symbol server returned unindexed build 0edec76eb96f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "d718bdc6b12c55898fd3b0fea121f6cd0b71a8f40efdc1ffeb88c6df8d0f10ca",
+   "error": "d718bdc6b12c: symbol server returned unindexed build c59e295b774e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "6b22dd9817e7fb63d45f675c08121d7051ed626efe65304603de8bf4b93b32cb",
+   "error": "6b22dd9817e7: symbol server returned unindexed build 516fd9368ea7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "751525ff60a42609d4dfcbb9d70cec0c0650fc2b14b04994ede1b0159688278b",
+   "error": "751525ff60a4: symbol server returned unindexed build a47bbf929336"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "c94d41b92d051c1d7f30fc60196958799b4acff3fa2a2cdf8ced9d0b8b42b583",
+   "error": "c94d41b92d05: symbol server returned unindexed build f66d36831e00"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "e04fb93a81c7c469ba16cefd9b5b1fc355e86465ff24ea7b9c3fab5c52ab2f7d",
+   "error": "e04fb93a81c7: symbol server returned unindexed build c1c7fed09fd3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "e04fb93a81c7c469ba16cefd9b5b1fc355e86465ff24ea7b9c3fab5c52ab2f7d",
+   "error": "e04fb93a81c7: symbol server returned unindexed build c1c7fed09fd3"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "9efa9dafa09ae9ba6390a8f0f6751006c18a98b6692667ca08367cddb47ac634",
+   "error": "9efa9dafa09a: symbol server returned unindexed build b42a2f8b36f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "9efa9dafa09ae9ba6390a8f0f6751006c18a98b6692667ca08367cddb47ac634",
+   "error": "9efa9dafa09a: symbol server returned unindexed build b42a2f8b36f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "9efa9dafa09ae9ba6390a8f0f6751006c18a98b6692667ca08367cddb47ac634",
+   "error": "9efa9dafa09a: symbol server returned unindexed build b42a2f8b36f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "9efa9dafa09ae9ba6390a8f0f6751006c18a98b6692667ca08367cddb47ac634",
+   "error": "9efa9dafa09a: symbol server returned unindexed build b42a2f8b36f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "9efa9dafa09ae9ba6390a8f0f6751006c18a98b6692667ca08367cddb47ac634",
+   "error": "9efa9dafa09a: symbol server returned unindexed build b42a2f8b36f1"
+  }
+ ]
+}

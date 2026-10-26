@@ -1,0 +1,389 @@
+{
+ "name": "compattelrunner.exe",
+ "builds": [
+  {
+   "sha256": "f7b19da46f56197c5d2529a5af02616032b0f215188f337cf8f841760f78a0a0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/060721A9db000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0d48661245ea1e76f7ff5bb283d662579b5b5e5b3602e8e54b3627a1b577aaac",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/217FDF9Adb000/compattelrunner.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\CompatTelRunner.exe"
+  },
+  {
+   "sha256": "55ef934efad5c4bdbf10cd282a647c8624a7205ac6d1eec4f8c8fac735c216f4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/BCF907F540000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "500fcafcdbddf1ce5ad6fbac538d0ae11bb176ed394c7082bb680e1932aa12b8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6280 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6280",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-08-26",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "19044.6332",
+    "19044.6456",
+    "19044.6575",
+    "19044.6693",
+    "19045.6282",
+    "19045.6396",
+    "19045.6691",
+    "19045.6809",
+    "19045.6811",
+    "19045.6812",
+    "19045.6937",
+    "19045.7058",
+    "19045.7184",
+    "19045.7291",
+    "19045.7417"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/9B75C58740000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f303315999c45751ec7e77559cf7347b4bba4206bf1fee7a11913523cbffc13",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/8E4626DA2c000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8404a405a1f97e8d529809ae689da7ace558298bdde2267775b9d28d00a0abdd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1015 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1015",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2023-06-23",
+   "last_seen": "2023-06-23",
+   "os_builds": [
+    "10240.19986"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/345C10372a000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "62e5b42703136314e0eabc77a716d5e2b0ea529b5833363d8e13ebf5dfd4dda3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1023 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1023",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2019-10-24",
+   "last_seen": "2020-03-12",
+   "os_builds": [
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/756AA5EA2a000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "85885d36f7cabbd9b621af116572bf47e00f0acb35bfc18ca189370098cb27ea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17060.1025 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17060.1025",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2018-03-29",
+   "last_seen": "2018-03-29",
+   "os_builds": [
+    "14393.2156"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/0331275024000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "89a4978ae0b4d500c2589808ef9b281c226ab5dfa98c58e431889326c48d8f4e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CompatTelRunner.exe",
+   "internal_name": "CompatTelRunner.exe",
+   "file_description": "Microsoft Compatibility Telemetry",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16287.1005 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16287.1005",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-11-22",
+   "last_seen": "2018-01-17",
+   "os_builds": [
+    "15063.729",
+    "15063.786",
+    "15063.877"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/compattelrunner.exe/48F6466823000/compattelrunner.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CompatTelRunner.exe",
+   "builds": 9,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1607",
+    "1703",
+    "1903",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.16287.1005",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-11-22",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "97502076754d0da3ffcae9064198244e1f9874494fbc65630a3c580bd469538d",
+   "error": "97502076754d: UnindexedBuild: symbol server returned unindexed build (unindexed:size=160216)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "5a439de9b2bc4b0f094db118ef1f12f3dec67795d10b3e3e901db3cdd55dc821",
+   "error": "5a439de9b2bc: symbol server returned unindexed build 3dc115db4659; 220ddbd9d247: UnindexedBuild: symbol server returned unindexed build (unindexed:size=350552); c0f896ce61c9: UnindexedBuild: symbol server returned unindexed build (unindexed:size=354648); 24ea2b8eb330: UnindexedBuild: symbol server returned unindexed build (unindexed:size=354664)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "9be2b29642853c5e9426a998907a69e44d7a380217e02274aa6ae230eb20b530",
+   "error": "9be2b2964285: UnindexedBuild: symbol server returned unindexed build (unindexed:size=309688); f29df44ce5ab: UnindexedBuild: symbol server returned unindexed build (unindexed:size=305600); 50ba9a95710e: symbol server returned unindexed build 18803a96e34f; 5a439de9b2bc: symbol server returned unindexed build 3dc115db4659"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "9bff71a6b65e7d4aed4278e0e0d939d7c1140c0bd0e3518cc4a5442ca009983c",
+   "error": "9bff71a6b65e: symbol server returned unindexed build f684adc0d194; 67ef71f8d619: collided with 85885d36f7ca from another release; 64a8228201ec: symbol server returned unindexed build cf021f9737d2; a56cbf032bcc: collided with 89a4978ae0b4 from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "48d9a72814ab4b10e331adf4a3f2dd39b13b58a5fc2d7e896bf2b4bba11752fb",
+   "error": "48d9a72814ab: symbol server returned unindexed build cb917b4984ea; c2e8582fed9f: symbol server returned unindexed build cb917b4984ea; 7a478eb719a6: symbol server returned unindexed build cb917b4984ea; f1ca2a66eeea: symbol server returned unindexed build cb917b4984ea"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "fc0c4b9e63abfd54ad09f2bbc1f56f2fcbb1cf39cb056b1b1a5dee3d64aaf37a",
+   "error": "fc0c4b9e63ab: symbol server returned unindexed build cb917b4984ea; 1ddda876097d: collided with 62e5b4270313 from another release; f32f3614f7f6: collided with 8404a405a1f9 from another release; 7d9ca8ae5500: collided with 8404a405a1f9 from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "046f009960f70981597cd7b3a1e44cbb4ba5893cc1407734366aa55fbeda5d66",
+   "error": "046f009960f7: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151552); c0a5986a4dd6: symbol server returned unindexed build 9bc2d006f328; f38ea7112fea: symbol server returned unindexed build cb917b4984ea; 5f951141609c: collided with 62e5b4270313 from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "0f36dc82dae22e27acf9dd720f2a997f4fd0c786013f47668f5d6f2eab474138",
+   "error": "0f36dc82dae2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=161136); 77ef886df486: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151552); f946fc4eeb0b: symbol server returned unindexed build 9bc2d006f328; 06d91ae93c7b: collided with 8404a405a1f9 from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "c52b831c4471e30ef6bd816db7b62fefeb3fa4ef0ce2cf46d70e527f624abe2d",
+   "error": "c52b831c4471: UnindexedBuild: symbol server returned unindexed build (unindexed:size=161136); 2bf5d8e400fe: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151552); 2967699a953d: symbol server returned unindexed build 9bc2d006f328; d4c583bc6efd: UnindexedBuild: symbol server returned unindexed build (unindexed:size=167712)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "c52b831c4471e30ef6bd816db7b62fefeb3fa4ef0ce2cf46d70e527f624abe2d",
+   "error": "c52b831c4471: UnindexedBuild: symbol server returned unindexed build (unindexed:size=161136); d4c583bc6efd: UnindexedBuild: symbol server returned unindexed build (unindexed:size=167712)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "2bf5d8e400fe776b3a9f5400ba212ad8d638cc44e7f906e7800be5054445eecc",
+   "error": "2bf5d8e400fe: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151552)"
+  }
+ ]
+}

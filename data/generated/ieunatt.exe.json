@@ -1,0 +1,64 @@
+{
+ "name": "ieunatt.exe",
+ "builds": [
+  {
+   "sha256": "f2aa2641c6f1f9b295a1b65e663ffdeb58ebc41768da48740c8535eed2036974",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEUNATT.EXE",
+   "internal_name": "IEUNATT",
+   "file_description": "IE 7.0 Unattended Install Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.8328 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.8328",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ieUnatt.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "8f6a83dc6088f9bd5e300b7bb9996a5828b0d1201cb238ed84aa614038ffda3d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEUNATT.EXE",
+   "internal_name": "IEUNATT",
+   "file_description": "IE 7.0 Unattended Install Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ieUnatt.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IEUNATT.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "11.0.26100.8115",
+   "max_version": "11.0.26100.8328",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

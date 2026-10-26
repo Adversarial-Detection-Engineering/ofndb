@@ -1,0 +1,44 @@
+{
+ "name": "mpnotify.exe",
+ "builds": [
+  {
+   "sha256": "14b225a8a305a8fdca2f6dd56b070648e886d1e372e642d22812c38694eb813a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mpnotify.exe",
+   "internal_name": "mpnotify.exe",
+   "file_description": "Windows NT Multiple Provider Notification Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mpnotify.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mpnotify.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "dispdiag.exe",
+ "builds": [
+  {
+   "sha256": "0129ab3ad337352d1d58a6145d2a110499ff88c8a482348653f2066dcfb0f74a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dispdiag.exe",
+   "internal_name": "dispdiag.exe",
+   "file_description": "Display Diagnostics",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dispdiag.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dispdiag.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

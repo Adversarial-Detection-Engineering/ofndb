@@ -1,0 +1,133 @@
+{
+ "name": "sysmon.exe",
+ "builds": [
+  {
+   "sha256": "f196211c6cc322172133bb68225b24a00670bb7aca3fdb243c67db98b7839edb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sysmon.exe",
+   "internal_name": "System Monitor",
+   "file_description": "System activity monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Sysinternals Sysmon",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sysmon.exe/10CFD63A19b000/sysmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7739793e09bf02625ca72d5fa734e9f55ac1d91f1a87471117e5bba1cd3eac9e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sysmon.exe",
+   "internal_name": "System Monitor",
+   "file_description": "System activity monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Sysinternals Sysmon",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sysmon.exe/9C63C0EE19b000/sysmon.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2afacac21966b3179e3996e72512bb5c9c25b8ef779560dce1ece3bc1879b57b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": "System Monitor",
+   "file_description": "System activity monitor",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Sysmon",
+   "file_version": "15.22",
+   "fixed_file_version": "15.22.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Sysmon",
+   "release": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "download_url": "https://live.sysinternals.com/Sysmon.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sysmon.exe",
+   "builds": 2,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.8972",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2026-07-28",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  },
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "15.22.0.0",
+   "max_version": "15.22.0.0",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

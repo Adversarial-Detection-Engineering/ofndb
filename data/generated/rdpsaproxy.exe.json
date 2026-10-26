@@ -1,0 +1,64 @@
+{
+ "name": "rdpsaproxy.exe",
+ "builds": [
+  {
+   "sha256": "b3409ad8fd485f1ffad1b3dae5bb7c023e9dc7b77a18a37780734336675e018e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RdpSaProxy.exe",
+   "internal_name": "RdpSaProxy.exe",
+   "file_description": "RDP Session Agent Proxy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RdpSaProxy.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "6bc6389d64d39a3fc11dbfd226de9c51531f75e061795264de0c43892fc44cb5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RdpSaProxy.exe",
+   "internal_name": "RdpSaProxy.exe",
+   "file_description": "RDP Session Agent Proxy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RdpSaProxy.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RdpSaProxy.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

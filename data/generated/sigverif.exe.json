@@ -1,0 +1,314 @@
+{
+ "name": "sigverif.exe",
+ "builds": [
+  {
+   "sha256": "fdd1f2e48b48828c6beb62f03c317f451cd874cd3c9176700aa71eeb1b55d747",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigverif.exe",
+   "internal_name": "sigverif.exe",
+   "file_description": "File Signature Verification",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/sigverif.exe/16F9F91119000/sigverif.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "699a11037818f7cc557c8332a90bbec5651bc5d433968fb4dccc22171b1badb2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigverif.exe",
+   "internal_name": "sigverif.exe",
+   "file_description": "File Signature Verification",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sigverif.exe/2A232FB119000/sigverif.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sigverif.exe"
+  },
+  {
+   "sha256": "f8804f260fdf003f2bb7d5bec1e5e3ec355faa66270871899576ff1d8b564b35",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigverif.exe",
+   "internal_name": "sigverif.exe",
+   "file_description": "File Signature Verification",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sigverif.exe/939901E018000/sigverif.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6008ae0fe2a26bf8a92597a133b1b970d324c79b7f3c53f74567c4d087e76b3d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigverif.exe",
+   "internal_name": "sigverif.exe",
+   "file_description": "File Signature Verification",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sigverif.exe/578999E317000/sigverif.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9a184604bcac66876b084fa4cbcd651ec0564d96ddc01ebab4572cc4b389ec03",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigverif.exe",
+   "internal_name": "sigverif.exe",
+   "file_description": "File Signature Verification",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sigverif.exe/5632D82B17000/sigverif.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8fe35a4cfb9f7bcfd50b357d51ab8a8ce2a05faab0aafe807dc7cf5c103a89b6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sigverif.exe",
+   "internal_name": "sigverif.exe",
+   "file_description": "File Signature Verification",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/sigverif.exe/559F389617000/sigverif.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sigverif.exe",
+   "builds": 6,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "a2b611a1313fc05ce3b55b82489d6dd2f71f542ebf4d7425be43f9aa0aa4b68b",
+   "error": "a2b611a1313f: symbol server returned unindexed build 6f78379ef081"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "a2b611a1313fc05ce3b55b82489d6dd2f71f542ebf4d7425be43f9aa0aa4b68b",
+   "error": "a2b611a1313f: symbol server returned unindexed build 6f78379ef081"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "a57403e41c7178403981cd384f6096f12092dee68d3dfbd92f94661f613dfcab",
+   "error": "a57403e41c71: symbol server returned unindexed build c10bb0bee506"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "a866d5bf10fcbec928d9a04f1687bf62008960dc2d29c4ef0edfd0b887dbc8e9",
+   "error": "a866d5bf10fc: symbol server returned unindexed build 890c96e7c4cd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "da824555db880996aef4df4c68b499139040a4ea68d533e676059a12c8563beb",
+   "error": "da824555db88: symbol server returned unindexed build 3e8c81cc08a6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "776501b9c220b910503be488126970e5d5159afa543706b528b8a0737184ef9e",
+   "error": "776501b9c220: symbol server returned unindexed build d12b76eec71e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "943c93039215a85645dc4fa894468e261c997f0f1eeca043d6b5dc10c47108d0",
+   "error": "943c93039215: symbol server returned unindexed build 13f0b117463a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "943c93039215a85645dc4fa894468e261c997f0f1eeca043d6b5dc10c47108d0",
+   "error": "943c93039215: symbol server returned unindexed build 13f0b117463a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "064de47877b00dc35886e829a697e4adb3d3cfdf294ddba13b6009a0f415b1bd",
+   "error": "064de47877b0: symbol server returned unindexed build 14f8ebf9cf30"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "064de47877b00dc35886e829a697e4adb3d3cfdf294ddba13b6009a0f415b1bd",
+   "error": "064de47877b0: symbol server returned unindexed build 14f8ebf9cf30"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "064de47877b00dc35886e829a697e4adb3d3cfdf294ddba13b6009a0f415b1bd",
+   "error": "064de47877b0: symbol server returned unindexed build 14f8ebf9cf30"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "064de47877b00dc35886e829a697e4adb3d3cfdf294ddba13b6009a0f415b1bd",
+   "error": "064de47877b0: symbol server returned unindexed build 14f8ebf9cf30"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "064de47877b00dc35886e829a697e4adb3d3cfdf294ddba13b6009a0f415b1bd",
+   "error": "064de47877b0: symbol server returned unindexed build 14f8ebf9cf30"
+  }
+ ]
+}

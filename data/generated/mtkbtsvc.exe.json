@@ -1,0 +1,44 @@
+{
+ "name": "mtkbtsvc.exe",
+ "builds": [
+  {
+   "sha256": "c0001ac0dc65d6bf2b5bf0743dedecc07940a16261d62ebb22ca9f5c6ad31ae1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MTKBTSVC.exe",
+   "internal_name": "MTKBTSVC.exe",
+   "file_description": "MediaTek Bluetooth Service Application",
+   "company_name": "MediaTek Inc.",
+   "product_name": "Bluetooth Software",
+   "file_version": "1.0.0.2",
+   "fixed_file_version": "1.0.0.2",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mtkbtsvc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MTKBTSVC.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.0.0.2",
+   "max_version": "1.0.0.2",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "rdpsa.exe",
+ "builds": [
+  {
+   "sha256": "e02db0f2c64c6d01bd283aa2d9ede320b5a6ac9ae74c4688cbaa5851a5091978",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RdpSa.exe",
+   "internal_name": "RdpSa.exe",
+   "file_description": "RDP Session Agent",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RdpSa.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "d9a196224e28cbc29ec76d87434afd2fe025386fe768891b33cf0505f1b0f4e6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RdpSa.exe",
+   "internal_name": "RdpSa.exe",
+   "file_description": "RDP Session Agent",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RdpSa.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RdpSa.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

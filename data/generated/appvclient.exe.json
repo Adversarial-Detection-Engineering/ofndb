@@ -1,0 +1,44 @@
+{
+ "name": "appvclient.exe",
+ "builds": [
+  {
+   "sha256": "a3aacb2c5d6336470cd4d1ccb236a06f8e756e8a535035674cdf52c77111ad41",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AppVClient.exe",
+   "internal_name": "AppVClient.exe",
+   "file_description": "Microsoft Application Virtualization Client Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AppVClient.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AppVClient.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

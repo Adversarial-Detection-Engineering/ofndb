@@ -1,0 +1,47 @@
+{
+ "name": "reghide.exe",
+ "builds": [
+  {
+   "sha256": "647fefa1a6451176802dd8c6061e1a4f78caa106c079bdd868f769e8e872ff64",
+   "machine": "x86",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Reghide.exe",
+   "release": "2006-11-01",
+   "last_seen": "2006-11-01",
+   "download_url": "https://live.sysinternals.com/Reghide.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": "2006-11-01",
+   "last_seen": "2006-11-01",
+   "provenance": "parsed"
+  }
+ ]
+}

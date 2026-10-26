@@ -1,0 +1,44 @@
+{
+ "name": "dmclient.exe",
+ "builds": [
+  {
+   "sha256": "258fd0b17d63a0bec87c5480b6e7ec5b881cc118945418d822b7996258cee0de",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dmclient.exe",
+   "internal_name": "dmclient.exe",
+   "file_description": "Microsoft Feedback SIUF Deployment Manager Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dmclient.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dmclient.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

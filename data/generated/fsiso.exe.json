@@ -1,0 +1,44 @@
+{
+ "name": "fsiso.exe",
+ "builds": [
+  {
+   "sha256": "3d11b0b093b33b929f8041c55f4e8d88c6ea4167cb497b64236ef7112070d71a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FsIso.exe",
+   "internal_name": "FsIso.exe",
+   "file_description": "Secure Frame Server Helper",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\FsIso.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FsIso.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

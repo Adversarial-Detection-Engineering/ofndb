@@ -1,0 +1,634 @@
+{
+ "name": "userinit.exe",
+ "builds": [
+  {
+   "sha256": "bd7a10dcca8582fd36bd404e6fd52fe94cfc8eba070afc0568fa972321d79ec6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/40ECF02D22000/userinit.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\userinit.exe"
+  },
+  {
+   "sha256": "98e4585899c1d91cf27c8982daf39815451f4191cd6dfcd69446d6e90930263e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/123B3A5B1b000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "83b97e70a424ca96f939806cc2c297db8554c90b7bd2e0116003b09d0ae4415b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/EDBE57F424000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "32ad3e10feba6a6731c4964e4a4e8dc56d39222cc75ee3a387e6deda14c9c636",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/A6CE8DDA19000/userinit.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\userinit.exe"
+  },
+  {
+   "sha256": "2f664f44b54fc7ef732573f8a4e0a698c5bb27e1e5d298511536ddbace587dae",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/C17D27811a000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "257cb75fa8b9fd740584d0580ee40597d20b6c190bbc2e80f903a1d19183dc7e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/D8CBBCB723000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ea5cc91d930781dbe0f0f9ab83008a4d2ef62fa937376d2191ce893afd9c9300",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.37 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.37",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.258",
+    "22000.282",
+    "22000.318",
+    "22000.348",
+    "22000.376",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/FB41CDC711000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fe22ddddc30c73aa54a7ea96006b14743a864be9a987ff3b2deb6b9141c2146a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.37 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.37",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2022-04-12",
+   "os_builds": [
+    "22000.258",
+    "22000.282",
+    "22000.318",
+    "22000.348",
+    "22000.376",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/24377CBC14000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cfc6a18fc8fe7447ecd491345a32f0f10208f114b70a0e9d1cd72f6070d5b36f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/57899B3Ae000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "62cfcd13a485aae19eb020fc6d78e7695873f009ca1c5ef2797d9e363a5600e5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/578990DEb000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2b563d081acd66c04b83b22c57fbbd20481843dc6b93c7eb4244c34649e5c8c0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/5632D760b000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "164b50562a1855b87fc3eca734eecf083da4acc143d2fc65bb979ca264c12fe3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/5632D7D6d000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "54e385eb0873cb53a68b3d53d886463d3b0414130ed1f4e4c0911098518136ea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/559F3BFFb000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "24aeb30724217632dc8d494dcf381d0c34f3f65f82344720cebe2111ebeddb37",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "USERINIT.EXE",
+   "internal_name": "userinit",
+   "file_description": "Userinit Logon Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/userinit.exe/559F3988d000/userinit.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "USERINIT.EXE",
+   "builds": 14,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "6d5ca12fcb2d07fdfac45f6bdff11d2aa7f0ad72cfc82dfc5b230fcca6bf7268",
+   "error": "6d5ca12fcb2d: symbol server returned unindexed build a30a0efcf485; 5417827079fb: symbol server returned unindexed build ce1b20110eb4; 94b4e4b64b20: symbol server returned unindexed build d5fc91b7a5c1; c9f2614aa3a7: symbol server returned unindexed build 4a65df98412b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "6d5ca12fcb2d07fdfac45f6bdff11d2aa7f0ad72cfc82dfc5b230fcca6bf7268",
+   "error": "6d5ca12fcb2d: symbol server returned unindexed build a30a0efcf485; caef4ae19056: symbol server returned unindexed build 2242a17f1364"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "b5170d0e86b93d83c67636fe2c1207139cfcbc9114bbfd74d127cddcbd8fa114",
+   "error": "b5170d0e86b9: symbol server returned unindexed build 2c64eaa0f3e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "df141a362d88dec14bb655f4a1757769e0adb3251b4571167a1227cba6274adb",
+   "error": "df141a362d88: symbol server returned unindexed build 3616a98eab08"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "89dd6946608b000161858ccd5af2c3d5a078856def17272795bd5cbe053b0ea0",
+   "error": "89dd6946608b: symbol server returned unindexed build 3c7ae2a72be7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "d3f1cec588c2e0fd3cbd913b0af988a6e4ec2d700a52f3a3112d72506b75c7e2",
+   "error": "d3f1cec588c2: symbol server returned unindexed build 2ec0d87e019b; 1fe7f7c59ec7: symbol server returned unindexed build 4a3c1b2bb39a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "7065057320320c99d0749f1dedcbea2e5b540404497244eb5f92ded38646f21d",
+   "error": "706505732032: symbol server returned unindexed build 96f6f1fb59d0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "7065057320320c99d0749f1dedcbea2e5b540404497244eb5f92ded38646f21d",
+   "error": "706505732032: symbol server returned unindexed build 96f6f1fb59d0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "eda7ee39d4db8142a1e0788e205e80ae798035d60273e74981e09e98c8d0e740",
+   "error": "eda7ee39d4db: symbol server returned unindexed build b2feb6d02397"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "78a4309f734f93e9466e01de26304f318db8242d43e7b3637735a4dd1262904a",
+   "error": "78a4309f734f: symbol server returned unindexed build 8a40f261454e; 03c963391d52: symbol server returned unindexed build 65002ea5c617; eda7ee39d4db: symbol server returned unindexed build b2feb6d02397"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "eda7ee39d4db8142a1e0788e205e80ae798035d60273e74981e09e98c8d0e740",
+   "error": "eda7ee39d4db: symbol server returned unindexed build b2feb6d02397"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "0043369966e39c40b96c941ebe06ba53139dc314785f0d2d5d490def51dfb86c",
+   "error": "0043369966e3: symbol server returned unindexed build 7654d867a926; 33d0f627a62d: symbol server returned unindexed build 8bc38ec90b35; c68acadcdf86: symbol server returned unindexed build 8bc38ec90b35; 78a4309f734f: symbol server returned unindexed build 8a40f261454e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "0043369966e39c40b96c941ebe06ba53139dc314785f0d2d5d490def51dfb86c",
+   "error": "0043369966e3: symbol server returned unindexed build 7654d867a926; 33d0f627a62d: symbol server returned unindexed build 8bc38ec90b35; 78a4309f734f: symbol server returned unindexed build 8a40f261454e; 03c963391d52: symbol server returned unindexed build 65002ea5c617"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "6c8872d826044dd9aeebd28386486f3e82f586cfa045377661d9531950c5f6e6",
+   "error": "6c8872d82604: symbol server returned unindexed build d93050ca9471; 8c463339bd97: symbol server returned unindexed build 78732f92d729; 02929fccd0e9: symbol server returned unindexed build fdfd2fa8652b; a6f98b434ede: symbol server returned unindexed build 0c4605859c3a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "6c8872d826044dd9aeebd28386486f3e82f586cfa045377661d9531950c5f6e6",
+   "error": "6c8872d82604: symbol server returned unindexed build d93050ca9471; d708d78a30c6: symbol server returned unindexed build 4af10529046d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "afdc77b0fc6ad92d3a593b15f24e47a8e46312d1e7ee900c9238355e110cccb7",
+   "error": "afdc77b0fc6a: symbol server returned unindexed build 8305bb2df503"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "bd792177e8058a9f60cecea4b2c2bf6c4458181058bb5b89626c015ea28d7ef0",
+   "error": "bd792177e805: symbol server returned unindexed build c662e3750905"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "85994fe55aec83842907fcfa59c0173ea09ce697419484189b07d88908d997b8",
+   "error": "85994fe55aec: symbol server returned unindexed build df1135c6338a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "ba6c7c3af77f5006e126cced0bf9713525bc009302ea97b527187758fa06cc79",
+   "error": "ba6c7c3af77f: symbol server returned unindexed build 081124909050; 6f1c2fd98615: symbol server returned unindexed build 9b13ce2206e7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "af1519bec6adbe3815d082002803fd0570058c324a51f5be15194a058ff03275",
+   "error": "af1519bec6ad: symbol server returned unindexed build 1c8271d97ee6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "af1519bec6adbe3815d082002803fd0570058c324a51f5be15194a058ff03275",
+   "error": "af1519bec6ad: symbol server returned unindexed build 1c8271d97ee6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "28c7d92ea3f248d2b13165e934e25c64f9d61cd2e5d293457ee62b345556a411",
+   "error": "28c7d92ea3f2: symbol server returned unindexed build ae630f5edecf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "d5d4c045ec76c8745703f27ea57d8cf77d1cb72146150ff92a92198272666cb2",
+   "error": "d5d4c045ec76: symbol server returned unindexed build b1601cf2b84c; 12ef712daf75: symbol server returned unindexed build a961566f3efa; 28c7d92ea3f2: symbol server returned unindexed build ae630f5edecf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "28c7d92ea3f248d2b13165e934e25c64f9d61cd2e5d293457ee62b345556a411",
+   "error": "28c7d92ea3f2: symbol server returned unindexed build ae630f5edecf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "d84913bf93c605beff51fabceb5852d435fb75b07340f01778cfc5e85d09c876",
+   "error": "d84913bf93c6: symbol server returned unindexed build de58fe6ddb26; 8b2275865c75: symbol server returned unindexed build c93a9004fe29; f807156b5e84: symbol server returned unindexed build c93a9004fe29; d5d4c045ec76: symbol server returned unindexed build b1601cf2b84c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "d84913bf93c605beff51fabceb5852d435fb75b07340f01778cfc5e85d09c876",
+   "error": "d84913bf93c6: symbol server returned unindexed build de58fe6ddb26; 8b2275865c75: symbol server returned unindexed build c93a9004fe29; d5d4c045ec76: symbol server returned unindexed build b1601cf2b84c; 12ef712daf75: symbol server returned unindexed build a961566f3efa"
+  }
+ ]
+}

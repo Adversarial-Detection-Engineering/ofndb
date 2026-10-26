@@ -1,0 +1,700 @@
+{
+ "name": "regasm.exe",
+ "builds": [
+  {
+   "sha256": "3e26a8ba9db5d89b5732dbc47ec4f08f4e7375b425cba857d788668ce1cd9fc3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/68531EF210000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ca2e12301fdc8fd4db6cf25674d0762e0c0bc5f71f900699d74b1fadb64c984",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/68531EDD12000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "637e94578d6d361157bc614fd5fe1dde5b2ed0ba5e7cd02c6c473c85baf9ea11",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/6250A89C10000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "613b37387daf3698df4a8baf6e4350473ebc3f23682d368221cd8dea9de2fb63",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/6250A7ED12000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dc45704ba97d974d157c1c4a27dba402afa595eac2468d8def2ee8d0a2ee9a81",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5DDA41FD10000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c066aee7aa3aa83f763ebc5541daa266ed6c648fbffcde0d836a13b221bb2adc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5DDA3CC812000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "53195987d396986ebcb20425ac130e78ad308fdbd918f33f3fd92b99abda314b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5E5E959E12000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1136010a4706295f80343fe364d90d5789288dead5ab0ed0e0981d29ad669bbc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5E5E97D210000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c59188cdbb659c1ecf75e59f0f5e0d35ee7436d370e334358c502366af3f1d3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5C7A225812000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "17d7cdfd341268f548c9cff3761209bd8b9f2c74993a77e8148a0f058b57dd91",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5C7A147410000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cd5fbb0ac9ebbd64ae84624d428ce30ff17fd586f71f8c5580bc57b176e6716b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5B69464412000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "008407b2ae592dd1e3e2dcc1709bb743dd42415155aca155a94e2da090778f87",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5B69397610000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ffe4480ccc81b061f725c54587e9d1ba96547d27fe28083305d75796f2eb3e74",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5A8E587812000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "de6213ea0a5b21e97dcc862b8545f33784259746ab1797e7805b092861a60d18",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5A8E57FD10000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "310a445f02310b38e7010ea79823895b11ec46f30b280ea211b9562f04e92bc0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/59B833AA10000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1fa317b9977f8ce780c1bb39567347d233f87646997f55fd6de16c306fbd44e1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/59B833D312000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ac7a3835f1209fbca66bdea5083a9ed6847db9be474080a0eccf927e0eed972",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/589C060010000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "19c4a41aad4928ff060b869758ac00125e37eafdb6085a34c2d5b25b9d19842b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/589C055912000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c5e6e5e81118950386193e8a544a40c0ef9b64a557e55640a0e7494e54724000",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/575A136A10000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d1217e2c9e820c3e7b2fc28fab4e40d85e0e9f4362e66a451e42d597b8c2650",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/575A127B12000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c4c88ac8455d9496df94bac6087a3cb7c11dc1b2a8baafa2526b327d1d5fa4ff",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5615C19512000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a0ae9496f0d4e4506bd210ad3d7971d3359e68dad8cd0feb8e9e5ad713cb9f50",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/5615D20210000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "88ca1738d336df891ace44861ca06f04b5984876a9390f1f9ce89017ec9e2865",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/556BC48210000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "557dcc9e854004997172d7c76e59c5eae969245ecc101cbd66e4381be66e617d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regasm.exe/556BC23612000/regasm.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e4b0fa7618827db2a8466815b59d28ad6167c70fc1ca7d41330e640056caebac",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\RegAsm.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "c64d85889a0d70e45817ab868c18ac557e6388e43607599d6b69d61bb504f330",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegAsm.exe",
+   "internal_name": "RegAsm.exe",
+   "file_description": "Microsoft .NET Assembly Registration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\RegAsm.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RegAsm.exe",
+   "builds": 26,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.6.79.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

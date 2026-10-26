@@ -1,0 +1,295 @@
+{
+ "name": "wbemtest.exe",
+ "builds": [
+  {
+   "sha256": "6af00cede557619ae04cf0bd6ec638ab3c87c68e44acc9909c6ea93bbc4decb8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wbemtest.exe",
+   "internal_name": "wbemtest.exe",
+   "file_description": "WMI Test Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wbemtest.exe/2D659FAA3c000/wbemtest.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wbem\\wbemtest.exe"
+  },
+  {
+   "sha256": "18af8e1c759e27070fd40d31dae6d786e1d6712db9021f093b39a7c4cbd320dd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wbemtest.exe",
+   "internal_name": "wbemtest.exe",
+   "file_description": "WMI Test Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/wbemtest.exe/76EA59CD3c000/wbemtest.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "29775fc3cf0e3251181b4154157a0a2328a5c3d50f72173da7f59e8274f90db1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wbemtest.exe",
+   "internal_name": "wbemtest.exe",
+   "file_description": "WMI Test Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wbemtest.exe/57899A913b000/wbemtest.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0d72407e5b344b7c364e059160734c284df2b9ec48546a220284d5aff0eed3f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wbemtest.exe",
+   "internal_name": "wbemtest.exe",
+   "file_description": "WMI Test Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wbemtest.exe/5632D7D53c000/wbemtest.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8be4cf1790a56781b8ca6de951a7b71e85d3ceaa8fad6f2365cae5f09f1cab05",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wbemtest.exe",
+   "internal_name": "wbemtest.exe",
+   "file_description": "WMI Test Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wbemtest.exe/559F39683c000/wbemtest.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wbemtest.exe",
+   "builds": 5,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "4aa25b26f6e1a8fbb931805e11fefa6d85957db26c7a66677c931082c5d23723",
+   "error": "4aa25b26f6e1: symbol server returned unindexed build 656897e9cfb7; 1ed4609be18a: symbol server returned unindexed build 656897e9cfb7; ec26d913f4df: symbol server returned unindexed build 656897e9cfb7; d76895f19cb1: symbol server returned unindexed build 656897e9cfb7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "9294cfcfe51755e396bdf631959f4cf75a63af6efbd66335c8ccd59f405b94fc",
+   "error": "9294cfcfe517: symbol server returned unindexed build 1fb62d322181"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "9294cfcfe51755e396bdf631959f4cf75a63af6efbd66335c8ccd59f405b94fc",
+   "error": "9294cfcfe517: symbol server returned unindexed build 1fb62d322181"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "dc8996a8d7185382070f0305fd526da3bbcdb94dd5c944ed196c41def1e8b158",
+   "error": "dc8996a8d718: symbol server returned unindexed build 4df56f42d16d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "af7df17c3c8ffeb59932556995483644bb2599db5b4896d97374c727018bc928",
+   "error": "af7df17c3c8f: symbol server returned unindexed build 6272fd12e016"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "77221ac248c554e409c5b84e3d91fccec01248b0d57437b85615d5fc1b24db42",
+   "error": "77221ac248c5: symbol server returned unindexed build 6d5d0804e3a1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "3406b6adf7d5bf8d7b75c9761b9ba24d1daba8ee00bc5d014fe947b2dc0423a4",
+   "error": "3406b6adf7d5: symbol server returned unindexed build a48491a633c1"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c8866db117cfa76ddbbae1eaf64aa614cc73c4bdd48e315a85e2221fbbf22154",
+   "error": "c8866db117cf: symbol server returned unindexed build abb233f19b0e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c8866db117cfa76ddbbae1eaf64aa614cc73c4bdd48e315a85e2221fbbf22154",
+   "error": "c8866db117cf: symbol server returned unindexed build abb233f19b0e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "2828d06fe31d1d3a1910dc4f370ca652f10cb0f8c83cd0ccdec1f72a1469ddb9",
+   "error": "2828d06fe31d: symbol server returned unindexed build 5c7f1d859efd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "2828d06fe31d1d3a1910dc4f370ca652f10cb0f8c83cd0ccdec1f72a1469ddb9",
+   "error": "2828d06fe31d: symbol server returned unindexed build 5c7f1d859efd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "2828d06fe31d1d3a1910dc4f370ca652f10cb0f8c83cd0ccdec1f72a1469ddb9",
+   "error": "2828d06fe31d: symbol server returned unindexed build 5c7f1d859efd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "2828d06fe31d1d3a1910dc4f370ca652f10cb0f8c83cd0ccdec1f72a1469ddb9",
+   "error": "2828d06fe31d: symbol server returned unindexed build 5c7f1d859efd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "2828d06fe31d1d3a1910dc4f370ca652f10cb0f8c83cd0ccdec1f72a1469ddb9",
+   "error": "2828d06fe31d: symbol server returned unindexed build 5c7f1d859efd"
+  }
+ ]
+}

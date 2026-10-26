@@ -1,0 +1,64 @@
+{
+ "name": "setx.exe",
+ "builds": [
+  {
+   "sha256": "f4bec9d2f7e662f318c2ef32154c6ddb7108bc0a050b5e83a28f5c519139e3d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "setx.exe",
+   "internal_name": "setx.exe",
+   "file_description": "Setx - Sets environment variables",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\setx.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "8d46eb608912578ee35039a2fc2903cd8a2d785901e44e3cc40f551464203fd2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "setx.exe",
+   "internal_name": "setx.exe",
+   "file_description": "Setx - Sets environment variables",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\setx.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "setx.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

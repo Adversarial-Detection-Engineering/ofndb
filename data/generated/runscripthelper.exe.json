@@ -1,0 +1,64 @@
+{
+ "name": "runscripthelper.exe",
+ "builds": [
+  {
+   "sha256": "cd4e86ab110fcb624dde2ad6e09ec22f0a73ada5a1439f87eb87e3906815aabc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "runscripthelper.exe",
+   "internal_name": "runscripthelper.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "10.0.16299.15",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2018-03-22",
+   "os_builds": [
+    "16299.125",
+    "16299.192",
+    "16299.194",
+    "16299.214",
+    "16299.248",
+    "16299.251",
+    "16299.309",
+    "16299.334",
+    "16299.64",
+    "16299.98"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runscripthelper.exe/9090D26F8000/runscripthelper.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "runscripthelper.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1709"
+   ],
+   "min_version": "10.0.16299.15",
+   "max_version": "10.0.16299.15",
+   "first_seen": "2017-10-17",
+   "last_seen": "2018-03-22",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

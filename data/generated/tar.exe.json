@@ -1,0 +1,512 @@
+{
+ "name": "tar.exe",
+ "builds": [
+  {
+   "sha256": "d512ec29ea79a686295e81facaecd40e40dc08a10dd113fcace1e6320aff1885",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/36FA582C12000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b15074c812d73ce59806bb5e8f52f6207caefb516a941e967b6e26cd84ae602a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/E3A5920C13000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a3ac62fd4cdf619a7c53f71ca3fe5fb42f72020975670ff29afe3603f6416a8e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/FB27CE6914000/tar.exe",
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tar.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8edd6956828700f308d170fca2090c02fe7a9ee02d545430bbb7db79c1797da7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/3D19D09Af000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "876c6d0b56285e4a3852d81e6ae19bb393aaaea90fabb0d4d3a8b4f18db0182d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/2C4BAD4Ce000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b72a3dada0291bcb1775f328cf77efd1410a330d5831d9cf277720234bf49a0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/2729168C14000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2c9cdeb39c63f99e3348380720e543a284c7fe9f14941842e02df3ad8a4c201f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.9 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.9.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/D72F19BEf000/tar.exe",
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\tar.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a823a5e9ae44c73125c142bd2d148687489e2d8a2d7f1073425844658347076c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.8 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.8.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/5EF86F6Bf000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "adc2838f0d6b7a7e0ec1c7d0dc3ab6274aae24e6ccb5925d888ac6dcc613b232",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.1.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/BB9F8A29f000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7aa6a7b0ecb72133c9a091d5006425bc9de51bece6863f014e1f63e43133e240",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.8.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.8.1.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/CFE5111814000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4489bfd47abef51c0cee7309b417b398487003d97c1b235d4dbb5efca8e4a420",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.3.2 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.3.2.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2020-08-20",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/A60C1C5Ae000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "51a4916041a228633ff83ffc62d97ba1237d0ccdce8ba1b13ec1b5809dc0273d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "bsdtar",
+   "internal_name": "bsdtar",
+   "file_description": "bsdtar archive tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "3.3.2 (WinBuild.160101.0800)",
+   "fixed_file_version": "3.3.2.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tar.exe/BD26793911000/tar.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "original_filenames": [
+  {
+   "value": "bsdtar",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "21H2"
+   ],
+   "min_version": "3.3.2.0",
+   "max_version": "3.8.9.0",
+   "first_seen": "2018-04-30",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "f6dc190c898aa1b959279c5e32dc589411b37239d3b721824b49e579e5e3b9c4",
+   "error": "f6dc190c898a: symbol server returned unindexed build b11e8f842cda; 6a32f0d9857d: symbol server returned unindexed build b11e8f842cda; 0a35a6c1b2be: symbol server returned unindexed build b11e8f842cda; 8eed6e4ddd5c: symbol server returned unindexed build b11e8f842cda"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "92fafed485af0fe4c291457dc3c00d0241f6a136731bab63ef18a3f0c949d37a",
+   "error": "92fafed485af: symbol server returned unindexed build 6ba5df0caf91; 22f3ea2f4b04: symbol server returned unindexed build 8a5a143ca7ee; 2ca7db442fea: symbol server returned unindexed build cc27a346e6d3; 490501fa0c59: symbol server returned unindexed build 4f89671ca124"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "53592d5c392bcd3c3f0bb98f99d332ef023cb05f465845630afeb616b435e203",
+   "error": "53592d5c392b: symbol server returned unindexed build fc9a2936bf2c; 66eb0c9320a3: symbol server returned unindexed build 3fd9bf2f02cb; 92fafed485af: symbol server returned unindexed build 6ba5df0caf91; 1e03c3886167: symbol server returned unindexed build 4f89671ca124"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "1af7b180e29d4fb90a6e5dedddf68591904e94f6f8a72164ae3cbbff68da4052",
+   "error": "1af7b180e29d: symbol server returned unindexed build 8af92dc484d0; 4fcecf6b108a: symbol server returned unindexed build 8af92dc484d0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "ff0bc679906e6b16277a3d79c61222643a10a4bf2b2977b01cd242c28933b01f",
+   "error": "ff0bc679906e: symbol server returned unindexed build 0f8e2db70d4e; 1af7b180e29d: symbol server returned unindexed build 8af92dc484d0; 4fcecf6b108a: symbol server returned unindexed build 8af92dc484d0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "0f28c8d166c7a671b0048137232e9ca6973f1ec826104834ae310681c1866e62",
+   "error": "0f28c8d166c7: symbol server returned unindexed build bcfb758e9561"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "d257c269770081624f7d0c43ec854135c09a6276aa33a247ce062d781e719316",
+   "error": "d257c2697700: symbol server returned unindexed build eb361a246d4f; 0f28c8d166c7: symbol server returned unindexed build bcfb758e9561"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "0f28c8d166c7a671b0048137232e9ca6973f1ec826104834ae310681c1866e62",
+   "error": "0f28c8d166c7: symbol server returned unindexed build bcfb758e9561"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "dfef7a04a700b8c9a1d6249dc995c2e91a4be7583d5b534ed4c9aec546616478",
+   "error": "dfef7a04a700: symbol server returned unindexed build f6928afcb74f; d257c2697700: symbol server returned unindexed build eb361a246d4f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "38741efdd8db2713dc3d6ae8e3e97bcb1f601099c177471fef2a1187cc97d7aa",
+   "error": "38741efdd8db: symbol server returned unindexed build 3899933a0064; 5e81ff20be24: symbol server returned unindexed build 3899933a0064; 894ec954e513: symbol server returned unindexed build 34981a1e7bd9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "5b0147a020e473e518f93ff90978fe8aab9b67dc98a6d2603ea8910ef4a4751d",
+   "error": "5b0147a020e4: symbol server returned unindexed build f3cf4e5133ff; bc6ada5f8645: symbol server returned unindexed build 6d39c7a44460; 5631338e5440: symbol server returned unindexed build dc584adb2875; fd524255fbb0: symbol server returned unindexed build 1b244de32d25"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "2319a2f1313a4bf4cf5e009b7cd8a6e97b4c5b63b679f5bd4fefa29cd7b3f319",
+   "error": "2319a2f1313a: symbol server returned unindexed build e4ce8e3cfdbf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "ea18650c80d05e936232e6524ade10c873ae16a6591fd56c77524133d32865a5",
+   "error": "ea18650c80d0: symbol server returned unindexed build 39bb4ce43a8e; 2319a2f1313a: symbol server returned unindexed build e4ce8e3cfdbf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "2319a2f1313a4bf4cf5e009b7cd8a6e97b4c5b63b679f5bd4fefa29cd7b3f319",
+   "error": "2319a2f1313a: symbol server returned unindexed build e4ce8e3cfdbf"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "e3604c8ef19bdc0f2aa8c0cca9b76ec6899d98d6d5588a6325240ce97af63fb7",
+   "error": "e3604c8ef19b: symbol server returned unindexed build c29169833da0; bddefdd2534e: symbol server returned unindexed build 214579c4877c; 061be900899d: symbol server returned unindexed build bcd6bb748a4a; 84eea4fb3c4d: symbol server returned unindexed build bcd6bb748a4a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "061be900899d66cdefe0c4b2390fbabbe26951797b8bade5297a6e1dc726814b",
+   "error": "061be900899d: symbol server returned unindexed build bcd6bb748a4a; ea18650c80d0: symbol server returned unindexed build 39bb4ce43a8e"
+  }
+ ],
+ "updated": "2026-10-26"
+}

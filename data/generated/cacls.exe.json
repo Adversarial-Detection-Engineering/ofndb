@@ -1,0 +1,64 @@
+{
+ "name": "cacls.exe",
+ "builds": [
+  {
+   "sha256": "800237878d37339b3520f3a80a3c6bea3194dab080cfe22aec2b4af3c67e8e79",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "CACLS.EXE",
+   "internal_name": "cacls",
+   "file_description": "Control ACLs Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\cacls.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "7ea7a99db4e9e75b052d55991beb0a644cf2c0ac9a018a5abec704d5a4799236",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "CACLS.EXE",
+   "internal_name": "cacls",
+   "file_description": "Control ACLs Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\cacls.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "CACLS.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

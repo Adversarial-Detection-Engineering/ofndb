@@ -1,0 +1,64 @@
+{
+ "name": "regedt32.exe",
+ "builds": [
+  {
+   "sha256": "7738177a27de32f7840223a2536ccfc1f3a28f6379a4d1412208fbe7539f49d6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "regedt32.exe",
+   "internal_name": "regedt32.exe",
+   "file_description": "Registry Editor Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\regedt32.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "0e5a7d0434f44939f4eb296ef6164dfc3385d01a5903601ed4951a0348c43bf0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "regedt32.exe",
+   "internal_name": "regedt32.exe",
+   "file_description": "Registry Editor Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\regedt32.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "regedt32.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

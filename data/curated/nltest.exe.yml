@@ -1,0 +1,4 @@
+notes: >-
+  Every build from Windows 10 1507 through Windows 11 25H2 reports
+  `nltestrk.exe`. Windows 11 26H1 switched to `nltest.exe`, so a rule that only
+  lists `nltestrk.exe` (the long-standing Sigma value) misses 26H1.

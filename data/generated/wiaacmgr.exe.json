@@ -1,0 +1,64 @@
+{
+ "name": "wiaacmgr.exe",
+ "builds": [
+  {
+   "sha256": "fc8cc3eb5f4b6985405e75cdc411901f14aa04f88493a5ed1493662d09542898",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WIAACMGR.EXE",
+   "internal_name": "WIAACMGR",
+   "file_description": "Windows Picture Acquisition Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wiaacmgr.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2d886cb4915d75644c17f8efa6acab06dc561e62424f69b130b987e1899170c1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WIAACMGR.EXE",
+   "internal_name": "WIAACMGR",
+   "file_description": "Windows Picture Acquisition Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wiaacmgr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WIAACMGR.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

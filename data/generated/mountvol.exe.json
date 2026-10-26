@@ -1,0 +1,64 @@
+{
+ "name": "mountvol.exe",
+ "builds": [
+  {
+   "sha256": "5c8e8ae90ff9ed01e08b8278a66d2b80bb773de2b9cf1905529c6a8dc81923b0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MOUNTVOL.EXE",
+   "internal_name": "mountvol",
+   "file_description": "Mount Volume Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\mountvol.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "305a4d2d4fb340ebeaf8bbcdf595425b6ec27145070e3366c51fcb6f31bef080",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MOUNTVOL.EXE",
+   "internal_name": "mountvol",
+   "file_description": "Mount Volume Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mountvol.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MOUNTVOL.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "name": "mqsvc.exe",
+ "builds": [
+  {
+   "sha256": "d88eeb1500c559b2ca1f77ab7aaf8039e0d913b111fb23851bb462009e8864b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MQSVC.EXE",
+   "internal_name": "MQSVC.EXE",
+   "file_description": "Message Queuing Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3194 (WinBuild.160101.0800)",
+   "fixed_file_version": "5.0.1.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-02-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mqsvc.exe/351129E7c000/mqsvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bb00c9d9483d28f8c178c61ded4fc9f075f54ce37ca5c79a23f20b4eb1e0f5c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MQSVC.EXE",
+   "internal_name": "MQSVC.EXE",
+   "file_description": "Message Queuing Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.7783 (rs1_release.250120-1734)",
+   "fixed_file_version": "5.0.1.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2025-02-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mqsvc.exe/678F461Bb000/mqsvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "443391f6bfda6b2e89730776cdbf1f648cad5f0f309c3df0d9f14a92bf8a14b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MQSVC.EXE",
+   "internal_name": "MQSVC.EXE",
+   "file_description": "Message Queuing Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20915 (th1.250127-1744)",
+   "fixed_file_version": "10.0.10240.20915",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-02-11",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mqsvc.exe/67988572a000/mqsvc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MQSVC.EXE",
+   "builds": 3,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "1507",
+    "1607"
+   ],
+   "min_version": "5.0.1.1",
+   "max_version": "10.0.10240.20915",
+   "first_seen": "2025-02-11",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "13216f87f0d91b906eeaddb9a11fbfc856b4a4c568cf8bd4e31e0d380c65dc0a",
+   "error": "13216f87f0d9: symbol server returned unindexed build f605f95ac72b; 0cf028f3b96e: symbol server returned unindexed build f605f95ac72b; c0dda3f776cf: symbol server returned unindexed build f605f95ac72b; 5815943206b2: symbol server returned unindexed build 7ebf184f368a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "c8ebaf36c0cc32df09bfd67fd16d968b94eed3757233599e1b3def792d9ce751",
+   "error": "c8ebaf36c0cc: symbol server returned unindexed build 90cda810ea68; 48f9bbf2431c: symbol server returned unindexed build 9a34eacd1582; 8c0f68fb924e: symbol server returned unindexed build 9a34eacd1582; c2e16aa9e7ee: symbol server returned unindexed build 9a34eacd1582"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "c8ebaf36c0cc32df09bfd67fd16d968b94eed3757233599e1b3def792d9ce751",
+   "error": "c8ebaf36c0cc: symbol server returned unindexed build 90cda810ea68"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "464864f5b6b6b4848e41ab2d552f70477ee293c37e0f991c46661f2852862096",
+   "error": "464864f5b6b6: symbol server returned unindexed build 24f6408b2be9; 81191fff3956: symbol server returned unindexed build 45e92361ef97"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "31ec305e8849b3f56576876a6e0836ea6296d81580f9fa9137f59878fb0d1012",
+   "error": "31ec305e8849: symbol server returned unindexed build 43cbff36df20; ff12f201fd90: symbol server returned unindexed build 43cbff36df20; f5a62f0fb35d: symbol server returned unindexed build 43cbff36df20; e7e6a6a680da: symbol server returned unindexed build 43cbff36df20"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "31ec305e8849b3f56576876a6e0836ea6296d81580f9fa9137f59878fb0d1012",
+   "error": "31ec305e8849: symbol server returned unindexed build 43cbff36df20; ff12f201fd90: symbol server returned unindexed build 43cbff36df20; f5a62f0fb35d: symbol server returned unindexed build 43cbff36df20"
+  }
+ ]
+}

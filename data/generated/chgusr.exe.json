@@ -1,0 +1,44 @@
+{
+ "name": "chgusr.exe",
+ "builds": [
+  {
+   "sha256": "e1c6ab38727c86611cce37ebf9ca5b8812d9c3f02193faa74fae7382dde28fb0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "chgusr.exe",
+   "internal_name": "chgusr",
+   "file_description": "Change INI File Mapping Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\chgusr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "chgusr.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7623",
+   "max_version": "10.0.26100.7623",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

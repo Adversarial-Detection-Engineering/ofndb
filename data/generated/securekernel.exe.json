@@ -1,0 +1,44 @@
+{
+ "name": "securekernel.exe",
+ "builds": [
+  {
+   "sha256": "3c94a5b202cead60af65fda1a12319d57183c7ba2c5f9b048cc2f49a76312187",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "securekernel.exe",
+   "internal_name": "securekernel.exe",
+   "file_description": "NT Secure Kernel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\securekernel.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "securekernel.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

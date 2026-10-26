@@ -1,0 +1,159 @@
+{
+ "name": "dsquery.exe",
+ "builds": [
+  {
+   "sha256": "6e3f34696fc7fab8fad1f7465bbb492b9d28dd02f86d1e26f11d91cd07aae328",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "dsquery.exe",
+   "internal_name": "dsquery.exe",
+   "file_description": "Microsoft AD DS/LDS query command line utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsquery.exe/F576760414000/dsquery.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5ffe4464a6478d7d90438bf8bafe8884ca1e0869faa9a414339163e1f41cad8a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dsquery.exe",
+   "internal_name": "dsquery.exe",
+   "file_description": "Microsoft AD DS/LDS query command line utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsquery.exe/E7FEA3F61c000/dsquery.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "11f7f1e8e0d3c766535977001f961159e20de1439b5a0411954d7f1df3f7c2d3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dsquery.exe",
+   "internal_name": "dsquery.exe",
+   "file_description": "Microsoft AD DS/LDS query command line utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsquery.exe/211E68761c000/dsquery.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dsquery.exe",
+   "builds": 3,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.7920",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "b07933dd8c026d937238ffc839d0d657a7515ae41473056d2ad1cac8cf16a39f",
+   "error": "b07933dd8c02: symbol server returned unindexed build 39d96c2a8247; 7a041394c1bf: symbol server returned unindexed build 39db485b2855; 203f7911e2b5: symbol server returned unindexed build 39db485b2855"
+  }
+ ]
+}

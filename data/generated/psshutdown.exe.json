@@ -1,0 +1,47 @@
+{
+ "name": "psshutdown.exe",
+ "builds": [
+  {
+   "sha256": "2786085c14c1526ee09257883aabaa830339ba9da4e5a806c93773f03aec79df",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "psshutdown.exe",
+   "internal_name": "PsShutdown",
+   "file_description": "Shutdown, logoff and power manage local and remote systems",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsShutdown",
+   "file_version": "2.61",
+   "fixed_file_version": "2.61.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsShutdown",
+   "release": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "download_url": "https://live.sysinternals.com/psshutdown.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "psshutdown.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.61.0.0",
+   "max_version": "2.61.0.0",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "provenance": "parsed"
+  }
+ ]
+}

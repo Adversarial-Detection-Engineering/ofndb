@@ -1,0 +1,572 @@
+{
+ "name": "audiodg.exe",
+ "builds": [
+  {
+   "sha256": "b4b7b2e56963146acc01b7cf9d72fd966cbfa47017740c208f34788f445092ee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/0651F9F5a0000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9a513e8496d668b5e81afbbfaf1533055b1d3bbad4da3762f583fb5457bf1a71",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/6AC8D5B060000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "600ab9548fceacf42df2166a75641000a1229fb5f5b027eeab064612e7c2e4af",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/A0D043FDfd000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b5981cf6bdfac2f7be0c3314fb1eb12f6075083f11316c6cc15c63b697aeae7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/691840FDd7000/audiodg.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\audiodg.exe"
+  },
+  {
+   "sha256": "1a3fbd89ccf55a9756f7a5178acb1415a8a7f074ebfef51e68cf12a0c170f325",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/EDA72D2699000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "535629cae43dd466596cdcc13beb70e4e0294143b0fee6ef0f83a046d5670638",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21128 (th1.250828-1629)",
+   "fixed_file_version": "10.0.10240.21128",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-09-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/68B12BDE60000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "131769784a81a8d6216b8b1f4b0300e83987c5fe6d6de682cec97337c9dc29a5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/73014B9Bd6000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f138356ca8484c0418804b30a12abcbda0db5607b94e6966588c32b2987262f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5331 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5331",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-05-13",
+   "last_seen": "2025-05-27",
+   "os_builds": [
+    "22621.5335",
+    "22621.5413"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/ADB54F15e2000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4eaffbc39de50e320a284298241e885820e8125b25da7cf453d35eeb4250b99d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1865 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1865",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-07-26",
+   "last_seen": "2023-06-13",
+   "os_builds": [
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/61FDCC509f000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "70517cc8ad93af6cf61b4d5e55dbd2532ee965af99ea036182da312eb8e4f174",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1593 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1593",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-05-20",
+   "last_seen": "2021-08-10",
+   "os_builds": [
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/66E9554C94000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bae126100cccb7ab8f491d527e67c00b25e287340c828314d451840e15ca6434",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/E2EA5D6396000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "36945c2e3c2f1219ff5c97e6c6d96ab7d97041be70e1f7b0daf316852dd93da8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1256 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1256",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-12-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/DDA6CBAD95000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e102a6da194c33e7b56495f2376d6831211c533b66173d1d1b7c3f76cb30ff3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1932",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/17A88AFE98000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a97345c7fa0150faec927e01ea3572f3bef3d61ab3f8d7050abf31aeba9f3db5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2045 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2045",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2019-09-10",
+   "last_seen": "2020-04-14",
+   "os_builds": [
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/293286D494000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4bdded45796417279f2b0591fed8d8da6d0ea85d3f3b66f696f22411f8dddf81",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "audioadg.exe",
+   "internal_name": "audioadg.exe",
+   "file_description": "Windows Audio Device Graph Isolation ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.218 (th2_release.160401-1800)",
+   "fixed_file_version": "10.0.10586.218",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-07-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.494",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/audiodg.exe/56FF3B385f000/audiodg.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "audioadg.exe",
+   "builds": 15,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-22H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21128",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2016-07-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "38ad5ca78ce480ccc829990d1e196f0f681d86360c7d65ae294a65baa59d3976",
+   "error": "38ad5ca78ce4: UnindexedBuild: symbol server returned unindexed build (unindexed:size=873384); 2bc734a84bc5: symbol server returned unindexed build ee0b7cb18a59; 8c3d556dcbf6: symbol server returned unindexed build ee0b7cb18a59; 898cdd5bc49a: symbol server returned unindexed build 6a46d46346b6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "ec212d2ae2e45fe24f73747c3c15cdffca65a14caea041a2667b0a0c19d7ff86",
+   "error": "ec212d2ae2e4: UnindexedBuild: symbol server returned unindexed build (unindexed:size=939520); bc48b2221bdd: UnindexedBuild: symbol server returned unindexed build (unindexed:size=939520); 537a916a9b18: UnindexedBuild: symbol server returned unindexed build (unindexed:size=939520); 6178201ab5a6: symbol server returned unindexed build 8ef9b2e51fd7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "1d11747d4caf3adc9dc47e244b59088053b34e88226c385932bf4506d76a2308",
+   "error": "1d11747d4caf: symbol server returned unindexed build c741189cf901; 1add3048519c: symbol server returned unindexed build c741189cf901; b73e0959fe9f: symbol server returned unindexed build b777f4cd1af6; 5f72bf21e132: symbol server returned unindexed build 26fc56f35d9f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "1e270a158dc43468297469f6d242b4d9105972d73fe46b7b249aada933b25e1b",
+   "error": "1e270a158dc4: symbol server returned unindexed build 3bd0c244f997"
+  }
+ ]
+}

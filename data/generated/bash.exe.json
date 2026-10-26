@@ -1,0 +1,136 @@
+{
+ "name": "bash.exe",
+ "builds": [
+  {
+   "sha256": "03da25ca4f062e8fcebfb55b76fb6fe27f76e9f058dfea5889673777528db505",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Bash.exe",
+   "internal_name": "Bash.exe",
+   "file_description": "Microsoft Bash Launcher",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\bash.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Bash.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "29b4dd8589ab72eea8467b52adddce023f8c9572f491ef4d6543c4ee7431d815",
+   "error": "29b4dd8589ab: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5FF14FFB1e000/bash.exe; 0086af37de29: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5FF14FFB1e000/bash.exe; fe479e48fce5: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5FF14FFB1e000/bash.exe; ef6af525fa23: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/1FFCDC0C1e000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "0feddda0257f61da0acc47c3b03983b129c0f11242dd09c99cc23ff71260d1dd",
+   "error": "0feddda0257f: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/DFEE50C51f000/bash.exe; 8c53cb5399a0: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/A797AC4F1f000/bash.exe; 3ae81745c227: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/1B944D2F1f000/bash.exe; 108b6666e4b0: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/9B9967661f000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "0feddda0257f61da0acc47c3b03983b129c0f11242dd09c99cc23ff71260d1dd",
+   "error": "0feddda0257f: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/DFEE50C51f000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "03da25ca4f062e8fcebfb55b76fb6fe27f76e9f058dfea5889673777528db505",
+   "error": "03da25ca4f06: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/8D39544115000/bash.exe; d7086bcb8d68: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/119378A615000/bash.exe; eca5710f6556: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5B4FEB3E15000/bash.exe; 4bb9d3546809: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/B772054715000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "4902a938d08751c29680ea24ab7033407951ab0dc6b32b937bdf205ea43b1edc",
+   "error": "4902a938d087: NotFound: no timestamp/image size in winbindex, no symbol server URL; 270f7d2c59d0: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/B84388CC15000/bash.exe; f7a9c4d16af1: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5E4EB5D615000/bash.exe; 830f4d5e5a26: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "d0c9d6865acb3e6642b6bccbcb67aae408d03cfc006becda0380fae41d96aa14",
+   "error": "d0c9d6865acb: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5BD1360D15000/bash.exe; ee292776adbb: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/5801A91C15000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "107702caeb35f8cfefb89449f74cd01fa84e37a0c5bbce4b56ed47d6ba552622",
+   "error": "107702caeb35: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/FF71EEFD16000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "ccdf74d195e756581b6957ce6b38b4347867998110bfe199a62c2b518693c6dd",
+   "error": "ccdf74d195e7: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/1ECB2B8621000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "cb2d7df129a8dfd32762b90d1fcdfd526752544b5184f474dfe87daf4d018d1a",
+   "error": "cb2d7df129a8: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/72794D264e000/bash.exe; 4863f0a0b607: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/453472FA4e000/bash.exe; e7fd310e7e86: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/A2CF108A4e000/bash.exe; 83da3e3eb99a: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/F94C99224e000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "6f039efde31a3e800cacf3e8b420b90559470e0aeba32dfba4f9aae7eebcf98f",
+   "error": "6f039efde31a: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/0E73E5DC13000/bash.exe; 259c655a3a46: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/E2A75CC423000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6f039efde31a3e800cacf3e8b420b90559470e0aeba32dfba4f9aae7eebcf98f",
+   "error": "6f039efde31a: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/0E73E5DC13000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "735ed4dcedf1e3c72b1a3e318b8d535dbe4e23eeb02f35bda00a5a87ce686841",
+   "error": "735ed4dcedf1: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/DA88C2F013000/bash.exe; 31a09b59e91b: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/0F3D7318d000/bash.exe; ccf7fa1362ff: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/21243F6914000/bash.exe; 30fddc1f4035: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/B7AC1C0814000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "df72e2c79a73379cb9832619c0962517d651ecabd4f030e749e2a80e5015ded7",
+   "error": "df72e2c79a73: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/95D595B719000/bash.exe; 990f3cbcc93e: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/08C5008C11000/bash.exe; 735ed4dcedf1: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/DA88C2F013000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "10327a4e8157899e070c37882fa1d36532704b127f8b51cb183925e6a3f60116",
+   "error": "10327a4e8157: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/CF880D331b000/bash.exe; 1352cd1fb7a1: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/355FE4241b000/bash.exe; 705b2203fec3: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/C6783C611b000/bash.exe; 4b5b819cb0d6: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/AB11537019000/bash.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "10327a4e8157899e070c37882fa1d36532704b127f8b51cb183925e6a3f60116",
+   "error": "10327a4e8157: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/CF880D331b000/bash.exe; 1352cd1fb7a1: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/355FE4241b000/bash.exe; c085860970b5: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/355FE4241b000/bash.exe; 705b2203fec3: NotFound: https://msdl.microsoft.com/download/symbols/bash.exe/C6783C611b000/bash.exe"
+  }
+ ]
+}

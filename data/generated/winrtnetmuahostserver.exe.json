@@ -1,0 +1,64 @@
+{
+ "name": "winrtnetmuahostserver.exe",
+ "builds": [
+  {
+   "sha256": "2a74a5be5cc76039149c5f7c8926f8a1bb04a60cba05e2c43a9180feb88b1194",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WinRTNetMUAHostServer.exe",
+   "internal_name": "WinRTNetMUAHostServer EXE",
+   "file_description": "WinRTNet MUA HostServer EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WinRTNetMUAHostServer.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "273506705b7a24835078403aa9106d2b766a479334bd30be69315e0348856728",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "WinRTNetMUAHostServer.exe",
+   "internal_name": "WinRTNetMUAHostServer EXE",
+   "file_description": "WinRTNet MUA HostServer EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\WinRTNetMUAHostServer.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WinRTNetMUAHostServer.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

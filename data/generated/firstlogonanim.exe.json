@@ -1,0 +1,44 @@
+{
+ "name": "firstlogonanim.exe",
+ "builds": [
+  {
+   "sha256": "7749202f61255f561a4d86e5e32e1e03b9ee290df2406265430d0b22bb697f2d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FirstLogonAnim.exe",
+   "internal_name": "FirstLogonAnimExe",
+   "file_description": "First Sign-in Animation",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\oobe\\FirstLogonAnim.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FirstLogonAnim.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

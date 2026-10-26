@@ -1,0 +1,44 @@
+{
+ "name": "recdisc.exe",
+ "builds": [
+  {
+   "sha256": "da1651fee40e2f55032b3cb27191ab10b3228a4030befdb9eda1b00ed5d78351",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "recdisc.exe",
+   "internal_name": "recdisc.exe",
+   "file_description": "Microsoft® Windows Repair Disc",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\recdisc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "recdisc.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8972",
+   "max_version": "10.0.26100.8972",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

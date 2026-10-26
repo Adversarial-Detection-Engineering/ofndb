@@ -1,0 +1,363 @@
+{
+ "name": "tiworker.exe",
+ "builds": [
+  {
+   "sha256": "eb8a76b42b86560dfa5766e3bf546a7082d3dd6675454fd61f5b3493dbc62e83",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9703 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9703",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/CC0D0D1D5b000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "547a3c81b4fa6e478bed2d07390e1362518fdac68174b8de731474e6dd205fc1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7789 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7789",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/FF9042A344000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "396cb3d48e0a897fef525119435e596ade427258535ee0d131acfe7d86f469ee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3225 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3225",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/30BC46CD5a000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "31fcb77c73d2cebfe52b6d99d2b19bc3b50061ef4d2da5696b9db89067de8d37",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3225 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3225",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/3933B1C04e000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "304a36d42aff936281436e14acca5307b36d2f0eb8d37ff8dcac1b32ebe01d28",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9703 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9703",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/7EC5E9144f000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e949ee85b2233332e0c077afe52ab83cd939d655bfd3119d11b162fae4e71cce",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3250 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3250",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/A437814946000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cd64281accee960c8a78c83ebba8ab4261212825445dbe381962f231c23e6466",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2091 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2091",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-02-08",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "18363.2094"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/F87711F242000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9ce595c979d1b2b0b09d0b2ea64e27f9b72a838a263f76c60996728fedba9d69",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2091 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2091",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-02-08",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "18363.2094"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/8884156D3d000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "44d21b03394aea9ef9aea77807df96828b4ed63515bee8cda5630a81299f43ca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TiWorker.exe",
+   "internal_name": "TiWorker.exe",
+   "file_description": "Windows Modules Installer Worker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1490 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1490",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-01-25",
+   "last_seen": "2022-01-25",
+   "os_builds": [
+    "19042.1503"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/tiworker.exe/7B89AD4E45000/tiworker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TiWorker.exe",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-26H1",
+    "1909",
+    "20H2",
+    "21H2"
+   ],
+   "min_version": "10.0.18362.2091",
+   "max_version": "10.0.28000.3225",
+   "first_seen": "2022-01-25",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "e05f4faa6625409a4b14b98768b52b301d89d0d07588c35dcfdeaff33fcf03c0",
+   "error": "e05f4faa6625: symbol server returned unindexed build 3de6c212a9ee; 41857200c0b5: symbol server returned unindexed build 3de6c212a9ee; 96974ec99880: symbol server returned unindexed build 3de6c212a9ee; 5bd4680b8bde: symbol server returned unindexed build 3de6c212a9ee"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "4103c26198376bbdc4992910f38a45101656d98d3ff2c9e1170e6d9d3b302c27",
+   "error": "4103c2619837: symbol server returned unindexed build 3de6c212a9ee; 8e883575193b: symbol server returned unindexed build 3de6c212a9ee; e3eae1e5d695: symbol server returned unindexed build 3de6c212a9ee; 79fcf0c9c1f8: symbol server returned unindexed build 3de6c212a9ee"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "934d9c0512c49c812f55c29d8d4de71c35c5f5c1f3e0f715fd0e48599c0dd4c5",
+   "error": "934d9c0512c4: symbol server returned unindexed build 8539c1148045; 6a4d69d32f2e: symbol server returned unindexed build 8539c1148045; 93b38a825604: symbol server returned unindexed build 8539c1148045; b24e33431344: symbol server returned unindexed build 8539c1148045"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "f529760cd82cac5daca131cbb4851310b594da3ec913c8187aed07dbd847d54e",
+   "error": "f529760cd82c: collided with 44d21b03394a from another release; dedd2c6f9638: symbol server returned unindexed build 038c6eb4d2e4; 5ca10614cf08: symbol server returned unindexed build 8bf9ece067e0; dd3267072e1e: symbol server returned unindexed build 8bf9ece067e0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "b67321bbd114007ad24a7e33cb497736786542e8f67e87e7899fad30fa3c9677",
+   "error": "b67321bbd114: symbol server returned unindexed build 02217cb242be; 8bb58c4a1169: symbol server returned unindexed build 02217cb242be; 0ba79e675db0: symbol server returned unindexed build 02217cb242be; a5596ae2bdc1: symbol server returned unindexed build 02217cb242be"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "2073a99944974e0ac4f4bb485a9bdc813887e7264d198468f2b0aea3f43f1aea",
+   "error": "2073a9994497: symbol server returned unindexed build fc5c04374b75; b80e8c23df36: symbol server returned unindexed build fc5c04374b75; 6ce399de6f1d: symbol server returned unindexed build fc5c04374b75; 05ee543c0e34: symbol server returned unindexed build fc5c04374b75"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "7fab008b780a513050771949ec18b69eb4fcddd78feb5293eb3063b76b24c6f6",
+   "error": "7fab008b780a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976); 58839f1a1fd5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976); 6c1a2f1804c1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976); 18023ef5561f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "66859a2cd96a6fc0b66265270a6ef0b9bf02addb915b1fd09f4db5f11dde3055",
+   "error": "66859a2cd96a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976); 05014f51cf3a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976); 7deb453a04e0: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976); 7532e33f289c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=262976)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "4485ce8eec156d350af5572f07789d0598d2abaac64f2d44fa73d71d3f2298cc",
+   "error": "4485ce8eec15: symbol server returned unindexed build e95f4210427c; d29e3efcc8ee: symbol server returned unindexed build e95f4210427c; c236235dc8e1: symbol server returned unindexed build e95f4210427c; d9abafe54061: symbol server returned unindexed build e95f4210427c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "b32ed2bbe407d7d01118752a10e8c7bf5f9986312998ed214e816ffd44d56f33",
+   "error": "b32ed2bbe407: symbol server returned unindexed build bb7952624bf4; 674376f22cf3: symbol server returned unindexed build fe585aecf5b6; d17c8e231017: UnindexedBuild: symbol server returned unindexed build (unindexed:size=256320); a81a62ea14ba: UnindexedBuild: symbol server returned unindexed build (unindexed:size=256320)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "ff52fc6b75f89d96fbb672444bad9d39670e7025073e2cccf101581983e13509",
+   "error": "ff52fc6b75f8: symbol server returned unindexed build 531497d33796; 16d9d8367ab7: symbol server returned unindexed build 531497d33796; 2799558f2b03: UnindexedBuild: symbol server returned unindexed build (unindexed:size=249904); b079f9c65ae4: UnindexedBuild: symbol server returned unindexed build (unindexed:size=249904)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "ba72563f5e58d53823393cbaa3393dc412b6d86147b4d9c010a39b5ee8ca1362",
+   "error": "ba72563f5e58: symbol server returned unindexed build 85a1bd642528; ce0fbce4a905: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808); 577e56fb8360: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808); 33805dcac7bb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "7857142d0e0c6dcb79bc45fa9f67d54236336305303c86a7e22ade556433986c",
+   "error": "7857142d0e0c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808); 8fe128c0085c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808); 2a23f7b4a985: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808); 97a39c64f891: UnindexedBuild: symbol server returned unindexed build (unindexed:size=248808)"
+  }
+ ]
+}

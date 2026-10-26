@@ -1,0 +1,44 @@
+{
+ "name": "dnscacheugc.exe",
+ "builds": [
+  {
+   "sha256": "95133819c8decb2e56345fdd04b89ef7cbb441a0aa43f75aa47607d55d754339",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dnscacheugc.exe",
+   "internal_name": "dnscacheugc.exe",
+   "file_description": "DNSCache Unattend Generic Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dnscacheugc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dnscacheugc.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8521",
+   "max_version": "10.0.26100.8521",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

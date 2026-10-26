@@ -1,0 +1,299 @@
+{
+ "name": "logonui.exe",
+ "builds": [
+  {
+   "sha256": "a81615f6c612f54f7174b58f69bb37c216f4270d5743c1d8b29ab44a4013d22b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/6FF2A9E816000/logonui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "32997248b6b1a9d5770327783f9e84466a6b32203d451fe27022c80a7b9ed298",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/EE1F132515000/logonui.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\LogonUI.exe"
+  },
+  {
+   "sha256": "3c0884785488bf8187384d4d23c61366d5dc19ec3aea11379506ee4a3bc94bfd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/8C3C647715000/logonui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "69ab1ba9247e34e0a6ddfdf3e737c48d70ffac2aca84491604ae53632d250d37",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/17308B627000/logonui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aa62d29803d52ec06cd27ed3124e034048f09606eb7342181913c9817c7b44c5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/57899B5A7000/logonui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9a54ee3d6d16d0fe3458b1ae1212f546f94b9e28e5a845d311a04191c724d652",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/5632D88C7000/logonui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "30b3bf21acb5eb5dc74c79eb5198250107f2992b4f73e464b58f49dfe6d475f5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "logonui.exe",
+   "internal_name": "logonui.exe",
+   "file_description": "Windows Logon User Interface Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/logonui.exe/559F398C7000/logonui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "logonui.exe",
+   "builds": 7,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "cf5eb04bbb5bb2a76121428d73b8081dce5e94a03fb3e21a2febd8d143771dff",
+   "error": "cf5eb04bbb5b: symbol server returned unindexed build c17349b6176d; 4a224037f983: symbol server returned unindexed build c17349b6176d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b62e62c7374ce1398b985af3122ff10a092750f65191fdc3aa6151de130183a3",
+   "error": "b62e62c7374c: symbol server returned unindexed build e91e15e7b002"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b62e62c7374ce1398b985af3122ff10a092750f65191fdc3aa6151de130183a3",
+   "error": "b62e62c7374c: symbol server returned unindexed build e91e15e7b002"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "8d6207ee0d1a0476fe26acdb725fdb2cea9b691afb6b578acd039da7aed9de4f",
+   "error": "8d6207ee0d1a: symbol server returned unindexed build 2c1c83e2f83c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "536abc6d36a44a42c41263b0b470a5d2db75b9291585ae4efd94190c08c1c233",
+   "error": "536abc6d36a4: symbol server returned unindexed build f13fea144621"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "9358ef8cb7fb08581d74274005263bd8fa2e6e0fc443930b25fd345cf6ce9071",
+   "error": "9358ef8cb7fb: symbol server returned unindexed build 11aec4e561df"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "630067181fa5b2e7d9e7f50c6cecf3c3e60eea426a7ab0125810e3337e14bae0",
+   "error": "630067181fa5: symbol server returned unindexed build c62c360a1dfd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "630067181fa5b2e7d9e7f50c6cecf3c3e60eea426a7ab0125810e3337e14bae0",
+   "error": "630067181fa5: symbol server returned unindexed build c62c360a1dfd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "cf01e46c146699f6c0e3dd447043f59bc9438dbbcb9563af6c60ebc6d82727f2",
+   "error": "cf01e46c1466: symbol server returned unindexed build ee00c45dd0a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "cf01e46c146699f6c0e3dd447043f59bc9438dbbcb9563af6c60ebc6d82727f2",
+   "error": "cf01e46c1466: symbol server returned unindexed build ee00c45dd0a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "cf01e46c146699f6c0e3dd447043f59bc9438dbbcb9563af6c60ebc6d82727f2",
+   "error": "cf01e46c1466: symbol server returned unindexed build ee00c45dd0a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "cf01e46c146699f6c0e3dd447043f59bc9438dbbcb9563af6c60ebc6d82727f2",
+   "error": "cf01e46c1466: symbol server returned unindexed build ee00c45dd0a9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "cf01e46c146699f6c0e3dd447043f59bc9438dbbcb9563af6c60ebc6d82727f2",
+   "error": "cf01e46c1466: symbol server returned unindexed build ee00c45dd0a9"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "name": "hxtsr.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "16f7ddaa4944632505f557d45ade328911169a7af17599a71ffe7edfa5eb5f51",
+   "error": "16f7ddaa4944: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5EE4576620000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "1e4f8f9e5ba222fef70583d43f83929f9e29674a6fc9371f99d9492dccb79e8f",
+   "error": "1e4f8f9e5ba2: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/617270661b000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "1e4f8f9e5ba222fef70583d43f83929f9e29674a6fc9371f99d9492dccb79e8f",
+   "error": "1e4f8f9e5ba2: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/617270661b000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1507",
+   "sha256": "b35424efae5fff0c01984128df54c4a35224e109a9b1ad11c8f92a013b1ef9bf",
+   "error": "b35424efae5f: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/55955F5Fe000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "d7eb02e5e6357aac5b629cb66796209f126d4a57f4f1d58b20431d67586b55e5",
+   "error": "d7eb02e5e635: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/56175B9Ff000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "3e90f0ff332aad9cec58b69d8a379d88d323180ab1f67257bb032528f1be8322",
+   "error": "3e90f0ff332a: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/57678436f000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "8815cce3564a182e127ced49dafd097200a023ddb44168bfa5a72a7f864c014f",
+   "error": "8815cce3564a: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5898EF4F11000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "404b23dcfabe7ff016f0643d8301ea844c41deb355bd3e2b0a1d6f7acb85aeac",
+   "error": "404b23dcfabe: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5967C24611000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "46b23a58af30de8f72e7b9a12585d005aa553c137bb8b992205d109b8267627f",
+   "error": "46b23a58af30: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5A8CF13619000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "f27ab1f2b3a49c3de5cacb21da9c3547d2017a454107ad7477b05246c6f7fb0c",
+   "error": "f27ab1f2b3a4: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5B28C34919000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "bbfc974cdcfa4be22ace923c59ebeb92f0f295e2cbd1145de1af0865885395f3",
+   "error": "bbfc974cdcfa: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5C09ADFC1a000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "bbfc974cdcfa4be22ace923c59ebeb92f0f295e2cbd1145de1af0865885395f3",
+   "error": "bbfc974cdcfa: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5C09ADFC1a000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "108818ed973cfd2d73c374f6cb461639f39caf52bc28f8b7ceb7eab13d5d7b37",
+   "error": "108818ed973c: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5CF9B46F20000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "108818ed973cfd2d73c374f6cb461639f39caf52bc28f8b7ceb7eab13d5d7b37",
+   "error": "108818ed973c: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5CF9B46F20000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "108818ed973cfd2d73c374f6cb461639f39caf52bc28f8b7ceb7eab13d5d7b37",
+   "error": "108818ed973c: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5CF9B46F20000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "108818ed973cfd2d73c374f6cb461639f39caf52bc28f8b7ceb7eab13d5d7b37",
+   "error": "108818ed973c: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5CF9B46F20000/hxtsr.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "108818ed973cfd2d73c374f6cb461639f39caf52bc28f8b7ceb7eab13d5d7b37",
+   "error": "108818ed973c: NotFound: https://msdl.microsoft.com/download/symbols/hxtsr.exe/5CF9B46F20000/hxtsr.exe"
+  }
+ ]
+}

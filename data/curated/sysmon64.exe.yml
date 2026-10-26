@@ -1,0 +1,5 @@
+notes: >-
+  The Sysinternals download (Sysmon.exe / Sysmon64.exe 15.x) has a version
+  resource without an OriginalFilename key, so Sysmon logs `-` for itself.
+  The Sysmon that ships inside Windows 11 24H2 and later (`sysmon.exe`)
+  carries `sysmon.exe`.

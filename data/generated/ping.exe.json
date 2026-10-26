@@ -1,0 +1,660 @@
+{
+ "name": "ping.exe",
+ "builds": [
+  {
+   "sha256": "e4224d18c3c96826e6f4240893fac02c8a1ff335ce92614fc8744369594dd468",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/5B8AC34Bc000/ping.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\PING.EXE"
+  },
+  {
+   "sha256": "c2e4d2acefb22903a6dc717ceeabcdc93dead27c900c0dec0243a5de31a290bf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/B2C9DFD1c000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a4ead0a767366288e9c63faed01609a85bed036272084351453abbc6db994206",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1761 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1761",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1764",
+    "28000.1836",
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/087A65469000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "79d8ed1e363b38b8612f02302ca088a4344acbe77496be0a798cc92f5f4dc7ec",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-29",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/35C863BA9000/ping.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\PING.EXE"
+  },
+  {
+   "sha256": "da91e61e2adef7fea829bbc91d06fe452a0547a40e9073c571509d8a8a557b99",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-01-24",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/4018CF369000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "96f2abac2542f4cd59628d14af1f1935febfa56c675c3430e108b5465ebc823e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2026-01-24",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742",
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/D9C2AA09c000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ed7fa5b3ccbdd31a9e83f7c59f78ab5e2c83c7feedcc5f8b95948d11ebd7ff34",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/57899B73b000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bdc34d4260925e54b84395b8167ca5d6f9c4aa2e047221c14f7736dddeb13906",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/578991299000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "137217d72cb408f6ae39e7a318c61ff02a6b4ca9e58303409e7cbc86c3ebc0d9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/5632D7A29000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "022af706650198de12cf33407f224c432c4c9151c16eeb38f36c9e16894b4946",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/5632D815b000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ab08489825d037b9dc876af1096e70f3310f929bf046585d0e268bd6cac5366c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/559F3A91b000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "04a10b3ada5455cfe567605e462ed465a716fa1e6db5379deafed42d1d5b65c8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ping.exe",
+   "internal_name": "ping.exe",
+   "file_description": "TCP/IP Ping Command",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ping.exe/559F3D159000/ping.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ping.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "0aa7c231c2f0b5191a38bc6ff46329b085e86f8106423f3e00c93bf03577852a",
+   "error": "0aa7c231c2f0: symbol server returned unindexed build 04e2e56ab777; f1eaef877909: symbol server returned unindexed build b62f484ed676; 98bdf688c32f: symbol server returned unindexed build b62f484ed676; 9c6bf11ec215: symbol server returned unindexed build 7aa0eeaeb551"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "c66cb53494b1dc2eaedb8bcab3a55dbc5eb220efeb6b37c7e34c52a0a26e21e8",
+   "error": "c66cb53494b1: symbol server returned unindexed build 867d910ac546; 01a0a7a7735e: symbol server returned unindexed build 06d4c1a63a7d; e722ab5abaf1: symbol server returned unindexed build 159a2a3e16af; b23e1d2da5e3: symbol server returned unindexed build a1a0f475cd3d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "c66cb53494b1dc2eaedb8bcab3a55dbc5eb220efeb6b37c7e34c52a0a26e21e8",
+   "error": "c66cb53494b1: symbol server returned unindexed build 867d910ac546; e722ab5abaf1: symbol server returned unindexed build 159a2a3e16af"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "aab02d72b4980d67f5e6c9bd5d9649aa034ce304f43cf301064d2f33a9124e5c",
+   "error": "aab02d72b498: symbol server returned unindexed build 0ecaa5ce22ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "a97f91d6f165705edd286aeff25691806759bfdb051b20c4853965247dda36da",
+   "error": "a97f91d6f165: symbol server returned unindexed build cbd9dc939ccb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "9b97c065bca5fead86c951d9152a3d914dfcb1d9ac4d644fe1b0c7311489d4e3",
+   "error": "9b97c065bca5: symbol server returned unindexed build 3634200677a3"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "741ad992403c78a8a7dbd97c74fda06594a247e9e2fa05a40bb6945403a90056",
+   "error": "741ad992403c: symbol server returned unindexed build 79fe59f83f67"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e9ef80a7849f1cf02cb5fb8396ff9e270cb9006f30294a52c6490a72b373be00",
+   "error": "e9ef80a7849f: symbol server returned unindexed build de971e4d30e0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "e9ef80a7849f1cf02cb5fb8396ff9e270cb9006f30294a52c6490a72b373be00",
+   "error": "e9ef80a7849f: symbol server returned unindexed build de971e4d30e0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "7af50fa112932ea3284f7821b2eea2b7582f558dba897231bb82182003c29f8b",
+   "error": "7af50fa11293: symbol server returned unindexed build 039675cb32fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "7af50fa112932ea3284f7821b2eea2b7582f558dba897231bb82182003c29f8b",
+   "error": "7af50fa11293: symbol server returned unindexed build 039675cb32fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "7af50fa112932ea3284f7821b2eea2b7582f558dba897231bb82182003c29f8b",
+   "error": "7af50fa11293: symbol server returned unindexed build 039675cb32fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "7af50fa112932ea3284f7821b2eea2b7582f558dba897231bb82182003c29f8b",
+   "error": "7af50fa11293: symbol server returned unindexed build 039675cb32fb"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "7af50fa112932ea3284f7821b2eea2b7582f558dba897231bb82182003c29f8b",
+   "error": "7af50fa11293: symbol server returned unindexed build 039675cb32fb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "1b90154da78f950695898eed5cf3d0bc142041f6a955e6e3ec13a056fd7c4f00",
+   "error": "1b90154da78f: symbol server returned unindexed build 401688bcad30; 2f9b4bfe4f6b: symbol server returned unindexed build 541e1c82751d; e444caac62a3: symbol server returned unindexed build 541e1c82751d; 87cd9eb341c2: symbol server returned unindexed build 9bea14647086"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "fd78c547a1662906d97412e1b4352e7bf9e5846cf2b72fe59f5791c272792a77",
+   "error": "fd78c547a166: symbol server returned unindexed build e3052d1a84db; d6c98d826f8c: symbol server returned unindexed build 6319857a28d0; 417ee46bf611: symbol server returned unindexed build a38d934419ff; 99b8bf6db278: symbol server returned unindexed build 280f8418158e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "fd78c547a1662906d97412e1b4352e7bf9e5846cf2b72fe59f5791c272792a77",
+   "error": "fd78c547a166: symbol server returned unindexed build e3052d1a84db; 417ee46bf611: symbol server returned unindexed build a38d934419ff"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "8f16a431c919a0aa7c9466ec1cdc1e721f30eb5c8182835585a1b74abecb1920",
+   "error": "8f16a431c919: symbol server returned unindexed build 85aec8828ec2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "c9b49dbf091bc66d6aee677269c613aeda0952ddbd113e21a6d9553c3e374d0f",
+   "error": "c9b49dbf091b: symbol server returned unindexed build e0e65de12800"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "7bf496d5b9f227cce033f204e21743008c3f4b081d44b02500eda4efbccf3281",
+   "error": "7bf496d5b9f2: symbol server returned unindexed build d42873d0e0a7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "c370e9606a929aca877e7e5267a9f05ffa09a7cc4c53575b3be8216dfed945b1",
+   "error": "c370e9606a92: symbol server returned unindexed build 4bfc58c9f17f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "09e7534f7703b4e067455f0d83a77efa28a04c368381c5a0456282a57e801b04",
+   "error": "09e7534f7703: symbol server returned unindexed build 65c8526fd946"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "09e7534f7703b4e067455f0d83a77efa28a04c368381c5a0456282a57e801b04",
+   "error": "09e7534f7703: symbol server returned unindexed build 65c8526fd946"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "4aaa74f294c15aeb37ada8185d0dead58bd87276a01a814abc0c4b40545bf2ef",
+   "error": "4aaa74f294c1: symbol server returned unindexed build 17f0da7e24e7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4aaa74f294c15aeb37ada8185d0dead58bd87276a01a814abc0c4b40545bf2ef",
+   "error": "4aaa74f294c1: symbol server returned unindexed build 17f0da7e24e7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "4aaa74f294c15aeb37ada8185d0dead58bd87276a01a814abc0c4b40545bf2ef",
+   "error": "4aaa74f294c1: symbol server returned unindexed build 17f0da7e24e7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "4aaa74f294c15aeb37ada8185d0dead58bd87276a01a814abc0c4b40545bf2ef",
+   "error": "4aaa74f294c1: symbol server returned unindexed build 17f0da7e24e7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "4aaa74f294c15aeb37ada8185d0dead58bd87276a01a814abc0c4b40545bf2ef",
+   "error": "4aaa74f294c1: symbol server returned unindexed build 17f0da7e24e7"
+  }
+ ]
+}

@@ -1,0 +1,832 @@
+{
+ "name": "infdefaultinstall.exe",
+ "builds": [
+  {
+   "sha256": "bbdfcfec82e6325abbb1df886d3cd5767c356ebeb9affa572000c66a739e7d9e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/3832B4E7c000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4f443be9a5ddfb94a4293f0712d6e3ec83b09dcf25be27cd295c3fc7e7a62255",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/1A1CC07A11000/infdefaultinstall.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\InfDefaultInstall.exe"
+  },
+  {
+   "sha256": "30340de49d474759f28392930d1c3b7ebbf81c28f912cc1179cf49406cbeb706",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/23EC799311000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "107820777e325c1107174fe37429b4f71338bf9e4b6e460cb5c5969d0dcd1819",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/90453A8Ec000/infdefaultinstall.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\InfDefaultInstall.exe"
+  },
+  {
+   "sha256": "50dda8a6431a79d85b0e1f027c3a2ece764e72ef76a6ff222df685520cf47d97",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/4606AEF09000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f59679e80357826a3d8ffe86984915b184e664be6f156c3b04bd759cc3fcfad",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/DB9568147000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d5f139e77c47b75785244c8a4b14c8d94c7a499c99f775af05bc0c8e07b5ac56",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-11-14",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2600",
+    "22000.2652",
+    "22000.2713",
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/AB41E13E8000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8425cef86c050bf8f7e78dac0bfab8abcb9ae69c27e14c4cbc212f9bb20bd2d1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.2600",
+    "22000.2652",
+    "22000.2713",
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/55C2DCCE7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d6a03550fbd2313a8b1f4e71180bf27db436a86bd54660e4a6c6b6707bdf8d63",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2023-10-31",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/F36E531F8000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9f6f7f62ea1fd1e922c26c9c8ec302dc4650fa8ec659f34ce080fd6afa6c1806",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2023-10-31",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/299D5E1D7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e59127b5fe82714956c7a1f10392a8673086a8e1f609e059935c7da1fa015a5d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/6890B4397000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "63805bf43b07576c68129b305a8d82e7adcdfc38812a1515e85d45229d94c26b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/33E595947000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ef12da39388ca69b0a91930ab091dbf780aac7a2233b154c3912f744a40550db",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/48D246477000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d10352ec62db01410e49d0e38b5575ad81d1fab383222eaa7c30c3f05c632da0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/1132997E7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9407fde5938ed7e2f467f85a465790d4bb9df4210678067c43d44d1c0bc7cd1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/994BF9967000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0a07e8abedea7406f4f1bd0a2a10cc46fd9461d464118d23e2845eb68af26e1a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/D4CEF0977000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c57ce112ab04b00cc7270b6d76f005ffb8e2ed3adc6904cf5c5f184ee077fa32",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/4B1ADFAE7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ae16f9de7b4897d2961102d7ecb8acc0cf0d2ac93ea6415e2d2f1c46ff4bdf49",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/CCE40BD07000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fc9e1959f71321afe3d6b65b08324b3b6877efb6aa99ed5c935cf1e35d290af3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/DE61F7AB7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b93f70ac8095bf6552e58612e3e2f1e600fad8dcc0954bc439c01de5e2f78e21",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/464028AA7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cc93bb3c4756a39c66df5e86a674c987f5bc4161c5fced9e924884b94b0733ca",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/5996CBB77000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c374b081881eafe94338f12f9bc8288c5fe510a4fb3260cb0fd0135646dd768c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/A30C72227000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c9295d491e4359b89083ae73920e8f2a41a73d52d0c46dd2dbaf34fd645a4032",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/57898F1D7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "84fcf22d7086a99b436ba4a39e61318881b8ca544d30d2e93412daa49795d8c4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/57899A107000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4379d08917efbccf01bc44c4427a9b7b0553c8abf957f6febcc77468feb74b4b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/5632D8767000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "389bd6e023aacfdaad9131fcd6cfade1af9ac28b67d06e03d9ef8f7d16c6b411",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/5632D8107000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "de1e9f53b9558f6fc121671bc127aa48f3387f54df952982ab72bb060afe05db",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/559F3B0D7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4556e8321ef969f5bc6b8ffd882d91d7ffb32bfc8e22beea4d88fe815232b9a2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "InfDefaultInstall.EXE",
+   "internal_name": "InfDefaultInstall.EXE",
+   "file_description": "INF Default Install",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "5.2.3668.0",
+   "fixed_file_version": "5.2.3668.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/infdefaultinstall.exe/559F389B7000/infdefaultinstall.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "InfDefaultInstall.EXE",
+   "builds": 28,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "5.2.3668.0",
+   "max_version": "5.2.3668.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

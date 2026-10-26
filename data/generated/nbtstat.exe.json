@@ -1,0 +1,289 @@
+{
+ "name": "nbtstat.exe",
+ "builds": [
+  {
+   "sha256": "7ec36aba70d9e928706414e828a3ce934184697d994c4e02b0338726c3af59b0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "nbtinfo.exe",
+   "internal_name": "nbtinfo.exe",
+   "file_description": "TCP/IP NetBios Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/nbtstat.exe/1AB1837920000/nbtstat.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b5abcd833a8550ba0e77b55b56d37f6c04ac8213e1344b179e380b1fb289fa6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "nbtinfo.exe",
+   "internal_name": "nbtinfo.exe",
+   "file_description": "TCP/IP NetBios Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nbtstat.exe/7A6453E820000/nbtstat.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\nbtstat.exe"
+  },
+  {
+   "sha256": "61a4edc6552c83489fcf57e03be1db0074fff84677300496a696e9f9ed213061",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "nbtinfo.exe",
+   "internal_name": "nbtinfo.exe",
+   "file_description": "TCP/IP NetBios Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2024-09-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nbtstat.exe/03DF812D20000/nbtstat.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "41c05b8342add13aef5f2cf291c18cf4aff0db4d62539c4d48f35d1ab1db0570",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "nbtinfo.exe",
+   "internal_name": "nbtinfo.exe",
+   "file_description": "TCP/IP NetBios Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nbtstat.exe/57899B781f000/nbtstat.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "67a2d92d0fd96ee44d0bc6e127732103373f69b3781e35a5d23ee14663ecc0b7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "nbtinfo.exe",
+   "internal_name": "nbtinfo.exe",
+   "file_description": "TCP/IP NetBios Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nbtstat.exe/5632D8901f000/nbtstat.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ab6a303d0fd0d5a69caa8c2e5fd350996a0e295b97ceb6b22000c5d74701a19d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "nbtinfo.exe",
+   "internal_name": "nbtinfo.exe",
+   "file_description": "TCP/IP NetBios Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/nbtstat.exe/559F3A781f000/nbtstat.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "nbtinfo.exe",
+   "builds": 6,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "bd3fa8c1952db46200833bb71de5b8fdee4573317e97686ebc6fd74b431ba704",
+   "error": "bd3fa8c1952d: symbol server returned unindexed build 4733eb32a191; a189f3c6a198: symbol server returned unindexed build 4514e2270990; 042fc5340776: symbol server returned unindexed build 4514e2270990; fe501fddaa67: symbol server returned unindexed build 47788b248a7b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "e2259ea3c5f2dbf3adffec684f81670b89bce3d595cc24b2ea2ec821f09e94cc",
+   "error": "e2259ea3c5f2: symbol server returned unindexed build 35425081cbcf; eaf742eb3c51: symbol server returned unindexed build cc19f74bed09; 6ca81fe46947: symbol server returned unindexed build d69475122734; 0bc86b678d20: symbol server returned unindexed build fccdb348797c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "e2259ea3c5f2dbf3adffec684f81670b89bce3d595cc24b2ea2ec821f09e94cc",
+   "error": "e2259ea3c5f2: symbol server returned unindexed build 35425081cbcf; 6ca81fe46947: symbol server returned unindexed build d69475122734"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ec03ac239e171994c91a0818d66972284d940d40bda1d8c09e65349f83297f22",
+   "error": "ec03ac239e17: symbol server returned unindexed build b0e4cbe8570b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "743a1b81032b8dc005056912b6640f2474da674e4b56674efac4cd4823d3b0f6",
+   "error": "743a1b81032b: symbol server returned unindexed build 980d8dee16e7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "fd1234a2143d68f0f1f505604aef3c6f115624ebf59c738fc0a833a01ae0c0fa",
+   "error": "fd1234a2143d: symbol server returned unindexed build c547af9ed1da"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "28c46c4ee53050720e06c4bb0d1f64aef651438e3a712398d488426355a330c7",
+   "error": "28c46c4ee530: symbol server returned unindexed build 86fb3ebd218e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "40abbd7ebdb3cd6fa60e9af4a584e99d7295dd10d97feccfeaf5183f5a943c54",
+   "error": "40abbd7ebdb3: symbol server returned unindexed build bf72210996e2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "40abbd7ebdb3cd6fa60e9af4a584e99d7295dd10d97feccfeaf5183f5a943c54",
+   "error": "40abbd7ebdb3: symbol server returned unindexed build bf72210996e2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "6210fa6ade115dd07409cfae21683b1772d6d3fdb6b438814cacbd3588dad9e3",
+   "error": "6210fa6ade11: symbol server returned unindexed build 5370ea81e960"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "6210fa6ade115dd07409cfae21683b1772d6d3fdb6b438814cacbd3588dad9e3",
+   "error": "6210fa6ade11: symbol server returned unindexed build 5370ea81e960"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6210fa6ade115dd07409cfae21683b1772d6d3fdb6b438814cacbd3588dad9e3",
+   "error": "6210fa6ade11: symbol server returned unindexed build 5370ea81e960"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "6210fa6ade115dd07409cfae21683b1772d6d3fdb6b438814cacbd3588dad9e3",
+   "error": "6210fa6ade11: symbol server returned unindexed build 5370ea81e960"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "6210fa6ade115dd07409cfae21683b1772d6d3fdb6b438814cacbd3588dad9e3",
+   "error": "6210fa6ade11: symbol server returned unindexed build 5370ea81e960"
+  }
+ ]
+}

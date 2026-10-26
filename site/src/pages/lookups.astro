@@ -1,0 +1,119 @@
+---
+import Base from '../layouts/Base.astro';
+import { siteData } from '../lib/load';
+import { href } from '../lib/util';
+
+const { entries, stats, pairs } = siteData();
+const slugOf = new Map(entries.map((e) => [e.name, e.slug]));
+
+// lowercase OFN -> exact spellings seen, and the file names that carry it
+const groups = new Map<string, { spellings: Set<string>; names: Set<string> }>();
+for (const e of entries) {
+  for (const v of e.values) {
+    if (!v.value) continue;
+    const key = v.value.toLowerCase();
+    const g = groups.get(key) ?? { spellings: new Set<string>(), names: new Set<string>() };
+    g.spellings.add(v.value);
+    g.names.add(e.name);
+    groups.set(key, g);
+  }
+}
+const rows = [...groups.entries()]
+  .map(([key, g]) => ({ key, spellings: [...g.spellings], names: [...g.names].sort() }))
+  .sort((a, b) => (a.key < b.key ? -1 : 1));
+
+const files = [
+  ['ofn_pairs.csv', 'Lowercase original_filename,image_name pairs. A Splunk or Cribl lookup table for rename detection.'],
+  ['ofn_pairs.kql', 'The same pairs as a KQL datatable for Defender XDR and Sentinel.'],
+  ['ofn.csv', 'One row per (binary, OriginalFilename): builds, architectures, version and Windows-release span, provenance, category.'],
+  ['ofn.json', 'One object per binary: every OriginalFilename value, the current one, flags, and whether Sysmon confirmed it.'],
+];
+
+const splunk = `| tstats summariesonly=false count from datamodel=Endpoint.Processes
+    by Processes.dest Processes.process_name Processes.original_file_name Processes.process_path
+| rename Processes.* as *
+| eval ofn=lower(original_file_name), img=lower(process_name)
+| lookup ofn_pairs.csv original_filename AS ofn OUTPUT original_filename AS tracked
+| lookup ofn_pairs.csv original_filename AS ofn image_name AS img OUTPUT image_name AS expected
+| where isnotnull(tracked) AND isnull(expected)`;
+
+const kql = `// paste the contents of ofn_pairs.kql above this line
+DeviceProcessEvents
+| extend ofn = tolower(ProcessVersionInfoOriginalFileName), img = tolower(FileName)
+| where ofn in ((ofn_pairs | distinct ofn))
+| join kind=leftanti ofn_pairs on ofn, img`;
+
+const cribl = `Eval:      ofn = (OriginalFileName || '').toLowerCase()
+           img = (Image || '').split('\\\\').pop().toLowerCase()
+Lookup #1: ofn_pairs.csv, match original_filename = ofn                    -> output original_filename AS tracked
+Lookup #2: ofn_pairs.csv, match original_filename = ofn, image_name = img -> output image_name AS expected
+Filter:    tracked && !expected`;
+---
+
+<Base title="Lookups" description="OriginalFilename to file name reverse lookup, downloadable lookup tables, and renamed-binary detection for Splunk, Defender KQL and Cribl.">
+  <article class="prose">
+    <h1>Lookups</h1>
+    <p class="lede">
+      Which file names ship with a given OriginalFilename, as a searchable table and as lookup files you can load into a SIEM.
+    </p>
+
+    <h2 id="reverse">OriginalFilename → file names</h2>
+    <div class="search-row">
+      <input id="rq" type="search" placeholder="Filter by OriginalFilename or file name…" autocomplete="off" spellcheck="false" aria-label="Filter reverse lookup" />
+      <span id="rcount" class="count">{rows.length} values</span>
+    </div>
+    <div class="table-wrap">
+      <table class="grid" id="rev">
+        <thead><tr><th>OriginalFilename</th><th>Ships as</th></tr></thead>
+        <tbody>
+          {rows.map((r) => (
+            <tr data-s={[r.key, ...r.names].join(' ')}>
+              <td class="mono">{r.spellings.join(', ')}</td>
+              <td>{r.names.map((n, i) => <>{i > 0 && ', '}<a href={href(`b/${slugOf.get(n) ?? n}/`)}>{n}</a></>)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+
+    <h2 id="downloads">Downloads</h2>
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr><th>File</th><th>Contents</th></tr></thead>
+        <tbody>
+          {files.map(([f, d]) => <tr><td class="mono"><a href={href(`exports/${f}`)} download>{f}</a></td><td>{d}</td></tr>)}
+        </tbody>
+      </table>
+    </div>
+    <p class="hint">Regenerated with the data ({stats.updated}); {pairs.length.toLocaleString('en-US')} pairs. Data is CC BY 4.0: use it in your detections and credit ofndb.</p>
+
+    <h2 id="renamed">Using the pairs: catch renamed binaries</h2>
+    <p>
+      A process whose OriginalFilename is <code>CertUtil.exe</code> but whose image is <code>update.exe</code> was renamed. Flag
+      events whose OriginalFilename is in the lookup but whose (OriginalFilename, file name) pair isn't.
+    </p>
+    <h3>Splunk (CIM)</h3>
+    <div class="code"><button class="copy" data-copy={splunk}>Copy</button><pre><code>{splunk}</code></pre></div>
+    <h3>Defender KQL</h3>
+    <div class="code"><button class="copy" data-copy={kql}>Copy</button><pre><code>{kql}</code></pre></div>
+    <h3>Cribl Stream</h3>
+    <div class="code"><button class="copy" data-copy={cribl}>Copy</button><pre><code>{cribl}</code></pre></div>
+    <p class="hint">
+      Expect benign hits from software that bundles a Windows binary under its own name, and from binaries this library doesn't
+      cover yet. Tune with path and signer.
+    </p>
+  </article>
+  <script is:inline>
+    (() => {
+      const q = document.getElementById('rq');
+      const rows = [...document.querySelectorAll('#rev tbody tr')];
+      const count = document.getElementById('rcount');
+      q.addEventListener('input', () => {
+        const t = q.value.toLowerCase().trim();
+        let n = 0;
+        for (const r of rows) { const ok = !t || r.dataset.s.includes(t); r.hidden = !ok; if (ok) n++; }
+        count.textContent = `${n} values`;
+      });
+    })();
+  </script>
+</Base>

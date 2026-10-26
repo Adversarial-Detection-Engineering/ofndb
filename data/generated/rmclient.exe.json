@@ -1,0 +1,64 @@
+{
+ "name": "rmclient.exe",
+ "builds": [
+  {
+   "sha256": "f562694bd40378c102906572108ae9cc6441e51e75c1185bd450fe9adc7f77d0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RmClient.exe",
+   "internal_name": "RmClient.exe",
+   "file_description": "Restart Manager LUA Restart Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RmClient.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "20b59da94ee5f320a7c75f00cbe3b53c418d172bab541e3f25cfbe86e3c6e846",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RmClient.exe",
+   "internal_name": "RmClient.exe",
+   "file_description": "Restart Manager LUA Restart Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.3624 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3624",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RmClient.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RmClient.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.3624",
+   "max_version": "10.0.26100.3624",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "vmnetdhcp.exe",
+ "builds": [
+  {
+   "sha256": "0891fa62a47e7692c8b59b0286d1f4d9ea1f7643d8bcd1cd2ba41e469c834ab2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vmnetdhcp.exe",
+   "internal_name": "vmnetdhcp",
+   "file_description": "VMware VMnet DHCP service",
+   "company_name": "VMware, Inc.",
+   "product_name": "VMware Workstation",
+   "file_version": "26.0.1 build-25688693",
+   "fixed_file_version": "26.0.1.2799",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\vmnetdhcp.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "vmnetdhcp.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "26.0.1.2799",
+   "max_version": "26.0.1.2799",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

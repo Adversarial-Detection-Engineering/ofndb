@@ -1,0 +1,1197 @@
+{
+ "name": "ieframe.dll",
+ "builds": [
+  {
+   "sha256": "ff1ca6aecef7f1a4d09c861da36c4eb44bbb3b444ea5c606b696db106e60c7e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/7E7674BB607000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d781643b4d9ae0ead474a327b84eaec76cbeb3f83e715fd9fe3545c1520c0ad7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17763.9121",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/A5C4BBD4bde000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cce04c2ee3a5b0e5031d24a39e859f4ab15db4875d5eeb4ade538dc157bc357e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.7663 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.7663",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7663",
+    "19045.7725",
+    "19045.7727",
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/72C47D5F641000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cca287a8a722e4cc4bc1c55e412ab7f822788bc40f8e02f88763dcafb6858c27",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/B4966CD4c93000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c3b6a1bfb18aefb4478634b83c706f124d56671964c25c21deeb6c85b3d440f3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/A86757A9736000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "86f694a19420fb0c69abe2be60df7780009f022d3acc395119f1030d50f5a402",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/AA460CFB724000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "772aeb7a6f2056b3e3b48b98cb72a36417894e159d0d97242864d27dbad58c2b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/97D768AA76c000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5faa63273cf193e5b37f19d4457dff8749b7beb8c637504145a9c0f1930ea35b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/3B05AB01660000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e05aebf774d67b15f5c20bfa527305196d71257fb03f22d47887fd8d45e14b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.7079 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.7079",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-05-12",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7582",
+    "22621.7652",
+    "22631.7079",
+    "22631.7219",
+    "22631.7376",
+    "22631.7517",
+    "22631.7584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/E5BBC6377d2000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2d0c50e502845da817ad45ab4686c5de34aa14de2a561cf639d53a99be85c8d2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "11.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/6AC8D4B2bdd000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "283e80c7d0972218c2392a112818f20ec5817370678b5bc00cb2be375cfdd8df",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "11.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/6AC8D5E6cc2000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9c214479677a38735e354837932e9fefea77a4423da8b90cc33ae2342bee537",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/33806C0860f000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fb305c45fb9c4c6d2ad3116301c9f4198111616897f2728b7f99becb31460329",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2026-01-24",
+   "os_builds": [
+    "22621.6060",
+    "22631.6133",
+    "22631.6199",
+    "22631.6276",
+    "22631.6345",
+    "22631.6491",
+    "22631.6494",
+    "22631.6495"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/C2D4DEF07d2000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0aeb5f01e15aed6b91e4bff509bb6c3f51d2f61159698d6a39eafc8ab44304da",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22621.6060 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22621.6060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-11-11",
+   "os_builds": [
+    "22621.6060",
+    "22631.6133",
+    "22631.6199"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/A0559064660000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "88fe1d0a984d37777fac21e797313457ddd3a0fc4d8881dad928f9a2b931bba2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "11.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/68E669C7aec000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "551fe7dbedec91ef0414244dab40c46042eb211fbe09d354e4e94268ecbb3d5e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "11.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/68E67841c28000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5edde94ae026041237f623791536b402aa0eb2986e9ef3098ad8d48b20ab1214",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/04A1F640728000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "176aee651542c31cdb70af4e2fc71b3b1ab5bd2e1e9a34365d1b646368660f6a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/20ED2E2965e000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dd2506e69342430651888e59144d824ff49121e9070a4d24b889ef17fb414503",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.5965 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.5965",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-06-10",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19044.5965",
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19045.5968",
+    "19045.6036",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/35EC2350641000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "949ac7caafd5c284b9d09e5990b62d5618c093788fc467f0a4e98dd828b00471",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.6392 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.6392",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-09-25",
+   "last_seen": "2025-09-25",
+   "os_builds": [
+    "19045.6396"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/99FE40DD76b000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9cf507488011c5c7a4c428011cfb362de0562f13d720b78d7fd920e318c23454",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22000.3197 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22000.3197",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-09-10",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/96E443FF660000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3bf3918c458936664b262672c03e2dfe18bc3c3f514b88d4881735e5294fd3d0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.22000.3197 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.22000.3197",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-09-10",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/985845FB7cc000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7953fbfe5473f9db25ad26854f5da4b992e8edb97bc89afbcee788a5e508451b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.2913",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-05-23",
+   "os_builds": [
+    "19042.2965",
+    "19045.2913",
+    "19045.3031"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/4125AA3C768000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "14e3ca83821d90daea93542b7747255d1855867d32b910ea6c7c5f885ea917c9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.2913",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-05-23",
+   "os_builds": [
+    "19042.2965",
+    "19045.2913",
+    "19045.3031"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/EC71F71C63d000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c58799837b2228542ce2ff1235a1a7a19e8f7a1cfd2583c7249920db688c7fa7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.2274",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/3086C146616000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "28eba5699a8a97c7c222cf61e4ad0c6ae185450d9d8581bd2151e0b6d7ab2eb8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.2274 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.2274",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/2E6DBC7670a000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "79f4cb898f0dab7488517cf6ee50a3a8d45a68884237404c8ed281b276c51b7a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/7481C39475e000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4d707621ff2cecf58aff9dd1a72422eb12e5c1725ea7f9ced1527af79dd4828a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/F0BAA65F635000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d762f33bfd32a35b8ccf1bd9d16b3ec7ed3684717000406d92be90c6437fa236",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/44FF69BD754000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d37ae8981a720d8c928bf163c9027a0b3b7da59374f65784fbe00317b8e2675d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/4F68099D62b000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "daa332113c22fd00a353c1508bd741dc858ff52610fab39ff82928635f3bb791",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17134.2208",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/30D76FDDc57000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1f4f2b97b98255ff416f6d71f248ef59d83132135fc30bcd00afa2444d17fe15",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.17134.2208 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.17134.2208",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-05-11",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/EBCD0AE8b8e000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b61d952b7377fa52403504f669f5b8a6bffe89e0eabf66f62f05c200cf0ee8df",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/F9C19E4Fb66000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0cfd8a4d9f61f7e36bccbac316ce22212b734585590f46b3270dd334066bbc2f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/E36C50FDc4a000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b2dd72a44b41ae1e37ee0705e95980ce0ab225b4a428d795a9eae4a7c7fab51d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/F8779D2D702000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "30d999cfa44b9807a8217ca3bd0aa8c38fd30c294e07c3c0be8494ce6d6d394e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/A1DC11F760f000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "be050be85e3393ce820dabb185c43a142a00a1bf4e4cbea98b8740f735769056",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.16299.2166",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/A84A97F8b8f000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8b5f7359179cb00cc74ad2b322b82afdedf53961f223e2589e62a01eacc365b2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.16299.2166 (WinBuild.160101.0800)",
+   "fixed_file_version": "11.0.16299.2166",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-10-13",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/29FBC660c6f000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8ca59f143df6cfc114d2ea98aeb8607cdf5bd54d27d5d5208b2e9d477e1e701c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "11.0.10586.1540",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/5AB4862Bba2000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1d4595bbddbd616a889d18fd51e41409feb0dbfd2e4e48f1dae70cac7ec104a5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "IEFRAME.DLL",
+   "internal_name": "IEFRAME.DLL",
+   "file_description": "Internet Browser",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Internet Explorer",
+   "file_version": "11.00.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "11.0.10586.1540",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/ieframe.dll/5AB49C2Dcd9000/ieframe.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "IEFRAME.DLL",
+   "builds": 40,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "11.0.10240.21161",
+   "max_version": "11.0.28000.3086",
+   "first_seen": "2018-04-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

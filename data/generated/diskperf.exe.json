@@ -1,0 +1,64 @@
+{
+ "name": "diskperf.exe",
+ "builds": [
+  {
+   "sha256": "65514dc605779524c143616b0fd6ef2f3efe3494dd98390b9a001a754c4117c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DISKPERF.EXE",
+   "internal_name": "DISKPERF.EXE",
+   "file_description": "Disk Performance Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\diskperf.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "17bae5ae9b4f0963f37648ae2a100bb004519665a7b2ea9ef986c423f09470c5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DISKPERF.EXE",
+   "internal_name": "DISKPERF.EXE",
+   "file_description": "Disk Performance Configuration Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\diskperf.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DISKPERF.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

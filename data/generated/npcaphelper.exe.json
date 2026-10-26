@@ -1,0 +1,64 @@
+{
+ "name": "npcaphelper.exe",
+ "builds": [
+  {
+   "sha256": "d8153148a2d8196f1c1b46754d7d3ac9019fdf3c54035f87740b92fed9bbcb92",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NpcapHelper.exe",
+   "internal_name": "NpcapHelper.exe",
+   "file_description": "The helper program for \"Admin-only Mode\"",
+   "company_name": "Nmap Software LLC",
+   "product_name": "Npcap",
+   "file_version": "1.88",
+   "fixed_file_version": "5.1.88.504",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Npcap\\NpcapHelper.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "8ecd771e11f3954057e3aac899c0d684d3741a50546f21286072a56a5d542803",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "NpcapHelper.exe",
+   "internal_name": "NpcapHelper.exe",
+   "file_description": "The helper program for \"Admin-only Mode\"",
+   "company_name": "Nmap Software LLC",
+   "product_name": "Npcap",
+   "file_version": "1.88",
+   "fixed_file_version": "5.1.88.504",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Npcap\\NpcapHelper.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NpcapHelper.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "5.1.88.504",
+   "max_version": "5.1.88.504",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

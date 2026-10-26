@@ -1,0 +1,44 @@
+{
+ "name": "packageinspector.exe",
+ "builds": [
+  {
+   "sha256": "87761316a30570bb0dc19f88d4c0c2d55bf8654e6d151b255db588a99a1851ca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PACKAGEINSPECTOR.EXE",
+   "internal_name": "PackageInspector",
+   "file_description": "PackageInspector allows creation of a catalog containing all executable files laid down by an installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1.00 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.3323",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\PackageInspector.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "PACKAGEINSPECTOR.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.3323",
+   "max_version": "10.0.26100.3323",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

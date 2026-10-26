@@ -1,0 +1,958 @@
+{
+ "name": "robocopy.exe",
+ "builds": [
+  {
+   "sha256": "ef4885e50ecba24b769a672e7b273eae16ed244781b852f7630897bd89cc2829",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.5717 (rs1_release.230203-1742)",
+   "fixed_file_version": "10.0.14393.5717",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2023-02-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.5717",
+    "14393.5786",
+    "14393.5850",
+    "14393.5921",
+    "14393.5989",
+    "14393.5996",
+    "14393.6085",
+    "14393.6167",
+    "14393.6252",
+    "14393.6351",
+    "14393.6452",
+    "14393.6529",
+    "14393.6614",
+    "14393.6709",
+    "14393.6796",
+    "14393.6799",
+    "14393.6897",
+    "14393.6981",
+    "14393.7070",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/63DDDBFB1f000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eece92dbbff53c1eed18d8e0946f9a18a239c488309117cc50623cf4405c6771",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/2B2CE0CF29000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bf99235e2abf02bdc2898cf95a4bf35803cf95535c2ab728412e7a24eb627151",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/5F5A61BD30000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "84abbd32d074881164b8cf6b30593828e53f368c3854854aefe5b3cf06d3e356",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/0813A9FF30000/robocopy.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Robocopy.exe"
+  },
+  {
+   "sha256": "676263620ca83fe0a7636bb52216c3552b5a1da23406cd1a259c23ec6d09a239",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.5717 (rs1_release.230203-1742)",
+   "fixed_file_version": "10.0.14393.5717",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2023-02-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.5717",
+    "14393.5786",
+    "14393.5850",
+    "14393.5921",
+    "14393.5989",
+    "14393.5996",
+    "14393.6085",
+    "14393.6167",
+    "14393.6252",
+    "14393.6351",
+    "14393.6452",
+    "14393.6529",
+    "14393.6614",
+    "14393.6709",
+    "14393.6796",
+    "14393.6799",
+    "14393.6897",
+    "14393.6981",
+    "14393.7070",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/63DDDD0B25000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3b25bd0d5c94bb073344e74ae4862fbe05568f02068d85cf24450f12b4e98dd9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/7B92D8CE28000/robocopy.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Robocopy.exe"
+  },
+  {
+   "sha256": "02ff87dc35fb2658f664569130eb5cf58f1c11313e9ccaba79a591deb3583548",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/BBED53C72e000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ea6da9c1a1b6c1eb7d1df46042ffd4e5213612c3bda182c04a5aea88586726c7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/C75ADBB534000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5670c9b8c7d26049608d920f4dcab1c19354cf78c0e2b2550495bf1ca377cba9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/4E0C1AB42c000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4659277dfec2168688b6569f35a9f76a9c4e843273ffa8d30562563b46c4fd04",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2546",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-01-19",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/1C7AA8042f000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "09ae80f118b7e95095f334ebaf9a30bf1e40cb56467bf56e879fbdc0007ff86e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2546 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2546",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-01-19",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/6C20B13A24000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e6b8f3d26fe3a704d0316ff7225cf61d6c637ea13cdaa48f4a0c3dcaf8b7426d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1832 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1832",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-09-21",
+   "last_seen": "2022-04-12",
+   "os_builds": [
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/3C00648D2f000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "172a501d056b5bb702dfe3fde40e8779c6e513e8478f752b11804bbadbcd6728",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1832 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1832",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-09-21",
+   "last_seen": "2022-04-12",
+   "os_builds": [
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/C42FF46C24000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ae822b1f50e986792873890dec19cea09f99c74d370695fce991111b2a9f17b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.674 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.674",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-10-10",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.1058",
+    "15063.1112",
+    "15063.1182",
+    "15063.1209",
+    "15063.1235",
+    "15063.1292",
+    "15063.1358",
+    "15063.1387",
+    "15063.1418",
+    "15063.1446",
+    "15063.1478",
+    "15063.1506",
+    "15063.1508",
+    "15063.1563",
+    "15063.1596",
+    "15063.1631",
+    "15063.1659",
+    "15063.1689",
+    "15063.1716",
+    "15063.1746",
+    "15063.1784",
+    "15063.1785",
+    "15063.1805",
+    "15063.1808",
+    "15063.1839",
+    "15063.1868",
+    "15063.1897",
+    "15063.1898",
+    "15063.1928",
+    "15063.1955",
+    "15063.1988",
+    "15063.2021",
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679",
+    "15063.674",
+    "15063.675",
+    "15063.726",
+    "15063.729",
+    "15063.877",
+    "15063.936",
+    "15063.994"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/A601BC1025000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "01b185ecff68398ceaa815e085f5104c8ec8da519b516d65575709b65ef6bd77",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.674 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.674",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-10-10",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.1058",
+    "15063.1112",
+    "15063.1182",
+    "15063.1209",
+    "15063.1235",
+    "15063.1292",
+    "15063.1358",
+    "15063.1387",
+    "15063.1418",
+    "15063.1446",
+    "15063.1478",
+    "15063.1506",
+    "15063.1508",
+    "15063.1563",
+    "15063.1596",
+    "15063.1631",
+    "15063.1659",
+    "15063.1689",
+    "15063.1716",
+    "15063.1746",
+    "15063.1784",
+    "15063.1785",
+    "15063.1805",
+    "15063.1808",
+    "15063.1839",
+    "15063.1868",
+    "15063.1897",
+    "15063.1898",
+    "15063.1928",
+    "15063.1955",
+    "15063.1988",
+    "15063.2021",
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584",
+    "15063.2614",
+    "15063.2642",
+    "15063.2679",
+    "15063.674",
+    "15063.675",
+    "15063.726",
+    "15063.729",
+    "15063.877",
+    "15063.936",
+    "15063.994"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/352A15CB1e000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "83428f8fd1cf608e162db16666509666c1982713ae813f781c9de3cd23e0fc11",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/5FC2FE321e000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dd7afc40ca4fa8e56fa68dd876f0cc58dbe42b8dd248d8ced5c7aceefc636a59",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/5632D7C323000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d5c904c1a3658e444847bf27a8899c59bd783760e51a4db7c923f0b345852d18",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/5632D7471e000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c9fbadf1ddeced876d18a7c1f4d7bd6636610db3b87fb53f6a17308cb387058b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/559F38C223000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "444dd1b9bcdfd64b636ea60252a6ca7fe2aa3758bf48f5324f25be8e3bc06a63",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "robocopy.exe",
+   "internal_name": "robocopy",
+   "file_description": "Microsoft Robocopy",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/robocopy.exe/559F3B371e000/robocopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "robocopy.exe",
+   "builds": 20,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1803",
+    "1809",
+    "1909",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "844ccd82008c1f01dece89853d94a4055de419b464c13aa6bf46cec5de304aa0",
+   "error": "844ccd82008c: symbol server returned unindexed build 110f7746b23e; baabb63388f9: symbol server returned unindexed build 922feb6b26d6; b2859fd23caf: symbol server returned unindexed build 35c1c3259824; feb9a2e62153: symbol server returned unindexed build ca5c8870d787"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "990e8c9d5a4c2d7dd6fdec12259302d8d4960a40ba65cd7a265c351b3de33a0f",
+   "error": "990e8c9d5a4c: symbol server returned unindexed build 95e26aa58bb4; feab01755dc7: symbol server returned unindexed build 8bd093da3a0f; 6448e7a9562e: symbol server returned unindexed build e7e62370d204; ac9f61ebba3c: symbol server returned unindexed build c10d57ad377d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "990e8c9d5a4c2d7dd6fdec12259302d8d4960a40ba65cd7a265c351b3de33a0f",
+   "error": "990e8c9d5a4c: symbol server returned unindexed build 95e26aa58bb4; 277f53325a2e: symbol server returned unindexed build e824b1d699b0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "f794eec15010239d23182299cedbf75735e01ccbd417fb81be0dc02118eb829f",
+   "error": "f794eec15010: symbol server returned unindexed build d06d721b179b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "78f14446527b19ea8f8a654490676ad3de1057619537ab93f26f6b332209871c",
+   "error": "78f14446527b: symbol server returned unindexed build c1800be6e4ec"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e78510c9eaba67be68e56e79e8977adcddd211ba9540f66d2e34c801fdc57b24",
+   "error": "e78510c9eaba: symbol server returned unindexed build b7a25cef9575"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "f53934033106bd160d6e9c7bec2b1791fb4e1c6ddfc55d3342080d3004a87635",
+   "error": "f53934033106: symbol server returned unindexed build e27f0ae37c88; 294af79229fb: symbol server returned unindexed build e133f1b9fde2; e8a7460e671d: symbol server returned unindexed build af1666229ab3; ab5fe50644fd: symbol server returned unindexed build 3d5cd42e0b3c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "ab5fe50644fd7e989c00f6596ec40284ff37a3ad8e44fbca98dbfbf9b5192a2e",
+   "error": "ab5fe50644fd: symbol server returned unindexed build 3d5cd42e0b3c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "8d67fd707e05dd7b3d1426fca5668f291fac6d2e7213d78f85e91b5c70bb24a0",
+   "error": "8d67fd707e05: symbol server returned unindexed build 489c65bc7359; 6ff17d99ba95: symbol server returned unindexed build d90f397cca66; e7bfec39e754: symbol server returned unindexed build df8e9d3df5ee; db3122ce056f: symbol server returned unindexed build 78964a31c3f8"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "efc637db2d3175d8f5d2a48ef86a112f37298fae490fbcbffafaf9e2970b51ac",
+   "error": "efc637db2d31: symbol server returned unindexed build c8fa8858181e; 540c7786df98: symbol server returned unindexed build 087a5aff7dc9; d05066fb9ead: symbol server returned unindexed build 59eabfac7395; 9f6232d55052: symbol server returned unindexed build cdd754e79ee7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "efc637db2d3175d8f5d2a48ef86a112f37298fae490fbcbffafaf9e2970b51ac",
+   "error": "efc637db2d31: symbol server returned unindexed build c8fa8858181e; 509f2e9a513a: symbol server returned unindexed build 17808c7fda0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "d1affe6cd79f9d755548757198b37091d9c898fe35289b92b5cf833cae02dadf",
+   "error": "d1affe6cd79f: symbol server returned unindexed build cf5eb7edf2fa"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "59934f80e0f826cfb83bc53b95793b4a6a0caed8f5de7f1a2e71f2b13e8544bf",
+   "error": "59934f80e0f8: symbol server returned unindexed build c1d6155cfef3; 5485499c985c: symbol server returned unindexed build 82101ae0e920; fd6524d3de03: symbol server returned unindexed build 6a5fa634f73b; 341e3ba3a558: symbol server returned unindexed build f4e6e5e44988"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "34ef7ddc25ad476fe1afc29fa6a961dcdfcb1cc3bf1fbb14162d16aafe3b21d2",
+   "error": "34ef7ddc25ad: symbol server returned unindexed build bda0628b9c9e"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "f879c52c110afaa8e67a4b2c180cbfb48bcf52fa0dbeac0d26b1474e897679ad",
+   "error": "f879c52c110a: symbol server returned unindexed build 3e53261204a5; 671f803f9ae4: symbol server returned unindexed build 346d973bb355; f3da41972f2a: symbol server returned unindexed build cb3bdfaa9859; d7a46fc5af4d: symbol server returned unindexed build 89b132d0916d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "d7a46fc5af4dc3978f395dd601619111899d206c22aabdac77c10efe6a8425a9",
+   "error": "d7a46fc5af4d: symbol server returned unindexed build 89b132d0916d"
+  }
+ ]
+}

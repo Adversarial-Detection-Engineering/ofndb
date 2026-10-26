@@ -1,0 +1,88 @@
+---
+import '../styles/global.css';
+import { siteData } from '../lib/load';
+import { SITE_NAME, href } from '../lib/util';
+
+const { stats } = siteData();
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const {
+  title,
+  description = 'OriginalFilename values for LOLBins, Windows binaries and common tools, exactly as Sysmon and EDRs log them.',
+} = Astro.props;
+
+const nav = [
+  ['', 'Library'],
+  ['gotchas/', 'Gotchas'],
+  ['lookups/', 'Lookups'],
+  ['about/', 'About'],
+];
+const current = Astro.url.pathname;
+const isCurrent = (path: string) => (path === '' ? current === href('') : current.startsWith(href(path)));
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title === SITE_NAME ? title : `${title} · ${SITE_NAME}`}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" href={href('favicon.svg')} type="image/svg+xml" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-row">
+        <a class="brand" href={href('')}><span class="brand-mark">OFN</span><span class="brand-rest">db</span></a>
+        <nav aria-label="Main">
+          {nav.map(([path, label]) => <a href={href(path)} aria-current={isCurrent(path) ? 'page' : undefined}>{label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          Data updated {stats.updated} · {stats.entries.toLocaleString('en-US')} binaries ·
+          {stats.builds.toLocaleString('en-US')} parsed builds · {stats.verified_entries.toLocaleString('en-US')} confirmed
+          against Sysmon {stats.sysmon_versions.join(', ')}
+        </p>
+        <p class="muted">
+          Values are parsed from each PE's own version resource and checked against live Sysmon events. Built on LOLBAS,
+          LOLRMM, Winbindex, SigmaHQ and Sysinternals.
+        </p>
+      </div>
+    </footer>
+    <script is:inline>
+      document.addEventListener('click', async (ev) => {
+        const btn = ev.target.closest('[data-copy]');
+        if (btn) {
+          try {
+            await navigator.clipboard.writeText(btn.dataset.copy);
+            const label = btn.textContent;
+            btn.textContent = 'Copied';
+            btn.classList.add('done');
+            setTimeout(() => { btn.textContent = label; btn.classList.remove('done'); }, 1200);
+          } catch { btn.textContent = 'Copy failed'; }
+          return;
+        }
+        const tab = ev.target.closest('[role="tab"]');
+        if (tab) {
+          const box = tab.closest('[data-tabs]');
+          box.querySelectorAll('[role="tab"]').forEach((t) => t.setAttribute('aria-selected', String(t === tab)));
+          box.querySelectorAll('[data-panel]').forEach((p) => { p.hidden = p.dataset.panel !== tab.dataset.tab; });
+          try { localStorage.setItem('ofn-platform', tab.dataset.tab); } catch {}
+        }
+      });
+      try {
+        const saved = localStorage.getItem('ofn-platform');
+        if (saved) document.querySelectorAll(`[role="tab"][data-tab="${saved}"]`).forEach((t) => t.click());
+      } catch {}
+    </script>
+  </body>
+</html>

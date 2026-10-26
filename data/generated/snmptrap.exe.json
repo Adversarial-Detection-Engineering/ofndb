@@ -1,0 +1,44 @@
+{
+ "name": "snmptrap.exe",
+ "builds": [
+  {
+   "sha256": "56015aab3b55630e34dc327f4fdadc75e67100fd9d54fc15fd4bc213a0e9f7c4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "snmptrap.exe",
+   "internal_name": "snmptrap.exe",
+   "file_description": "SNMP Trap",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\snmptrap.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "snmptrap.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8972",
+   "max_version": "10.0.26100.8972",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

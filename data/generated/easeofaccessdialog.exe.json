@@ -1,0 +1,64 @@
+{
+ "name": "easeofaccessdialog.exe",
+ "builds": [
+  {
+   "sha256": "8b831647a23a9ccf2830feea61ed800b8b2736a324167a46abf2110481378ed5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EaseOfAccessDialog.exe",
+   "internal_name": "EaseOfAccessDialog.exe",
+   "file_description": "Ease of Access Dialog Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\EaseOfAccessDialog.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "42b6b172831b0b0cc1457af7902a646821914c5a8c335eccfe9dc62c44704d1a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EaseOfAccessDialog.exe",
+   "internal_name": "EaseOfAccessDialog.exe",
+   "file_description": "Ease of Access Dialog Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\EaseOfAccessDialog.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "EaseOfAccessDialog.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

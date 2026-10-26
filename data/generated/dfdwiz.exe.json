@@ -1,0 +1,44 @@
+{
+ "name": "dfdwiz.exe",
+ "builds": [
+  {
+   "sha256": "211c577f2902087ad252982e90ac0f00c6712bd536fc99328e3572ae76263805",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DFDWiz.exe",
+   "internal_name": "DFDWiz.exe",
+   "file_description": "Windows Disk Diagnostic User Resolver",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\DFDWiz.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DFDWiz.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "uevagentpolicygenerator.exe",
+ "builds": [
+  {
+   "sha256": "fe8c2670444116e1be2cfb55db376435b0ee065c08d54da5c24f87a773e02c86",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "UevAgentPolicyGenerator.exe",
+   "internal_name": "UevAgentPolicyGenerator.exe",
+   "file_description": " ",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft (R) Windows (R) Operating System",
+   "file_version": "0.0.0.0",
+   "fixed_file_version": "0.0.0.0",
+   "has_embedded_signature": false,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UevAgentPolicyGenerator.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UevAgentPolicyGenerator.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "0.0.0.0",
+   "max_version": "0.0.0.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

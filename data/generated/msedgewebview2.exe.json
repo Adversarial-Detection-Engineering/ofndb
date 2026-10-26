@@ -1,0 +1,106 @@
+{
+ "name": "msedgewebview2.exe",
+ "builds": [
+  {
+   "sha256": "b350c38257352c4105462c450cc380cb159120ab6794a343d8a7d557740757ce",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "msedgewebview2.exe",
+   "internal_name": "msedgewebview2_exe",
+   "file_description": "Microsoft Edge WebView2",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft Edge WebView2",
+   "file_version": "152.0.4191.53",
+   "fixed_file_version": "152.0.4191.53",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\msedgewebview2.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "msedgewebview2.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "152.0.4191.53",
+   "max_version": "152.0.4191.53",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "caf85c93f15919e41cc110103ee93c7a8ee61745c710618bb6abe44863f79b41",
+   "error": "caf85c93f159: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/60A5B1272ca000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "0e2445b92f389493f072cff22f4537ba6c844dd715b5a88d0b9624354387e0a1",
+   "error": "0e2445b92f38: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/68AF505A377000/msedgewebview2.exe; 358376a59275: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6893DE56377000/msedgewebview2.exe; 6f6ac71bad36: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/68635522376000/msedgewebview2.exe; 83b2a5989f1c: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/683E8DD637d000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b350c38257352c4105462c450cc380cb159120ab6794a343d8a7d557740757ce",
+   "error": "b350c3825735: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A900A814b2000/msedgewebview2.exe; e50db9cc5fba: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A6C5ECB45f000/msedgewebview2.exe; 03a01853a126: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A5FD8E644e000/msedgewebview2.exe; aac9b39ae654: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A17A2B4480000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "b350c38257352c4105462c450cc380cb159120ab6794a343d8a7d557740757ce",
+   "error": "b350c3825735: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A900A814b2000/msedgewebview2.exe; e50db9cc5fba: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A6C5ECB45f000/msedgewebview2.exe; 03a01853a126: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A5FD8E644e000/msedgewebview2.exe; aac9b39ae654: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A17A2B4480000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "358376a592758e022594397c3b58a75193a329f851b6bd7a4833ca123223b0cf",
+   "error": "358376a59275: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6893DE56377000/msedgewebview2.exe; 3e69d3bdeef9: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/68C20E6A398000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "b350c38257352c4105462c450cc380cb159120ab6794a343d8a7d557740757ce",
+   "error": "b350c3825735: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A900A814b2000/msedgewebview2.exe; e50db9cc5fba: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A6C5ECB45f000/msedgewebview2.exe; 03a01853a126: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A5FD8E644e000/msedgewebview2.exe; aac9b39ae654: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6A17A2B4480000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "6ff95471b194191b3518b4673570bf772c5ef77b450ff88f97608a31cfce5f7e",
+   "error": "6ff95471b194: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/5F2535D4263000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "0cb35726cc74c519dba58d0eaebeba8a6cde79d700cd49f2e999074b81bc38d5",
+   "error": "0cb35726cc74: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/6065256B29e000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "39f7b94cbd0f4bea4d8a74ca9b1c33e4e665defe9b431148ddbcc35cd2e7de3c",
+   "error": "39f7b94cbd0f: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/610B5A402c6000/msedgewebview2.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "39f7b94cbd0f4bea4d8a74ca9b1c33e4e665defe9b431148ddbcc35cd2e7de3c",
+   "error": "39f7b94cbd0f: NotFound: https://msdl.microsoft.com/download/symbols/msedgewebview2.exe/610B5A402c6000/msedgewebview2.exe"
+  }
+ ]
+}

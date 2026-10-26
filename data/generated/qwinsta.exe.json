@@ -1,0 +1,341 @@
+{
+ "name": "qwinsta.exe",
+ "builds": [
+  {
+   "sha256": "25b58392dfc39233bb2cfdb8d2109d7be6c99adbaee0e0232a636e1dbf08175e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qwinsta.exe",
+   "internal_name": "qwinsta",
+   "file_description": "Query Session Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qwinsta.exe/ACE2EF2A12000/qwinsta.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\qwinsta.exe"
+  },
+  {
+   "sha256": "05f0b2a212c8872b6cca526fc3bcf35a6cc59749dc704afbf78286427ebecf78",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "qwinsta.exe",
+   "internal_name": "qwinsta",
+   "file_description": "Query Session Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qwinsta.exe/B8C7EAF7f000/qwinsta.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e4f3651c108bb2d3b660dc1fe492373eac23bc9d4c79b2d65521d03732797c0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qwinsta.exe",
+   "internal_name": "qwinsta",
+   "file_description": "Query Session Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qwinsta.exe/578997C711000/qwinsta.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b6b09f6f8563600515e109d101284bb7489e9a73343ff26bdd6cd41455ec33a7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qwinsta.exe",
+   "internal_name": "qwinsta",
+   "file_description": "Query Session Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qwinsta.exe/5632D18211000/qwinsta.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f6bf03707f2c1ae25a3fd48028ebf400a7684faafd203d244c14e32c9d5d4cf7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qwinsta.exe",
+   "internal_name": "qwinsta",
+   "file_description": "Query Session Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qwinsta.exe/559F3B0C11000/qwinsta.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "qwinsta.exe",
+   "builds": 5,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1882",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "bc842a1b095d3c7008d7c67be69d0c3c2eed692a4ac5ddaa1cbc33c722d5ccfe",
+   "error": "bc842a1b095d: symbol server returned unindexed build 8704fb66877b; 0a9e23562217: symbol server returned unindexed build 8704fb66877b; 903d780e6ba2: symbol server returned unindexed build 8704fb66877b; d131cf6b000d: symbol server returned unindexed build 8704fb66877b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "7143d6b4cfabe1f2a337a0232c49dec7e5d4c077729daf6e353a2ab764b2052e",
+   "error": "7143d6b4cfab: symbol server returned unindexed build 4d9565a2624b; ba6c93d5667d: symbol server returned unindexed build 4d9565a2624b; 5946174aa0fc: symbol server returned unindexed build 4d9565a2624b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "7143d6b4cfabe1f2a337a0232c49dec7e5d4c077729daf6e353a2ab764b2052e",
+   "error": "7143d6b4cfab: symbol server returned unindexed build 4d9565a2624b; 5946174aa0fc: symbol server returned unindexed build 4d9565a2624b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "bc49b4e60a816a36c8d42ca3c6c103e57f66ba200b540fffe1d1d7ca53ac5f14",
+   "error": "bc49b4e60a81: symbol server returned unindexed build 322c28a02adc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "6bece383e64896d4039234871dba2a9519bc4c75c7755b8a65902a108c744f91",
+   "error": "6bece383e648: symbol server returned unindexed build e11a8ac29a51"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "71b6c4444ca854dce45dc874c96af8ff3f98f52327c07bb68639415abec87792",
+   "error": "71b6c4444ca8: symbol server returned unindexed build b61064ed8eca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "e1ae2ec83fec0c8cf01b9e4c3da910be61abf3071e56eda834590c405e8e4e69",
+   "error": "e1ae2ec83fec: symbol server returned unindexed build dbb204e395b9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "09f2cddfeb76fd6a758edc6f2abc9147e2f3d1a11afecaf28b69f2abe71b0bef",
+   "error": "09f2cddfeb76: symbol server returned unindexed build 47e3dc694acc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "09f2cddfeb76fd6a758edc6f2abc9147e2f3d1a11afecaf28b69f2abe71b0bef",
+   "error": "09f2cddfeb76: symbol server returned unindexed build 47e3dc694acc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "08ac265f1888731d6ff54d762fa08b06b172a9424b66ce113afcefef9759c37b",
+   "error": "08ac265f1888: symbol server returned unindexed build 4d5ff6b975d8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "08ac265f1888731d6ff54d762fa08b06b172a9424b66ce113afcefef9759c37b",
+   "error": "08ac265f1888: symbol server returned unindexed build 4d5ff6b975d8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "08ac265f1888731d6ff54d762fa08b06b172a9424b66ce113afcefef9759c37b",
+   "error": "08ac265f1888: symbol server returned unindexed build 4d5ff6b975d8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "08ac265f1888731d6ff54d762fa08b06b172a9424b66ce113afcefef9759c37b",
+   "error": "08ac265f1888: symbol server returned unindexed build 4d5ff6b975d8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "08ac265f1888731d6ff54d762fa08b06b172a9424b66ce113afcefef9759c37b",
+   "error": "08ac265f1888: symbol server returned unindexed build 4d5ff6b975d8"
+  }
+ ]
+}

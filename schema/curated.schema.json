@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ofndb/schema/curated.schema.json",
+  "title": "Curated notes (data/curated/<name>.yml)",
+  "description": "Hand-written context merged onto a binary's page. File name = lowercase binary name.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "notes": { "type": "string", "minLength": 20 },
+    "gotchas": { "type": "array", "items": { "type": "string", "minLength": 10 } }
+  },
+  "anyOf": [{ "required": ["notes"] }, { "required": ["gotchas"] }]
+}

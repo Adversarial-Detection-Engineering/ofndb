@@ -1,0 +1,436 @@
+{
+ "name": "at.exe",
+ "builds": [
+  {
+   "sha256": "cbcf0640613baa2dc8f787f09f038c9ae4dd3c341a1210752568ce46e1abd1ac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/F546A926a000/at.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\at.exe"
+  },
+  {
+   "sha256": "16885037343ccdf6f1f2061fc769c27ec3333918a2d95c7d7b7d176818c056a0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/18918959e000/at.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\at.exe"
+  },
+  {
+   "sha256": "26d8abe1ed418a1541a59ef5c21deb5cb68686c258768fa0c2b473c13de34261",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2024-09-30",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/7F07C3B2e000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a60d4e00e9df07ac09c8c607239db08bb7d167299572e4436a5b14cc2bf2ad26",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/57899BD5d000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3616779903b0c2339744c3c69c264a0b69772b5b8cdaddc64fd1aafb8321afba",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/57899180a000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bf78d8ded463bd4b95416a985a1375458b85d11d19edfd5b969a33f3d9fffc5e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/5632D817d000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "26d15c8596da0434df85cab79c6ccb3928eed01abc72fd5cd937a0df8eef1ad4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/5632D7A2a000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f55c1eeeb43171c8a34fb356f95ca28a853528ebdf36938bf62629d1a76b7c78",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/559F3C12a000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8de347327ed4191761f35692651c29a5d768f3f13f754cf0699d8cb9374492a9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AT.EXE",
+   "internal_name": "AT.EXE",
+   "file_description": "Schedule service command line interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/at.exe/559F3997d000/at.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AT.EXE",
+   "builds": 9,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1150",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "988928f604c12204ec7a1d52605cd631aa2b29efc65fefe1f1b731ac9084ac01",
+   "error": "988928f604c1: symbol server returned unindexed build 39989e39a02b; 823ac42d055d: symbol server returned unindexed build 39989e39a02b; 384bc616fce3: symbol server returned unindexed build 39989e39a02b; efe060e64dd7: symbol server returned unindexed build 4a044d18571a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "b60f72cee81b16c90782d62def07d514013dbb4d2bc545981f4decd01d722784",
+   "error": "b60f72cee81b: symbol server returned unindexed build cb92760078e1; f46bab26dc8f: symbol server returned unindexed build 6ee561e625ce; bef6d2772e94: symbol server returned unindexed build 3f3207703b2d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "b60f72cee81b16c90782d62def07d514013dbb4d2bc545981f4decd01d722784",
+   "error": "b60f72cee81b: symbol server returned unindexed build cb92760078e1; f46bab26dc8f: symbol server returned unindexed build 6ee561e625ce"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "ebc9dfc61d1a9282d18ceff9ea0799fba5da94bc4523d590d55971182cc48c85",
+   "error": "ebc9dfc61d1a: symbol server returned unindexed build a34cecab408f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "494a846d5cf6d6a06aa7022780b28c09e2420b1a4adda7aba1a40ca59cd86608",
+   "error": "494a846d5cf6: symbol server returned unindexed build 1bcd6b120547"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "03f21a1e68456d3de11be8646b3e4017db2f57f5e96f62199e6b09e403599386",
+   "error": "03f21a1e6845: symbol server returned unindexed build 1079a4dab456"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "73a9a6a4c9cf19fcd117eb3c430e1c9acaded31b42875ba4f02fa61da1b8a6dc",
+   "error": "73a9a6a4c9cf: symbol server returned unindexed build 479cd70323a2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "3375d519fb68bc608ab444d5a367df55f3b2353af9be3e88462f08006fb846bc",
+   "error": "3375d519fb68: symbol server returned unindexed build 40e15b1f3d6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "3375d519fb68bc608ab444d5a367df55f3b2353af9be3e88462f08006fb846bc",
+   "error": "3375d519fb68: symbol server returned unindexed build 40e15b1f3d6e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "5b97c39d87ad627c53023bfebb0ea1b5227c3f4e86e3bf06b23f3e4b0d6726e2",
+   "error": "5b97c39d87ad: symbol server returned unindexed build b8079f0cd1e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "5b97c39d87ad627c53023bfebb0ea1b5227c3f4e86e3bf06b23f3e4b0d6726e2",
+   "error": "5b97c39d87ad: symbol server returned unindexed build b8079f0cd1e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "5b97c39d87ad627c53023bfebb0ea1b5227c3f4e86e3bf06b23f3e4b0d6726e2",
+   "error": "5b97c39d87ad: symbol server returned unindexed build b8079f0cd1e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "5b97c39d87ad627c53023bfebb0ea1b5227c3f4e86e3bf06b23f3e4b0d6726e2",
+   "error": "5b97c39d87ad: symbol server returned unindexed build b8079f0cd1e5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "5b97c39d87ad627c53023bfebb0ea1b5227c3f4e86e3bf06b23f3e4b0d6726e2",
+   "error": "5b97c39d87ad: symbol server returned unindexed build b8079f0cd1e5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "1e73c4fc1ede0a1df587d9f3cb708bedae2073ae24cc9203e122cea1acfaa68e",
+   "error": "1e73c4fc1ede: symbol server returned unindexed build fe770f25eceb; 0f2888da3c4b: symbol server returned unindexed build fe770f25eceb; 4d3dfaa4d53a: symbol server returned unindexed build fe770f25eceb; d2d66e4c5a8a: symbol server returned unindexed build 880fb60a7dd7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "25dc16eb0b2f4b43cf5cb973a68bf53941f872cea27d76ab07cfc8f7b9e5aa33",
+   "error": "25dc16eb0b2f: symbol server returned unindexed build b6720b14fe66; 338a46a9b336: symbol server returned unindexed build 746322547cf4; 13bf82e8b9b9: symbol server returned unindexed build d4e48ab89d32"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "25dc16eb0b2f4b43cf5cb973a68bf53941f872cea27d76ab07cfc8f7b9e5aa33",
+   "error": "25dc16eb0b2f: symbol server returned unindexed build b6720b14fe66; 338a46a9b336: symbol server returned unindexed build 746322547cf4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "9c3ea6adf8c40031f66f87a43d2251ab17b9bb4c57ceac8ca3f4244f5bec8475",
+   "error": "9c3ea6adf8c4: symbol server returned unindexed build ce55f2ae8ddc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "61d95b5ce7489c99f5950b16237861211966c93b558007d00d2fac5f60e50650",
+   "error": "61d95b5ce748: symbol server returned unindexed build fba88ac11e55"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "77d279f76a05c12c3f36cc20e3dfab509050c8b525224954b421f08722b764af",
+   "error": "77d279f76a05: symbol server returned unindexed build 456ec01e885d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "26dda3026e983ca98575339a0c8ffb5700dd9fb03693e92d5f192489b3f44067",
+   "error": "26dda3026e98: symbol server returned unindexed build f7ef3a3892fb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "7ea14e4186ad9771f5572cf364d1801521551b2c482c5e9945d56a54093bb773",
+   "error": "7ea14e4186ad: symbol server returned unindexed build 74b95e065431"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "7ea14e4186ad9771f5572cf364d1801521551b2c482c5e9945d56a54093bb773",
+   "error": "7ea14e4186ad: symbol server returned unindexed build 74b95e065431"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "c27460533b663278c2c03cd85384aa2560bc4a8ffa6d7160b070f8be62839145",
+   "error": "c27460533b66: symbol server returned unindexed build 77aa46b5bb0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "c27460533b663278c2c03cd85384aa2560bc4a8ffa6d7160b070f8be62839145",
+   "error": "c27460533b66: symbol server returned unindexed build 77aa46b5bb0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "c27460533b663278c2c03cd85384aa2560bc4a8ffa6d7160b070f8be62839145",
+   "error": "c27460533b66: symbol server returned unindexed build 77aa46b5bb0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "c27460533b663278c2c03cd85384aa2560bc4a8ffa6d7160b070f8be62839145",
+   "error": "c27460533b66: symbol server returned unindexed build 77aa46b5bb0a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "c27460533b663278c2c03cd85384aa2560bc4a8ffa6d7160b070f8be62839145",
+   "error": "c27460533b66: symbol server returned unindexed build 77aa46b5bb0a"
+  }
+ ]
+}

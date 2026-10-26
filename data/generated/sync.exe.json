@@ -1,0 +1,47 @@
+{
+ "name": "sync.exe",
+ "builds": [
+  {
+   "sha256": "2cd0a14d50ec5c989627df57cafb78f0c43d7bfbcda1d59f2199e5d6ce053ecd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Sync.exe",
+   "internal_name": "Sync",
+   "file_description": "Flush cached data to disk.",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Sync",
+   "file_version": "2.2",
+   "fixed_file_version": "2.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Sync",
+   "release": "2020-04-30",
+   "last_seen": "2020-04-30",
+   "download_url": "https://live.sysinternals.com/sync.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Sync.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.2.0.0",
+   "max_version": "2.2.0.0",
+   "first_seen": "2020-04-30",
+   "last_seen": "2020-04-30",
+   "provenance": "parsed"
+  }
+ ]
+}

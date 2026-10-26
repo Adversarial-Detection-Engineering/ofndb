@@ -1,0 +1,1363 @@
+{
+ "name": "comsvcs.dll",
+ "builds": [
+  {
+   "sha256": "ecf3bdfaaf8719cb4d821d7497015a6ab4714a3d39984539ccb0113a495f523a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (rs1_release.261009-0224)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/6AC8D6EC19f000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dcb7f06065236bf037abf7886e6079250c308d88be96fa6bb2b632df5ddbf041",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/C3B2F6891b2000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b03d1f6abd65caa1d55773e3c088aad48a4e94085c42d3cf7e8f360956b6104f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/E276FCDC1b3000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "aff22aa4fbf780ff55a4f36916e7024c2c068d48d61ca9ef3c0ed16213cfb372",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (rs1_release.261009-0224)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/6AC8D58F14f000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8d5e79db6e127789f14d41d7806bb55b1b724ae8f44085ab0b8c2043d10dbbcc",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/7CA79C3315f000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "30bc20db15789f8590106acff0ed389303cb3fb0dc3f5c657bfc0698c66c69e6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/781223CF1ae000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "16a27cbc026f356f656db8a5aa0a2a96d19aaea82c914f556bf5475554e987d9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/0B683EA31ad000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "807bebbee4a0956970e7f35cb59071528bfa1d094a70901107c7bbcb2deeb9a6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/0FA78D14164000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5eb2ef794a80cd845734db04a9ec0d6fa1945b74fd3390550676327559a22147",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "17763.9020"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/71FCDF43158000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "18f67665edb60a663401f8564de79a8e75bc9eb96d5dee53206d6ce7505c3bc3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/470F9B60159000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c67f64745f886699a029028a8b0fc3eb8d6294665ea89ba646200a8eec1644e9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19044.5965",
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19044.6456",
+    "19044.6575",
+    "19044.6693",
+    "19045.5796",
+    "19045.5917",
+    "19045.5968",
+    "19045.6036",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396",
+    "19045.6691",
+    "19045.6809",
+    "19045.6811",
+    "19045.6812",
+    "19045.6937",
+    "19045.7058",
+    "19045.7184",
+    "19045.7291",
+    "19045.7417"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/7C4FB58B1b0000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5b57c93e8092fa4420360c7067e073a771fe7696bba72f460a644c9b8d1f6cb8",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19044.5965",
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19044.6456",
+    "19044.6575",
+    "19044.6693",
+    "19045.5796",
+    "19045.5917",
+    "19045.5968",
+    "19045.6036",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396",
+    "19045.6691",
+    "19045.6809",
+    "19045.6811",
+    "19045.6812",
+    "19045.6937",
+    "19045.7058",
+    "19045.7184",
+    "19045.7291",
+    "19045.7417"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/F4790167159000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "16b9ebc062ddc418f1af0c83accc506ae7e6bbd21ec1b848c477dfdf4348a73b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/99C30F011ad000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e874e60625631749b0bff4d54b3079e24540be6c392e4da5f360c7b1a0e27e3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/90C8DEA215f000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e0a956b111e96cdc0da0b4156b79be1a5b7c1b2c9b5f9517b95f26e14339fb19",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16506 (th1.250630-1851)",
+   "fixed_file_version": "2001.12.10941.16506",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/68637F88152000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4c69aacaac658cbf01e6d6751bb0b84ab89f5313e5165319544778941e38127c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16506 (th1.250630-1851)",
+   "fixed_file_version": "2001.12.10941.16506",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/6863833C1a1000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "04601a359a347f43e358acf1386c1baebb860a01e4f86fa45f5524e261bf92fa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2023-11-14",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2600",
+    "22000.2652",
+    "22000.2713",
+    "22000.2777",
+    "22000.2836",
+    "22000.2899",
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/97452B431b1000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8499dbad2e6f5e622e470141c90e4256c721d467b911c43c022df1e3b2d53de0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-06-28",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/316E82E815c000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4e5a10c7d82a99a045ae60938f9f04eec605eb263c1e781ef5a45f9e246d76fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-06-27",
+   "os_builds": [
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/C90204F01aa000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2def6285b3ec89eba9f21534e91c64467da98961c23f84a2766369b1ee525f95",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-01-11",
+   "last_seen": "2023-06-27",
+   "os_builds": [
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/9DC01FBC155000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6ac5c125c6edc3c0e7dd5d0fda23c34cf1a1e78d09d1c66f31d047195e1a5845",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/827E3533154000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5a751bf51567711d853176dcb3ffb35ad2b46bc83599c690226c411a722783cc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/023B1A331a6000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "253a49d60183bc14614a0a03361cd6be37baf0c89449e89fb066b7a5fddbfe16",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-12-14",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/14F81A60155000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "caef48bc8a654d72447cd08a453c6a30f4392b025162389f962dedd327701d14",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/3636F5F215d000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b1125f92fba2b7b3d89ab09602deab6471cdc588f139446fdedc5a094236f716",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/C95E7D6E1a2000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e14e3d3e0644cb3b5ab3f982ac9f3281b59a8397036f1c5096456aabce08991c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/3EF79CE114b000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cbe76433ad89b32998c33b0997585211f4430f01aec5b418e166669447b11eb1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/1BD55B4C154000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c8885c4b73546def6b19f3e4ec7e07c6acff111615a7104da0d380c165410c86",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/DEABBBF4199000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "83c7af7ff1b4aafd983a8c3b0ead10391c1a195cad3ce59da04747cdc931b066",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/77AEEADD1a6000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1aea658899018fb370c39412ba62e3e8e8fd7a636657593530bd67005b3754b7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "19041.329",
+    "19041.331",
+    "19041.388",
+    "19041.423",
+    "19041.450",
+    "19041.488",
+    "19041.508",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/415C3DD11a9000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "64c41b3ae2c58ca316e2378385806438cfca0c6fa8f92f9e9f285403e5fdcb97",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/541C1E34155000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "10e7776ab2a69f4cfdd54fe06a4200ae8d273a5e4c89d04cdf13470ac1bbb798",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/7466204D1b0000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f381f2132d86fc13c2664bc1b7c828251505b75551306f10112d895fd55f75ea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/5A5BD8FE19e000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e1fb80cdaa546b3de78a392045f921b7349f4c625dddd99b08fec3cd74ca0a00",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "COMSVCS.DLL",
+   "internal_name": "COMSVCS.DLL",
+   "file_description": "COM+ Services",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (th2_release_inmarket.180114-1000)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-18",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/comsvcs.dll/5A5BCDF914e000/comsvcs.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "COMSVCS.DLL",
+   "builds": 34,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "2001.12.10941.16384",
+   "max_version": "2001.12.10941.16506",
+   "first_seen": "2018-01-18",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "83f209f0c6d2ba16b441eac56713736cad875273460359d365c9773c93cdb831",
+   "error": "83f209f0c6d2: symbol server returned unindexed build d8605d55afcb; dbbd270c100a: symbol server returned unindexed build c74e42fc4836; 28819c18c3dd: symbol server returned unindexed build 24522fb9d1c5; 0ed27460db65: symbol server returned unindexed build 7cbb2112922a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "deed8735ac9676dca137fa0ad66cbb673f0aec8ec09941ca57066252f5bc994f",
+   "error": "deed8735ac96: NotFound: no timestamp/image size in winbindex, no symbol server URL; 83f209f0c6d2: symbol server returned unindexed build d8605d55afcb; 83e3e7e4e9d7: symbol server returned unindexed build e5f1c0708e24"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "4b07736eac1e2f25db1f7ce1b96c884f450f761780e9c13e93ceed232d664b4e",
+   "error": "4b07736eac1e: symbol server returned unindexed build 1e3ab04be853"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "3681e2880876b27fed273cbc0b59f86cfdd6cff59ebb6a8f30abc4f8382b77c0",
+   "error": "3681e2880876: symbol server returned unindexed build 06ea8b6def07; 8b6f6bc7edfe: symbol server returned unindexed build da1b4c783b17; 98ca9ce91a78: symbol server returned unindexed build 00afd2834354; abc708a54d0c: symbol server returned unindexed build be7f531a5eb6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "d7e8214c1a1810ecaef1a999456e0d97678c53fa38b37330b6f20d6beb68b680",
+   "error": "d7e8214c1a18: NotFound: no timestamp/image size in winbindex, no symbol server URL; 3681e2880876: symbol server returned unindexed build 06ea8b6def07; 4b9cc4d877d3: symbol server returned unindexed build 3f05280d6d7b"
+  }
+ ]
+}

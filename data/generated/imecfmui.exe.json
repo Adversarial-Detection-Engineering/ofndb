@@ -1,0 +1,64 @@
+{
+ "name": "imecfmui.exe",
+ "builds": [
+  {
+   "sha256": "b906cb3a08ade282b13794b189594fbaaa1db5d9cbc2488c698c88903c935563",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "imecfmui.exe",
+   "internal_name": "imecfmui.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\IME\\SHARED\\imecfmui.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "1a6f6dd3053b65a3ebc9aecdabdd960826bff49124d3d98276115c446f402044",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "imecfmui.exe",
+   "internal_name": "imecfmui.exe",
+   "file_description": "Microsoft IME",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\IME\\SHARED\\imecfmui.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "imecfmui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

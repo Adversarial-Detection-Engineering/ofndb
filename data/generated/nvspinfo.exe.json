@@ -1,0 +1,44 @@
+{
+ "name": "nvspinfo.exe",
+ "builds": [
+  {
+   "sha256": "c03d2eaa38f3d44f8c1628d4acaff9e4e440dcc26aae91774f4aa8b9b15f4703",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "\"nvspinfo.PROGRAM\"",
+   "internal_name": "\"nvspinfo.PROGRAM\"",
+   "file_description": "\"nvspinfo.PROGRAM\"",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\nvspinfo.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "\"nvspinfo.PROGRAM\"",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

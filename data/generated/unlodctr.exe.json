@@ -1,0 +1,64 @@
+{
+ "name": "unlodctr.exe",
+ "builds": [
+  {
+   "sha256": "967e9db08fc0b95f3da339404ce2205a840d54f6cfdcf0335e8f9d3d4cf7027d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "UNLODCTR.EXE",
+   "internal_name": "UNLODCTR.EXE",
+   "file_description": "Unload PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7705 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7705",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\unlodctr.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "29fa8cddac3b62a20032bfe4820b33b31d77ca86cc4cf213cd2f805ccfca0896",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UNLODCTR.EXE",
+   "internal_name": "UNLODCTR.EXE",
+   "file_description": "Unload PerfMon Counters",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\unlodctr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UNLODCTR.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7705",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

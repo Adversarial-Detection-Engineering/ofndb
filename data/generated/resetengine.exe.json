@@ -1,0 +1,44 @@
+{
+ "name": "resetengine.exe",
+ "builds": [
+  {
+   "sha256": "b5f59be5c4d766f27a310009c1f90226e8a9a1a1da2b550b5ae447569b87e5fa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RESETENGINE.EXE",
+   "internal_name": "ResetEngine.exe",
+   "file_description": "Push-Button Reset Engine",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ResetEngine.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RESETENGINE.EXE",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

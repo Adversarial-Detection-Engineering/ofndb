@@ -1,0 +1,21 @@
+{
+ "name": "olk.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x86",
+   "windows_version": "11-24H2",
+   "sha256": "cd9b12c60589a4269af27fc521f916b012973790995a316982faf57369dd18a1",
+   "error": "cd9b12c60589: NotFound: https://msdl.microsoft.com/download/symbols/olk.exe/B3B99E2A292000/olk.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "8931b16ac85ae58ef5ec049ab2558141d83179e68449c6e07d1002491e8da035",
+   "error": "8931b16ac85a: NotFound: https://msdl.microsoft.com/download/symbols/olk.exe/CAE7944829c000/olk.exe"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "licensemanagershellext.exe",
+ "builds": [
+  {
+   "sha256": "7ad795aa5cfc0fe3cbab827590733d062d1a1f09ec4831e7ecd2e8336848ab4c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LicenseManagerShellExt.exe",
+   "internal_name": "LicenseManagerShellExt",
+   "file_description": "LicenseManagerShellExt",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\LicenseManagerShellext.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "LicenseManagerShellExt.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

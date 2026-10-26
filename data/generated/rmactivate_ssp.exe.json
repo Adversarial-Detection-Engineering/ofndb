@@ -1,0 +1,64 @@
+{
+ "name": "rmactivate_ssp.exe",
+ "builds": [
+  {
+   "sha256": "832bbb5c83ee9cf00db93e9f3bdf4e390226a3201a08ea55013cefa09c925667",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "rmactivate_ssp.exe",
+   "internal_name": "Windows Rights Management Services Activation for Server Security Processor",
+   "file_description": "Windows Rights Management Services Activation for Server Security Processor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\RMActivate_ssp.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "680554992d0593486b0f4bcad8fe03a2e5aa52cd85e6b86e85c0e3fe825d55ab",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "rmactivate_ssp.exe",
+   "internal_name": "Windows Rights Management Services Activation for Server Security Processor",
+   "file_description": "Windows Rights Management Services Activation for Server Security Processor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RMActivate_ssp.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "rmactivate_ssp.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.4202",
+   "max_version": "10.0.26100.4202",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

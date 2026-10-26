@@ -1,0 +1,64 @@
+{
+ "name": "vulkaninfo.exe",
+ "builds": [
+  {
+   "sha256": "b8f4d9624b73e1d21371b0019a8f2bcf2cb4ead25d2e19641f566b1c1c97b9d2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "vulkaninfo",
+   "company_name": null,
+   "product_name": "Vulkaninfo",
+   "file_version": "1.4.357.0",
+   "fixed_file_version": "1.4.357.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\vulkaninfo.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "9040aaa9e3b4e7b625fc21d6b6a2e0140a2683a90b33bf8b397e937010c82c24",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "vulkaninfo",
+   "company_name": null,
+   "product_name": "Vulkaninfo",
+   "file_version": "1.4.357.0",
+   "fixed_file_version": "1.4.357.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\vulkaninfo.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.4.357.0",
+   "max_version": "1.4.357.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

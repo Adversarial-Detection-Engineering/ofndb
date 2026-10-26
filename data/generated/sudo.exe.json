@@ -1,0 +1,44 @@
+{
+ "name": "sudo.exe",
+ "builds": [
+  {
+   "sha256": "91739478be752086cd1a0c3c88ca3d84397e4decad1338f1b72e200f0e44614d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "sudo",
+   "company_name": null,
+   "product_name": "sudo",
+   "file_version": "1.0.1",
+   "fixed_file_version": "1.0.1.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\sudo.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "1.0.1.0",
+   "max_version": "1.0.1.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

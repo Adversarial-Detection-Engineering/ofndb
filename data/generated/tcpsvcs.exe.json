@@ -1,0 +1,64 @@
+{
+ "name": "tcpsvcs.exe",
+ "builds": [
+  {
+   "sha256": "abd923cf3850bd934f36e31290ba82328806429a7acf8dce5215dc0b8c5d9678",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TCPSVCS.EXE",
+   "internal_name": "TCPSVCS.EXE",
+   "file_description": "TCP/IP Services Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.2161 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.2161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\TCPSVCS.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "6435cdd623f58287b0a2c194918ca39cb73fce51be069bd77ad99df24ee96539",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TCPSVCS.EXE",
+   "internal_name": "TCPSVCS.EXE",
+   "file_description": "TCP/IP Services Application",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\TCPSVCS.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TCPSVCS.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.2161",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

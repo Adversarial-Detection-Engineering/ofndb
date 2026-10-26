@@ -1,0 +1,44 @@
+{
+ "name": "dmcertinst.exe",
+ "builds": [
+  {
+   "sha256": "48061474071b8de5d86091dfdfbfd16c3b8040f2bc7560bcbe0e0676f986c4e3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dmcertinst.exe",
+   "internal_name": "DM Certificate Installer",
+   "file_description": "DM Certificate Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dmcertinst.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dmcertinst.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

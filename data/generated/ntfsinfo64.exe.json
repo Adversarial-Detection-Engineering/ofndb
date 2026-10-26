@@ -1,0 +1,47 @@
+{
+ "name": "ntfsinfo64.exe",
+ "builds": [
+  {
+   "sha256": "e2837be10257ee5b1441c7056aa5f92c46fb5ac24d1e4e00ffc0a2d1cfe637bc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "NtfsInfo.exe",
+   "internal_name": "NtfsInfo",
+   "file_description": "NTFS Information Dump",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals NtfsInfo",
+   "file_version": "1.2",
+   "fixed_file_version": "1.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals NtfsInfo",
+   "release": "2016-06-12",
+   "last_seen": "2016-06-12",
+   "download_url": "https://live.sysinternals.com/ntfsinfo64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "NtfsInfo.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.2.0.0",
+   "max_version": "1.2.0.0",
+   "first_seen": "2016-06-12",
+   "last_seen": "2016-06-12",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "appidcertstorecheck.exe",
+ "builds": [
+  {
+   "sha256": "513605bce4c18fee8d117adee1051d23ae57a6f1e735606cd5254444daded088",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AppIDCertstoreCheck.exe",
+   "internal_name": "AppIDCertstoreCheck.exe",
+   "file_description": "AppID Certificate Store Verification Task",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8457 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8457",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\appidcertstorecheck.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AppIDCertstoreCheck.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8457",
+   "max_version": "10.0.26100.8457",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "convertvhd.exe",
+ "builds": [
+  {
+   "sha256": "2dfda8ceede5e31aaf8a40aade68fdfc21100d2e1c2c04bd2a720163254e4369",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ConvertVhd.exe",
+   "internal_name": "ConvertVhd.exe",
+   "file_description": "VHD Conversion Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\convertvhd.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ConvertVhd.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

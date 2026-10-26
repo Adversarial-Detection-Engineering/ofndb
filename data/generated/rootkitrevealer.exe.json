@@ -1,0 +1,50 @@
+{
+ "name": "rootkitrevealer.exe",
+ "builds": [
+  {
+   "sha256": "0b3dfd1d00a0d5da5a88ee2b4734e817ee9c9b13f61eb04dc81660c22051fc27",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "Rootkit detection utility",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Rootkitrevealer",
+   "file_version": "1.70",
+   "fixed_file_version": "1.71.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "other_table_original_filenames": [
+    ""
+   ],
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Rootkitrevealer",
+   "release": "2006-11-01",
+   "last_seen": "2006-11-01",
+   "download_url": "https://live.sysinternals.com/RootkitRevealer.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.71.0.0",
+   "max_version": "1.71.0.0",
+   "first_seen": "2006-11-01",
+   "last_seen": "2006-11-01",
+   "provenance": "parsed"
+  }
+ ]
+}

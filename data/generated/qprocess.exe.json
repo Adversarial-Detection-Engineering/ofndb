@@ -1,0 +1,376 @@
+{
+ "name": "qprocess.exe",
+ "builds": [
+  {
+   "sha256": "fb118c9b25337a6e56b088e1a97acc6ef02d3224ac3f26a77d771d365df6e592",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "qprocess.exe",
+   "internal_name": "qprocess",
+   "file_description": "Query Process Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qprocess.exe/BF0E9CB2a000/qprocess.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "65c7213f1a35770a52c524b45bb30a2099be898f98a24a0381dd54d5a1a92263",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qprocess.exe",
+   "internal_name": "qprocess",
+   "file_description": "Query Process Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-01-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qprocess.exe/E729E434d000/qprocess.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\qprocess.exe"
+  },
+  {
+   "sha256": "64229024bb998052908c84f89e40d05731349e5988be5a900fcd1ae7073a233f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qprocess.exe",
+   "internal_name": "qprocess",
+   "file_description": "Query Process Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-12-09",
+   "os_builds": [
+    "26100.1882",
+    "26100.2033",
+    "26100.2161",
+    "26100.2314",
+    "26100.2454",
+    "26100.2605",
+    "26100.2894",
+    "26100.3037",
+    "26100.3194",
+    "26100.3323",
+    "26100.3476",
+    "26100.3624",
+    "26100.3775",
+    "26100.3915",
+    "26100.4061",
+    "26100.4066",
+    "26100.4202",
+    "26100.4349",
+    "26100.4351",
+    "26100.4484",
+    "26100.4652",
+    "26100.4656",
+    "26100.4770",
+    "26100.4946",
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901",
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qprocess.exe/AB2B48CFd000/qprocess.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "017e9e2914e74a951da7fcb4e281c2be2a1c246ee2942e6d540d612f675586d9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qprocess.exe",
+   "internal_name": "qprocess",
+   "file_description": "Query Process Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qprocess.exe/578997BFc000/qprocess.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4534d67c2c447581b6532ac9c7a61f8f21b66d386f095ac33135eb0c9d331990",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qprocess.exe",
+   "internal_name": "qprocess",
+   "file_description": "Query Process Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qprocess.exe/5632D186c000/qprocess.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4171492757fc23d0becd6f2206817d56688d56f8019647db51ceda18316a2b0b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "qprocess.exe",
+   "internal_name": "qprocess",
+   "file_description": "Query Process Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/qprocess.exe/559F3B03c000/qprocess.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "qprocess.exe",
+   "builds": 6,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.7623",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "81adc381c0a793f09d785f38409ea76dc83d8b4548e040d71ebf19b8dfc67448",
+   "error": "81adc381c0a7: symbol server returned unindexed build 910993ce740e; 9f801fb88c54: symbol server returned unindexed build 4fa9ad242263; c6c096ca203b: symbol server returned unindexed build 4fa9ad242263; 8d85a115e5d2: symbol server returned unindexed build 86ab17bc4a02"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "fb39e9d4bb72aa084df273fea43cad0860ff30704a25c0c0d4121f25d97b5644",
+   "error": "fb39e9d4bb72: symbol server returned unindexed build 7760e5f5e63e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "fb39e9d4bb72aa084df273fea43cad0860ff30704a25c0c0d4121f25d97b5644",
+   "error": "fb39e9d4bb72: symbol server returned unindexed build 7760e5f5e63e"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "bdfec73881e9a3dd0d42ac4852ffb955b3a6bfc9597cc6a704783179f128eba2",
+   "error": "bdfec73881e9: symbol server returned unindexed build da2918064e04"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "19accb8d8bd55c5dd76dbb367d55f8e008b9ac9b60ca87c9659b9e5ad0f6c282",
+   "error": "19accb8d8bd5: symbol server returned unindexed build 12cb955c8a4f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "439f45931ccdfcecaede1b2375e684f6c38843a9e2b1987fde10691267f16c0c",
+   "error": "439f45931ccd: symbol server returned unindexed build 9973742f2554"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "7ee7a6fb1bdd972502d1eb23b7bd471a66cad63ca3b57d787a173fb290808eb6",
+   "error": "7ee7a6fb1bdd: symbol server returned unindexed build 9dd68db8f6f8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c325df5932fb17d7909b633d11aac31be603bc210dbe3173afc237c22d206703",
+   "error": "c325df5932fb: symbol server returned unindexed build 8cee11e85e71"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c325df5932fb17d7909b633d11aac31be603bc210dbe3173afc237c22d206703",
+   "error": "c325df5932fb: symbol server returned unindexed build 8cee11e85e71"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "f71965f45a393e95b8c10b6d8947903bd0f035fc8ca3982d0f1a7d42b23fa315",
+   "error": "f71965f45a39: symbol server returned unindexed build da57ab0fc010"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "f71965f45a393e95b8c10b6d8947903bd0f035fc8ca3982d0f1a7d42b23fa315",
+   "error": "f71965f45a39: symbol server returned unindexed build da57ab0fc010"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "f71965f45a393e95b8c10b6d8947903bd0f035fc8ca3982d0f1a7d42b23fa315",
+   "error": "f71965f45a39: symbol server returned unindexed build da57ab0fc010"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "f71965f45a393e95b8c10b6d8947903bd0f035fc8ca3982d0f1a7d42b23fa315",
+   "error": "f71965f45a39: symbol server returned unindexed build da57ab0fc010"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "f71965f45a393e95b8c10b6d8947903bd0f035fc8ca3982d0f1a7d42b23fa315",
+   "error": "f71965f45a39: symbol server returned unindexed build da57ab0fc010"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "fd7793b20c01a80c417287605667e15d6953fc9c4cd6ae1922ef92f860d6513e",
+   "error": "fd7793b20c01: symbol server returned unindexed build 56e36a16f7a4; a095251e1a3e: symbol server returned unindexed build f766ed89345c; f73692a48472: symbol server returned unindexed build f766ed89345c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "1f982e0ef88476521105fb2ce5bae52d5867e86968e27bc8d8acbf42d554b8b7",
+   "error": "1f982e0ef884: symbol server returned unindexed build 50107f6a9aa7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "1f982e0ef88476521105fb2ce5bae52d5867e86968e27bc8d8acbf42d554b8b7",
+   "error": "1f982e0ef884: symbol server returned unindexed build 50107f6a9aa7"
+  }
+ ]
+}

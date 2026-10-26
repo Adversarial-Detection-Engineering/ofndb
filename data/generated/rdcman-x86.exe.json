@@ -1,0 +1,47 @@
+{
+ "name": "rdcman-x86.exe",
+ "builds": [
+  {
+   "sha256": "07d5e675ce5c91f5a7859cea14f7d97797f3644b4222b6bf9e44e4b0fbc5b1bf",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RDCMan-x86.dll",
+   "internal_name": "RDCMan-x86.dll",
+   "file_description": "Remote Desktop Connection Manager",
+   "company_name": "Microsoft",
+   "product_name": "Remote Desktop Connection Manager",
+   "file_version": "3.22.0.0",
+   "fixed_file_version": "3.22.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Remote Desktop Connection Manager",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/RDCMan-x86.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RDCMan-x86.dll",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "3.22.0.0",
+   "max_version": "3.22.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

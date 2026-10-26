@@ -1,0 +1,64 @@
+{
+ "name": "appvdllsurrogate.exe",
+ "builds": [
+  {
+   "sha256": "6c430b80b9ca5cfb27b6eb4d4e7d73d347b92ff9706b7db73d5555ab9fb74a3e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AppVDllSurrogate.exe",
+   "internal_name": "AppVDllSurrogate.exe",
+   "file_description": "Client DLL Surrogate Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\AppVDllSurrogate.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "6c2c150fb2f507c490b5d3c699cc2546544fc9aaf71efe472977ef49c9e8f9c2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AppVDllSurrogate.exe",
+   "internal_name": "AppVDllSurrogate.exe",
+   "file_description": "Client DLL Surrogate Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8972 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8972",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\AppVDllSurrogate.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AppVDllSurrogate.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8972",
+   "max_version": "10.0.26100.8972",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

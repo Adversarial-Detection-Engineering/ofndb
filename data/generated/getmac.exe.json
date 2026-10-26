@@ -1,0 +1,64 @@
+{
+ "name": "getmac.exe",
+ "builds": [
+  {
+   "sha256": "42b9dac05478422afedc014531fe46193c747d8fdf171c180fd67a6e4edd757a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "GetMac.exe",
+   "internal_name": "GetMac.exe",
+   "file_description": "Displays NIC MAC information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\getmac.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "040394fd122067368c10cd5771fc662ca4454c21817569abb7402d218f480663",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "GetMac.exe",
+   "internal_name": "GetMac.exe",
+   "file_description": "Displays NIC MAC information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\getmac.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "GetMac.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

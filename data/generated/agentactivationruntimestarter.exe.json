@@ -1,0 +1,64 @@
+{
+ "name": "agentactivationruntimestarter.exe",
+ "builds": [
+  {
+   "sha256": "be21cc87cd36ef8b88d738cd227270c0355ba93e2e4eff72e9fbf1d5c50de348",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AgentActivationRuntimeStarter.exe",
+   "internal_name": "AgentActivationRuntimeStarter",
+   "file_description": "AgentActivationRuntime Starter",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\agentactivationruntimestarter.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "536a20357a5c255a7b0983b6d375a7239b4eb7cdb911c6b0e4a87b148414fc1f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AgentActivationRuntimeStarter.exe",
+   "internal_name": "AgentActivationRuntimeStarter",
+   "file_description": "AgentActivationRuntime Starter",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\agentactivationruntimestarter.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AgentActivationRuntimeStarter.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

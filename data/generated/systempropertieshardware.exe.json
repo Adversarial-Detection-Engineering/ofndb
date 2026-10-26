@@ -1,0 +1,64 @@
+{
+ "name": "systempropertieshardware.exe",
+ "builds": [
+  {
+   "sha256": "deebdbaca8eb0115e853275ade9cc39d64c7c483e2dcb1d5c316754ff4fdf3ba",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesHardware.EXE",
+   "internal_name": "SystemPropertiesHardware",
+   "file_description": "Hardware Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SystemPropertiesHardware.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "02bd4dea03c4cc533e97d6cbbd4f95de60ff5fd6bcdc83230e840007b8a56694",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesHardware.EXE",
+   "internal_name": "SystemPropertiesHardware",
+   "file_description": "Hardware Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SystemPropertiesHardware.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SystemPropertiesHardware.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

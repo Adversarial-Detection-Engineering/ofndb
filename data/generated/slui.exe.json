@@ -1,0 +1,622 @@
+{
+ "name": "slui.exe",
+ "builds": [
+  {
+   "sha256": "9f5ac60649a2f8f234b5c832f713e89cc24b9047f38b83f1cba519f2f6b3731e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/D912F566ae000/slui.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\slui.exe"
+  },
+  {
+   "sha256": "4e1cd4ea402a159afc54b35681cc50260fd15de9aadeca2259fda8fd0ae505e9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9060 (rs1_release.260412-0758)",
+   "fixed_file_version": "10.0.14393.9060",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-04-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/69DBD4BD70000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b1d407b638977b878fda61484b9a9033aa0a47aabf505ff1c7eaa2556f635b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/D5F4689Dab000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d27d8783182012cc889a84f0201a37d9586728a6a45384900c24f663517cb68",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20793 (th1.240918-1731)",
+   "fixed_file_version": "10.0.10240.20793",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/66EBB97B71000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a01088082cb47b53afd38e1a60d3041227e6d3d30f8045409f2891b98aeb5d62",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/2E679D15b0000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1ec6f5e8a0be3b6b32f5226bef1031aaac2ec8a6ed4b87ed41b55655c6244a9b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/EDFC3B5395000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "19c09a0ee24b6fb1b40c31342893e45aa8cdda6a049b32e9b8d7412a8d0ec15c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.6292 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.6292",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2024-09-10",
+   "last_seen": "2024-09-10",
+   "os_builds": [
+    "17763.6293"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/AF335AC174000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bae28691ee1df6693795c679a8d097edf39ace2758dae4a80d00fbb79cc0bb77",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1865 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1865",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-07-26",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/DD14B2598a000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "25e7624d469a592934ab8c509d12c153c2799e604c2a4b8a83650a7268577dff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.488 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.488",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2020-09-03",
+   "last_seen": "2022-01-17",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.488",
+    "19041.508",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/DAD4D1BC8a000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ae4f6f47967c58356aa80775d9c5e7e89d108b7606ecffb8366bce9fcab584c7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/79691651e1000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "85f239855c6dc7cf327a8bc668d9adc5f12018252bad0d8ab2cd6928f04d6414",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166",
+    "16299.248",
+    "16299.251",
+    "16299.309",
+    "16299.334",
+    "16299.371",
+    "16299.402",
+    "16299.431",
+    "16299.461",
+    "16299.492",
+    "16299.522",
+    "16299.547",
+    "16299.551",
+    "16299.579",
+    "16299.611",
+    "16299.637",
+    "16299.665",
+    "16299.666",
+    "16299.699",
+    "16299.726",
+    "16299.755",
+    "16299.785",
+    "16299.820",
+    "16299.846",
+    "16299.847",
+    "16299.904",
+    "16299.936",
+    "16299.967"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/8E40C35F72000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "71f372bf9d92c8f94ac688a0289b63a6133cba5e29cf5414eaa00ef5b7b13fd5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/5632D7E771000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "67daef4a468f00305a44e41b369890fc0d6ed41c509432c6b1402caa1b09b7c5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "slui.exe",
+   "internal_name": "slui.exe",
+   "file_description": "Windows Activation Client",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.0 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2018-03-08",
+   "os_builds": [
+    "15063.447",
+    "15063.483",
+    "15063.502",
+    "15063.540",
+    "15063.608",
+    "15063.632",
+    "15063.675",
+    "15063.726",
+    "15063.729",
+    "15063.877",
+    "15063.936"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/slui.exe/782BFC7472000/slui.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "slui.exe",
+   "builds": 13,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20793",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "602a039b9a59f8afde9e5538da695bb802ed7cc3fa0660acdd8fed3059b1633d",
+   "error": "602a039b9a59: symbol server returned unindexed build ad746d56825f; baeab8667a76: symbol server returned unindexed build 823e718a4b89; 1beaacf29852: symbol server returned unindexed build b7902a00d838; 4b3f068c90c8: symbol server returned unindexed build 21ad7a16d4b5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "a89faeba31ed671442578d88c174f487fa02e8c5dc91842fea854055eec11f97",
+   "error": "a89faeba31ed: symbol server returned unindexed build ad746d56825f; 602a039b9a59: symbol server returned unindexed build ad746d56825f; baeab8667a76: symbol server returned unindexed build 823e718a4b89; 3153281d561d: symbol server returned unindexed build 6d04ef0f1c43"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "2f7f1b2f2df9e47e9f7fba92e8de08b0979106d6ae25e96e653ed5773540b468",
+   "error": "2f7f1b2f2df9: symbol server returned unindexed build 16411ababc87; 39d924020ba5: symbol server returned unindexed build 16411ababc87; 07340038044e: symbol server returned unindexed build 46fee9db2f00; c19a3bf8557f: symbol server returned unindexed build 4c22b44dfdd8"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "2f7f1b2f2df9e47e9f7fba92e8de08b0979106d6ae25e96e653ed5773540b468",
+   "error": "2f7f1b2f2df9: symbol server returned unindexed build 16411ababc87; c19a3bf8557f: symbol server returned unindexed build 4c22b44dfdd8"
+  }
+ ]
+}

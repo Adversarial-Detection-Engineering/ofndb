@@ -1,0 +1,501 @@
+{
+ "date": "2026-10-26",
+ "targets": 1336,
+ "suspended": {
+  "match": 1239,
+  "mismatch": 0,
+  "sandbox_build_differs": 2,
+  "not_launchable": 95,
+  "no_event": 0
+ },
+ "not_launchable": [
+  {
+   "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\Feedback\\dump64.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Program Files\\dotnet\\dotnet.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\Terminal\\ServiceHub\\os64\\OpenConsole.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector\\VSDiagnostics.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_64\\vmconnect\\v4.0_10.0.0.0__31bf3856ad364e35\\vmconnect.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\InspectVhdDialog\\v4.0_10.0.0.0__31bf3856ad364e35\\InspectVhdDialog.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\notepad.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\amd-smi.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\AMD\\ANR\\AMDNoiseSuppression.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\amdlogum.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\atieah64.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\atieclxx.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\bash.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Boot\\winload.exe",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
+  },
+  {
+   "path": "C:\\Windows\\System32\\CCG.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\clinfo.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\cmdiag.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\cmimageworker.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\cmproxyd.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\dgtrayicon.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\dpnsvr.exe",
+   "win32_error": 5,
+   "reason": "access denied"
+  },
+  {
+   "path": "C:\\Windows\\System32\\drivers\\NVIDIA Corporation\\Drs\\dbInstaller.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\EASPolicyManagerBrokerHost.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\EEURestart.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\hcsdiag.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\hnsdiag.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\hvc.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\hvsiproxyapp.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\HvsiSettingsWorker.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\ManagedWindowsVM.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\MCU.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\copilotapp.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\elevated_tracing_service.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\Installer\\copilot_setup.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\mscopilot.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\msedgewebview2.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\notification_helper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\platform_experiences_helper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\undocked_copilot\\copilotapphost.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\undocked_copilot\\RestartAgent.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\MpSigStub.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\MRT.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\mtkbtsvc.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\nmbind.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\nmscrub.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\notepad.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Npcap\\NpcapHelper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\Npcap\\WlanHelper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\nvdebugdump.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\nvidia-pcc.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\nvidia-smi.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\nvspinfo.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\scp.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\sftp.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-add.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-agent.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-keygen.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-keyscan.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-pkcs11-helper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-sk-helper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\OpenSSH\\ssh.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\psr.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\SecurityHealth\\10.0.29680.1000-0\\SecurityHealthHost.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\tcblaunch.exe",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
+  },
+  {
+   "path": "C:\\Windows\\System32\\unregmp2.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vfpctrl.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmcompute.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmconnect.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmms.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmnat.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmnetdhcp.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmplatformca.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmsp.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vmwp.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vulkaninfo-1-999-0-0-0.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\vulkaninfo.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\WDAGNetDiag.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell_ise.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\WindowsSandbox.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\WindowsSandboxClient.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\winload.exe",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
+  },
+  {
+   "path": "C:\\Windows\\System32\\WorkFolders.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\System32\\wslconfig.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\atieah32.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\dplaysvr.exe",
+   "win32_error": 5,
+   "reason": "access denied"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\dpnsvr.exe",
+   "win32_error": 5,
+   "reason": "access denied"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\hvsiproxyapp.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\notepad.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\Npcap\\NpcapHelper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\Npcap\\WlanHelper.exe",
+   "win32_error": 3,
+   "reason": "path not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\psr.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\unregmp2.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\vulkaninfo-1-999-0-0-0.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\vulkaninfo.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell_ise.exe",
+   "win32_error": 2,
+   "reason": "file not found (absent in Sandbox)"
+  }
+ ],
+ "sandbox_build_differs": [
+  {
+   "path": "C:\\Windows\\System32\\poqexec.exe",
+   "sha256": "c8a03d0283e7f88cf51a1b534eaec85c3bfd1ff12d33232cedc500c376194d00",
+   "sysmon_raw": "poqexec.exe"
+  },
+  {
+   "path": "C:\\Windows\\SysWOW64\\poqexec.exe",
+   "sha256": "28c1e8a5fbccf6a17e454ddb72c8d0f5347edccc7f1e34616fb3320a5ac723c5",
+   "sysmon_raw": "poqexec.exe"
+  }
+ ],
+ "no_event": []
+}

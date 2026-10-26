@@ -1,0 +1,44 @@
+{
+ "name": "ucpdmgr.exe",
+ "builds": [
+  {
+   "sha256": "bdd7b3b727904fd2f178b13f1cd97e8fdb73730ac73fedb0f2fb1438ba110f49",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UCPDMgr.exe",
+   "internal_name": "UCPDMgr.exe",
+   "file_description": "User Choice Protection Manager",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.7.0.702351",
+   "fixed_file_version": "4.7.0.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UCPDMgr.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UCPDMgr.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.7.0.0",
+   "max_version": "4.7.0.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+---
+import Base from '../../layouts/Base.astro';
+import type { Entry } from '../../lib/derive';
+import { siteData } from '../../lib/load';
+import { CATEGORY_LABELS, FLAG_LABELS, PLATFORMS, href, md } from '../../lib/util';
+
+export function getStaticPaths() {
+  return siteData().entries.map((e) => ({ params: { slug: e.slug }, props: { e } }));
+}
+
+const { e } = Astro.props as { e: Entry };
+const shortSha = (s: string) => `${s.slice(0, 12)}…`;
+const releaseSpan = (v: { first_release: string | null; last_release: string | null; releases: number }) =>
+  !v.first_release ? '' : v.first_release === v.last_release ? v.first_release : `${v.first_release} → ${v.last_release}`;
+const versionSpan = (v: { min_version: string | null; max_version: string | null }) =>
+  !v.min_version ? '' : v.min_version === v.max_version ? v.min_version : `${v.min_version} → ${v.max_version}`;
+const sourceLabel: Record<string, string> = {
+  winbindex: 'Winbindex',
+  local: 'Host scan',
+  vendor: 'Vendor',
+  sysinternals: 'Sysinternals',
+};
+const desc = e.primary
+  ? `${e.name} logs OriginalFileName "${e.distinct_values.join('", "')}" in Sysmon and EDR process events.`
+  : `${e.name} has no OriginalFilename; sensors log "-".`;
+---
+
+<Base title={e.name} description={desc}>
+  <article>
+    <p class="crumbs"><a href={href('')}>Library</a> / {CATEGORY_LABELS[e.category]}</p>
+    <header class="entry-head">
+      <h1 class="mono">{e.name}</h1>
+      {(e.description || e.company) && <p class="entry-sub">{[e.description, e.company].filter(Boolean).join(' · ')}</p>}
+      <div class="badges">
+        {e.categories.map((c) => <span class={`cat cat-${c}`}>{CATEGORY_LABELS[c]}</span>)}
+        {e.verified && e.verification && (
+          <span class="badge badge-ok" title={`Confirmed against a live Sysmon ${e.verification.sysmon_version} event on Windows ${e.verification.os_build}, ${e.verification.date}`}>
+            Sysmon-confirmed
+          </span>
+        )}
+        {!e.verified && <span class="badge" title="Parsed from the PE's version resource; no live Sysmon event yet">Parsed</span>}
+        {e.lolbas && <a class="badge badge-link" href={e.lolbas.url}>LOLBAS</a>}
+        {e.lolrmm_tools.length > 0 && <span class="badge">LOLRMM: {e.lolrmm_tools.join(', ')}</span>}
+        {e.sigma_rule_refs > 0 && <span class="badge" title="Image|endswith references in SigmaHQ Windows rules">Sigma refs: {e.sigma_rule_refs}</span>}
+      </div>
+    </header>
+
+    <section class="ofn-panel" aria-label="OriginalFilename values">
+      <h2 class="eyebrow">OriginalFilename</h2>
+      {
+        e.distinct_values.length > 0 ? (
+          <ul class="ofn-values">
+            {e.distinct_values.map((v) => (
+              <li>
+                <code class="ofn">{v}</code>
+                <button class="copy" data-copy={v}>Copy</button>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p class="ofn-none">None. No observed build carries an OriginalFilename, so sensors log <code>-</code>.</p>
+        )
+      }
+      {e.flags.length > 0 && <p class="flag-line">{e.flags.map((f) => <span class="flag">{FLAG_LABELS[f] ?? f}</span>)}</p>}
+    </section>
+
+    {
+      (e.notes || e.gotchas.length > 0) && (
+        <section class="gotchas" aria-label="Gotchas">
+          <h2>Gotchas</h2>
+          {e.notes && <p class="note" set:html={md(e.notes)} />}
+          <ul>
+            {e.gotchas.map((g) => (
+              <li set:html={md(g)} />
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <section aria-label="Query snippets">
+      <h2>Query snippets</h2>
+      <div class="tabs" data-tabs>
+        <div role="tablist" class="tablist">
+          {PLATFORMS.map((p, i) => <button role="tab" data-tab={p.key} aria-selected={i === 0 ? 'true' : 'false'}>{p.label}</button>)}
+        </div>
+        {
+          PLATFORMS.map((p, i) => (
+            <div class="panel" data-panel={p.key} hidden={i !== 0}>
+              <div class="code">
+                <button class="copy" data-copy={e.snippets[p.key]}>Copy</button>
+                <pre><code>{e.snippets[p.key]}</code></pre>
+              </div>
+              <p class="hint">{p.hint}</p>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section aria-label="Values across builds">
+      <h2>Values across builds</h2>
+      <div class="table-wrap">
+        <table class="grid">
+          <thead>
+            <tr><th>OriginalFilename</th><th>Builds</th><th>Arch</th><th>File version</th><th>Windows releases</th><th>Source</th><th>Sysmon</th></tr>
+          </thead>
+          <tbody>
+            {
+              e.values.map((v) => (
+                <tr>
+                  <td class="mono">{v.value ?? <span class="none">none</span>}</td>
+                  <td>{v.builds}</td>
+                  <td>{v.machines.join(', ')}</td>
+                  <td class="mono small">{versionSpan(v)}</td>
+                  <td class="small">{releaseSpan(v)}{v.releases > 1 && <span class="muted"> ({v.releases})</span>}</td>
+                  <td class="small">{v.sources.map((s) => sourceLabel[s] ?? s).join(', ')}</td>
+                  <td class="ok">{v.verified_builds > 0 ? `✓ ${v.verified_builds}` : ''}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    {
+      e.internal_names.length > 0 && (
+        <p class="meta-line">
+          InternalName: {e.internal_names.map((n, i) => <>{i > 0 && ', '}<code>{n}</code></>)}
+          {e.product && <> · Product: {e.product}</>}
+        </p>
+      )
+    }
+
+    <details class="builds">
+      <summary>All {e.build_count} parsed builds{e.gap_count > 0 && <span class="muted"> · {e.gap_count} Windows release groups not verifiable</span>}</summary>
+      <div class="table-wrap">
+        <table class="grid small">
+          <thead>
+            <tr><th>SHA256</th><th>Version</th><th>Arch</th><th>OriginalFilename</th><th>Windows releases</th><th>Source</th><th>Sysmon</th></tr>
+          </thead>
+          <tbody>
+            {
+              e.builds.map((b) => (
+                <tr>
+                  <td class="mono">
+                    {b.download_url ? <a href={b.download_url} title={b.sha256}>{shortSha(b.sha256)}</a> : <span title={b.sha256}>{shortSha(b.sha256)}</span>}
+                    <button class="copy copy-sm" data-copy={b.sha256} aria-label="Copy SHA256">Copy</button>
+                  </td>
+                  <td class="mono">{b.version}</td>
+                  <td>{b.machine}</td>
+                  <td class="mono">{b.original_filename ?? <span class="none">none</span>}</td>
+                  <td>{b.releases.length > 0 ? (b.releases.length > 2 ? `${b.releases[0]} … ${b.releases[b.releases.length - 1]} (${b.releases.length})` : b.releases.join(', ')) : (b.product ?? '')}</td>
+                  <td>{b.sources.map((s) => sourceLabel[s] ?? s).join(', ')}</td>
+                  <td class="ok">{b.verified ? '✓' : ''}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+      <p class="hint">Winbindex builds link to the Microsoft symbol server copy that was hashed and parsed.</p>
+    </details>
+  </article>
+</Base>

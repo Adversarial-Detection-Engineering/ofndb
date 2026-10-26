@@ -1,0 +1,573 @@
+{
+ "name": "spoolsv.exe",
+ "builds": [
+  {
+   "sha256": "f1757d2bd01b169940689f38dd0fec734e38f7636838e0687d1a29ef3494533d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/64BF8300f4000/spoolsv.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\spoolsv.exe"
+  },
+  {
+   "sha256": "ea5f5d939ae275da023b69cf5e0a35fe79f7b11bac8dbe154fd0a46cfef3a197",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/C830A37Bf4000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b8077bcbda69c864fb06c5ef477594346a92c2e61412790ff8b9f38b21db7cd3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/6AC8D467cb000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f9fcefed5816a8ff7b807cc48aba8e6a77e653a1fadf81920e18522366e1bf6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/E862E326cb000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "09a79d6ee75dc1badb5fcc8f217f9a0c93d0282e9e4b7f983a8400dbe9f8047a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/61F5ADDFd7000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2a111f46967244316f9224afd1c761cb299bea011d72a9fb44762bf8218e3c61",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/68E67101c8000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "682cb9dbd9c596f1100e0be50023d17a37bf056e423f4a1d47d55369725aaabf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/258C10C6f3000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ca7e660a847224e955afdd52d20725aa37e344eefe5de8047fb15254e3ddccc6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.5794 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.5794",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2025-06-24",
+   "os_builds": [
+    "19044.5854",
+    "19044.5856",
+    "19044.5859",
+    "19044.5965",
+    "19045.5796",
+    "19045.5917",
+    "19045.5968",
+    "19045.6036"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/D9BF752Cd2000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7f9eae7506264c4d794d66acc52dac153035e80cf71df9f9717e2e4c3cc95e70",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.2960 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.2960",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-05-14",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.2960",
+    "22000.3019",
+    "22000.3079",
+    "22000.3147",
+    "22000.3197",
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/F51AB598d9000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bcec1954f66821d77d990328827093cc309e7adf1dbde51af3f79d09570df92b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2788 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2788",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-21",
+   "last_seen": "2023-06-13",
+   "os_builds": [
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19045.2913",
+    "19045.3031"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/A70DB25Ad4000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c091ff5b47ae76bc1a5ece7e07246deb95d9726df5579b3637ad1b3a84098734",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.2212 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.2212",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2022-04-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/8221DD13c7000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d3f853be3a594a51a7eb042e12b22cf874600fb5eaa2e4e68006c21e52460887",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1387 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1387",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-11-22",
+   "last_seen": "2021-11-22",
+   "os_builds": [
+    "19041.1387"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/83329197d2000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "654f1b82d7c54ed268362abc23844b1cde64bc6918fad6347f3a719788c6e284",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/09802C0Cca000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b4d2906d46c24b6316420be7d4134eec9b472eb1d1f202c992639c6179b9ccc0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/7065F576c3000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d3ee4e60dd54d54803a9f47e375aa5be6bc77922d2149bed303478548bfa945",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1256 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1256",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-12-08",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/3AAED6B6c1000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2a98a59d643e32c4559312538881f310aab74ef1418a2e0bb70324705072457d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1992 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1992",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-07-14",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/A58B4F09c2000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3bac725e477f6b91e50f42db26fa497ab67dc0067c34483593b8fe4e2a3acfaa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "spoolsv.exe",
+   "internal_name": "spoolsv.exe",
+   "file_description": "Spooler SubSystem App",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1356 (th2_release.180101-0600)",
+   "fixed_file_version": "10.0.10586.1356",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-01-03",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/spoolsv.exe/5A4A79BBbe000/spoolsv.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "spoolsv.exe",
+   "builds": 17,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2018-01-03",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "55e3c9cc38a1fab1581014e770dac41cdac88226610a08e19aaa8da113118f73",
+   "error": "55e3c9cc38a1: symbol server returned unindexed build 8be2ce9172a3; c5d12639f936: symbol server returned unindexed build e37c18e29922; 57b6fb32fe55: symbol server returned unindexed build 99bbb7c81570; 01d7c879f810: symbol server returned unindexed build 5a9a266af571"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "8aa7f51c79a345c9f434579c7473835d06217e48c2d0c0ab57769a0ce862c6c0",
+   "error": "8aa7f51c79a3: symbol server returned unindexed build 5324a50ea761; 9d6546fc783e: symbol server returned unindexed build e89359d6f708; 9d914cfb2dd4: symbol server returned unindexed build c5bb762acd53; e8906127b820: symbol server returned unindexed build 97e575b1e85a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "42604a6d5b9744ac2de036cd13a1be32c8a61569af5cf0aee180ab4ee2e877df",
+   "error": "42604a6d5b97: symbol server returned unindexed build 00192ca37386; 3cbd585b9248: symbol server returned unindexed build 20cb960b34ef; 5ed9f8c44e5f: symbol server returned unindexed build 20cb960b34ef; 33bc39a3f5a5: symbol server returned unindexed build 20cb960b34ef"
+  }
+ ]
+}

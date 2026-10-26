@@ -1,0 +1,47 @@
+{
+ "name": "ldmdump.exe",
+ "builds": [
+  {
+   "sha256": "980e64020cfceb02652a2a08270b84b974f18f290e9cb798f5d46d3aa3a0ec94",
+   "machine": "x86",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "ldmdump.exe",
+   "release": "2006-11-01",
+   "last_seen": "2006-11-01",
+   "download_url": "https://live.sysinternals.com/ldmdump.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": "2006-11-01",
+   "last_seen": "2006-11-01",
+   "provenance": "parsed"
+  }
+ ]
+}

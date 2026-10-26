@@ -1,0 +1,63 @@
+{
+ "name": "securityhealthhost.exe",
+ "builds": [
+  {
+   "sha256": "a6455eade951303113fee8e4164041b2c478570cf82cbd8f620914dab75ba4cc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SecurityHealthHost.exe",
+   "internal_name": "Windows Security Health Host",
+   "file_description": "Windows Security Health Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.29680.1000 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.29680.1000",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SecurityHealth\\10.0.29680.1000-0\\SecurityHealthHost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "4f195cf33ac4382e2682b25b0c6af92d72e048d3f45a5c4fef6ccc95bb87e5e8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SecurityHealthHost.exe",
+   "internal_name": "Windows Security Health Host",
+   "file_description": "Windows Security Health Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SecurityHealthHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SecurityHealthHost.exe",
+   "builds": 2,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.29680.1000",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

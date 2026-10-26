@@ -1,0 +1,44 @@
+{
+ "name": "bitlockerwizardelev.exe",
+ "builds": [
+  {
+   "sha256": "1c895c5064386ac71d185a3c251ee8f864debbd315670a9c3927eb5631fa1991",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "BitLockerWizardElev.exe",
+   "internal_name": "BitLocker Drive Encryption Wizard",
+   "file_description": "BitLocker Drive Encryption Wizard",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\BitLockerWizardElev.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "BitLockerWizardElev.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.1882",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

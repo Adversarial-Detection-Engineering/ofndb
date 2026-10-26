@@ -1,0 +1,407 @@
+{
+ "name": "systeminfo.exe",
+ "builds": [
+  {
+   "sha256": "1675a3b805ab5d0adc69f27b35b0e0caaa30a056ec7f79b7cacba9c64b15fe6f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sysinfo.exe",
+   "internal_name": "systeminfo.exe",
+   "file_description": "Displays system information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systeminfo.exe/CCB5BE3B1d000/systeminfo.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0ea2b2fea5407a984c0dab7c500b1a2f1658af0e65e566d24db313e5dbc6173e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sysinfo.exe",
+   "internal_name": "systeminfo.exe",
+   "file_description": "Displays system information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.653 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.653",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systeminfo.exe/0268C19918000/systeminfo.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a220a85750588f5b231ff8cb106ba5409eaabb85e3dd7278a98fca907e171ed2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sysinfo.exe",
+   "internal_name": "systeminfo.exe",
+   "file_description": "Displays system information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\systeminfo.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "389d6d810ad2804e2652bc36142697324692f54d47b7b9338649f763d821791d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "sysinfo.exe",
+   "internal_name": "systeminfo.exe",
+   "file_description": "Displays system information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.4202 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.4202",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\systeminfo.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "sysinfo.exe",
+   "builds": 4,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "min_version": "10.0.22000.653",
+   "max_version": "10.0.26100.4202",
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "92c41751ce5fe17a23ee8f758583a544c54104e81110c2a69f6ad50dbff93ae2",
+   "error": "92c41751ce5f: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/17502B741d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "92c41751ce5fe17a23ee8f758583a544c54104e81110c2a69f6ad50dbff93ae2",
+   "error": "92c41751ce5f: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/17502B741d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "a220a85750588f5b231ff8cb106ba5409eaabb85e3dd7278a98fca907e171ed2",
+   "error": "a220a8575058: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/EC42DFEB1f000/systeminfo.exe; 225f4af644fd: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/F9D1A4AD1f000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "a220a85750588f5b231ff8cb106ba5409eaabb85e3dd7278a98fca907e171ed2",
+   "error": "a220a8575058: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/EC42DFEB1f000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1507",
+   "sha256": "d3007c52ac29d27197cd33a90e0530bf4afb680282fe22c78c6534845c23a3b5",
+   "error": "d3007c52ac29: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/559F3AC21d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1511",
+   "sha256": "faca67a1dd82c1c245a12c3e7b8cf6674cb9b7c984535c7e379d9c85ca723e46",
+   "error": "faca67a1dd82: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/5632D7D81d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1607",
+   "sha256": "c1c3436b2d55d7f7d75b9620a9fd0a911cd8573c67115aebf25f474a69e61862",
+   "error": "c1c3436b2d55: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/57899B541d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "91a038e513ddfff24593e452423c2c8e3c2e3576ccfebc784a437d6c868e2375",
+   "error": "91a038e513dd: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/EC313D2A1d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "ce656848030010297f5fc0412e56579334fab8c85f9dcc9c17d819cb14c93dd2",
+   "error": "ce6568480300: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/5AE9A0591d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "2981c4a98ca99d3c4f297678a24c31372b5847e1ece0802e28b8fcef0797f19f",
+   "error": "2981c4a98ca9: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/BF517F4A1d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "1084adf2ddbe903bd71a496720b0d6616882f120d1b3ffeae8d47feb0d9cc123",
+   "error": "1084adf2ddbe: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/92244A3B1d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "f5b4fb293ada97a8c4b92bb380747da1d71336f144332c95ddef3f8522f7ce87",
+   "error": "f5b4fb293ada: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/445415BD1d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "f5b4fb293ada97a8c4b92bb380747da1d71336f144332c95ddef3f8522f7ce87",
+   "error": "f5b4fb293ada: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/445415BD1d000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "6f87caa51bdea802045bb281fc2686a3c76364c26a3ffe6c2ccac4af5f9db37b",
+   "error": "6f87caa51bde: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/0753CD301f000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "6f87caa51bdea802045bb281fc2686a3c76364c26a3ffe6c2ccac4af5f9db37b",
+   "error": "6f87caa51bde: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/0753CD301f000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "6f87caa51bdea802045bb281fc2686a3c76364c26a3ffe6c2ccac4af5f9db37b",
+   "error": "6f87caa51bde: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/0753CD301f000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "6f87caa51bdea802045bb281fc2686a3c76364c26a3ffe6c2ccac4af5f9db37b",
+   "error": "6f87caa51bde: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/0753CD301f000/systeminfo.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "6f87caa51bdea802045bb281fc2686a3c76364c26a3ffe6c2ccac4af5f9db37b",
+   "error": "6f87caa51bde: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/0753CD301f000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "0cd1abc5fee9ee465af0eaba7c48e29dbd3fc6839f386e73d622425d846295df",
+   "error": "0cd1abc5fee9: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/99FFA3F918000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "0cd1abc5fee9ee465af0eaba7c48e29dbd3fc6839f386e73d622425d846295df",
+   "error": "0cd1abc5fee9: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/99FFA3F918000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-24H2",
+   "sha256": "389d6d810ad2804e2652bc36142697324692f54d47b7b9338649f763d821791d",
+   "error": "389d6d810ad2: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/17837FAA19000/systeminfo.exe; 43b1e4be0a8e: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/91CED9FB19000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "389d6d810ad2804e2652bc36142697324692f54d47b7b9338649f763d821791d",
+   "error": "389d6d810ad2: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/17837FAA19000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1507",
+   "sha256": "b1a95a04cbdca12bd84cfe3f86e8ac11f33752171347ee1435fce13e5bff5195",
+   "error": "b1a95a04cbdc: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/559F3D5217000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1511",
+   "sha256": "25551ece392960c93f419dd307b166eeca20386796608298249b31da16c20c2c",
+   "error": "25551ece3929: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/5632D76217000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1607",
+   "sha256": "531794d32301b83bdc58d09a2aa3a37f4ffe46107bd796187caf3cd132d1b755",
+   "error": "531794d32301: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/5789910A17000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "323353c7ec54d858d9a65df60df424c85184baa2b5272c5dc536d670d71ede4f",
+   "error": "323353c7ec54: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/69A7D52217000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "40f9c2f1ebb9c9ed516a1c2587777e56f9f8c136e98a70bc09010fba081933fe",
+   "error": "40f9c2f1ebb9: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/C25BA3A917000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "0984c8ea65cb17e8e41efdbfaa525098c12979b0dcca49928c11dd069ddb0028",
+   "error": "0984c8ea65cb: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/86C7903317000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "81e6d6cb7a0f50f5bc331fd2af48a90f2dcee9ff7ef4f1abe0b87866f7837985",
+   "error": "81e6d6cb7a0f: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/04B2C2B017000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "9bc249377a01fb43cdf969f3aa673619a941dad3bc07aa07e73df5908cfbbf60",
+   "error": "9bc249377a01: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/485A212B17000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "9bc249377a01fb43cdf969f3aa673619a941dad3bc07aa07e73df5908cfbbf60",
+   "error": "9bc249377a01: NotFound: https://msdl.microsoft.com/download/symbols/systeminfo.exe/485A212B17000/systeminfo.exe"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "f1e43f167059ff746e200b21ddc55326cd8b3acd7d6bd9c541230db6f8bc63d1",
+   "error": "f1e43f167059: symbol server returned unindexed build 88262d8b0ab5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "f1e43f167059ff746e200b21ddc55326cd8b3acd7d6bd9c541230db6f8bc63d1",
+   "error": "f1e43f167059: symbol server returned unindexed build 88262d8b0ab5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "f1e43f167059ff746e200b21ddc55326cd8b3acd7d6bd9c541230db6f8bc63d1",
+   "error": "f1e43f167059: symbol server returned unindexed build 88262d8b0ab5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "f1e43f167059ff746e200b21ddc55326cd8b3acd7d6bd9c541230db6f8bc63d1",
+   "error": "f1e43f167059: symbol server returned unindexed build 88262d8b0ab5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "f1e43f167059ff746e200b21ddc55326cd8b3acd7d6bd9c541230db6f8bc63d1",
+   "error": "f1e43f167059: symbol server returned unindexed build 88262d8b0ab5"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "useraccountbroker.exe",
+ "builds": [
+  {
+   "sha256": "ba3638af27dae5cf3f63b69dedff3638fcd5b223500ecceece95cb3182762d2e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "UserAccountBroker.exe",
+   "internal_name": "UserAccountBroker",
+   "file_description": "User Account Control Panel Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\UserAccountBroker.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "48092d0386d32353c00156e8d9b7744aa254c66042fecb0a5f1abda45e0a6c78",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UserAccountBroker.exe",
+   "internal_name": "UserAccountBroker",
+   "file_description": "User Account Control Panel Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UserAccountBroker.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UserAccountBroker.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "certenrollctrl.exe",
+ "builds": [
+  {
+   "sha256": "c0fb58c60e960bba67ef2702c0b1979489a308dec9aba8b5baf4f87986ff55ba",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "EnrollComServer.exe",
+   "internal_name": "EnrollComServer.exe",
+   "file_description": "Certificate Enrollment Control",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\CertEnrollCtrl.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "73941a359f013bc24d27a98213c5a6952d2ae7e07aaea94c5051f11d66b207c1",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "EnrollComServer.exe",
+   "internal_name": "EnrollComServer.exe",
+   "file_description": "Certificate Enrollment Control",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\CertEnrollCtrl.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "EnrollComServer.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

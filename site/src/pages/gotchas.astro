@@ -1,0 +1,125 @@
+---
+import Base from '../layouts/Base.astro';
+import type { Entry } from '../lib/derive';
+import { siteData } from '../lib/load';
+import { href, md } from '../lib/util';
+
+const { entries } = siteData();
+const byFlag = (f: string) => entries.filter((e) => e.flags.includes(f));
+const drift = entries.filter((e) => e.flags.includes('drift') || e.flags.includes('case-drift'));
+const noOfn = byFlag('no-ofn');
+const apphost = byFlag('apphost');
+const differs = byFlag('differs-from-name')
+  .filter((e) => !e.flags.includes('apphost'))
+  .sort((a, b) => b.sigma_rule_refs - a.sigma_rule_refs || a.name.localeCompare(b.name));
+const driftGotcha = (e: Entry) =>
+  e.gotchas.find((g) => g.startsWith('OriginalFilename changed') || g.startsWith('Casing differs')) ?? '';
+
+// Observed on Windows 11 build 26300: Explorer / (Get-Item x).VersionInfo vs. raw PE resource (= Sysmon)
+const mui = [
+  ['cmd.exe', 'Cmd.Exe.MUI', 'Cmd.Exe'],
+  ['powershell.exe', 'PowerShell.EXE.MUI', 'PowerShell.EXE'],
+  ['rundll32.exe', 'RUNDLL32.EXE.MUI', 'RUNDLL32.EXE'],
+  ['certutil.exe', 'CertUtil.exe.mui', 'CertUtil.exe'],
+];
+---
+
+<Base title="Gotchas" description="Why OriginalFilename lookups go wrong: the MUI trap, .NET apphosts, values that change across builds, binaries without one, and case sensitivity per SIEM.">
+  <article class="prose">
+    <h1>Gotchas</h1>
+    <p class="lede">Where OriginalFilename detections break, measured on {entries.length.toLocaleString('en-US')} binaries.</p>
+
+    <h2 id="mui">1. Explorer and PowerShell show you the wrong value</h2>
+    <p>
+      The file Properties dialog, <code>(Get-Item x).VersionInfo</code> and .NET <code>FileVersionInfo</code> load the
+      <em>localized</em> MUI copy of the version resource. Sysmon and EDR sensors read the binary's own resource. If you
+      copy the value from Explorer into a rule, the rule never fires.
+    </p>
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr><th>Binary</th><th>Explorer / .NET VersionInfo</th><th>What Sysmon logs</th></tr></thead>
+        <tbody>
+          {mui.map(([n, wrong, right]) => (
+            <tr><td><a href={href(`b/${n}/`)}>{n}</a></td><td class="mono bad">{wrong}</td><td class="mono good">{right}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p>Every value in this library comes from parsing <code>RT_VERSION</code> straight out of the PE bytes, never from those APIs.</p>
+
+    <h2 id="apphost">2. .NET apphosts report a DLL</h2>
+    <p>
+      .NET (Core) apps ship a small native launcher, <code>name.exe</code>, that loads <code>name.dll</code>. The build copies
+      the DLL's version resource into the launcher, so the OriginalFilename of the <code>.exe</code> process is the DLL's name:
+      <a href={href('b/pwsh.exe/')}><code>pwsh.exe</code></a> logs <code>pwsh.dll</code>.
+    </p>
+    <ul class="cols">
+      {apphost.map((e) => <li><a href={href(`b/${e.slug}/`)}>{e.name}</a> → <code>{e.distinct_values.find((v) => v.toLowerCase().endsWith('.dll'))}</code></li>)}
+    </ul>
+
+    <h2 id="drift">3. The value changes between builds</h2>
+    <p>
+      A single value per binary is the common case, but not universal. These {drift.length} binaries changed OriginalFilename,
+      or its casing, between Windows releases or architectures. A rule listing one value silently misses the other builds.
+    </p>
+    <ul class="stack">
+      {drift.map((e) => <li><a href={href(`b/${e.slug}/`)} class="mono">{e.name}</a>: <span set:html={md(driftGotcha(e))} /></li>)}
+    </ul>
+
+    <h2 id="none">4. Some binaries have no OriginalFilename at all</h2>
+    <p>
+      Either the version resource is missing, or it has no <code>OriginalFilename</code> key, or the key is empty
+      (<a href={href('b/pcalua.exe/')}><code>pcalua.exe</code></a>). Sysmon logs <code>-</code> for all three. OriginalFileName
+      rules can't see these binaries; use the image path, hash or signer.
+    </p>
+    <ul class="cols">
+      {noOfn.map((e) => <li><a href={href(`b/${e.slug}/`)}>{e.name}</a></li>)}
+    </ul>
+
+    <h2 id="differs">5. The value often isn't the file name</h2>
+    <p>
+      {byFlag('differs-from-name').length} binaries carry an OriginalFilename that differs from their file name (ignoring case),
+      so <code>OriginalFileName: &lt;file name&gt;</code> never matches. Most-referenced in Sigma first:
+    </p>
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr><th>File name</th><th>OriginalFilename</th></tr></thead>
+        <tbody>
+          {differs.slice(0, 40).map((e) => (
+            <tr><td><a href={href(`b/${e.slug}/`)}>{e.name}</a></td><td class="mono">{e.distinct_values.join(', ')}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p>The <a href={href('')}>library</a>'s "Differs from file name" filter shows the full list.</p>
+
+    <h2 id="case">6. Case sensitivity depends on the backend</h2>
+    <div class="table-wrap">
+      <table class="grid">
+        <thead><tr><th>Backend</th><th>Case-insensitive</th><th>Case-sensitive</th></tr></thead>
+        <tbody>
+          <tr><td>Sigma</td><td>default string matching</td><td><code>|cased</code> modifier</td></tr>
+          <tr><td>Splunk</td><td><code>field=value</code> in search, <code>IN</code></td><td><code>where</code> / <code>eval</code> comparisons, CSV lookups by default</td></tr>
+          <tr><td>Defender KQL</td><td><code>=~</code>, <code>in~</code></td><td><code>==</code>, <code>in</code></td></tr>
+          <tr><td>Elastic</td><td>EQL <code>:</code>, <code>in~</code></td><td>Kibana KQL on keyword fields, EQL <code>==</code></td></tr>
+          <tr><td>Cribl Stream</td><td>lowercase both sides</td><td>JavaScript <code>===</code></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p>The snippets on every page use the case-insensitive form, and exports are lowercased where they feed lookups.</p>
+
+    <h2 id="spoof">7. OriginalFilename is attacker-controlled</h2>
+    <p>
+      It survives renaming, which is why it's useful, but it's just a string in a resource section. Anyone can set it on their own
+      tool, or edit it on a copied binary. Editing a signed binary breaks its signature: Authenticode covers the resources, and
+      catalog-signed Windows files stop matching their catalog hash. Pair OriginalFileName with signature status and signer for
+      anything that matters.
+    </p>
+
+    <h2 id="names">8. One file name, different binaries</h2>
+    <p>
+      Generic names like <a href={href('b/setup.exe/')}><code>setup.exe</code></a> cover unrelated binaries that happen to share a
+      name. Check the path and signer before trusting a lookup on the name alone.
+    </p>
+  </article>
+</Base>

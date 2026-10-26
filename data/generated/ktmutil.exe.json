@@ -1,0 +1,64 @@
+{
+ "name": "ktmutil.exe",
+ "builds": [
+  {
+   "sha256": "fc0caab076aa41d52a3b433fbd72cfd091b619964f2847514402f1c721662def",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ktmutil.exe",
+   "internal_name": "ktmutil.exe",
+   "file_description": "Kernel Transaction Management Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ktmutil.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "afbdb6434f03b12025ed86ec64a288e131709a9acf2c22d28e3913db60a8d047",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ktmutil.exe",
+   "internal_name": "ktmutil.exe",
+   "file_description": "Kernel Transaction Management Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ktmutil.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ktmutil.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "resmon.exe",
+ "builds": [
+  {
+   "sha256": "4fc3cd643ab0708f86f4b7a00bbabeb126036bf7c67c7de97b0a78b5a067d2c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "resmon.exe",
+   "internal_name": "resmon.exe",
+   "file_description": "Resource Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\resmon.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "0ad0514e4d154d412be2430388f2088e869c07fcdeb66b4d2b59bf53d0093b8e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "resmon.exe",
+   "internal_name": "resmon.exe",
+   "file_description": "Resource Monitor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\resmon.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "resmon.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

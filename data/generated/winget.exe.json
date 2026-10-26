@@ -1,0 +1,33 @@
+{
+ "name": "winget.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "ec893e42a3d63ae7197e7c5401eff1b36521d480458c3fe639237c64be1f34cf",
+   "error": "ec893e42a3d6: NotFound: https://msdl.microsoft.com/download/symbols/winget.exe/622A86527000/winget.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "ec893e42a3d63ae7197e7c5401eff1b36521d480458c3fe639237c64be1f34cf",
+   "error": "ec893e42a3d6: NotFound: https://msdl.microsoft.com/download/symbols/winget.exe/622A86527000/winget.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "97159abc9479091c59a4032b1fe62f2e66a7eb4a83db607603fd4c597d764019",
+   "error": "97159abc9479: NotFound: https://msdl.microsoft.com/download/symbols/winget.exe/65A1B5F97000/winget.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "40b48b1a49aa2053f01f475e574aecfdd6f9946d417c870744783551e8f1b9d6",
+   "error": "40b48b1a49aa: NotFound: https://msdl.microsoft.com/download/symbols/winget.exe/672E557B7000/winget.exe"
+  }
+ ]
+}

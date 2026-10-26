@@ -1,0 +1,47 @@
+{
+ "name": "shareenum64.exe",
+ "builds": [
+  {
+   "sha256": "5de2fe59bbc844d958bed9ad27c4bf09d92342b3607059d5598bfe9d86f9395a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ShareEnum",
+   "internal_name": "ShareEnum",
+   "file_description": "Allows to lock down file shares in network",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals ShareEnum",
+   "file_version": "1.61",
+   "fixed_file_version": "1.6.1.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals ShareEnum",
+   "release": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "download_url": "https://live.sysinternals.com/ShareEnum64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ShareEnum",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.6.1.0",
+   "max_version": "1.6.1.0",
+   "first_seen": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "provenance": "parsed"
+  }
+ ]
+}

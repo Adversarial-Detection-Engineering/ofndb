@@ -1,0 +1,44 @@
+{
+ "name": "sensordataservice.exe",
+ "builds": [
+  {
+   "sha256": "8f9cf2330b47bbc7f041fa46749320649c921aaed9812dd7a899d0bda143ee4c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SensorDataService.exe",
+   "internal_name": "SensorDataService.exe",
+   "file_description": "Sensor Data Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SensorDataService.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SensorDataService.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

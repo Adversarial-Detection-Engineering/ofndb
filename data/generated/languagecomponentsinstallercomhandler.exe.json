@@ -1,0 +1,44 @@
+{
+ "name": "languagecomponentsinstallercomhandler.exe",
+ "builds": [
+  {
+   "sha256": "c9bbc084334e7bfc09865740f30133eca4c60a5c3767751ce98210ad3da7dd40",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "LanguageComponentsInstallerComHandler.exe",
+   "internal_name": "LanguageComponentsInstallerComHandler",
+   "file_description": "LanguageComponentsInstaller COM Handler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\LanguageComponentsInstallerComHandler.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "LanguageComponentsInstallerComHandler.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

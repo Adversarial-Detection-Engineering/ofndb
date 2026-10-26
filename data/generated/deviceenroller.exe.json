@@ -1,0 +1,816 @@
+{
+ "name": "deviceenroller.exe",
+ "builds": [
+  {
+   "sha256": "f755154001572f2bc5a217efe64f6e8716b86e7ce8212c249181cc26bcce24b3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/7F007C3C5f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e6a132b0fe16b94b16571e5e8949e8ae154830b520557de4438ac5caac90b916",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/50158A4C8f000/deviceenroller.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\DeviceEnroller.exe"
+  },
+  {
+   "sha256": "d57dad136d81f013b25a867b154a245d6ce1c0df30b24dd144104053cb8f088e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.7426 (rs1_release.240926-1524)",
+   "fixed_file_version": "10.0.14393.7426",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/66F602682f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cae021bca12a5816fdb8e13bb00b9cad0ad747d8771c8df1113cf749faf81af5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.7649 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.7649",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "22621.7652"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/3FC33E7288000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7059af5b0c07a4ef3472cea9ef69bd8427eaab4171beb3947491d41ab254af7c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/5349E49B8f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ad39c83c805bf765213be6e6702294cf93dc8b5452d1ac57325aeb01599930d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/11F9DEB27f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b0e09938bb254b9a46bf410ac9d2d34569d06f4c3a68c814b02f6fe787f9b4fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6157 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6157",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-07-22",
+   "last_seen": "2026-06-09",
+   "os_builds": [
+    "19044.6216",
+    "19044.6218",
+    "19044.6332",
+    "19044.6456",
+    "19044.6575",
+    "19044.6693",
+    "19045.6159",
+    "19045.6282",
+    "19045.6396",
+    "19045.6691",
+    "19045.6809",
+    "19045.6811",
+    "19045.6812",
+    "19045.6937",
+    "19045.7058",
+    "19045.7184",
+    "19045.7291",
+    "19045.7417"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/0DEC6EB67f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a530f204c4f280582ba28a3b2b49082c46a20b8d7fd3d7d990de33c897cfd0d1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.18818 (th1.210107-1259)",
+   "fixed_file_version": "10.0.10240.18818",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/5FF7C20219000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bcec84760c0b28456d2eec55b9cd4d04569611b89717452a3d9fda7592844e29",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/E570F2CA8c000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2c52555da6833eaa28f5d149fee5b11aec788359dc37b291893f32f6b7f52a86",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.2960 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.2960",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-05-14",
+   "last_seen": "2024-05-14",
+   "os_builds": [
+    "22000.2960"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/87E7E7A77f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3eb15421375c23058c7f39cffffef91996522802dec65830eb3b37f1ce107603",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2913 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2913",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "22H2"
+   ],
+   "first_seen": "2023-04-25",
+   "last_seen": "2023-05-09",
+   "os_builds": [
+    "19042.2965",
+    "19045.2913"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/62C5544079000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "50a76448dfdb4d8b8e6ee41fe9129a65fa372bde381846e2eea0bcf3c9949aa0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1766 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1766",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-08-26",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/2779A0C68f000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8665d3698c2b7703f69858fb2d2978a9288a15a831bba230e3debdf36cf56b0d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1081 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1081",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2021-06-21",
+   "last_seen": "2021-07-13",
+   "os_builds": [
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/021CB2AD7b000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06f7b0c17988cae5a622bdcc27667f771a06243fdf0a88f34981947d5d6bf8f9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.906 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.906",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-03-29",
+   "last_seen": "2021-06-11",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/9CD3D4C57a000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6563facd02c4ae3c231bac9748a829b1d790617752fa7f269de447e3101bee39",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/459F175A5e000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8468f04aad2708e7691bb3fbcc5d08c61a14f401ed2ad63adcd9ad2b37812455",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.1058 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.1058",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2018-04-17",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "15063.1058",
+    "15063.1088",
+    "15063.1112",
+    "15063.1182",
+    "15063.1209",
+    "15063.1235",
+    "15063.1292",
+    "15063.1358",
+    "15063.1387",
+    "15063.1418",
+    "15063.1446",
+    "15063.1478",
+    "15063.1506",
+    "15063.1508",
+    "15063.1563",
+    "15063.1596",
+    "15063.1631",
+    "15063.1659",
+    "15063.1689",
+    "15063.1716",
+    "15063.1746",
+    "15063.1784",
+    "15063.1785",
+    "15063.1805",
+    "15063.1808",
+    "15063.1839",
+    "15063.1868",
+    "15063.1897",
+    "15063.1898",
+    "15063.1928",
+    "15063.1955",
+    "15063.1988",
+    "15063.2021",
+    "15063.2045",
+    "15063.2046",
+    "15063.2078",
+    "15063.2079",
+    "15063.2108",
+    "15063.2172",
+    "15063.2224",
+    "15063.2254",
+    "15063.2284",
+    "15063.2313",
+    "15063.2346",
+    "15063.2375",
+    "15063.2409",
+    "15063.2411",
+    "15063.2439",
+    "15063.2467",
+    "15063.2500",
+    "15063.2525",
+    "15063.2554",
+    "15063.2584"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/1D53940055000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3643abef0f41e46283dec932532e7fbb152738c89bd821264c2479142842270d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/A12E18D98c000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "156025500d39d4bfb00a783d21c51797b587ace748552c0fd0875f05fabfebdc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1237",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-06-18",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/8A16F58E5d000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1c8bdf6631f9b0aafd9af83866dd47d31fbdf32c328b4c67e01ab8fdb957e723",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "deviceenroller.exe",
+   "internal_name": "API for MDM Enrollment",
+   "file_description": "API for MDM Enrollment",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.420 (th2_release_sec.160527-1834)",
+   "fixed_file_version": "10.0.10586.420",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-07-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.494",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/deviceenroller.exe/574917E31b000/deviceenroller.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "deviceenroller.exe",
+   "builds": 19,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.18818",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2016-07-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "13b274703df5b2cff294e2af2111cae4813fce65e6f0f9c0431fb79218932f21",
+   "error": "13b274703df5: symbol server returned unindexed build 3b8693aebfe9; e526062fa777: symbol server returned unindexed build bfba75454eef; 81e8030eff7b: symbol server returned unindexed build 497c398f0abd; b38900364cd0: symbol server returned unindexed build 781dbc3005f8"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "name": "aspnet_wp.exe",
+ "builds": [
+  {
+   "sha256": "e28f787f9e9daaac48008f47914b9cd7cb0aa808df7ccb3fba19dc27d5d2e96d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "aspnet_wp.exe",
+   "internal_name": "aspnet_wp.exe",
+   "file_description": "aspnet_wp.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10002.0 built by: 62a134a4c000002",
+   "fixed_file_version": "4.8.10002.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\aspnet_wp.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2074d33b2d1444fe760a3f547c8923aafb584d97678e329bd870ee96ee19996b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "aspnet_wp.exe",
+   "internal_name": "aspnet_wp.exe",
+   "file_description": "aspnet_wp.exe",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10002.0 built by: 62a134a4c000000",
+   "fixed_file_version": "4.8.10002.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\aspnet_wp.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "aspnet_wp.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.8.10002.0",
+   "max_version": "4.8.10002.0",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

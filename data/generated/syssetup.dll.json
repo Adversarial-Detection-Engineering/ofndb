@@ -1,0 +1,564 @@
+{
+ "name": "syssetup.dll",
+ "builds": [
+  {
+   "sha256": "edc0046b4456f9ce552151741b1bfc181c5c51db2c4988a378adda07f7f7c97c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/1ECD71F4f000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a39b12a5e696babc53bb9a45714155a0fe69e89f6d1272f661425a04c1855213",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1251 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1251",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-02-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1575",
+    "28000.1643",
+    "28000.1719",
+    "28000.1764",
+    "28000.1836",
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/EF192CA9f000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "33dc74c784d47526b5a20c6e6a0306dbf3db75d7c7d0b51d6bbaef365614e948",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8521 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8521",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-05-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/DD722C40b000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "180fa8fec210ae95bea7c759a4d93cc2c11faf21ce4c7caf0b1c5783ac2f52dd",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/A5152795b000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "93e6df0bcdc4d46509bd0991f55319ac1df0e7eb4e2da7c9aa870f98c6287e26",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/D6E2E4B8f000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3939be5c500c43bb8480661ae01c5206c82c26917f118761bfce692939534897",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/C7C992F3b000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f223af5791b6919e6339f8441779a954a4889e5f78964e6a28b977606dd560fa",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/75CADACE9000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ee3c1a55e6f120772aaa5ff23e1201ea3e9cef9708ac15d638731af798355730",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/57899A019000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eaef6447376e8eefc7be8ccfc58bde4868541d65b5975afa273e9f498f7a16c5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/57898F0E8000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a9f2496195816395da9f49a8cc520453fbdf4284088c9f2ab8b48038d75f458d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/5632D9059000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "86edb708517894a52b8ae3ad2343c1685fb0d834218d7f1ced6b4c39a336d9f0",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/5632D8AD8000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d012e6d4674f08159643e6e1a07829dcc4ba9b47ba78b305edd7b6b1e314585",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/559F3AFA8000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "616837dbc89c5af61425822fd20abf35d76ed72f5aa862ff81a030d1bdffcbb9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SYSSETUP.DLL",
+   "internal_name": "SYSSETUP.DLL",
+   "file_description": "Windows NT System Setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/syssetup.dll/559F38899000/syssetup.dll",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SYSSETUP.DLL",
+   "builds": 13,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "7746f26de350200ae321825ce11d1f82e5d05bbe28f30e686bc5a5997d1badd2",
+   "error": "7746f26de350: symbol server returned unindexed build 73f8503dc7e6; ea4aad21396b: symbol server returned unindexed build 758e9b6eb562; d23e0e22200f: symbol server returned unindexed build 758e9b6eb562; c02761134ab6: symbol server returned unindexed build 048b93d09197"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "57a558843e1a1d775e64709dcd526b7dc0922c58a6aa52a24ff91da0f4df6e97",
+   "error": "57a558843e1a: symbol server returned unindexed build 1f086b669e85"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "57a558843e1a1d775e64709dcd526b7dc0922c58a6aa52a24ff91da0f4df6e97",
+   "error": "57a558843e1a: symbol server returned unindexed build 1f086b669e85"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "65c56dbf9654da1dd048611534a8d130a0df3adbc2146dbce61f9a4be0acc0a5",
+   "error": "65c56dbf9654: symbol server returned unindexed build 812d85f787d5; 59a5e3dccf7c: symbol server returned unindexed build bf0cd2f1b541"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "b2691f36f865f9982c739122b999d76285f8daaa7be14ff2afd74b4b24ac9c6e",
+   "error": "b2691f36f865: symbol server returned unindexed build 85d79b79cc7a"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "6d1306c44ee21372283a97c40fc32624af1411001ccb67e81081fc013034e32b",
+   "error": "6d1306c44ee2: symbol server returned unindexed build 8a94e9c4a4cc"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "e8ab80d700f38dcc9f808b2b1e52c1c2c9083c491c8fdb2ad8e5565bce2fcfd5",
+   "error": "e8ab80d700f3: symbol server returned unindexed build 24bda826f457"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "e8ab80d700f38dcc9f808b2b1e52c1c2c9083c491c8fdb2ad8e5565bce2fcfd5",
+   "error": "e8ab80d700f3: symbol server returned unindexed build 24bda826f457"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "9268f6a26d8f2a82344680a95c241be06ca53f27bc266a4c8d1274d4a7e128fe",
+   "error": "9268f6a26d8f: symbol server returned unindexed build 80a2b15d44b2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "9268f6a26d8f2a82344680a95c241be06ca53f27bc266a4c8d1274d4a7e128fe",
+   "error": "9268f6a26d8f: symbol server returned unindexed build 80a2b15d44b2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "9268f6a26d8f2a82344680a95c241be06ca53f27bc266a4c8d1274d4a7e128fe",
+   "error": "9268f6a26d8f: symbol server returned unindexed build 80a2b15d44b2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "9268f6a26d8f2a82344680a95c241be06ca53f27bc266a4c8d1274d4a7e128fe",
+   "error": "9268f6a26d8f: symbol server returned unindexed build 80a2b15d44b2"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "9268f6a26d8f2a82344680a95c241be06ca53f27bc266a4c8d1274d4a7e128fe",
+   "error": "9268f6a26d8f: symbol server returned unindexed build 80a2b15d44b2"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "328774a501c6352b36d6a26a76eea1febd82959ba5ff9be7c62562b2c46632c6",
+   "error": "328774a501c6: symbol server returned unindexed build 6a65efc09bc8; c9b6c92c74c0: symbol server returned unindexed build 9ede5af4e628; 136fc121a59c: symbol server returned unindexed build 9ede5af4e628; abd2644771d5: symbol server returned unindexed build 11be6fa4b1e4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "0c0039cbbbaeb061a3f9b9e9b97c131e43ae6af5a08aaf45b97ccb396378cece",
+   "error": "0c0039cbbbae: symbol server returned unindexed build f7dd549c1e2f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "0c0039cbbbaeb061a3f9b9e9b97c131e43ae6af5a08aaf45b97ccb396378cece",
+   "error": "0c0039cbbbae: symbol server returned unindexed build f7dd549c1e2f"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "ebfdebefcbf151eb8cedd41eee8127c35ff1787f1adc3f5c20d2368fdf95c756",
+   "error": "ebfdebefcbf1: symbol server returned unindexed build e9ba287b9484"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "8645ea00bfe00486c796395150eb9c3f5e051fb2eb552a44bf105ab82cc4485f",
+   "error": "8645ea00bfe0: symbol server returned unindexed build 200eaedf66bc"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "1e9c31d65a33268f8f3346e16484f332d319d1005f6362441f594f7fc05b5a5a",
+   "error": "1e9c31d65a33: symbol server returned unindexed build 9a64aacffae7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "7cd6dc0588102039c2c9137e6a0ee4dbf8a4f11b8c3032ddf81da7ecaf94374a",
+   "error": "7cd6dc058810: symbol server returned unindexed build 1dae51117a7c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "06a3da622ddf10ab3426532f1dc0679703ab4266328871bdd38a13b6672a5449",
+   "error": "06a3da622ddf: symbol server returned unindexed build ab21b7cd2bf1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "06a3da622ddf10ab3426532f1dc0679703ab4266328871bdd38a13b6672a5449",
+   "error": "06a3da622ddf: symbol server returned unindexed build ab21b7cd2bf1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "33dd3b9c831b95b3904218efae3810fcc1583e7bdb8ba4c4fc8e1b7a8abf1b46",
+   "error": "33dd3b9c831b: symbol server returned unindexed build 720f89e28eeb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "33dd3b9c831b95b3904218efae3810fcc1583e7bdb8ba4c4fc8e1b7a8abf1b46",
+   "error": "33dd3b9c831b: symbol server returned unindexed build 720f89e28eeb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "33dd3b9c831b95b3904218efae3810fcc1583e7bdb8ba4c4fc8e1b7a8abf1b46",
+   "error": "33dd3b9c831b: symbol server returned unindexed build 720f89e28eeb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "33dd3b9c831b95b3904218efae3810fcc1583e7bdb8ba4c4fc8e1b7a8abf1b46",
+   "error": "33dd3b9c831b: symbol server returned unindexed build 720f89e28eeb"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "33dd3b9c831b95b3904218efae3810fcc1583e7bdb8ba4c4fc8e1b7a8abf1b46",
+   "error": "33dd3b9c831b: symbol server returned unindexed build 720f89e28eeb"
+  }
+ ]
+}

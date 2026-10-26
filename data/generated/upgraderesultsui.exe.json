@@ -1,0 +1,44 @@
+{
+ "name": "upgraderesultsui.exe",
+ "builds": [
+  {
+   "sha256": "517de3b55f431c401c55f54fc0d4604e7bf1497263a8f9e21c2f6e22b124f331",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "UpgradeResultsUI.exe",
+   "internal_name": "Add features to Windows Results",
+   "file_description": "Add features to Windows Results",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\UpgradeResultsUI.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "UpgradeResultsUI.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "msspellcheckinghost.exe",
+ "builds": [
+  {
+   "sha256": "78761073cea58405372a7ec6ae1269fa47493f92357c45f48b344b0b0b04efe7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "MsSpellCheckingHost.exe",
+   "internal_name": "MsSpellCheckingHost",
+   "file_description": "Microsoft Spell Checking Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7309 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7309",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MsSpellCheckingHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "MsSpellCheckingHost.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7309",
+   "max_version": "10.0.26100.7309",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,743 @@
+{
+ "name": "systemsettingsadminflows.exe",
+ "builds": [
+  {
+   "sha256": "f1360775323f9a8c45cdd92105547fa5524d23c42ec9b558f2bc582d1b6c11a0",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/575524BCc3000/systemsettingsadminflows.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SystemSettingsAdminFlows.exe"
+  },
+  {
+   "sha256": "bd4ead1d15ec2999de9f7520db3edde7ace73870cbd9be82c6ec2b18bda80cae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/048666D27d000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a69a3c52b0dccae4f88c4e74e93195d2dd0b683b9471a22bf3ed59d1a23119fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/5DE68401c8000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "13199b3159516fa88fab8eaaddf87022a372aa440a7eb85ddb14d6d73aca73ee",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.8864 (rs1_release.260119-1756)",
+   "fixed_file_version": "10.0.14393.8864",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-02-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/696F029F5c000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c4ad43cd3b8e330fbac56819da2daa0f6f204bfa8cc24d39f186d1a7d1acc882",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6783 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6783",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-03-10",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "22631.6783",
+    "22631.6936",
+    "22631.7079",
+    "22631.7219",
+    "22631.7376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/23EB9C40ac000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6434e46ec92349b3bf57f107afbc4af01f749d1f130259ea948f6cc09f238943",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/6E43A3EA83000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "49e3793fb57cbbd8b60c7fef273c8da38a83aa7dcf6e5a07d6170d29c9f6e1c1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.20973 (th1.250321-1753)",
+   "fixed_file_version": "10.0.10240.20973",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-04-09",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/67DE481162000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0913e21d675ec60bddebde04d5eb2c78015551cb2eb63538b95a7401839f5ff3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/C64669D5bf000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d9765dfb3a5cf6446f30c9ffbc64dfd138961b7aff9118dcd347762078b5db60",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6033 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6033",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2025-06-24",
+   "last_seen": "2025-08-19",
+   "os_builds": [
+    "19044.6093",
+    "19044.6216",
+    "19044.6218",
+    "19045.6036",
+    "19045.6159"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/3E6F502383000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "15970ab6e7bbf4c1fdb50d79c2344307f643502e9124b104f7736bb4bb24b6cb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5413 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5413",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-05-27",
+   "last_seen": "2025-05-27",
+   "os_builds": [
+    "22621.5413"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/0B525AE0ac000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "24c978b2203dbcffdf1bc5c0ade504515a87c7a2595535084df7e3b5632984ea",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.1042 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.1042",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/3073BA439d000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5165cf0a4ee0aef6f7514cf4a1649e95f3a5d6bf6c8becbb73259000b10225ae",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2788 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2788",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2023-03-21",
+   "last_seen": "2023-07-11",
+   "os_builds": [
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/1CA350DE82000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f4d9c44c6db84921c9504ae410a2045f24458e207e02dbe1514fdcf48379c6b6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1645 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1645",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-06-15",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/50E9FFC57e000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a7a2e7122d27308df37b7ab718ef3ac239e4216669f51331e34e205f59fb0aec",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1023 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1023",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H2"
+   ],
+   "first_seen": "2021-05-25",
+   "last_seen": "2022-01-25",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/169877DE82000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d6839abe802b9dfff7c69e6123d3842fb0f34b0e536726469b310036145f7272",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/872F6DF270000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9a3c409e10ba5647a42b825c85815784741b898759f91c67ba60e3e06ca9c432",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/685DA1D75e000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "00eb69d870687a0fb3d0542f02743cca59b1202e195e41cc78c42435943e4d20",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1237 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1237",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-11-19",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/4AEF11A983000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8655c9123da7e4077ba827e8295324bd4af8f45124f6577a5a678ed98dd3caff",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1004 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1004",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-02-19",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1004",
+    "16299.1029",
+    "16299.1059",
+    "16299.1087",
+    "16299.1127",
+    "16299.1146",
+    "16299.1150",
+    "16299.1182",
+    "16299.1217",
+    "16299.1237",
+    "16299.1239",
+    "16299.1268",
+    "16299.1296",
+    "16299.1331",
+    "16299.1365",
+    "16299.1387",
+    "16299.1392",
+    "16299.1420",
+    "16299.1421",
+    "16299.1451",
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/2A155C4065000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "934c5eb7299326ba31ccaab217fa96cfc6fcdea4a2f084fb6b8b160c592c430d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemSettingsAdminFlows.EXE",
+   "internal_name": "Settings",
+   "file_description": "Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1176 (th2_release_sec.170913-1848)",
+   "fixed_file_version": "10.0.10586.1176",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-10-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/systemsettingsadminflows.exe/59BA15A760000/systemsettingsadminflows.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SystemSettingsAdminFlows.EXE",
+   "builds": 19,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.20973",
+   "max_version": "10.0.28000.3086",
+   "first_seen": "2017-10-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "7185b5fbed7837a6d01318b42d65405d52620c03c199ebdaa143fe727dcc3301",
+   "error": "7185b5fbed78: UnindexedBuild: symbol server returned unindexed build (unindexed:size=519088)"
+  }
+ ]
+}

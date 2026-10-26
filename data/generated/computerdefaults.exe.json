@@ -1,0 +1,821 @@
+{
+ "name": "computerdefaults.exe",
+ "builds": [
+  {
+   "sha256": "951252e6b89ed7ed7552599e3371fe4e8bfca956e87d6dfe60382d28a8d1b335",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/70997E1212000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8d6f92529d634f3f3e2e098af577bbe8ccad06c4053c652667c208c99cac1381",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/1EA5664413000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "58d097b27cef3b67c6a3cf0fd625a5546f7fb78cd665417bec913c90dad44905",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/ECE1D768f000/computerdefaults.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\ComputerDefaults.exe"
+  },
+  {
+   "sha256": "52b5afb22460ca6032f1436c28c36a164203a65216c7e7455d5a8801fe02e7f7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-03-26",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/0D78815D12000/computerdefaults.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\ComputerDefaults.exe"
+  },
+  {
+   "sha256": "368ee323e67acf04ccd8c68a80142bed6dde8d1f4a00982a31565e416713f343",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/DD6055C7f000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "647df3c631073d34bdc198b3ce1e3808f06bd9752beb86a302771775708f966a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.2989 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.2989",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2022-05-24",
+   "last_seen": "2026-09-14",
+   "os_builds": [
+    "17763.2989",
+    "17763.3046",
+    "17763.3113",
+    "17763.3165",
+    "17763.3232",
+    "17763.3287",
+    "17763.3346",
+    "17763.3406",
+    "17763.3469",
+    "17763.3532",
+    "17763.3534",
+    "17763.3650",
+    "17763.3653",
+    "17763.3770",
+    "17763.3772",
+    "17763.3887",
+    "17763.4010",
+    "17763.4131",
+    "17763.4252",
+    "17763.4377",
+    "17763.4499",
+    "17763.4645",
+    "17763.4737",
+    "17763.4851",
+    "17763.4974",
+    "17763.5122",
+    "17763.5206",
+    "17763.5329",
+    "17763.5458",
+    "17763.5576",
+    "17763.5579",
+    "17763.5696",
+    "17763.5820",
+    "17763.5830",
+    "17763.5936",
+    "17763.6054",
+    "17763.6189",
+    "17763.6293",
+    "17763.6414",
+    "17763.6532",
+    "17763.6659",
+    "17763.6775",
+    "17763.6893",
+    "17763.7009",
+    "17763.7136",
+    "17763.7240",
+    "17763.7249",
+    "17763.7314",
+    "17763.7322",
+    "17763.7434",
+    "17763.7558",
+    "17763.7678",
+    "17763.7683",
+    "17763.7792",
+    "17763.7919",
+    "17763.8027",
+    "17763.8146",
+    "17763.8148",
+    "17763.8276",
+    "17763.8280",
+    "17763.8281",
+    "17763.8389",
+    "17763.8511",
+    "17763.8644",
+    "17763.8647",
+    "17763.8755",
+    "17763.8880",
+    "17763.9020",
+    "17763.9121",
+    "17763.9245",
+    "17763.9247"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/CA836CF117000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ad1c4acacf512a57b2cba85091415608e47fa7d39587e7eee9f59e2e4c511cf6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.1150",
+    "26100.1301",
+    "26100.1457",
+    "26100.1591",
+    "26100.1742"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/DF0E745A12000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "52412ea43026849c7c02dcadee24496bf921cad23efbd10cd4a7d2fab6c2f508",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/446D905Cf000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "74e74475ea1b9bbaf650a16233f664abb7fad013163e1e3cad95046332567eb5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.982 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.982",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-08-19",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/5928626E13000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e107614d53d4bc34ea38d66ff5d5c40e5de6c7c23a1e4e94d2ead93c78b5bb59",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1480 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1480",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-10-15",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/E589075A17000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ab67af5f93af94f8b7130e6b6b3800b91f69494eb3e76690990834848a93bbcb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1480 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1480",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2019-10-15",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1481",
+    "16299.1508",
+    "16299.1565",
+    "16299.1625",
+    "16299.1654",
+    "16299.1686",
+    "16299.1717",
+    "16299.1747",
+    "16299.1775",
+    "16299.1776",
+    "16299.1806",
+    "16299.1868",
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/401E51EC14000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "56b15c941cdbb2e28654b21fc3b6ed8ca75b322b9f86ddec681dda7cc032da4f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/57899133e000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4978ad7650c44d4239ed6b77267dd21d50d33bbd3d875ace4131f2ded3a11804",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/57899B3C10000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f0502be44c7bf39f2a3ce112e22412e994bb262203c19f9eda2a4bb6c4fd1ec9",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/5632D7CBf000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a7d8218839fedb4f348de1d85779dc188b488fc48e7997fc8b8e687479522496",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/5632D751d000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9765f6a4ef2630731553c298e3bf079a7fd28d04413d0ed7dbaa697e81592252",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/559F3C39c000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "25b0165f76aedc2fbd3ee56b917f488035d55a76ae55a3618d7b55867e9283a6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "ComputerDefaults.EXE",
+   "internal_name": "ComputerDefaults",
+   "file_description": "Set Program Access and Computer Defaults Control Panel",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/computerdefaults.exe/559F39B8d000/computerdefaults.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "ComputerDefaults.EXE",
+   "builds": 17,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1709",
+    "1803",
+    "1809"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "a6aef1e2363b236ef754a9a0fadd34ba6e6d2ff36fe649842bac1c582c703a2e",
+   "error": "a6aef1e2363b: symbol server returned unindexed build 5843b9773101; 2d24c68efada: symbol server returned unindexed build 5843b9773101; f8c0af128d77: symbol server returned unindexed build 5843b9773101; a2794be7cb7a: symbol server returned unindexed build 5843b9773101"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "274aa1b7c137d52383e493e85e87dd8545beda2c465b251132f1f708b6d6cb50",
+   "error": "274aa1b7c137: symbol server returned unindexed build 720463085b31; 62f175fb6c67: symbol server returned unindexed build 8f617a273aec"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "274aa1b7c137d52383e493e85e87dd8545beda2c465b251132f1f708b6d6cb50",
+   "error": "274aa1b7c137: symbol server returned unindexed build 720463085b31; 62f175fb6c67: symbol server returned unindexed build 8f617a273aec"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "210d5714497505022aa068167f7ed5bb826abcf53cfe741c9860a2c8dce3f54a",
+   "error": "210d57144975: symbol server returned unindexed build 7fbb25be7b01"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "b1e64d3856c03e75b171974fc2b9b565d4c90dfbe6a0e61684aaed01ed9e6aac",
+   "error": "b1e64d3856c0: symbol server returned unindexed build 4b27ceaef5cc; f2b961fc0151: symbol server returned unindexed build 1239fec91538"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "64959878420834ffdf17823f1cc507261f1cef286ff476777c4f3da7d17afa24",
+   "error": "649598784208: symbol server returned unindexed build f135eec07cdd; fadb0e7a3c8c: symbol server returned unindexed build 18267bd4b665"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "64959878420834ffdf17823f1cc507261f1cef286ff476777c4f3da7d17afa24",
+   "error": "649598784208: symbol server returned unindexed build f135eec07cdd"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "7b0334c329e40a542681bcaff610ae58ada8b1f77ff6477734c1b8b9a951ef4c",
+   "error": "7b0334c329e4: symbol server returned unindexed build 5c85598ce01c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "7b0334c329e40a542681bcaff610ae58ada8b1f77ff6477734c1b8b9a951ef4c",
+   "error": "7b0334c329e4: symbol server returned unindexed build 5c85598ce01c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "7b0334c329e40a542681bcaff610ae58ada8b1f77ff6477734c1b8b9a951ef4c",
+   "error": "7b0334c329e4: symbol server returned unindexed build 5c85598ce01c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "e87c0c6eb4acd8a9bbc660e1cfa6bd805ddaff6cf0190656358f3072d2fb2b61",
+   "error": "e87c0c6eb4ac: symbol server returned unindexed build ffea88e3e8e8; 3da19694f6c7: symbol server returned unindexed build c13029a2dc19; 7b0334c329e4: symbol server returned unindexed build 5c85598ce01c"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "e87c0c6eb4acd8a9bbc660e1cfa6bd805ddaff6cf0190656358f3072d2fb2b61",
+   "error": "e87c0c6eb4ac: symbol server returned unindexed build ffea88e3e8e8; 3da19694f6c7: symbol server returned unindexed build c13029a2dc19; 7b0334c329e4: symbol server returned unindexed build 5c85598ce01c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "288e0259698960d4449f719b5cde33407252bcf03eb94cd6d69973156faf7b00",
+   "error": "288e02596989: symbol server returned unindexed build c5dc25b28d6b; 30fdd8bc1feb: symbol server returned unindexed build c5dc25b28d6b; 42739505846e: symbol server returned unindexed build c5dc25b28d6b; fdad0ce82ad3: symbol server returned unindexed build c5dc25b28d6b"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "9e022c1d6b619731e3315936544ab3be29bd7f8f1005a2af254b9acefbfebd80",
+   "error": "9e022c1d6b61: symbol server returned unindexed build 529ac0198b3f; 876d1c9972d3: symbol server returned unindexed build ebc84e846872"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "9e022c1d6b619731e3315936544ab3be29bd7f8f1005a2af254b9acefbfebd80",
+   "error": "9e022c1d6b61: symbol server returned unindexed build 529ac0198b3f; 876d1c9972d3: symbol server returned unindexed build ebc84e846872"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "a533a1c2994d15071ce7d5b5ccd220f9e1eff97728065a834f362133f5199ac8",
+   "error": "a533a1c2994d: symbol server returned unindexed build 2639384116c0"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "58ba527a7734600f3ff475a38a0cb233a883eff4f09dffe2b23686c9c8253f35",
+   "error": "58ba527a7734: symbol server returned unindexed build e7322133c04c; 6a9960b15f1d: symbol server returned unindexed build dfa0f0c60f43"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "58ba527a7734600f3ff475a38a0cb233a883eff4f09dffe2b23686c9c8253f35",
+   "error": "58ba527a7734: symbol server returned unindexed build e7322133c04c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "4c70fea1c4f9b78955eb840c11c6c81f1d860485e090526a8e8176d98b1be3d6",
+   "error": "4c70fea1c4f9: symbol server returned unindexed build ab417c84a30a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4c70fea1c4f9b78955eb840c11c6c81f1d860485e090526a8e8176d98b1be3d6",
+   "error": "4c70fea1c4f9: symbol server returned unindexed build ab417c84a30a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "4c70fea1c4f9b78955eb840c11c6c81f1d860485e090526a8e8176d98b1be3d6",
+   "error": "4c70fea1c4f9: symbol server returned unindexed build ab417c84a30a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "d382e8de387f1702583be191c9792c56c4c17b3a13c0fe122206479bc019a79e",
+   "error": "d382e8de387f: symbol server returned unindexed build c682d4d2f3c0; e8c1255f0882: symbol server returned unindexed build 965cb3a740b7; 4c70fea1c4f9: symbol server returned unindexed build ab417c84a30a"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "d382e8de387f1702583be191c9792c56c4c17b3a13c0fe122206479bc019a79e",
+   "error": "d382e8de387f: symbol server returned unindexed build c682d4d2f3c0; e8c1255f0882: symbol server returned unindexed build 965cb3a740b7; 4c70fea1c4f9: symbol server returned unindexed build ab417c84a30a"
+  }
+ ]
+}

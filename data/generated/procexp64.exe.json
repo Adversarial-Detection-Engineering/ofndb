@@ -1,0 +1,47 @@
+{
+ "name": "procexp64.exe",
+ "builds": [
+  {
+   "sha256": "cdd3bf8fd68284480361c3673b9db7f48ff8a44317d28a243d26e12192050392",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Procexp.exe",
+   "internal_name": "Process Explorer",
+   "file_description": "Sysinternals Process Explorer",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Process Explorer",
+   "file_version": "17.2",
+   "fixed_file_version": "17.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Process Explorer",
+   "release": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "download_url": "https://live.sysinternals.com/procexp64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Procexp.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "17.2.0.0",
+   "max_version": "17.2.0.0",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "provenance": "parsed"
+  }
+ ]
+}

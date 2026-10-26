@@ -1,0 +1,44 @@
+{
+ "name": "wiawow64.exe",
+ "builds": [
+  {
+   "sha256": "7301b6eaaa5847e6b6e41b020725e3c000211e3de35e99de18aca315a838be68",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wiawow64.exe",
+   "internal_name": "wiawow64.exe",
+   "file_description": "Thunking WIA APIS from 32 to 64 Process",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wiawow64.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wiawow64.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

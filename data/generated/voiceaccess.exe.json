@@ -1,0 +1,44 @@
+{
+ "name": "voiceaccess.exe",
+ "builds": [
+  {
+   "sha256": "d53b32dbe4e7c91aaffd8e9b1d7586ac5f3f2e4882ef017c22377b5ff625a885",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "VoiceAccess.exe",
+   "internal_name": "VoiceAccess.exe",
+   "file_description": "Voice access",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\VoiceAccess.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "VoiceAccess.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

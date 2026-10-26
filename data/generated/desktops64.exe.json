@@ -1,0 +1,47 @@
+{
+ "name": "desktops64.exe",
+ "builds": [
+  {
+   "sha256": "cd88a57f574aa040d9e5dec01b35bd06cf8ac6c0456c47c16bcb380e87ca3565",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Desktops",
+   "internal_name": "Desktops",
+   "file_description": "Sysinternals Desktops",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Desktops",
+   "file_version": "2.01",
+   "fixed_file_version": "2.1.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Desktops",
+   "release": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "download_url": "https://live.sysinternals.com/Desktops64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Desktops",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.1.0.0",
+   "max_version": "2.1.0.0",
+   "first_seen": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "provenance": "parsed"
+  }
+ ]
+}

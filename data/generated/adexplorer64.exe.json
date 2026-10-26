@@ -1,0 +1,47 @@
+{
+ "name": "adexplorer64.exe",
+ "builds": [
+  {
+   "sha256": "e451287843b3927c6046eaabd3e22b929bc1f445eec23a73b1398b115d02e4fb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "AdExp",
+   "internal_name": "AdExp",
+   "file_description": "Active Directory Editor",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals ADExplorer",
+   "file_version": "1.52",
+   "fixed_file_version": "1.52.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals ADExplorer",
+   "release": "2022-11-28",
+   "last_seen": "2022-11-28",
+   "download_url": "https://live.sysinternals.com/ADExplorer64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AdExp",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.52.0.0",
+   "max_version": "1.52.0.0",
+   "first_seen": "2022-11-28",
+   "last_seen": "2022-11-28",
+   "provenance": "parsed"
+  }
+ ]
+}

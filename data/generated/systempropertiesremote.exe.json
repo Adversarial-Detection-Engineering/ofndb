@@ -1,0 +1,64 @@
+{
+ "name": "systempropertiesremote.exe",
+ "builds": [
+  {
+   "sha256": "9454eb34909ebc72b9906bc24878e30e2d7ec08a7719bd4eb0eab9b049399249",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesRemote.EXE",
+   "internal_name": "SystemPropertiesRemote",
+   "file_description": "System Remote Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SystemPropertiesRemote.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "14bd2d4717fa04cccc5d3ff6634898464114842ccb4a8fd11bde172c49b3ba62",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesRemote.EXE",
+   "internal_name": "SystemPropertiesRemote",
+   "file_description": "System Remote Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SystemPropertiesRemote.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SystemPropertiesRemote.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

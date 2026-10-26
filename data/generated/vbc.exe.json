@@ -1,0 +1,712 @@
+{
+ "name": "vbc.exe",
+ "builds": [
+  {
+   "sha256": "6485cdbfe523834495c42a9edcbc749216931cccdab87fadf9d7be1ec3638cbb",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Visual Studio® 2005",
+   "file_version": "8.0.50727.8977",
+   "fixed_file_version": "8.0.50727.8977",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507",
+    "1607"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/665B344511f000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "07310b5d62fe35acbbb26f66a99655526198d46fb650a6852e5409e4f93523fb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "9.0.30729.8971",
+   "fixed_file_version": "9.0.30729.8971",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507",
+    "1607"
+   ],
+   "first_seen": "2024-07-09",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161",
+    "14393.7159",
+    "14393.7259",
+    "14393.7336",
+    "14393.7428",
+    "14393.7515",
+    "14393.7606",
+    "14393.7699",
+    "14393.7785",
+    "14393.7876",
+    "14393.7969",
+    "14393.7973",
+    "14393.8066",
+    "14393.8148",
+    "14393.8246",
+    "14393.8330",
+    "14393.8422",
+    "14393.8519",
+    "14393.8594",
+    "14393.8688",
+    "14393.8692",
+    "14393.8783",
+    "14393.8868",
+    "14393.8957",
+    "14393.9060",
+    "14393.9062",
+    "14393.9140",
+    "14393.9234",
+    "14393.9339",
+    "14393.9418",
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/665A91D7244000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a28e21d9b4466759434cb48295a500b6ea1ac2fda572df3d1a5759daea853d6b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.9032.0",
+   "fixed_file_version": "14.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/6250B6242a2000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3afb73a055b160d122676f31a7a0c444ae20ac1050ef9d3582b895972a41f223",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.9032.0",
+   "fixed_file_version": "14.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/6250B5A8324000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c16336ab32195b08c1678220fbe0256fee865f623e2b32fcfa4d9825fd68977e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.4084.0",
+   "fixed_file_version": "14.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5DDA4422283000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "23c34ff2bb98f028fefab008f83af6c74a5f7b99114e6140cd69212644bf8d3e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.4084.0",
+   "fixed_file_version": "14.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5DDA4E03318000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1baea4a35daab07203753fd875d59e4058c2872a03587bf3ff933546a2ef26a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.4161.0",
+   "fixed_file_version": "14.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5E5EA2E8318000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "19a3cfbc90e877df30e938fb55785ac3ba8e2e30a54ffbb5af6e0ec9430f9e4b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.4161.0",
+   "fixed_file_version": "14.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5E5E9E57283000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9546fcfb6fd30152ae6c302e5c0614172aff7e75399c83e23e3e34ae708d8981",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.3752.0",
+   "fixed_file_version": "14.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5C7A1E79318000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "13ac3f38f590fcbee22c39a1e5b7f70d34a9c8f7799b5821017025c73d487d61",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.3752.0",
+   "fixed_file_version": "14.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5C7A2ADC283000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a766166ec9bfe5098e3d4a78e23ddc4880e13b7cb6232309108fb032665b9800",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.3190.0",
+   "fixed_file_version": "14.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5B694D91292000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "653f0eb8a229c3cb7be012245131562c14a6394fa3d7d5da33412dcccd4c32b2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.3190.0",
+   "fixed_file_version": "14.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5B6942B2316000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "808717d8b6d48a080db9ed2b027d3b0a9ab799b675c1f691e1282cb898cdb4e3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.3056.0",
+   "fixed_file_version": "14.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5A8E5FE6316000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7ba4838e3356b69254730e891add84092e3143016a515ff3e990ce19874a2459",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.3056.0",
+   "fixed_file_version": "14.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5A8E60CB292000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d24a4aec99b0ad9263cfc616d35ee2a7845d70f3ab894c8816294bfce7c5b01e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.2556.0",
+   "fixed_file_version": "14.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/59B84143292000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b113c2808ce2e166f33b7da9aaba56e16aeaef094092cc58edb0624a4afb22a4",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.2556.0",
+   "fixed_file_version": "14.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/59B83B8A316000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "43d5570698a8fc966e63e975cd87399f0572807843026d022fbedc03e3d5e32c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.2046.0",
+   "fixed_file_version": "14.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/589C0D61292000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3745de34553a359608d30ade8a37cde2d699698a1863cbb25fe5b1e5de96fe8f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.7.2046.0",
+   "fixed_file_version": "14.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/589C13E8316000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "80c271f46c3bdf81f07419d866213a49063b242d25a6a37cd18af940bdef4821",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.0.1038.0",
+   "fixed_file_version": "14.0.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5615CBD9298000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6366168f04554599d49a0d386726dc96f9349ff2458863316c7e4621ef8fc664",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.0.1038.0",
+   "fixed_file_version": "14.0.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/vbc.exe/5615DCED31b000/vbc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "ec4f35e5f8a9e39d07459461481b5039bdc09017a25c94cfe34d1e845d86d20f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.10001.0",
+   "fixed_file_version": "14.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\vbc.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "b7c9730e82ba23a1402e391d26a8951e6a5eb972e0ff0b864db61675fca5fe83",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vbc.exe",
+   "internal_name": "vbc.exe",
+   "file_description": "Visual Basic Command Line Compiler",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "14.8.10001.0",
+   "fixed_file_version": "14.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\vbc.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "vbc.exe",
+   "builds": 22,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "8.0.50727.8977",
+   "max_version": "14.8.10001.0",
+   "first_seen": "2015-11-10",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "730cb5f9d0705310ee73adc1e897775d1312e7f14f5fb51152df2ab862ba4a7a",
+   "error": "730cb5f9d070: UnindexedBuild: symbol server returned unindexed build (unindexed:size=3270656)"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-25H2",
+   "sha256": "fd8133fe3a70a79f973f979266525b30f57da16ff17e4f122f281039c0375c01",
+   "error": "fd8133fe3a70: UnindexedBuild: symbol server returned unindexed build (unindexed:size=2743808)"
+  }
+ ]
+}

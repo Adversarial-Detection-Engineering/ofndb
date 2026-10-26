@@ -1,0 +1,64 @@
+{
+ "name": "fixmapi.exe",
+ "builds": [
+  {
+   "sha256": "dd3fd1ed98b46de40a513e737b2ce68d2f4edd962551b1fd787058e5533be5ca",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "FIXMAPI.EXE",
+   "internal_name": "FIXMAPI",
+   "file_description": "FIXMAPI 1.0 MAPI Repair Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\fixmapi.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "2b0756545a16477b255a241a78d244191163a27ae3ad61d0493d378f4f26c092",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "FIXMAPI.EXE",
+   "internal_name": "FIXMAPI",
+   "file_description": "FIXMAPI 1.0 MAPI Repair Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1882 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1882",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\fixmapi.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "FIXMAPI.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1882",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

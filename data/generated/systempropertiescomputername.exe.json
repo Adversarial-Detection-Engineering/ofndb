@@ -1,0 +1,64 @@
+{
+ "name": "systempropertiescomputername.exe",
+ "builds": [
+  {
+   "sha256": "b45dd7a48ce911aa2f99102d27a3f7d26432d3df67ba003c861b340f671027f7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesComputerName.EXE",
+   "internal_name": "SystemPropertiesComputerName",
+   "file_description": "Change Computer Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\SystemPropertiesComputerName.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "445aab2eb325476ae64d43989aff0ffc1fca1c1784070fe9baefef97bee3574e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "SystemPropertiesComputerName.EXE",
+   "internal_name": "SystemPropertiesComputerName",
+   "file_description": "Change Computer Settings",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\SystemPropertiesComputerName.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SystemPropertiesComputerName.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

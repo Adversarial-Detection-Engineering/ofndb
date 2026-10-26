@@ -1,0 +1,39 @@
+{
+ "name": "wt.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "91681be189b4518b8459d97d0e1c5dc200d4f1a61e5709b7c41a3f325ab9df40",
+   "error": "91681be189b4: NotFound: https://msdl.microsoft.com/download/symbols/wt.exe/60393FB11b000/wt.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "592cb19b15f343ef596eb3172f7a53e287008113397f1485ead41b461d0a4849",
+   "error": "592cb19b15f3: NotFound: https://msdl.microsoft.com/download/symbols/wt.exe/62508E3F1c000/wt.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "592cb19b15f343ef596eb3172f7a53e287008113397f1485ead41b461d0a4849",
+   "error": "592cb19b15f3: NotFound: https://msdl.microsoft.com/download/symbols/wt.exe/62508E3F1c000/wt.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "67e814f1bfc8b56d2e4996d42782bb84cb265b3b2b6fbd1cc1a7ab1c6a2c1803",
+   "error": "67e814f1bfc8: NotFound: https://msdl.microsoft.com/download/symbols/wt.exe/65B9AD0A25000/wt.exe"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "67e814f1bfc8b56d2e4996d42782bb84cb265b3b2b6fbd1cc1a7ab1c6a2c1803",
+   "error": "67e814f1bfc8: NotFound: https://msdl.microsoft.com/download/symbols/wt.exe/65B9AD0A25000/wt.exe"
+  }
+ ]
+}

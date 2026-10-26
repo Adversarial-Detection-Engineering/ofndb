@@ -1,0 +1,64 @@
+{
+ "name": "comp.exe",
+ "builds": [
+  {
+   "sha256": "7443215246a8bbbd85eb512ee01301c272a04ecc73713558a7f71b397dce991a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Comp.Exe",
+   "internal_name": "Comp",
+   "file_description": "File Compare Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\comp.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "4da6ca5035f962369faa8d8e70c339307bb3141f9cf94386fea21c37087a7eac",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Comp.Exe",
+   "internal_name": "Comp",
+   "file_description": "File Compare Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\comp.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Comp.Exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

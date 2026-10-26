@@ -1,0 +1,499 @@
+{
+ "name": "runtimebroker.exe",
+ "builds": [
+  {
+   "sha256": "cda8add04485fac3a594c0bfec742c314bf070edb46c4b699aa6eb94d09deef1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2804 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2804",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/703C1D1A1f000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7b038dff9e8efba9a6fb445dfc320bd0953c22a4bd62ee2d2178b0ba11b167bd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/5E7E07D91c000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1a3db4a21e93f4154c002e16659a03f90046339683042ee5e3a8126ef98102d1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/80320C011e000/runtimebroker.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\RuntimeBroker.exe"
+  },
+  {
+   "sha256": "dbf90b115cfc26b5a59dd5bf9c20d94a11ffe9d2f979831ebf7cf496eeecbd0e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/F82E1B381f000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3a749e3ba54adab0825320b213ba2bc57a80440e46cda4d11b6b1cacc624c844",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.18818 (th1.210107-1259)",
+   "fixed_file_version": "10.0.10240.18818",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/5FF7B4CB16000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e86870769ee6c797e09457bd99c58d9bf2303cf0193a24ef9b1222c2c3daf628",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526",
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/5B78739C1c000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b13150572a220b1e868d071581e0d094e92eb741aa92fd7fb6ad0577fa11aee8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/BB378D2D1c000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6b86ebd34b1cc37d0f4f2189b8735d699814f47854819f18f327d905647321df",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1176 (th2_release_sec.170913-1848)",
+   "fixed_file_version": "10.0.10586.1176",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2017-10-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/59BA296517000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "20a7eb74efd23933a5c0887d3d8ce66fea009a6cd257508cb4b0eb70f8d27c57",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RuntimeBroker.exe",
+   "internal_name": "RuntimeBroker.exe",
+   "file_description": "Runtime Broker",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/runtimebroker.exe/57899B96c000/runtimebroker.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RuntimeBroker.exe",
+   "builds": 9,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1803",
+    "1809",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.18818",
+   "max_version": "10.0.28000.2804",
+   "first_seen": "2016-08-02",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "032233b9effcaf9a5446687ff76885ce2f69c89a277fd3bef36c3abe763f29e9",
+   "error": "032233b9effc: UnindexedBuild: symbol server returned unindexed build (unindexed:size=128440)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "5f40eec9673436ae1ea4dd3770f773c26b3d035a6a4decfc981571168193b904",
+   "error": "5f40eec96734: symbol server returned unindexed build bd2d42f67f38; 001ba5110910: symbol server returned unindexed build ac9ec251ccb5; 0fa8913be572: symbol server returned unindexed build 09565a115a39; 67f0958b3e97: symbol server returned unindexed build 271657484730"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "5f40eec9673436ae1ea4dd3770f773c26b3d035a6a4decfc981571168193b904",
+   "error": "5f40eec96734: symbol server returned unindexed build bd2d42f67f38; 3074fa572ca1: symbol server returned unindexed build 3c0980c77838"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "42e47118ee2a69393bddee89584e9b73e03a66ca5fe9206c3f22da2a50311048",
+   "error": "42e47118ee2a: symbol server returned unindexed build b431c5bbb171"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "87976f3430cc99bc939e0694247c0759961a49832b87218f4313d6fc0bc3a776",
+   "error": "87976f3430cc: symbol server returned unindexed build 76da5ece3e01"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "5e979c34a5feb14ed18f36e956b0614ff305c8596dd01571a2ebabdc8131ce77",
+   "error": "5e979c34a5fe: symbol server returned unindexed build 1e97a97f86f7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "4d81cb82c4c5ea303570d7d4abb2562993600a478464a18264bf29f79dd535b8",
+   "error": "4d81cb82c4c5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=98144); 5e979c34a5fe: symbol server returned unindexed build 1e97a97f86f7"
+  }
+ ]
+}

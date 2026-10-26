@@ -1,0 +1,441 @@
+{
+ "name": "offlinescannershell.exe",
+ "builds": [
+  {
+   "sha256": "cbcd8573b0427ba0d0a9d55e122526aa90d4abce47c14d87101fa2e556834256",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.17763.9020 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.17763.9020",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9020",
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/84E3F0B476000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d63cb622a51c463f7284ea483a98a3c145eb4fbfd06b8cc75763ec1d92a3e7ac",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1907.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1907.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "28000.2525"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/0A62091797000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c16b8fb0aa829cb7dc1b4d6dc86cdfbe25247bb8b19b85e66b5e3b22bd16b295",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1907.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1907.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2022-05-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/4EFAFB6390000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a5512ce7f7ce1899c8ba9f7a2ce6c1acbd5d083582b37eea3c6f592e5f727922",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1907.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1907.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2023-10-10",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "19044.3570"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/AF66A78A7a000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cb18a4de52e9add531494838ffe80fb86be2e1f97210243ff39dce4cfa1c5e90",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1907.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1907.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-06-02",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/18F4C29E7a000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "eef3c6179a7454975bd8caf0c5b73246a533bbede24dd0665821098bf04e31cf",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1907.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1907.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2020-11-30",
+   "last_seen": "2021-05-25",
+   "os_builds": [
+    "19041.1023",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/96F4980D7a000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b7d4c33f8704d408d4b02dddd1950fdc6883227154d656f5963054376814b18f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.18362.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.18362.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/3A8CD0CF76000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e4f866ba4a6e916a7c8d85a113569161c323f053b1ae40e81b39726457b519df",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.13.17134.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.13.17134.1",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/6E3E28C375000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7301188f5fe35916369675d8f9f733001d3c1e1ce0cb865ef259924079eedad7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.12.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.12.16299.15",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/8376E37275000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "62a7b4c0f237c14646cd0cce4852a7b2c87f3e7d20e5e6956478ec02e8da3cd8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.11.15063.0 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.11.15063.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/offlinescannershell.exe/0CEDC24373000/offlinescannershell.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5d84674faf0278c025cb7ece461cd19f83359334118dfc1be73bf9e592e44529",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OfflineScannerShell.exe",
+   "internal_name": "OfflineScannerShell",
+   "file_description": "Windows Defender Offline Shell",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "4.18.1907.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "4.18.1907.16384",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Program Files\\Windows Defender\\Offline\\OfflineScannerShell.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "OfflineScannerShell.exe",
+   "builds": 11,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-26H1",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.11.15063.0",
+   "max_version": "4.18.18362.1",
+   "first_seen": "2017-04-05",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "d1f81d7c43b522e39f0fd14e1c25f97e7894cebbe1f43320cbb66be1528a7a72",
+   "error": "d1f81d7c43b5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=581856)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "019b06dc9b7ff805363b51987979f5797cc5e4538e7df0cff97b38b974e9b316",
+   "error": "019b06dc9b7f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=624080); d1f81d7c43b5: UnindexedBuild: symbol server returned unindexed build (unindexed:size=581856)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "5d84674faf0278c025cb7ece461cd19f83359334118dfc1be73bf9e592e44529",
+   "error": "5d84674faf02: symbol server returned unindexed build 2c9b36059082; 6537eade14cf: UnindexedBuild: symbol server returned unindexed build (unindexed:size=624104); b94574f73985: UnindexedBuild: symbol server returned unindexed build (unindexed:size=624080); b356bf36cdb7: symbol server returned unindexed build cfbe98f37c93"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "08bd4cd99ad1d6de32a9aae40bcda5c201ac72797fa31443ac988c79814e0b9e",
+   "error": "08bd4cd99ad1: UnindexedBuild: symbol server returned unindexed build (unindexed:size=587160)"
+  }
+ ]
+}

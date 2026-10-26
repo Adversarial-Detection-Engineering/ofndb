@@ -1,0 +1,44 @@
+{
+ "name": "sessionmsg.exe",
+ "builds": [
+  {
+   "sha256": "b8fbf0c0988d63c1b02f86e41678f23fd3b17e44b4e48529c419688143b6f602",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SessionMsg.exe",
+   "internal_name": "SessionMsg",
+   "file_description": "Microsoft Remote Desktop Services Session Message Server",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\sessionmsg.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SessionMsg.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

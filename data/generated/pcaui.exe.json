@@ -1,0 +1,64 @@
+{
+ "name": "pcaui.exe",
+ "builds": [
+  {
+   "sha256": "9b678ac149a6c1b099d7f00b3679753426ecd0a9d0f79eff804b1e16b952b851",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pcaui.exe",
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant User Interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\pcaui.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "6abdfa9ae3bb5857f9348e92d809b46db0bc8c5578922a71df5d9ae4042fe4ac",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pcaui.exe",
+   "internal_name": null,
+   "file_description": "Program Compatibility Assistant User Interface",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\pcaui.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pcaui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

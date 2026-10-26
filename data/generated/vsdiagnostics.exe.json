@@ -1,0 +1,44 @@
+{
+ "name": "vsdiagnostics.exe",
+ "builds": [
+  {
+   "sha256": "05c726932b4e7e36329b9533bb48edaaf2db5a8d7f78f28a1eeea551c43a558d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "VSDiagnostics.exe",
+   "internal_name": "VSDiagnostics.exe",
+   "file_description": "VSDiagnostics",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Visual Studio®",
+   "file_version": "17.14.37813.3",
+   "fixed_file_version": "17.14.37813.3",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector\\VSDiagnostics.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "VSDiagnostics.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "17.14.37813.3",
+   "max_version": "17.14.37813.3",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

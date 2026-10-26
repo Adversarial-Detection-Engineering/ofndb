@@ -1,0 +1,64 @@
+{
+ "name": "mrinfo.exe",
+ "builds": [
+  {
+   "sha256": "956e3b3f28761ebe93e0995dbfd8443af7ac05af337750afb2a831a8755e4cb9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mrinfo.exe",
+   "internal_name": "mrinfo.exe",
+   "file_description": "Multicast Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.2161 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.2161",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\MRINFO.EXE",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "5247114ccf0d0218696ec6d9d7730296ce10707f6fc0d1db610d56890edef42e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mrinfo.exe",
+   "internal_name": "mrinfo.exe",
+   "file_description": "Multicast Information",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\MRINFO.EXE",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mrinfo.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.2161",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

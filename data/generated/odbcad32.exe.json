@@ -1,0 +1,612 @@
+{
+ "name": "odbcad32.exe",
+ "builds": [
+  {
+   "sha256": "af1e91e5be1e5423126379374cf8323b4f150698ccb564ca996de71cffa75387",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1251 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1251",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-02-10",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1575",
+    "28000.1643",
+    "28000.1719",
+    "28000.1764",
+    "28000.1836",
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/1AA7082F16000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "894b4701462ff994a7f7227baae0c3fe4d360df501a641f2b396831625113a7b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/70AEE0CD16000/odbcad32.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\odbcad32.exe"
+  },
+  {
+   "sha256": "35a800867169a05f1a883ccb324f1eba36481ca3b39865d24ee30eec14048b06",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7019 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7019",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2025-10-28",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7019",
+    "26200.7171",
+    "26200.7309",
+    "26200.7462",
+    "26200.7623",
+    "26200.7627",
+    "26200.7628",
+    "26200.7705",
+    "26200.7840",
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/975DFE7B19000/odbcad32.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\odbcad32.exe"
+  },
+  {
+   "sha256": "147921c5047bf967afe94876177d9d9504165207ffe0f8572f773c6da52a9022",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/DB37C62819000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fde6de4356fc0bfe3efaead89ac283d36ea14bdfdd8d4d5c7b6c9248efd92210",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/31CAF14B19000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "a9bdc19ffc7bab1838dd5df7f56faf352db3bdb6aae0ab2b889f428443e31a26",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/4FFCB4B116000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b03b05fce5087633fae095e4fe95eda70eec93ac4840ef628f3fc508e7e0ae2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/5789913216000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "04375aba7e274a68c26e0bd70ae93f7b0b3b1fb7a9e757a368bddec36e31da18",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/57899B9318000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f28ec229c7fa257ba309590f24f189e7cecbfc7ecd30cee11c11286a81929bea",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/5632D80B16000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6ca8a93820760c66959270c03d911f6b870d6943b1302b8143f351f1428eec64",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/5632D87218000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b4be4ca9053d83301bdd01e6e2568af791aa819798f29fc8cf85eab4037edb4e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/559F3DCA16000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "33dd559b3b7e3522dec56e935fafac24f67f229c5c4fc4cb2795583a62b82b32",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "odbcad32.exe",
+   "internal_name": "odbcad32.exe",
+   "file_description": "ODBC Administrator",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/odbcad32.exe/559F3B3018000/odbcad32.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "odbcad32.exe",
+   "builds": 12,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2015-07-29",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "5ccbd949626ecd38a0dd5096b8a9491dcd8001b2a6034b08fef5f05e83d07b5e",
+   "error": "5ccbd949626e: symbol server returned unindexed build a2520c2de9d5"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "d8b9e83ff79cae63dc841df845f1b6c050baf32481f3c357baa8c3b8617ef51c",
+   "error": "d8b9e83ff79c: symbol server returned unindexed build b873ec9b621d; de81891d9f95: symbol server returned unindexed build 6e82fb2243f9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "d8b9e83ff79cae63dc841df845f1b6c050baf32481f3c357baa8c3b8617ef51c",
+   "error": "d8b9e83ff79c: symbol server returned unindexed build b873ec9b621d; de81891d9f95: symbol server returned unindexed build 6e82fb2243f9"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "9d8805ef5e4dbea70d2e9f7a9ab5001f30a66b561bf4bf89654279372dc066c2",
+   "error": "9d8805ef5e4d: symbol server returned unindexed build 279d9151a8ef"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "1cb2a5a3f501ac34bce96820d11ffbded5201c0bc641b1b829d9b631dfc8c387",
+   "error": "1cb2a5a3f501: symbol server returned unindexed build 290001ea73b0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "0fe9da44b9bf55c3e95715b50c9b6e85cc41ad8b0e78527bdeb15428876bb513",
+   "error": "0fe9da44b9bf: symbol server returned unindexed build f14c954f0b12"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "e98522037ac6de502178b3db469c54c7f6f1fcdcaca302c96ed0a9cd1c2e3e45",
+   "error": "e98522037ac6: symbol server returned unindexed build 84caac0fceb6"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "47f1c7ed7b339944dc1990e9d8c491c636c7dfe4683d9becf28b83e0f1524d71",
+   "error": "47f1c7ed7b33: symbol server returned unindexed build 065cfe463f6d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "47f1c7ed7b339944dc1990e9d8c491c636c7dfe4683d9becf28b83e0f1524d71",
+   "error": "47f1c7ed7b33: symbol server returned unindexed build 065cfe463f6d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "a7de309d8a5a68fb4623d41914ab5f03d6ff7bb2e0b5927afb402da137be6ca9",
+   "error": "a7de309d8a5a: symbol server returned unindexed build 8795fa736eca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "a7de309d8a5a68fb4623d41914ab5f03d6ff7bb2e0b5927afb402da137be6ca9",
+   "error": "a7de309d8a5a: symbol server returned unindexed build 8795fa736eca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "a7de309d8a5a68fb4623d41914ab5f03d6ff7bb2e0b5927afb402da137be6ca9",
+   "error": "a7de309d8a5a: symbol server returned unindexed build 8795fa736eca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "a7de309d8a5a68fb4623d41914ab5f03d6ff7bb2e0b5927afb402da137be6ca9",
+   "error": "a7de309d8a5a: symbol server returned unindexed build 8795fa736eca"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "a7de309d8a5a68fb4623d41914ab5f03d6ff7bb2e0b5927afb402da137be6ca9",
+   "error": "a7de309d8a5a: symbol server returned unindexed build 8795fa736eca"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "2dee4a2e8442c67d5a4686486b82537060d6fb07120b36af33679934dde7d694",
+   "error": "2dee4a2e8442: symbol server returned unindexed build 8510978f39c9"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "01ce0fff97e6dc9d0dd84334e4981116179fc28cf4e904c5e26d5fca0fcddf18",
+   "error": "01ce0fff97e6: symbol server returned unindexed build 197e9a0c866a; 5b865c28e7ba: symbol server returned unindexed build 197e9a0c866a; dbe9da94c9e7: symbol server returned unindexed build 687a63e99781"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "01ce0fff97e6dc9d0dd84334e4981116179fc28cf4e904c5e26d5fca0fcddf18",
+   "error": "01ce0fff97e6: symbol server returned unindexed build 197e9a0c866a; dbe9da94c9e7: symbol server returned unindexed build 687a63e99781"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "f28a20cd1ecf6358f330fab21f823050426aa50bed6c420a1807000cb025cac2",
+   "error": "f28a20cd1ecf: symbol server returned unindexed build a51d517b2a49"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "d78a0486ecb90ee6463bd42b931465ecce5462223f7c0f309f1e7a2bf5f0112a",
+   "error": "d78a0486ecb9: symbol server returned unindexed build db7c70cdab4d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "778c452df016c8e2e78e60d7f25e4f126c386d3ccf918b0d6a6b302f9b8043dc",
+   "error": "778c452df016: symbol server returned unindexed build 2e4419574bc5"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "6e28c875bfa690d77cdc3fe2e9e1209ec9517034daede8bd28903e3fb6915d40",
+   "error": "6e28c875bfa6: symbol server returned unindexed build ffae0e841c54"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "fbde7ab647d5a14e24454d1f2479d1b6844e910b9949f0e977eb3885946567e4",
+   "error": "fbde7ab647d5: symbol server returned unindexed build 352e4c956eff"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "fbde7ab647d5a14e24454d1f2479d1b6844e910b9949f0e977eb3885946567e4",
+   "error": "fbde7ab647d5: symbol server returned unindexed build 352e4c956eff"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "4d08777448e389ef4355918153fc40bbe8861b66d1f4e48cfdb68b9e9838875b",
+   "error": "4d08777448e3: symbol server returned unindexed build e165d30f4971"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "4d08777448e389ef4355918153fc40bbe8861b66d1f4e48cfdb68b9e9838875b",
+   "error": "4d08777448e3: symbol server returned unindexed build e165d30f4971"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "4d08777448e389ef4355918153fc40bbe8861b66d1f4e48cfdb68b9e9838875b",
+   "error": "4d08777448e3: symbol server returned unindexed build e165d30f4971"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "4d08777448e389ef4355918153fc40bbe8861b66d1f4e48cfdb68b9e9838875b",
+   "error": "4d08777448e3: symbol server returned unindexed build e165d30f4971"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "4d08777448e389ef4355918153fc40bbe8861b66d1f4e48cfdb68b9e9838875b",
+   "error": "4d08777448e3: symbol server returned unindexed build e165d30f4971"
+  }
+ ]
+}

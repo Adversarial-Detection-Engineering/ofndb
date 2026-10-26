@@ -1,0 +1,1161 @@
+{
+ "name": "mmc.exe",
+ "builds": [
+  {
+   "sha256": "e4ffe2a92db159a0c345d138163d35833d1a11f21f8235050e8d885dfaf7defe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9121",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/2D4B6C361cd000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d18dde15f99ad5a56a708a1796ea078f658a45076bb163a04c2c63984e177d88",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3231 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3231",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/77926FD01d5000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b6f2c9929fc820dbf12660eb530510643463cc3f41f8994639fb6c062078a63d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9121 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9121",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-08-11",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9121",
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/EEAE164E168000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "88d5e493234d1308e2a55022853812073c402161fcef7dfe97331924510fccaf",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/6AC8D65417f000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "85e0d634231d3e1502e4edbb74367321e19ad66cbea7e0f230e72b5fbef7b70b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/6AC8D73E1df000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "76c13080afd219a8e2f8fb7f81731a1e7298f349229662edf8c8335881117b7d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7802 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7802",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/439CBD15165000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6e81a27d5b9df8131c6e8286ef73d6d064b465e2cfed72a99c6b51e139a5ee12",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/C50315E81d4000/mmc.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\mmc.exe"
+  },
+  {
+   "sha256": "22c0d828a53e0e95560ae029ce1f50a98bcf4d4fae4c34fecdbd67fa33ca87ae",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/F434B832181000/mmc.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\mmc.exe"
+  },
+  {
+   "sha256": "dda30e55afff1d773cdb3550602ff9712c7069283793e28695c07a12659653d3",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.3086 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.3086",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-09-22",
+   "os_builds": [
+    "28000.3086"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/E0D7C0C0181000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "df7ddfef15cc1acb2d429c18740866215c512b9405e7e06171d4d2d45b560847",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7548 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7548",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-07-14",
+   "last_seen": "2026-07-14",
+   "os_builds": [
+    "19045.7548"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/7DD54ABA1e3000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f72331ce9f3344f11c98ca25853ea32a9d5560f3e08aa033407a01bd4a18b0be",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21072 (th1.250630-1851)",
+   "fixed_file_version": "10.0.10240.21072",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/686379D4183000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f32bf84384bd4614d0e4dc598e24684cb200177d9c11d69bf56700a130268fbe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21072 (th1.250630-1851)",
+   "fixed_file_version": "10.0.10240.21072",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-07-08",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/68637B7F1e7000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fedabc19d3c041b23bdc5ceb13fd1476271d86af939b0fd86ef4882070c2918d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/BC3EC3ED179000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "17c15cbe812b0b006b21f3e655b2f50e5105e5519912c8a045732dd296b06085",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-09-30",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/2F03B40C1c9000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "78bf602ea3656dbc7260728bb0d716310799212cd27e0bd0d5583bc759a6edb9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6280 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6280",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-08-26",
+   "last_seen": "2025-08-26",
+   "os_builds": [
+    "19045.6282"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/BA8632CA165000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "75775c903b4382d2a0ca5a407e93264c1478423fc926e9b9030a2af4f368f16d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.6157 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.6157",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-07-22",
+   "last_seen": "2025-07-22",
+   "os_builds": [
+    "19045.6159"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/19CC3F091e3000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "dfa6e8fd5f29587e9cbe4d00b53167978711e0dc337ba36a1e2931a2b04630aa",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/C6CAFC1A172000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "97ec1f9b0aeb151c395b19aee00b46780554b88649cadaab7e565a7b0b6f3b4a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.3260 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.3260",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2024-10-08",
+   "last_seen": "2024-10-08",
+   "os_builds": [
+    "22000.3260"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/F4BCC89E1db000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3519db09c7d58615c5a5a8ef508e163e63ecb428f113021e0e3cd47fb7f39c9e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2604 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2604",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2023-02-14",
+   "last_seen": "2023-04-11",
+   "os_builds": [
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/F7A3C5631e2000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b910ff0bcdf4d823adedbb322928e6c4b22afa0b271c48cd4b31834a7b8a029c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1316 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1316",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1316",
+    "18363.1350",
+    "18363.1377",
+    "18363.1379",
+    "18363.1411",
+    "18363.1440",
+    "18363.1441",
+    "18363.1443",
+    "18363.1474",
+    "18363.1500",
+    "18363.1533",
+    "18363.1556",
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/BFD4466215e000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "895eef1eda5700a425934ae3782d4741dfefb7deafa53891bde490150187b98a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/520558931d9000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "095b584662c42b9dac72ff2505bceb86b80b9bb10a7875d0f0c17bec6fbff583",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.746 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.746",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "19041.1023",
+    "19041.1052",
+    "19041.1055",
+    "19041.1081",
+    "19041.1082",
+    "19041.1083",
+    "19041.1110",
+    "19041.1151",
+    "19041.1165",
+    "19041.1202",
+    "19041.1237",
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/25BDC28815e000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "3ac30e4c8c65ce9a601339c15ef94ed1a8e98d4bc33dd05f9de490125af3afe7",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/950DA6DF166000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "25da2bec6457b591acde347dd7294559c543fbe7d614938dc8d90e04d7e6c758",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/265E630D1cc000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "995f36fe921459f634a197188900f5f5a7514cb34e5c9bea9013a770c6cae770",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/0F935E721d9000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "296b7cf47de4e6b78c86cd500934822dd21d5efcdbe3ce0521353731bdc0af6e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2614 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2614",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2614",
+    "15063.2642",
+    "15063.2679"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/7068165D16b000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f914f950da7f471f0b1ed6ad5aab01d8e7cd27fb425835af803d9f7f8ed659e4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.900 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.900",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/5372BFDE15e000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4b5a965213cf312e7b576a3b41a48714d8abb91cb38012398983c5d8619dff42",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.900 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.900",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/458CB2991be000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "bac89a79d490f55016a52102c3a586ed26f90aff3a1b7d1afd2b7b88b0d2e155",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/4CD2B3F9171000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7d63ffa2031b9e764c8876e4a0a4af9b250fc26d44f4c2d2c36146b50ea4480d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.1932 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.1932",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-06-09",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.1932",
+    "16299.1937",
+    "16299.1992",
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/E392C3261df000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "664601fccfd06cbfcb090eb53fbe035fc5b0ef415e53913ae58e8d9347fcb976",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.672 (th2_release_sec.161024-1825)",
+   "fixed_file_version": "10.0.10586.672",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-11-08",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/580EF8D91e6000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "1b27e45917f31abb92a4aa78c10beb9d0fe2dbc3b0ac774599c865ec74c39565",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "mmc.exe",
+   "internal_name": "mmc.exe",
+   "file_description": "Microsoft Management Console",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.672 (th2_release_sec.161024-1825)",
+   "fixed_file_version": "10.0.10586.672",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-11-08",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/mmc.exe/580EEC03183000/mmc.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "mmc.exe",
+   "builds": 32,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.21072",
+   "max_version": "10.0.28000.3231",
+   "first_seen": "2016-11-08",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "2cd4a208713fa870bf3a715e728ee0d14e178e0c16a0865cb28913f97f7178e7",
+   "error": "2cd4a208713f: symbol server returned unindexed build f2f32bd03a88; e02f5317d694: symbol server returned unindexed build 7d1dfd9ad71f; 03cee72be770: symbol server returned unindexed build b3047fe9484e; d82f4fe27df1: symbol server returned unindexed build fb2cc773c75d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "2cd4a208713fa870bf3a715e728ee0d14e178e0c16a0865cb28913f97f7178e7",
+   "error": "2cd4a208713f: symbol server returned unindexed build f2f32bd03a88; b51fa04e1ab1: symbol server returned unindexed build 75c16019e81d"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "b8f32c4aa9756fe56fa4a52b13e98787f21cceb03874dc970ad4aad21cd4d455",
+   "error": "b8f32c4aa975: symbol server returned unindexed build cfe9dffda096; b0ad764277fb: symbol server returned unindexed build 812d321347d6"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "c705a5f520974ece2aa6a83c3c7015b42d2fc22aabba77a0ef9c1ea73adc9371",
+   "error": "c705a5f52097: symbol server returned unindexed build 259053594a75; 31d1d16a5ac4: symbol server returned unindexed build 6b9eade53703; e7ef1b96460d: symbol server returned unindexed build b1eac6228c5a; 86394c59986f: symbol server returned unindexed build 22b950692fd7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "c705a5f520974ece2aa6a83c3c7015b42d2fc22aabba77a0ef9c1ea73adc9371",
+   "error": "c705a5f52097: symbol server returned unindexed build 259053594a75; cffa995b6c17: symbol server returned unindexed build f5bb8b6101e2"
+  }
+ ]
+}

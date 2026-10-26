@@ -1,0 +1,47 @@
+{
+ "name": "ru64.exe",
+ "builds": [
+  {
+   "sha256": "c48a4859ac614ed008bec1cee58e85ec23272538a4ed73823a2050e2e048e0fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Regsize1",
+   "internal_name": "Ru",
+   "file_description": "Registry size usage reporter",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Ru",
+   "file_version": "1.2",
+   "fixed_file_version": "1.20.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Ru",
+   "release": "2020-04-30",
+   "last_seen": "2020-04-30",
+   "download_url": "https://live.sysinternals.com/ru64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Regsize1",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.20.0.0",
+   "max_version": "1.20.0.0",
+   "first_seen": "2020-04-30",
+   "last_seen": "2020-04-30",
+   "provenance": "parsed"
+  }
+ ]
+}

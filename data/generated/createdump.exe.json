@@ -1,0 +1,21 @@
+{
+ "name": "createdump.exe",
+ "builds": [],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "11-24H2",
+   "sha256": "1a9119be3a89a42b747dedf85dc6683b3ec969c8c3e3452a84e4ba23541e48e4",
+   "error": "1a9119be3a89: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "dafbffe2e0477423a6cb66d74a3c692d60d29773ec60d00ccbc9f6acc45a91c0",
+   "error": "dafbffe2e047: UnindexedBuild: symbol server returned unindexed build (unindexed:size=65760); 033afc6493d0: UnindexedBuild: symbol server returned unindexed build (unindexed:size=65848); 054f76b4727c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=65848)"
+  }
+ ]
+}

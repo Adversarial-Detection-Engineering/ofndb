@@ -1,0 +1,44 @@
+{
+ "name": "tsdiscon.exe",
+ "builds": [
+  {
+   "sha256": "4d461900d1ec98c44d8cdaf794683af25f7fe9dd33a8b618673cf5b10d8712e7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tsdiscon.exe",
+   "internal_name": "tsdiscon",
+   "file_description": "Session Disconnection Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7623 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7623",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tsdiscon.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "tsdiscon.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.7623",
+   "max_version": "10.0.26100.7623",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

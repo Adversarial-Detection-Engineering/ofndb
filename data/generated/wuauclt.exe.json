@@ -1,0 +1,341 @@
+{
+ "name": "wuauclt.exe",
+ "builds": [
+  {
+   "sha256": "2916d0077e42899aa2e0eecf4c9601c56bba5feec2262e6bd831666cf091c016",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9611 (rs1_release.261009-0224)",
+   "fixed_file_version": "10.0.14393.9611",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9612"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/6AC8D97Fb000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0f8f0e13e0127417bfb1324bd8b557c5a0db208f1eac49c72f16d5bcda717477",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.21161 (th1.251008-0227)",
+   "fixed_file_version": "10.0.10240.21161",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2025-10-14",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.21161"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/68E67DD8b000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fabf47dbb0413fd25fc03ddb3b6a57e510561c568b5a669d44cf9e06234c5460",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.2193 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.2193",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-10-25",
+   "last_seen": "2022-11-08",
+   "os_builds": [
+    "19042.2193",
+    "19042.2194",
+    "19042.2251"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/1788490612000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d10ce11336758c98954370f0432a6b1ef6c67be4e9077fa0f912dadf9d824918",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.2087 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.2087",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/F529C32710000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fdcd506229f4a4d49b1ced4cb82b75b168c30650ebf073bd99ea7ab8047b2485",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.2679 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.2679",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2021-03-09",
+   "last_seen": "2021-03-09",
+   "os_builds": [
+    "15063.2679"
+   ],
+   "signing_status": "Unknown",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/387D1B25b000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9d388324d21560f2ab7770f2c64e88badb74607fba543afb788b5566924334c8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.1540 (th2_release_sec.180322-1844)",
+   "fixed_file_version": "10.0.10586.1540",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2018-04-10",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1540"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/5AB4B319b000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7a93050eca17d350ca24b439fa26b883f6852b25f454c9c145e4074a1ce84cbe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.15 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.15",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-11-14",
+   "os_builds": [
+    "16299.64"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wuauclt.exe/9CAB28C8f000/wuauclt.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "87ac74ca455abb09d80cf3352e1399eeaa5c44bbb194d4430f91ac3e98890221",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wuauclt.exe",
+   "internal_name": "wuauclt.exe",
+   "file_description": "Windows Update",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "1510.2610.1012.0",
+   "fixed_file_version": "1510.2610.1012.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wuauclt.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wuauclt.exe",
+   "builds": 8,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "20H2"
+   ],
+   "min_version": "10.0.10240.21161",
+   "max_version": "1510.2610.1012.0",
+   "first_seen": "2017-10-17",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "None",
+   "windows_version": "1507",
+   "sha256": "b4c1753c195e8116562ab608d041ca15d7bbe0e831755f485bfcc3ee26b51412",
+   "error": "b4c1753c195e: NotFound: no timestamp/image size in winbindex, no symbol server URL"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "41d517ed9737eb66388b528496336448050ac3e93ebc8eebe04c6e8efe7a03d6",
+   "error": "41d517ed9737: UnindexedBuild: symbol server returned unindexed build (unindexed:size=117248); c4fb0cd946eb: UnindexedBuild: symbol server returned unindexed build (unindexed:size=117248); 730473630966: UnindexedBuild: symbol server returned unindexed build (unindexed:size=117248); feff2675c698: UnindexedBuild: symbol server returned unindexed build (unindexed:size=117248)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "98984bf26184419be146b0c8b4babf3dbad1020fc983d1134cdcdc22259defdb",
+   "error": "98984bf26184: symbol server returned unindexed build 2d1815916b4f; 75e6f844f7a5: symbol server returned unindexed build 2d1815916b4f; 1fa1cd5bdb73: symbol server returned unindexed build 4c6c4bb23d1f; 095149dcc7b1: symbol server returned unindexed build c4e055a26bf4"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "e517bc4fa14989a0522771261e46fa579f845bd49d12e302ba5a0c3a258e1403",
+   "error": "e517bc4fa149: UnindexedBuild: symbol server returned unindexed build (unindexed:size=164672); 14804d55514d: symbol server returned unindexed build 2d1815916b4f; 98984bf26184: symbol server returned unindexed build 2d1815916b4f; 75e6f844f7a5: symbol server returned unindexed build 2d1815916b4f"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-24H2",
+   "sha256": "87ac74ca455abb09d80cf3352e1399eeaa5c44bbb194d4430f91ac3e98890221",
+   "error": "87ac74ca455a: UnindexedBuild: symbol server returned unindexed build (unindexed:size=161752); 6e7539bba34b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=161608); 900d5d4e9ffa: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151520); 45b92aadc176: UnindexedBuild: symbol server returned unindexed build (unindexed:size=151520)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-25H2",
+   "sha256": "9285841d33792fe841e19fdcaac3ccd6408f2b7540b015a7d506ca42169d521f",
+   "error": "9285841d3379: UnindexedBuild: symbol server returned unindexed build (unindexed:size=166352)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-26H1",
+   "sha256": "b9c89dde14578ce3c7cc1b27baf036110cab506db325f070c91a05618bd5cf0c",
+   "error": "b9c89dde1457: UnindexedBuild: symbol server returned unindexed build (unindexed:size=161752); 84f91e3e72e2: symbol server returned unindexed build 2cbd1cf90fc1; 9e71bddafd9d: symbol server returned unindexed build 8a43cc5d80f4; 4b0f45abc4af: symbol server returned unindexed build dd10e386ed38"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "640bfc3b3ccef49e8d4496784625b68e8ade6420ffcf1f7ce2223a870628fd1c",
+   "error": "640bfc3b3cce: symbol server returned unindexed build 6e94ebb5889d; 7f126d0e9643: symbol server returned unindexed build 6e94ebb5889d; 2cb70e8da1d7: symbol server returned unindexed build 6e94ebb5889d; 69033b2ea9ef: UnindexedBuild: symbol server returned unindexed build (unindexed:size=48664)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "487ddd00279bd54ca4e3bb5de4a440f49cb7157e56f18fb1677799bc881dc58e",
+   "error": "487ddd00279b: UnindexedBuild: symbol server returned unindexed build (unindexed:size=46992); a039511a553f: UnindexedBuild: symbol server returned unindexed build (unindexed:size=46992); 62f56b25c167: UnindexedBuild: symbol server returned unindexed build (unindexed:size=46992); 62aff13b933c: UnindexedBuild: symbol server returned unindexed build (unindexed:size=46992)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "6de688c2f3ea4faf95fab57dad141a655e64b4e7c9a4067fc2133041547f54a0",
+   "error": "6de688c2f3ea: symbol server returned unindexed build 87b0d1fbd064; 870d730a24e7: symbol server returned unindexed build 87b0d1fbd064; 31026e62f0d7: symbol server returned unindexed build 87b0d1fbd064; c47203c2af4e: symbol server returned unindexed build 87b0d1fbd064"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "d25642f358b16b5c6053d2b4ac9814579fb3f91359bd7e73f373d231d842b6ae",
+   "error": "d25642f358b1: collided with fabf47dbb041 from another release; 95b876c59b1e: collided with fabf47dbb041 from another release; 4ef00277d13d: collided with fabf47dbb041 from another release; 4ceab5c46f4d: collided with fabf47dbb041 from another release"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "2423ce1293c1980ee7dd4543efeb48b69634dbce875c830e7f8cd87f3c6d25b4",
+   "error": "2423ce1293c1: symbol server returned unindexed build 2496225026e0"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "c2f678bf6cd25f4b0e35ccbce4a2cbb1f419b883ba04a55ea12356f8c54ab3e5",
+   "error": "c2f678bf6cd2: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94144); a6dcf757ab1e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94144); f18b12c9814e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94144); 621ead30f192: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94144)"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "f18b12c9814e414020c509738125a3dfe58fb5e54b364d95bb7c9fc5e07eac18",
+   "error": "f18b12c9814e: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94144); 621ead30f192: UnindexedBuild: symbol server returned unindexed build (unindexed:size=94144); 99be05566dab: UnindexedBuild: symbol server returned unindexed build (unindexed:size=66696); 1060450d47f4: UnindexedBuild: symbol server returned unindexed build (unindexed:size=66696)"
+  }
+ ]
+}

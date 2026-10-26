@@ -1,0 +1,853 @@
+{
+ "name": "speechruntime.exe",
+ "builds": [
+  {
+   "sha256": "a96fbfc047ea62563acbe8017ad37a6f52f3574bffebeba3d929a515de8461d5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.2952 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.2952",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/3637EF395d000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7217a76e84973e48534951fea32f9cb5efbc01a09e4fe4bbbff80d70eb40d0c6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.9507 (rs1_release.260901-1749)",
+   "fixed_file_version": "10.0.14393.9507",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "14393.9514",
+    "14393.9612"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/6A97981C33000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5994c6b11722c3d1a03f07fb28ac1a4b336082d1d91f880357f576c6e647b14d",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-09-22",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/E44B89A55c000/speechruntime.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Speech_OneCore\\common\\SpeechRuntime.exe"
+  },
+  {
+   "sha256": "5732b49c8f81106a4e87f2c88949824daf11334aa6cd2b6d547306ed4e2b85ef",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9245 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9245",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9245",
+    "17763.9247",
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/30A5688340000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "40920599267f573e5348c09b99f193e6aafb8138adde040e99c45b18051273fc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.7725 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.7725",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "21H2"
+   ],
+   "first_seen": "2026-09-08",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "19045.7725",
+    "19045.7727",
+    "19045.7807"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/51566B3E55000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f9e0bbc03b0ce3d1d9d2b0121c1e08338b628d72535dff7985c3a2fbee848b2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.6783 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.6783",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-23H2"
+   ],
+   "first_seen": "2026-03-10",
+   "last_seen": "2026-03-10",
+   "os_builds": [
+    "22631.6783"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/312033FE60000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cb5e28c2b0964c8689856265a9bd1805d9e4a22b387022d0308e5241240447cd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2025-08-29",
+   "last_seen": "2025-10-20",
+   "os_builds": [
+    "26100.5074",
+    "26100.6584",
+    "26100.6588",
+    "26100.6725",
+    "26200.6899",
+    "26200.6901"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/23EEA1B758000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b9928eb0ad62d823f38cca3b3f3f0f33ac5ed4f5c8af68bdd5827806de221021",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.18818 (th1.210107-1259)",
+   "fixed_file_version": "10.0.10240.18818",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2025-10-14",
+   "os_builds": [
+    "10240.18818",
+    "10240.18842",
+    "10240.18874",
+    "10240.18875",
+    "10240.18906",
+    "10240.18932",
+    "10240.18967",
+    "10240.18969",
+    "10240.19003",
+    "10240.19022",
+    "10240.19060",
+    "10240.19086",
+    "10240.19119",
+    "10240.19145",
+    "10240.19177",
+    "10240.19179",
+    "10240.19204",
+    "10240.19235",
+    "10240.19265",
+    "10240.19297",
+    "10240.19325",
+    "10240.19360",
+    "10240.19387",
+    "10240.19444",
+    "10240.19507",
+    "10240.19509",
+    "10240.19567",
+    "10240.19624",
+    "10240.19685",
+    "10240.19747",
+    "10240.19805",
+    "10240.19869",
+    "10240.19926",
+    "10240.19983",
+    "10240.19986",
+    "10240.20048",
+    "10240.20107",
+    "10240.20162",
+    "10240.20232",
+    "10240.20308",
+    "10240.20345",
+    "10240.20402",
+    "10240.20469",
+    "10240.20526",
+    "10240.20596",
+    "10240.20651",
+    "10240.20680",
+    "10240.20710",
+    "10240.20751",
+    "10240.20766",
+    "10240.20796",
+    "10240.20826",
+    "10240.20857",
+    "10240.20890",
+    "10240.20915",
+    "10240.20947",
+    "10240.20979",
+    "10240.21014",
+    "10240.21034",
+    "10240.21073",
+    "10240.21100",
+    "10240.21128",
+    "10240.21161"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/5FF7BCF826000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "94bae48fe9fb5760c77b5ec4a5f1d2c4d077a37566534a9c704f666079dca030",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22621.5331 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22621.5331",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-22H2"
+   ],
+   "first_seen": "2025-05-13",
+   "last_seen": "2025-05-27",
+   "os_builds": [
+    "22621.5335",
+    "22621.5413"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/5FF7D59D5f000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "57fafa4ba4f85d38f7365b4b3f89156086124638ec7bc9e7c8e415ed6f262702",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.5794 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.5794",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "22H2"
+   ],
+   "first_seen": "2025-04-22",
+   "last_seen": "2025-04-22",
+   "os_builds": [
+    "19045.5796"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/B360B74451000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "8dc913847be78d52194d81f725a63293cd0ef3090bdc6d7efadd1dcaaf3858a8",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.22000.51 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.22000.51",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2023-10-10",
+   "os_builds": [
+    "22000.1042",
+    "22000.1098",
+    "22000.1100",
+    "22000.1165",
+    "22000.1219",
+    "22000.1281",
+    "22000.1335",
+    "22000.1455",
+    "22000.1516",
+    "22000.1574",
+    "22000.1641",
+    "22000.1696",
+    "22000.1761",
+    "22000.1817",
+    "22000.1880",
+    "22000.1936",
+    "22000.2003",
+    "22000.2057",
+    "22000.2124",
+    "22000.2176",
+    "22000.2245",
+    "22000.2295",
+    "22000.2360",
+    "22000.2416",
+    "22000.2482",
+    "22000.2538",
+    "22000.258",
+    "22000.282",
+    "22000.318",
+    "22000.348",
+    "22000.376",
+    "22000.434",
+    "22000.438",
+    "22000.469",
+    "22000.493",
+    "22000.527",
+    "22000.556",
+    "22000.593",
+    "22000.613",
+    "22000.652",
+    "22000.675",
+    "22000.708",
+    "22000.739",
+    "22000.778",
+    "22000.795",
+    "22000.832",
+    "22000.856",
+    "22000.918",
+    "22000.978"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/39957EB05e000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "c48dbfa782376baaa00daf312ff8f4bdb7923bb227aa38c49c3dd91328a4b39a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1566 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1566",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2022-02-15",
+   "last_seen": "2023-09-26",
+   "os_builds": [
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251",
+    "19042.2311",
+    "19042.2364",
+    "19042.2486",
+    "19042.2546",
+    "19042.2604",
+    "19042.2673",
+    "19042.2728",
+    "19042.2788",
+    "19042.2846",
+    "19042.2965",
+    "19044.3086",
+    "19044.3208",
+    "19044.3324",
+    "19044.3448",
+    "19045.2913",
+    "19045.3031",
+    "19045.3155",
+    "19045.3271",
+    "19045.3393",
+    "19045.3516"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/C2F1C02951000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "64d1b059568c1d46fda2bf88920ffa9ce0549513a989df665a9592bd0e53690b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1593 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1593",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1909"
+   ],
+   "first_seen": "2021-05-20",
+   "last_seen": "2022-05-10",
+   "os_builds": [
+    "18363.1593",
+    "18363.1621",
+    "18363.1645",
+    "18363.1646",
+    "18363.1679",
+    "18363.1714",
+    "18363.1734",
+    "18363.1766",
+    "18363.1801",
+    "18363.1830",
+    "18363.1854",
+    "18363.1916",
+    "18363.1977",
+    "18363.2037",
+    "18363.2039",
+    "18363.2094",
+    "18363.2158",
+    "18363.2212",
+    "18363.2274"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/B6A67AB455000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "71f03c728a5a28c8416ecc4ff02257a9196d4ec6c8addfe605d5cc434d07b154",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1266 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1266",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H2"
+   ],
+   "first_seen": "2021-09-30",
+   "last_seen": "2022-02-08",
+   "os_builds": [
+    "19041.1266",
+    "19041.1288",
+    "19041.1320",
+    "19041.1348",
+    "19041.1387",
+    "19041.1415",
+    "19042.1466",
+    "19042.1469",
+    "19042.1503",
+    "19042.1526"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/6242BA0251000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9535310b046ee1c226bec3328e428960413279f3530b4b5babceb1f4668fa4fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.844 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.844",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004",
+    "21H1"
+   ],
+   "first_seen": "2021-02-24",
+   "last_seen": "2021-05-18",
+   "os_builds": [
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928"
+   ],
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/0FFAB67D52000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "40d7f2d08c4e06f04b12a552b3dbe1bbb5c1258d1e7028bfb594174642efd234",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.1967 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.1967",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2021-01-12",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/F98869623d000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b76f84784cd922ffaa539caa865fd6a00274ba22690753e6e72f12de998674f3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.1016 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.1016",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2020-08-11",
+   "last_seen": "2020-12-08",
+   "os_builds": [
+    "18362.1016",
+    "18362.1049",
+    "18362.1082",
+    "18362.1110",
+    "18362.1139",
+    "18362.1171",
+    "18362.1198",
+    "18362.1199",
+    "18362.1237",
+    "18362.1256"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/598860BE4b000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "b685c9c83112512e6dab51994b4bf9266db230a8502d5985a6a7023a21ed6f05",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.16299.2045 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.16299.2045",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2020-08-11",
+   "last_seen": "2020-10-13",
+   "os_builds": [
+    "16299.2045",
+    "16299.2107",
+    "16299.2166"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/3EBA7FCB35000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "f11743f828c89d11d75784915120cae597eb2e7b57a4ad100d9813581a5b65b1",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.15063.0 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.15063.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2018-06-21",
+   "os_builds": [
+    "15063.1058",
+    "15063.1112",
+    "15063.1182",
+    "15063.250",
+    "15063.296",
+    "15063.332",
+    "15063.413",
+    "15063.447",
+    "15063.483",
+    "15063.502",
+    "15063.540",
+    "15063.608",
+    "15063.632",
+    "15063.675",
+    "15063.726",
+    "15063.729",
+    "15063.877",
+    "15063.936"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/1FB9B37E47000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "5bb600f866edde4e701958076b6d00c7d2d500602d2964bf369aa22ce7276845",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "SpeechRuntime.exe",
+   "internal_name": "Speech Runtime Executable",
+   "file_description": "Speech Runtime Executable",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.420 (th2_release_sec.160527-1834)",
+   "fixed_file_version": "10.0.10586.420",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2016-07-12",
+   "last_seen": "2018-04-10",
+   "os_builds": [
+    "10586.1007",
+    "10586.1045",
+    "10586.1106",
+    "10586.1176",
+    "10586.1177",
+    "10586.1232",
+    "10586.1295",
+    "10586.1356",
+    "10586.1358",
+    "10586.1417",
+    "10586.1478",
+    "10586.1540",
+    "10586.494",
+    "10586.545",
+    "10586.589",
+    "10586.633",
+    "10586.679",
+    "10586.713",
+    "10586.753",
+    "10586.839",
+    "10586.842",
+    "10586.873",
+    "10586.916",
+    "10586.962",
+    "10586.965"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/speechruntime.exe/57491D1626000/speechruntime.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "SpeechRuntime.exe",
+   "builds": 20,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "11-26H1",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "10.0.10240.18818",
+   "max_version": "10.0.28000.2952",
+   "first_seen": "2016-07-12",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}

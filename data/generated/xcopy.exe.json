@@ -1,0 +1,405 @@
+{
+ "name": "xcopy.exe",
+ "builds": [
+  {
+   "sha256": "96e01cdc713a4306abb3b58aef982d67a209dddadc8cff5c4c77a5595f712828",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/A6FEB74312000/xcopy.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\xcopy.exe"
+  },
+  {
+   "sha256": "28459a2c987a74c96c8339a11fbd7c4fa4b12653b1047f5fc08939eaed4beea6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2"
+   ],
+   "first_seen": "2024-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Catalog file",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/F5647BEAe000/xcopy.exe",
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\xcopy.exe"
+  },
+  {
+   "sha256": "ebf89c15d0ce966b3bd6aa726e7db80fc545bac521c3ab99ef1d5942ed02528c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/5789999511000/xcopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "adb4a07a567002816658087b3e053e1a1b847be0216be0627f2302f55fe2c63f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.14393.0 (rs1_release.160715-1616)",
+   "fixed_file_version": "10.0.14393.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/57898EB6e000/xcopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cc1b6f2a22f3d1a86290cd1d4ea2a22d5afbde2a740bea95c716c9a96f7eb1e5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/5632D8A611000/xcopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6f5ff1af741bdcaf2caeef27a922480271211ce8081a2aa73d7cbd0de2fa2fb2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10586.0 (th2_release.151029-1700)",
+   "fixed_file_version": "10.0.10586.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/5632D845e000/xcopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "94181a1c614a04835bb49aa90dab89080b5b94e27654c3dbf5bc1797c8f5cd2f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/559F3B2Ee000/xcopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "51f8c1ff1f2abdcf7bbdba4ad5dff8120cec6e319acd72cf2c6a0beab7c8072e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "XCOPY.EXE",
+   "internal_name": "xcopy",
+   "file_description": "Extended Copy Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.10240.16384 (th1.150709-1700)",
+   "fixed_file_version": "10.0.10240.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/xcopy.exe/559F38B611000/xcopy.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "XCOPY.EXE",
+   "builds": 8,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607"
+   ],
+   "min_version": "10.0.10240.16384",
+   "max_version": "10.0.26100.1",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "12143799b6c212e8267777929b73514222a6a6ea5d7970aa97fff415379948c1",
+   "error": "12143799b6c2: symbol server returned unindexed build a57c8dc78f20"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "00a8d8e609733314177f31b008e768502d7e4610c2901810fdea2051d909610a",
+   "error": "00a8d8e60973: symbol server returned unindexed build 4a4a5884da44"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "00a8d8e609733314177f31b008e768502d7e4610c2901810fdea2051d909610a",
+   "error": "00a8d8e60973: symbol server returned unindexed build 4a4a5884da44"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1703",
+   "sha256": "dc5484e676ff14937d004b8c1895f0c3ef8b4d8b28589de8b77aee1f518d9a21",
+   "error": "dc5484e676ff: symbol server returned unindexed build c8651e91ed72"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1709",
+   "sha256": "65fd95cbf74e264a748fa3143af7e49cbd6cf7db1a653f7b08144e61f0f2fe70",
+   "error": "65fd95cbf74e: symbol server returned unindexed build 324ff9f6b786"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1803",
+   "sha256": "5e8494f37404111652bad2c5e5cc7d2d5a2eadfd2e2464bfa60e188dad5cbef1",
+   "error": "5e8494f37404: symbol server returned unindexed build 8343c954d254"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1809",
+   "sha256": "1c58e29c25b4065893dd4fbb6ed27bd8a04828a30396d581d7c641d21e910dc8",
+   "error": "1c58e29c25b4: symbol server returned unindexed build e1690a250990"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1903",
+   "sha256": "c61fa91dac2b19b10ed137a8550e9b0ae47415d1dfdd12a783ce811e101f2e71",
+   "error": "c61fa91dac2b: symbol server returned unindexed build 83151595e9d7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "c61fa91dac2b19b10ed137a8550e9b0ae47415d1dfdd12a783ce811e101f2e71",
+   "error": "c61fa91dac2b: symbol server returned unindexed build 83151595e9d7"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "2004",
+   "sha256": "269eb0728413654856f4b2ee1fa7838cd69672ebc11baed4caa63f58c2df5823",
+   "error": "269eb0728413: symbol server returned unindexed build daf4b58d1762"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "20H2",
+   "sha256": "269eb0728413654856f4b2ee1fa7838cd69672ebc11baed4caa63f58c2df5823",
+   "error": "269eb0728413: symbol server returned unindexed build daf4b58d1762"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H1",
+   "sha256": "269eb0728413654856f4b2ee1fa7838cd69672ebc11baed4caa63f58c2df5823",
+   "error": "269eb0728413: symbol server returned unindexed build daf4b58d1762"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "269eb0728413654856f4b2ee1fa7838cd69672ebc11baed4caa63f58c2df5823",
+   "error": "269eb0728413: symbol server returned unindexed build daf4b58d1762"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "269eb0728413654856f4b2ee1fa7838cd69672ebc11baed4caa63f58c2df5823",
+   "error": "269eb0728413: symbol server returned unindexed build daf4b58d1762"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "dc27161ecbf1fdef78210c998eb111fa9d960a3dcf909708f4b9121299b0538e",
+   "error": "dc27161ecbf1: symbol server returned unindexed build ede88fc3f974"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-22H2",
+   "sha256": "792c76f1687fc7e3b25cc0344d22cfe7001c52ec92d08f0178961e848108432b",
+   "error": "792c76f1687f: symbol server returned unindexed build 5ab2ae5693a7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-23H2",
+   "sha256": "792c76f1687fc7e3b25cc0344d22cfe7001c52ec92d08f0178961e848108432b",
+   "error": "792c76f1687f: symbol server returned unindexed build 5ab2ae5693a7"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1703",
+   "sha256": "822c4e9f406b7544ba68083b03c83e79a38d57848f5549a560c5205ed0f2cfab",
+   "error": "822c4e9f406b: symbol server returned unindexed build 478a4abf55f1"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1709",
+   "sha256": "090ed2bd2623f57047f80711ce4a8ec2329e5c4e22316f992663fafc17cf1f3f",
+   "error": "090ed2bd2623: symbol server returned unindexed build 5cb6f532ef25"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1803",
+   "sha256": "a09f04fc2c4208827f6b817b85e13d3844c76d4f9dda7a9e76030a0ccf6e594f",
+   "error": "a09f04fc2c42: symbol server returned unindexed build 55da3c836b02"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1809",
+   "sha256": "692c7a7a1a693ac5e49008292d2332cfa858c0aebdc945b05068f51af132c39b",
+   "error": "692c7a7a1a69: symbol server returned unindexed build 60c1d716730d"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1903",
+   "sha256": "309bad3c84c4830b6c71f8212a0cb13a44cc119bb4ebec57dfba0625ccdaec26",
+   "error": "309bad3c84c4: symbol server returned unindexed build ca7827088437"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "1909",
+   "sha256": "309bad3c84c4830b6c71f8212a0cb13a44cc119bb4ebec57dfba0625ccdaec26",
+   "error": "309bad3c84c4: symbol server returned unindexed build ca7827088437"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "2004",
+   "sha256": "b45997bb7c5fc6024685ee8752cf8ab871290a46b33e04fc4850a10077acba5a",
+   "error": "b45997bb7c5f: symbol server returned unindexed build 9b3a15f5718c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "20H2",
+   "sha256": "b45997bb7c5fc6024685ee8752cf8ab871290a46b33e04fc4850a10077acba5a",
+   "error": "b45997bb7c5f: symbol server returned unindexed build 9b3a15f5718c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H1",
+   "sha256": "b45997bb7c5fc6024685ee8752cf8ab871290a46b33e04fc4850a10077acba5a",
+   "error": "b45997bb7c5f: symbol server returned unindexed build 9b3a15f5718c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "21H2",
+   "sha256": "b45997bb7c5fc6024685ee8752cf8ab871290a46b33e04fc4850a10077acba5a",
+   "error": "b45997bb7c5f: symbol server returned unindexed build 9b3a15f5718c"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "22H2",
+   "sha256": "b45997bb7c5fc6024685ee8752cf8ab871290a46b33e04fc4850a10077acba5a",
+   "error": "b45997bb7c5f: symbol server returned unindexed build 9b3a15f5718c"
+  }
+ ]
+}

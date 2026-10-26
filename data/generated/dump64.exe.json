@@ -1,0 +1,44 @@
+{
+ "name": "dump64.exe",
+ "builds": [
+  {
+   "sha256": "c77ad8124c7a561c5c3a48ba23d5fa2236c2ee58ad9a92cfb06ffd53ab10d030",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "dump64.exe",
+   "internal_name": "dump64.exe",
+   "file_description": "Dump64",
+   "company_name": "Microsoft",
+   "product_name": "Visual Studio",
+   "file_version": "4.11.24.2075",
+   "fixed_file_version": "4.11.24.2075",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\Feedback\\dump64.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "dump64.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "4.11.24.2075",
+   "max_version": "4.11.24.2075",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

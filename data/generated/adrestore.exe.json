@@ -1,0 +1,47 @@
+{
+ "name": "adrestore.exe",
+ "builds": [
+  {
+   "sha256": "903caf518c94a78b21b9a8d53920bc3a2a21b223ea5929ebc790eff2e23c843e",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "adrestore",
+   "internal_name": "adrestore",
+   "file_description": "Systenternals ADRestore",
+   "company_name": null,
+   "product_name": "adrestore",
+   "file_version": "1.2",
+   "fixed_file_version": "1.2.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "adrestore",
+   "release": "2020-11-25",
+   "last_seen": "2020-11-25",
+   "download_url": "https://live.sysinternals.com/adrestore.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "adrestore",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.2.0.0",
+   "max_version": "1.2.0.0",
+   "first_seen": "2020-11-25",
+   "last_seen": "2020-11-25",
+   "provenance": "parsed"
+  }
+ ]
+}

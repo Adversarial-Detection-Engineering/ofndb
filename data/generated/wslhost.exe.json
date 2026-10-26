@@ -1,0 +1,308 @@
+{
+ "name": "wslhost.exe",
+ "builds": [
+  {
+   "sha256": "afa8f634ac6658af0f6da7af6da703f0b3da91e12bc32a193581187c39fa4345",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wslhost.exe",
+   "internal_name": "wslhost.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Background Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17763.9376 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17763.9376",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "17763.9376"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wslhost.exe/F116F7FB45000/wslhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "fd7a7e771f3d28aaf5711c0fbddf537ce63f6c99e6088fdc8e90760ebaf87d2f",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wslhost.exe",
+   "internal_name": "wslhost.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Background Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.1566 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.1566",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "20H2"
+   ],
+   "first_seen": "2022-02-15",
+   "last_seen": "2022-11-08",
+   "os_builds": [
+    "19042.1566",
+    "19042.1586",
+    "19042.1620",
+    "19042.1645",
+    "19042.1682",
+    "19042.1706",
+    "19042.1708",
+    "19042.1741",
+    "19042.1766",
+    "19042.1806",
+    "19042.1826",
+    "19042.1865",
+    "19042.1889",
+    "19042.1949",
+    "19042.2006",
+    "19042.2075",
+    "19042.2130",
+    "19042.2132",
+    "19042.2193",
+    "19042.2194",
+    "19042.2251"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wslhost.exe/771BD35811000/wslhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "9b71a406f4228d46242f5585444cb38ca01c2dc3472e5b3c170069e0f08cb87e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wslhost.exe",
+   "internal_name": "wslhost.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Background Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.19041.423 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.19041.423",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "2004"
+   ],
+   "first_seen": "2020-07-31",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "19041.423",
+    "19041.450",
+    "19041.488",
+    "19041.508",
+    "19041.546",
+    "19041.572",
+    "19041.610",
+    "19041.630",
+    "19041.631",
+    "19041.662",
+    "19041.685",
+    "19041.746",
+    "19041.789",
+    "19041.804",
+    "19041.844",
+    "19041.867",
+    "19041.868",
+    "19041.870",
+    "19041.906",
+    "19041.928",
+    "19041.964",
+    "19041.985"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wslhost.exe/F9CC707B24000/wslhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0585ea461802d515cf30983b8a92450f90b7bdbef8ef3c797218fcc49c0fc2d7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wslhost.exe",
+   "internal_name": "wslhost.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Background Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.17134.885 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.17134.885",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2019-07-09",
+   "last_seen": "2021-05-11",
+   "os_builds": [
+    "17134.1006",
+    "17134.1009",
+    "17134.1039",
+    "17134.1040",
+    "17134.1069",
+    "17134.1099",
+    "17134.1130",
+    "17134.1184",
+    "17134.1246",
+    "17134.1276",
+    "17134.1304",
+    "17134.1345",
+    "17134.1365",
+    "17134.1399",
+    "17134.1401",
+    "17134.1425",
+    "17134.1456",
+    "17134.1488",
+    "17134.1550",
+    "17134.1553",
+    "17134.1610",
+    "17134.1667",
+    "17134.1726",
+    "17134.1792",
+    "17134.1845",
+    "17134.1902",
+    "17134.1967",
+    "17134.2026",
+    "17134.2087",
+    "17134.2088",
+    "17134.2090",
+    "17134.2145",
+    "17134.2208",
+    "17134.885",
+    "17134.915",
+    "17134.950",
+    "17134.984"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wslhost.exe/728ED4F61b000/wslhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "076b4a4006cd173fee9e436f083c8d065f51b171062be9f5f18c48ca8008b933",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wslhost.exe",
+   "internal_name": "wslhost.exe",
+   "file_description": "Microsoft Windows Subsystem for Linux Background Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.18362.239 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.18362.239",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "1903"
+   ],
+   "first_seen": "2019-07-09",
+   "last_seen": "2020-08-11",
+   "os_builds": [
+    "18362.1016",
+    "18362.239",
+    "18362.267",
+    "18362.295",
+    "18362.329",
+    "18362.356",
+    "18362.357",
+    "18362.387",
+    "18362.388",
+    "18362.418",
+    "18362.449",
+    "18362.476",
+    "18362.535",
+    "18362.592",
+    "18362.628",
+    "18362.657",
+    "18362.693",
+    "18362.719",
+    "18362.720",
+    "18362.752",
+    "18362.753",
+    "18362.778",
+    "18362.815",
+    "18362.836",
+    "18362.900",
+    "18362.904",
+    "18362.959",
+    "18362.997"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/wslhost.exe/922DB4C31c000/wslhost.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "wslhost.exe",
+   "builds": 5,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "1803",
+    "1809",
+    "1903",
+    "2004",
+    "20H2"
+   ],
+   "min_version": "10.0.17134.885",
+   "max_version": "10.0.19041.1566",
+   "first_seen": "2019-07-09",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "3c7f2f6c9e640968711ab4ca172d186035305a8e2c3ea0fa4c8347b281690153",
+   "error": "3c7f2f6c9e64: symbol server returned unindexed build d247d0e62566; 65001df415df: symbol server returned unindexed build d247d0e62566; b39fd21e5dfb: symbol server returned unindexed build f82625e5ceaa; f8b0dd359e67: symbol server returned unindexed build f3bf3dd0bb86"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-22H2",
+   "sha256": "78731632e88328037217f8c01d79d2818e237d26b647870ebca547962181b849",
+   "error": "78731632e883: symbol server returned unindexed build b60a961f124b; 031b084a4b9a: symbol server returned unindexed build 8dc84a7a79e2; 7b88496ef187: symbol server returned unindexed build 3e03aeba2e2d; c1ae80a802dc: symbol server returned unindexed build d5193c4b1534"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "11-23H2",
+   "sha256": "78731632e88328037217f8c01d79d2818e237d26b647870ebca547962181b849",
+   "error": "78731632e883: symbol server returned unindexed build b60a961f124b"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "1909",
+   "sha256": "393266723d1eca8fce7d33f3d563df5d8cb1b9502866a0ed046084f455405d38",
+   "error": "393266723d1e: symbol server returned unindexed build f6f00a8f0f01"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "21H2",
+   "sha256": "a1cbe28926250a49302e0505fbb3ef6d329e4fb08ef21f65de4cc535963a1d02",
+   "error": "a1cbe2892625: symbol server returned unindexed build 33676e118207; a98bc097fe52: symbol server returned unindexed build 50d4a8323d02; 9294cc736b72: symbol server returned unindexed build 50d4a8323d02; 8d3d10df5a28: symbol server returned unindexed build 50d4a8323d02"
+  },
+  {
+   "machine": "x64",
+   "windows_version": "22H2",
+   "sha256": "a1cbe28926250a49302e0505fbb3ef6d329e4fb08ef21f65de4cc535963a1d02",
+   "error": "a1cbe2892625: symbol server returned unindexed build 33676e118207; a98bc097fe52: symbol server returned unindexed build 50d4a8323d02; 76cdc4dba546: symbol server returned unindexed build 50d4a8323d02; 9294cc736b72: symbol server returned unindexed build 50d4a8323d02"
+  }
+ ]
+}

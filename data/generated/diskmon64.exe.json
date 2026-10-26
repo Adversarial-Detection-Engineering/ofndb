@@ -1,0 +1,47 @@
+{
+ "name": "diskmon64.exe",
+ "builds": [
+  {
+   "sha256": "5c30df87f397e06aec59af95a0c2606401a81983295f0978fdc2afc2de9859cd",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Diskmon.exe",
+   "internal_name": "Diskmon",
+   "file_description": "Disk Monitor",
+   "company_name": "Sysinternals",
+   "product_name": "Sysinternals Diskmon",
+   "file_version": "2.02",
+   "fixed_file_version": "2.0.2.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Diskmon",
+   "release": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "download_url": "https://live.sysinternals.com/Diskmon64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Diskmon.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "2.0.2.0",
+   "max_version": "2.0.2.0",
+   "first_seen": "2021-10-12",
+   "last_seen": "2021-10-12",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "whois64.exe",
+ "builds": [
+  {
+   "sha256": "0797b9f6e0281d8f31791d8f92b375d1074ff7c68266f9372ab54f26b9dcdd3c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "whois.exe",
+   "internal_name": "Whois",
+   "file_description": "Domain information lookup",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals Whois",
+   "file_version": "1.21",
+   "fixed_file_version": "1.21.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals Whois",
+   "release": "2020-04-06",
+   "last_seen": "2020-04-06",
+   "download_url": "https://live.sysinternals.com/whois64.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "whois.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.21.0.0",
+   "max_version": "1.21.0.0",
+   "first_seen": "2020-04-06",
+   "last_seen": "2020-04-06",
+   "provenance": "parsed"
+  }
+ ]
+}

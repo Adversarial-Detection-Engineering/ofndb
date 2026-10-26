@@ -1,0 +1,64 @@
+{
+ "name": "grpconv.exe",
+ "builds": [
+  {
+   "sha256": "52b914a161862ae7a9ffb4bb9552bb1eb476b7fcd4a008648b72b1282ae94ade",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "GRPCONV.EXE",
+   "internal_name": "GrpConv",
+   "file_description": "Windows Progman Group Converter",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\grpconv.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "12d3e106489c6a0e0dcda41643bb3d9c4e3399a7bd77dcb24b14a0b3f3c05e78",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "GRPCONV.EXE",
+   "internal_name": "GrpConv",
+   "file_description": "Windows Progman Group Converter",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\grpconv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "GRPCONV.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

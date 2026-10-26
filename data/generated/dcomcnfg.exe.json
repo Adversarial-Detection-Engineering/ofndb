@@ -1,0 +1,64 @@
+{
+ "name": "dcomcnfg.exe",
+ "builds": [
+  {
+   "sha256": "d868f8a6c8f204e98adb95f5687a943e2ce8aed697c875116c7db223a198bab7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DCOMCNFG.EXE",
+   "internal_name": "DCOMCNFG.EXE",
+   "file_description": "COM+",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\dcomcnfg.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "d16e0dd2bbfa2daea52082b2824c8f6e0e3d6219c9cf283560f4e4ac0791b129",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DCOMCNFG.EXE",
+   "internal_name": "DCOMCNFG.EXE",
+   "file_description": "COM+",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "2001.12.10941.16384 (WinBuild.160101.0800)",
+   "fixed_file_version": "2001.12.10941.16384",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\dcomcnfg.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DCOMCNFG.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "2001.12.10941.16384",
+   "max_version": "2001.12.10941.16384",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "name": "pssuspend.exe",
+ "builds": [
+  {
+   "sha256": "023d02177ef15dddece582d91b154df9ccff1534342f60889f1f9fb1f93dd53d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "pssuspend.exe",
+   "internal_name": "PsSuspend",
+   "file_description": "Process Suspender",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals PsSuspend",
+   "file_version": "1.09",
+   "fixed_file_version": "1.9.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals PsSuspend",
+   "release": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "download_url": "https://live.sysinternals.com/pssuspend.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pssuspend.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.9.0.0",
+   "max_version": "1.9.0.0",
+   "first_seen": "2026-09-10",
+   "last_seen": "2026-09-10",
+   "provenance": "parsed"
+  }
+ ]
+}

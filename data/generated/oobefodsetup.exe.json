@@ -1,0 +1,44 @@
+{
+ "name": "oobefodsetup.exe",
+ "builds": [
+  {
+   "sha256": "47204e404567d0adea48fd2b7821da40bd7456a0e945d709e62f227c4fb590c3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "OOBEFodSetup.exe",
+   "internal_name": "OOBEFodSetup.exe",
+   "file_description": "Perform OOBE FOD setup",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\OOBEFodSetup.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "OOBEFodSetup.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1150",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

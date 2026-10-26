@@ -1,0 +1,64 @@
+{
+ "name": "winmgmt.exe",
+ "builds": [
+  {
+   "sha256": "e73de1d57ba2d9c17a20fdcbb88af0c742289cd7e6c1d7f90f63217b6b96a23a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "winmgmt.exe",
+   "internal_name": "winmgmt",
+   "file_description": "WMI Service Control Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wbem\\WinMgmt.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "733e73002c64ea288719eb78b7dce695cf4a32c1c6eccf72963d02b2b4b6fe96",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "winmgmt.exe",
+   "internal_name": "winmgmt",
+   "file_description": "WMI Service Control Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\wbem\\WinMgmt.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "winmgmt.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

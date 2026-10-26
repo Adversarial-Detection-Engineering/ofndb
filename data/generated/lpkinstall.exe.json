@@ -1,0 +1,44 @@
+{
+ "name": "lpkinstall.exe",
+ "builds": [
+  {
+   "sha256": "817335a115e2fa1356d59b119a065d35ef8ca4b34b4d715169dd9cf5b3ed4be7",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "lpkinstall.exe",
+   "internal_name": "lpkinstall",
+   "file_description": "Language Pack Installer",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.5074 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.5074",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\lpkinstall.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "lpkinstall.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.5074",
+   "max_version": "10.0.26100.5074",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

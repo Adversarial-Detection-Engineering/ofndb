@@ -1,0 +1,5 @@
+notes: >-
+  PowerShell 7 ships `pwsh.exe` as a .NET apphost: a small native launcher
+  that loads `pwsh.dll`. The build copies the DLL's version resource into the
+  launcher, so Sysmon and MDE report `pwsh.dll` for `pwsh.exe` processes.
+  Windows PowerShell 5.1 (`powershell.exe`) reports `PowerShell.EXE`.

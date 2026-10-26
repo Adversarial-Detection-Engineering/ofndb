@@ -1,0 +1,47 @@
+{
+ "name": "findlinks.exe",
+ "builds": [
+  {
+   "sha256": "eb74645b56a4eb4306de0d0456dc764b58590d6c9a0e0f912b10a4f1db63ba69",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "findlinks.exe",
+   "internal_name": "Findlinks",
+   "file_description": "Locate file hard links",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals FindLinks",
+   "file_version": "1.1",
+   "fixed_file_version": "1.1.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals FindLinks",
+   "release": "2020-04-17",
+   "last_seen": "2020-04-17",
+   "download_url": "https://live.sysinternals.com/FindLinks.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "findlinks.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.1.0.0",
+   "max_version": "1.1.0.0",
+   "first_seen": "2020-04-17",
+   "last_seen": "2020-04-17",
+   "provenance": "parsed"
+  }
+ ]
+}

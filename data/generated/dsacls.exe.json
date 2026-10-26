@@ -1,0 +1,212 @@
+{
+ "name": "dsacls.exe",
+ "builds": [
+  {
+   "sha256": "d74f459151457d27757a328fba05647461a0ead94691c164386730960a055016",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DSACLS.EXE",
+   "internal_name": "DSACLS",
+   "file_description": "DS Control ACLs Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsacls.exe/C2A9C38Af000/dsacls.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d0af4c6b9d7dc59761787f05cba54e74ec88b65d663bd43a9db873f94bd31b7f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "DSACLS.EXE",
+   "internal_name": "DSACLS",
+   "file_description": "DS Control ACLs Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsacls.exe/AB8CE7FDe000/dsacls.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7b1fa4bc8b0870d8ebde093ef697663fa83f3f1bf87c5332af44cd387b112d22",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DSACLS.EXE",
+   "internal_name": "DSACLS",
+   "file_description": "DS Control ACLs Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.28000.1896 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.28000.1896",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-26H1"
+   ],
+   "first_seen": "2026-04-30",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "28000.1896",
+    "28000.2113",
+    "28000.2179",
+    "28000.2269",
+    "28000.2340",
+    "28000.2525",
+    "28000.2608",
+    "28000.2704",
+    "28000.2804",
+    "28000.2954",
+    "28000.2956",
+    "28000.3086",
+    "28000.3231"
+   ],
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsacls.exe/D8E1FFB312000/dsacls.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "41743721fd8b9646f37ee2ca670c3e59a418305ccb6962debe2cf586a569beeb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "DSACLS.EXE",
+   "internal_name": "DSACLS",
+   "file_description": "DS Control ACLs Program",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.7920 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.7920",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "windows_versions": [
+    "11-24H2"
+   ],
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "os_builds": [
+    "26200.7922",
+    "26200.8037",
+    "26200.8039",
+    "26200.8116",
+    "26200.8117",
+    "26200.8246",
+    "26200.8328",
+    "26200.8457",
+    "26200.8524",
+    "26200.8655",
+    "26200.8737",
+    "26200.8875",
+    "26200.8894",
+    "26200.8973",
+    "26200.9168",
+    "26200.9278",
+    "26200.9445",
+    "26200.9457",
+    "26300.9550",
+    "26300.9711"
+   ],
+   "signing_status": "Unsigned",
+   "download_url": "https://msdl.microsoft.com/download/symbols/dsacls.exe/3C87017514000/dsacls.exe",
+   "sources": [
+    "winbindex"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "DSACLS.EXE",
+   "builds": 4,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-24H2",
+    "11-26H1"
+   ],
+   "min_version": "10.0.26100.7920",
+   "max_version": "10.0.28000.1896",
+   "first_seen": "2026-02-24",
+   "last_seen": "2026-10-13",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": [
+  {
+   "machine": "x64",
+   "windows_version": "11-21H2",
+   "sha256": "2d38a406285d870828762d62587762aabf6c1add3fc571f9b76fe3aa05203445",
+   "error": "2d38a406285d: symbol server returned unindexed build a5585eb890d6; 2e19e6f6443c: symbol server returned unindexed build c70d66db21d4; cb9f8e681934: symbol server returned unindexed build c70d66db21d4"
+  },
+  {
+   "machine": "x86",
+   "windows_version": "11-21H2",
+   "sha256": "434adb185e7ef019b09c1c5df708b787ae8b2f4b96c506a409b6e904ed9303c5",
+   "error": "434adb185e7e: symbol server returned unindexed build 5397c2b7488b; 9d7bd62457c2: symbol server returned unindexed build 7d3c342f561b; 1a6e45403184: symbol server returned unindexed build 7d3c342f561b"
+  }
+ ]
+}

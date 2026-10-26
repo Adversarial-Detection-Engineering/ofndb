@@ -1,0 +1,44 @@
+{
+ "name": "wimserv.exe",
+ "builds": [
+  {
+   "sha256": "d5d2d3164f4eb85fa19db2a68b95e5ddba5328e1c00ffa513144dac72b7fba1c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "extractr.exe",
+   "internal_name": "extractr.exe",
+   "file_description": "Wimfltr v2 extractor",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\wimserv.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "extractr.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

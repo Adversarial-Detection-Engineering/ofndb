@@ -1,0 +1,44 @@
+{
+ "name": "wscollect.exe",
+ "builds": [
+  {
+   "sha256": "9bf329ab9beaeaeb83697a149f08bb4334ca5add93c76d8389c4c11ccae0ecbc",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "WSCollect.exe",
+   "internal_name": "WSCollect.exe",
+   "file_description": "This tool collects Microsoft Store log files",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\WSCollect.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "WSCollect.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

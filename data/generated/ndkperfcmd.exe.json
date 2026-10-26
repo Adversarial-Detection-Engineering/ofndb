@@ -1,0 +1,44 @@
+{
+ "name": "ndkperfcmd.exe",
+ "builds": [
+  {
+   "sha256": "2c4aee4b87097f888222ef81e3493bca3618a4ef3fe5f74d52b263f388063a2b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RdmaPerf.sys",
+   "internal_name": "RdmaPerf.sys",
+   "file_description": "RDMA Perf Cmd",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\NDKPerfCmd.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RdmaPerf.sys",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1150",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

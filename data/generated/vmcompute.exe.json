@@ -1,0 +1,44 @@
+{
+ "name": "vmcompute.exe",
+ "builds": [
+  {
+   "sha256": "bd92365ee1aec9af5a59e152dacf1ce99203d8fc20d9fdbecbf96c1f4f1d17a3",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vmcompute.exe",
+   "internal_name": "Hyper-V Host Compute Service",
+   "file_description": "Hyper-V Host Compute Service",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\vmcompute.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "vmcompute.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

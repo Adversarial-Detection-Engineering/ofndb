@@ -1,0 +1,64 @@
+{
+ "name": "prevhost.exe",
+ "builds": [
+  {
+   "sha256": "faf57868029b0baf56f369651459850a8cc2e8f5f9f85f928d66f1afeabc4ab6",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "PREVHOST.EXE",
+   "internal_name": "PREVHOST",
+   "file_description": "Preview Handler Surrogate Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\prevhost.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "0402afd1e3231da4841a093040f861b1af321f3dd6740c879de9d1e3d600d95e",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "PREVHOST.EXE",
+   "internal_name": "PREVHOST",
+   "file_description": "Preview Handler Surrogate Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.8115 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.8115",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\prevhost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "PREVHOST.EXE",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.8115",
+   "max_version": "10.0.26100.8115",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

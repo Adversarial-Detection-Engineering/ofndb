@@ -1,0 +1,44 @@
+{
+ "name": "pairtool.exe",
+ "builds": [
+  {
+   "sha256": "864522c9bdd675b7eb5b14b080bb0e49b76dc0e83347b6ac9481cdbee1c2ea2a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "pairtool.exe",
+   "internal_name": "pairtool.exe",
+   "file_description": "Microsoft Pairing Tool - Enumerates, associates, and disassociates devices.",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9549 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9549",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\pairtool.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "pairtool.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9549",
+   "max_version": "10.0.26100.9549",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

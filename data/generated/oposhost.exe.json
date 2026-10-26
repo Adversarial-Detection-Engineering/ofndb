@@ -1,0 +1,44 @@
+{
+ "name": "oposhost.exe",
+ "builds": [
+  {
+   "sha256": "e4460f24dc510ff3af8ea603ec04a6c9742eb5ab6532d1ae6942fed7337560ad",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "oposhost.exe",
+   "internal_name": "oposhost.exe",
+   "file_description": "OPOS Service Object Host",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9278 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9278",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\OposHost.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "oposhost.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9278",
+   "max_version": "10.0.26100.9278",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

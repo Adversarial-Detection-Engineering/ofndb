@@ -1,0 +1,64 @@
+{
+ "name": "tracerpt.exe",
+ "builds": [
+  {
+   "sha256": "aee3a047976f60e69357eb415d0d69b7b38325a55de67afa77d5b3fd5c28777b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "TraceRpt.Exe",
+   "internal_name": "TraceRpt.Exe",
+   "file_description": "Event Trace Report Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\tracerpt.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "458ac3786a278f6790c857d5b9f8ea69fb98249b31dd1a21e1d80447d24eefd2",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "TraceRpt.Exe",
+   "internal_name": "TraceRpt.Exe",
+   "file_description": "Event Trace Report Tool",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.9711 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.9711",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\tracerpt.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "TraceRpt.Exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.9711",
+   "max_version": "10.0.26100.9711",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

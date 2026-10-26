@@ -1,0 +1,64 @@
+{
+ "name": "windows.media.backgroundplayback.exe",
+ "builds": [
+  {
+   "sha256": "fc523163e02e81b9bd9ea8eaf7571c6e60d78ca662a5da0f590cdfd4dd1efcb5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "Windows.Media.Playback.exe",
+   "internal_name": "Windows Media Playback EXE",
+   "file_description": "Windows Media Playback EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1150 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1150",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\System32\\Windows.Media.BackgroundPlayback.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "6dfb7b5170f97cf5e35080954227106038678258c80105e8997d600f1c270dde",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "Windows.Media.Playback.exe",
+   "internal_name": "Windows Media Playback EXE",
+   "file_description": "Windows Media Playback EXE",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "10.0.26100.1 (WinBuild.160101.0800)",
+   "fixed_file_version": "10.0.26100.1",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\SysWOW64\\Windows.Media.BackgroundPlayback.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "Windows.Media.Playback.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local"
+   ],
+   "windows_versions": [],
+   "min_version": "10.0.26100.1",
+   "max_version": "10.0.26100.1150",
+   "first_seen": null,
+   "last_seen": null,
+   "provenance": "parsed"
+  }
+ ]
+}

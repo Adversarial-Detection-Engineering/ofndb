@@ -1,0 +1,47 @@
+{
+ "name": "accessenum.exe",
+ "builds": [
+  {
+   "sha256": "b8a8524de389e244b57baa72e8878869436e8addffaf11621ec7a572dbf5c602",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "AccessEnum.exe",
+   "internal_name": "AccessEnum",
+   "file_description": "AccessEnum",
+   "company_name": "Sysinternals - www.sysinternals.com",
+   "product_name": "Sysinternals AccessEnum",
+   "file_version": "1.35",
+   "fixed_file_version": "1.35.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Microsoft (Sysinternals)",
+   "product": "Sysinternals AccessEnum",
+   "release": "2022-09-29",
+   "last_seen": "2022-09-29",
+   "download_url": "https://live.sysinternals.com/AccessEnum.exe",
+   "sources": [
+    "sysinternals"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "AccessEnum.exe",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "sysinternals"
+   ],
+   "windows_versions": [],
+   "min_version": "1.35.0.0",
+   "max_version": "1.35.0.0",
+   "first_seen": "2022-09-29",
+   "last_seen": "2022-09-29",
+   "provenance": "parsed"
+  }
+ ]
+}

@@ -1,0 +1,700 @@
+{
+ "name": "regsvcs.exe",
+ "builds": [
+  {
+   "sha256": "936aa30a198da99000d7003ac10ca420080d06e44015bdd680f09156c75256d9",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/68531EE1e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "06d91978047a6555ac66d902d1ada5a5acd801d29fc51c65c6f1455fd6753f6c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9221.0 built by: NET481REL1LAST_25H2",
+   "fixed_file_version": "4.8.9221.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-25H2"
+   ],
+   "first_seen": "2025-09-30",
+   "last_seen": "2025-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/68531EF8c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d6de985e87fa94c09b80dfabc78279be14693468674b2dd91ccbe70841450d0b",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/6250A8A5c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "083bc9319eb8066131b8005dd7013f85f2a27c7908767f94183d3e153b8db12b",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.9032.0 built by: NET481REL1",
+   "fixed_file_version": "4.8.9032.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-22H2",
+    "11-23H2",
+    "11-24H2"
+   ],
+   "first_seen": "2022-09-20",
+   "last_seen": "2024-09-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/6250A7F3e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "db727e9d8659d4d711c58b28d11e9e0b63db08fed0de9b6f550288fc8d37d137",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5DDA41FFc000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2c1eeb7097023c784c2bd040a2005a5070ed6f3a4abf13929377a9e39fab1390",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4084.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4084.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "first_seen": "2020-05-27",
+   "last_seen": "2022-10-18",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5DDA3CC9e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "cc2688fba4d9d023d485cabc2900bb8d4bb7c585ace5c878500ffbe5dad3c016",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5E5E97D5c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "808aec47f908410c01f820683f1c33198e05525d159863925690fdeb319eac1a",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.4161.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.4161.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "11-21H2"
+   ],
+   "first_seen": "2021-10-04",
+   "last_seen": "2021-10-04",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5E5E95A0e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "403ebca8f02f7ddebf7987729b0ba80cd4998b266cfe31f45a63888f2a7f1fae",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5C7A2259e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "19572c8b53556ecde2a0b77119094cd2cb73bbf688beaed9b6d84991140938c2",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.3752.0 built by: NET48REL1",
+   "fixed_file_version": "4.8.3752.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1903",
+    "1909"
+   ],
+   "first_seen": "2019-05-21",
+   "last_seen": "2019-11-12",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5C7A1479c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "549cbf63163b33a1cad7703d4c8a1ef66eedfff249a7ecb181c5d2bd78da2899",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5B694645e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "4c27d12934ebc2cc26e68e3d26c7e5841eb5f2d9dc6e82f2521392f7201b774a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3190.0 built by: NET472REL1LAST_C",
+   "fixed_file_version": "4.7.3190.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1809"
+   ],
+   "first_seen": "2018-11-13",
+   "last_seen": "2018-11-13",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5B693978c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "90e8cc64ba1f92a4255a51e16d916d9cc4b5d050f745d726a987b36dbf8028ed",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5A8E57FFc000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "43026dcff238f20cff0419924486dee45178119cfdd0d366b79d67d950a9bf50",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.3056.0 built by: NET472REL1",
+   "fixed_file_version": "4.7.3056.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1803"
+   ],
+   "first_seen": "2018-04-30",
+   "last_seen": "2018-04-30",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5A8E587Ae000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "890e125983c62b01a6b902a85c63bc2aa1d442e7d4b7182b6b394ebd0aa7e679",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/59B833D5e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0e19a23dc470c4c377f6cc6391e159544d67d0635b8d8946e42647cb8fa150bb",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2556.0 built by: NET471REL1",
+   "fixed_file_version": "4.7.2556.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1709"
+   ],
+   "first_seen": "2017-10-17",
+   "last_seen": "2017-10-17",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/59B833ACc000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "7cd1b1598474b84d3fdf86d50b59effe0f3631aaabaf6265f424d76701a5c555",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/589C055Be000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "30b686da91b3fb72d803465ff6741937d40b02fc6ee144594d58a76d19b3e379",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.7.2046.0 built by: NET47REL1",
+   "fixed_file_version": "4.7.2046.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1703"
+   ],
+   "first_seen": "2017-04-05",
+   "last_seen": "2017-04-05",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/589C0600c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "6655245a1a79a2bd45c255bbe5f1b39f23ce763d225440a0caae954ebdbd928f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/575A127Be000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "2f81ee843ce9264a3b5ab754ceb8cc98a1cc44185081c53121234b50c7612140",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1586.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1586.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1607"
+   ],
+   "first_seen": "2016-08-02",
+   "last_seen": "2016-08-02",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/575A136Ac000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "96a0431925c7ab95b6423aaa5c35b33043371968e876444a18853ebfd80b949a",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5615D202c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "886bd4458587e0e5c0e76249edc429e08e83a170a53d2fd68d1297cb083f130f",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.1038.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.1038.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1511"
+   ],
+   "first_seen": "2015-11-10",
+   "last_seen": "2015-11-10",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/5615C195e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "e07b942e1a2a54d99354477b43c1a1194024b9835f1f488a8b9f2777beeb1551",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/556BC487c000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "0d6f52c5bdfa01d12f9c4b3603eed8e862859fcbfacacd567865150c3bc8a219",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.6.79.0 built by: NETFXREL2",
+   "fixed_file_version": "4.6.79.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "windows_versions": [
+    "1507"
+   ],
+   "first_seen": "2015-07-29",
+   "last_seen": "2015-07-29",
+   "signing_status": "Signed",
+   "signature_type": "Overlay",
+   "download_url": "https://msdl.microsoft.com/download/symbols/regsvcs.exe/556BC239e000/regsvcs.exe",
+   "sources": [
+    "winbindex"
+   ]
+  },
+  {
+   "sha256": "d0d230adb8ccd17e564d2acc0734dadc8e6f547248d08396af6a791a022b3ad4",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: 5f296df0c000005",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\RegSvcs.exe",
+   "sources": [
+    "local"
+   ]
+  },
+  {
+   "sha256": "5291c093111392bf55e534ab9bfcaacaa84b4daaafcd18841e335835281a6bb5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "RegSvcs.exe",
+   "internal_name": "RegSvcs.exe",
+   "file_description": "Microsoft .NET Services Installation Utility",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® .NET Framework",
+   "file_version": "4.8.10001.0 built by: bd501acdc000004",
+   "fixed_file_version": "4.8.10001.0",
+   "has_embedded_signature": true,
+   "is_dotnet": true,
+   "scan_label": "host 10.0.26300",
+   "observed_path": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\RegSvcs.exe",
+   "sources": [
+    "local"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-26",
+ "original_filenames": [
+  {
+   "value": "RegSvcs.exe",
+   "builds": 26,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "local",
+    "winbindex"
+   ],
+   "windows_versions": [
+    "11-21H2",
+    "11-22H2",
+    "11-23H2",
+    "11-24H2",
+    "11-25H2",
+    "1507",
+    "1511",
+    "1607",
+    "1703",
+    "1709",
+    "1803",
+    "1809",
+    "1903",
+    "1909",
+    "2004",
+    "20H2",
+    "21H1",
+    "21H2",
+    "22H2"
+   ],
+   "min_version": "4.6.79.0",
+   "max_version": "4.8.10001.0",
+   "first_seen": "2015-07-29",
+   "last_seen": "2025-09-30",
+   "provenance": "parsed"
+  }
+ ],
+ "gaps": []
+}
