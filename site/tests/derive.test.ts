@@ -5,6 +5,7 @@ import {
   compareRelease,
   deriveAll,
   ofnCsv,
+  ofnJson,
   ownsRmm,
   pairsCsv,
   releaseKey,
@@ -141,8 +142,58 @@ test('splunk never groups by OriginalFilename, so builds without one still retur
   }
 });
 
+test('a Sigma literal no build carries becomes a gotcha; a carried one does not', () => {
+  const rec = { name: 'psexec.exe', builds: [build('a', 'psexec.c', '1809')] };
+  const e = buildEntry('psexec.exe', rec, undefined, {}, {}, new Map(), {}, { value: 'PsExec.exe', rules: 2 });
+  assert.ok(e.flags.includes('sigma-mismatch'));
+  assert.ok(e.gotchas.some((g) => g.kind === 'sigma-mismatch' && g.text.includes('2 SigmaHQ rules') && g.text.includes('`psexec.c`')));
+  const ok = buildEntry('wmic.exe', { name: 'wmic.exe', builds: [build('a', 'wmic.exe', '1809')] }, undefined, {}, {}, new Map(), {}, { value: 'WMIC.exe', rules: 11 });
+  assert.ok(!ok.flags.includes('sigma-mismatch'));
+});
+
+test('deriveAll matches Sigma literals to names case-insensitively and merges case variants', () => {
+  const inp = {
+    records: [{ name: 'pcalua.exe', builds: [build('a', null, '1809')] }],
+    targets: {}, curated: {}, verified: {}, coverage: {}, sigmaRelease: null,
+    sigmaValues: { 'Pcalua.exe': 1, 'PCALUA.EXE': 1 },
+  };
+  const e = deriveAll(inp).entries[0];
+  assert.ok(e.flags.includes('sigma-mismatch'));
+  assert.ok(e.gotchas.some((g) => g.text.includes('2 SigmaHQ rules') && g.text.includes('no observed build')));
+});
+
+test('ofn.json URLs come from the caller, so the deployed base path is never lost', () => {
+  const e = entry('cmd.exe', [build('a', 'Cmd.Exe', '1809')]);
+  const out = JSON.parse(ofnJson([e], (slug) => `https://example.github.io/ofndb/b/${slug}/`));
+  assert.equal(out[0].url, 'https://example.github.io/ofndb/b/cmd.exe/');
+});
+
 test('csv quotes fields that need it', () => {
   assert.equal(pairsCsv([['a,b', 'c"d']]), 'original_filename,image_name\n"a,b","c""d"\n');
+});
+
+test('csv defuses formula-leading values without touching normal ones', () => {
+  assert.equal(pairsCsv([['=2+5', 'cmd.exe']]), "original_filename,image_name\n'=2+5,cmd.exe\n");
+  assert.equal(pairsCsv([['cmd.exe', 'cmd.exe']]), 'original_filename,image_name\ncmd.exe,cmd.exe\n');
+});
+
+test('ownsRmm matches tool and product at token level, not by substring', () => {
+  const vendor = (product: string): Build[] => [build('a', null, '', { sources: ['vendor'], product, windows_versions: [] })];
+  assert.ok(ownsRmm(vendor('AnyDesk MSI'), [{ tool: 'AnyDesk', claimed_original_filename: null }]));
+  // substring would own this: "netsupport manager".includes("net") — tokens must not
+  assert.ok(!ownsRmm(vendor('Net Framework'), [{ tool: 'NetSupport Manager', claimed_original_filename: null }]));
+  assert.ok(!ownsRmm(vendor(''), [{ tool: 'AnyDesk', claimed_original_filename: null }]));
+});
+
+test('sigma literals matching no record name or carried value become orphans', () => {
+  const inp = {
+    records: [{ name: 'psexec.exe', builds: [build('a', 'psexec.c', '1809')] }],
+    targets: {}, curated: {}, verified: {}, coverage: {}, sigmaRelease: null,
+    sigmaValues: { 'psexec.c': 3, 'psexec.exe': 2, 'PsExeSvc.exe': 2, 'psexesvc.exe': 1 },
+  };
+  const { sigmaOrphans } = deriveAll(inp);
+  // carried value and record name both vouch; the orphan merges its case variants
+  assert.deepEqual(sigmaOrphans, [{ value: 'PsExeSvc.exe', rules: 3 }]);
 });
 
 test('ofn.csv has one row per value, empty for none', () => {

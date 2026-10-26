@@ -58,6 +58,7 @@ for (const [file, schema] of [
   ['targets.json', 'targets.schema.json'],
   ['coverage.json', 'coverage.schema.json'],
   ['validation/sysmon.json', 'sysmon-validation.schema.json'],
+  ['validation/sysmon-summary.json', 'sysmon-summary.schema.json'],
   ['sources/sigma_original_filenames.json', 'sigma-original-filenames.schema.json'],
 ]) {
   test(`data/${file} matches ${schema}`, () => {

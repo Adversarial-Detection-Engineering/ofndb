@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ofndb/schema/sysmon-summary.schema.json",
+  "title": "Sysmon run summary (data/validation/sysmon-summary.json)",
+  "description": "Totals for the last Sysmon validation run, the targets that couldn't be launched, and Sandbox copies whose SHA256 matches no parsed build.",
+  "type": "object",
+  "required": ["date", "targets", "suspended", "not_launchable", "sandbox_build_differs", "no_event"],
+  "properties": {
+    "date": { "type": "string", "format": "date" },
+    "targets": { "type": "integer", "minimum": 0 },
+    "suspended": {
+      "type": "object",
+      "required": ["match", "mismatch", "sandbox_build_differs", "not_launchable", "no_event"],
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    },
+    "not_launchable": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "reason"],
+        "properties": {
+          "path": { "type": "string", "minLength": 1 },
+          "win32_error": { "type": "integer" },
+          "reason": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "sandbox_build_differs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "sha256"],
+        "properties": {
+          "path": { "type": "string", "minLength": 1 },
+          "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+          "sysmon_raw": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "no_event": {
+      "type": "array",
+      "items": { "type": "object", "required": ["path"] }
+    }
+  }
+}

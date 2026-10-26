@@ -39,6 +39,14 @@ function loadInputs(): Inputs {
 
   const covPath = join(DATA, 'coverage.json');
   const sigmaPath = join(DATA, 'sources', 'sigma_original_filenames.json');
+  const sigmaSrc = existsSync(sigmaPath) ? json(sigmaPath) : null;
+  // keep only literals usable as exact values: drop endswith patterns (leading \), command-line
+  // noise (leading -), absence checks ("null"), and extractor junk carrying quotes or comments
+  const sigmaValues: Record<string, number> = {};
+  for (const [v, n] of Object.entries<number>(sigmaSrc?.values ?? {})) {
+    if (v.startsWith('\\') || v.startsWith('-') || v === 'null' || /['#]/.test(v)) continue;
+    sigmaValues[v] = n;
+  }
   return {
     records,
     targets: json(join(DATA, 'targets.json')).targets,
@@ -46,7 +54,8 @@ function loadInputs(): Inputs {
     verified,
     mismatches,
     coverage: existsSync(covPath) ? json(covPath).summary : {},
-    sigmaRelease: existsSync(sigmaPath) ? json(sigmaPath).sigma_release : null,
+    sigmaRelease: sigmaSrc?.sigma_release ?? null,
+    sigmaValues,
   };
 }
 

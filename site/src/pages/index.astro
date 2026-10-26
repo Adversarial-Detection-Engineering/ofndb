@@ -13,10 +13,35 @@ const quickFlags = [
   ['dll-ofn', 'Names a DLL'],
 ];
 const searchText = (e: Entry) =>
-  [e.name, ...e.distinct_values, e.description ?? '', e.company ?? '', ...e.internal_names].join(' ').toLowerCase();
+  [e.name, ...e.distinct_values, e.description ?? '', e.company ?? '', ...e.internal_names, e.notes ?? '', ...e.gotchas.map((g) => g.text.replace(/`/g, ''))]
+    .join(' ')
+    .toLowerCase();
+
+// schema.org Dataset markup so the data surfaces in Google Dataset Search
+const abs = (path: string) => new URL(href(path), Astro.site).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'ofndb — OriginalFilename database',
+  description:
+    `The OriginalFileName of ${stats.entries} LOLBins, Windows binaries and admin tools as Sysmon and EDR sensors log it, ` +
+    `parsed from the PE version resource across ${stats.builds} builds and checked against live Sysmon events.`,
+  url: abs(''),
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+  isAccessibleForFree: true,
+  keywords: ['OriginalFileName', 'LOLBin', 'detection engineering', 'Sysmon', 'EDR', 'PE version resource', 'rename detection'],
+  ...(stats.updated && { dateModified: stats.updated }),
+  distribution: [
+    ['exports/ofn.csv', 'text/csv'],
+    ['exports/ofn.json', 'application/json'],
+    ['exports/ofn_pairs.csv', 'text/csv'],
+    ['exports/ofn_pairs.kql', 'text/plain'],
+  ].map(([path, format]) => ({ '@type': 'DataDownload', contentUrl: abs(path), encodingFormat: format })),
+};
 ---
 
 <Base title={SITE_NAME}>
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <section class="hero">
     <h1>OriginalFilename, as sensors log it</h1>
     <p class="lede">

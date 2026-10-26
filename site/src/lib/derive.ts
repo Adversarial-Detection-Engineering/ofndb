@@ -72,6 +72,14 @@ export interface Inputs {
   mismatches?: Record<string, Mismatch>;
   coverage: { targets?: number; collected?: number };
   sigmaRelease: string | null;
+  /** Exact OriginalFileName literals in SigmaHQ Windows rules -> rule count (noise already stripped by the loader). */
+  sigmaValues?: Record<string, number>;
+}
+
+/** The Sigma literal that names this binary, if any. */
+export interface SigmaClaim {
+  value: string;
+  rules: number;
 }
 
 export const CATEGORY_ORDER = ['lolbin', 'rmm', 'sysinternals', 'windows', 'thirdparty'];
@@ -190,13 +198,19 @@ export function snippets(name: string, values: string[]): Record<string, string>
  * An entry is an RMM only if one of its builds IS that tool (collected from the tool's
  * vendor download). LOLRMM lists generic file names (svchost.exe, setup.exe, dwm.exe)
  * that some agents reuse; a Microsoft build with a colliding name is not the RMM.
+ * Matching is token-level, one side a subset of the other: "AnyDesk" owns product
+ * "AnyDesk MSI", but "Net Framework" never matches "NetSupport Manager" the way a
+ * substring test would.
  */
+const tokens = (s: string) => s.toLowerCase().split(/[^a-z0-9]+/).filter(Boolean);
+const tokenSubset = (a: string[], b: string[]) => a.length > 0 && a.every((t) => b.includes(t));
+
 export function ownsRmm(builds: Build[], claims: LolrmmClaim[]): boolean {
-  const tools = claims.map((c) => c.tool.toLowerCase());
+  const tools = claims.map((c) => tokens(c.tool));
   return builds.some((b) => {
     if (!b.sources.includes('vendor')) return false;
-    const product = (b.product ?? '').toLowerCase();
-    return product !== '' && tools.some((t) => product.includes(t) || t.includes(product));
+    const product = tokens(b.product ?? '');
+    return product.length > 0 && tools.some((t) => tokenSubset(t, product) || tokenSubset(product, t));
   });
 }
 
@@ -239,6 +253,7 @@ export function buildEntry(
   verified: Record<string, Verification>,
   shared: Map<string, string[]>,
   mismatches: Record<string, Mismatch> = {},
+  sigma?: SigmaClaim,
 ) {
   const builds = rec.builds.filter((b) => 'original_filename' in b);
   builds.sort((a, b) => cmpStr(b.last_seen ?? '', a.last_seen ?? '') || compareVersion(b.fixed_file_version, a.fixed_file_version));
@@ -367,6 +382,16 @@ export function buildEntry(
         'this page covers the one parsed below. Rename detection on OriginalFilename separates them.',
     );
   }
+  // Sigma rules keying OriginalFileName on this binary's file name, when no build carries that value, never fire.
+  if (sigma && !distinct.some((v) => v.toLowerCase() === sigma.value.toLowerCase())) {
+    add(
+      'sigma-mismatch',
+      `${sigma.rules} SigmaHQ rule${sigma.rules > 1 ? 's match' : ' matches'} \`OriginalFileName: ${sigma.value}\`, but ` +
+        (distinct.length
+          ? `parsed builds carry ${distinct.map((v) => `\`${v}\``).join(', ')}: those rule arms never fire.`
+          : 'no observed build carries an OriginalFilename: those rule arms never fire.'),
+    );
+  }
   gotchas.push(...(curated.gotchas ?? []).map((text) => ({ kind: 'curated', text })));
 
   const latest = builds[0];
@@ -432,12 +457,27 @@ export function deriveAll(inp: Inputs) {
       shared.set(v.toLowerCase(), names);
     }
   }
+  // Sigma literal (lowercase) -> first spelling seen, rule counts of case variants merged
+  const sigmaByLower = new Map<string, SigmaClaim>();
+  for (const [v, n] of Object.entries(inp.sigmaValues ?? {})) {
+    const cur = sigmaByLower.get(v.toLowerCase());
+    if (cur) cur.rules += n;
+    else sigmaByLower.set(v.toLowerCase(), { value: v, rules: n });
+  }
   const entries = inp.records
     .filter((rec) => rec.builds.some((b) => 'original_filename' in b))
     .map((rec) =>
-      buildEntry(rec.name, rec, inp.targets[rec.name], inp.curated[rec.name] ?? {}, inp.verified, shared, inp.mismatches),
+      buildEntry(rec.name, rec, inp.targets[rec.name], inp.curated[rec.name] ?? {}, inp.verified, shared, inp.mismatches,
+        sigmaByLower.get(rec.name.toLowerCase())),
     )
     .sort((a, b) => cmpStr(a.name, b.name));
+
+  // Sigma literals the data can't vouch for: no record is named that, and no build carries
+  // that value. Each is either a rule arm that can never fire or a binary not collected yet.
+  const recordNames = new Set(inp.records.map((r) => r.name.toLowerCase()));
+  const sigmaOrphans = [...sigmaByLower.values()]
+    .filter((s) => !recordNames.has(s.value.toLowerCase()) && !shared.has(s.value.toLowerCase()))
+    .sort((a, b) => b.rules - a.rules || cmpStr(a.value.toLowerCase(), b.value.toLowerCase()));
   // the newest record date, so a redeploy of unchanged data doesn't look like fresh data
   const updated = inp.records.map((r) => r.updated).filter((d): d is string => !!d).sort(cmpStr).at(-1) ?? null;
 
@@ -460,18 +500,23 @@ export function deriveAll(inp: Inputs) {
     targets_collected: inp.coverage.collected ?? null,
     pairs: pairs.length,
   };
-  return { entries, stats, pairs };
+  return { entries, stats, pairs, sigmaOrphans };
 }
 
 // --- export files -------------------------------------------------------------------
 
 const csvField = (v: string | number) => {
-  const s = String(v);
+  // OriginalFilename is attacker-controlled; a value starting with = + - @ or a tab would
+  // execute as a formula when the CSV is opened in Excel. Prefix it with ' to defuse it.
+  // No shipped value needs this today, so lookup files are byte-identical with or without it.
+  let s = String(v);
+  if (/^[=+\-@\t]/.test(s)) s = `'${s}`;
   return /[",\n\r]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
 };
 const csv = (rows: (string | number)[][]) => rows.map((r) => r.map(csvField).join(',')).join('\n') + '\n';
 
-export function ofnJson(entries: Entry[]): string {
+/** `urlOf` must return the page's full URL: the export is downloaded, so site-relative paths are useless. */
+export function ofnJson(entries: Entry[], urlOf: (slug: string) => string): string {
   const summary = entries.map((e) => ({
     name: e.name,
     category: e.category,
@@ -479,7 +524,7 @@ export function ofnJson(entries: Entry[]): string {
     primary: e.primary,
     sensor_verified: e.verified,
     flags: e.flags,
-    url: `/b/${e.slug}/`,
+    url: urlOf(e.slug),
   }));
   return JSON.stringify(summary, null, 1) + '\n';
 }

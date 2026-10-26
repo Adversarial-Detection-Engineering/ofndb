@@ -22,6 +22,7 @@ export const FLAG_LABELS: Record<string, string> = {
   apphost: '.NET apphost',
   'dll-ofn': 'Names a DLL',
   'sensor-mismatch': 'Sysmon logged a different value',
+  'sigma-mismatch': 'Sigma rules use a value no build carries',
   shared: 'Shared with other binaries',
   'lolrmm-mismatch': 'LOLRMM value disagrees',
   'rmm-name-collision': 'Name reused by an RMM tool',

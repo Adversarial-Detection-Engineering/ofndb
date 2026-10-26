@@ -4,7 +4,7 @@ import type { Entry } from '../lib/derive';
 import { siteData } from '../lib/load';
 import { href, md, wbr } from '../lib/util';
 
-const { entries } = siteData();
+const { entries, stats, sigmaOrphans } = siteData();
 const byFlag = (f: string) => entries.filter((e) => e.flags.includes(f));
 const drift = entries.filter((e) => e.flags.includes('drift') || e.flags.includes('case-drift'));
 const noOfn = byFlag('no-ofn');
@@ -128,5 +128,18 @@ const mui = [
       Generic names like <a href={href('b/setup.exe/')}><code>setup.exe</code></a> cover unrelated binaries that happen to share a
       name. Check the path and signer before trusting a lookup on the name alone.
     </p>
+
+    <h2 id="sigma-orphans">9. Sigma literals this database can't vouch for</h2>
+    <p>
+      SigmaHQ ({stats.sigma_release}) rules match {sigmaOrphans.length} <code>OriginalFileName</code> literals that no binary here
+      is named and no parsed build carries. Each one is either a binary this library hasn't collected yet (DLLs loaded by
+      image_load rules, third-party tools) — or a rule arm that can never fire. Until the binary is parsed, the value is an
+      unverified claim.
+    </p>
+    <ul class="cols">
+      {sigmaOrphans.map((s) => (
+        <li><code set:html={wbr(s.value)} /> <span class="muted">({s.rules} rule{s.rules > 1 ? 's' : ''})</span></li>
+      ))}
+    </ul>
   </article>
 </Base>

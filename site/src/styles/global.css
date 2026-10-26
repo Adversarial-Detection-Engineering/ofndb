@@ -84,6 +84,8 @@ nav { display: flex; gap: 0.25rem 1rem; flex-wrap: wrap; font-size: 0.95rem; }
 nav a { color: var(--muted); text-decoration: none; padding: 0.3rem 0; border-bottom: 2px solid transparent; }
 nav a:hover { color: var(--text); }
 nav a[aria-current='page'] { color: var(--text); border-bottom-color: var(--accent); }
+nav a.gh { display: inline-flex; align-items: center; }
+nav a.gh svg { display: block; }
 .site-footer { border-top: 1px solid var(--line); margin-top: 4rem; padding: 1.5rem 0 2.5rem; font-size: 0.88rem; color: var(--muted); }
 .site-footer p { margin: 0.3rem 0; }
 .muted { color: var(--muted); }

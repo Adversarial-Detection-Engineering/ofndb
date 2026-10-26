@@ -81,14 +81,18 @@ const desc = e.primary
     <section aria-label="Query snippets">
       <h2>Query snippets</h2>
       <div class="tabs" data-tabs>
-        <div role="tablist" class="tablist">
-          {PLATFORMS.map((p, i) => <button role="tab" data-tab={p.key} aria-selected={i === 0 ? 'true' : 'false'}>{p.label}</button>)}
+        <div role="tablist" class="tablist" aria-label="Query platform">
+          {PLATFORMS.map((p, i) => (
+            <button role="tab" id={`tab-${p.key}`} aria-controls={`panel-${p.key}`} data-tab={p.key} aria-selected={i === 0 ? 'true' : 'false'} tabindex={i === 0 ? 0 : -1}>
+              {p.label}
+            </button>
+          ))}
         </div>
         {
           PLATFORMS.map((p, i) => (
-            <div class="panel" data-panel={p.key} hidden={i !== 0}>
+            <div class="panel" role="tabpanel" id={`panel-${p.key}`} aria-labelledby={`tab-${p.key}`} data-panel={p.key} hidden={i !== 0}>
               <div class="code">
-                <button class="copy" data-copy={e.snippets[p.key]}>Copy</button>
+                <button class="copy" data-copy="">Copy</button>
                 <pre><code>{e.snippets[p.key]}</code></pre>
               </div>
               <p class="hint">{p.hint}</p>

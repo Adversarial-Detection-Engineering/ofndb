@@ -23,12 +23,12 @@ Detection rules key on OriginalFileName because it survives renaming, but the us
 |---|---|
 | `data/generated/<name>.json` | Every parsed build of a binary: SHA256, architecture, version strings, OriginalFilename, Windows releases, source |
 | `data/validation/sysmon.json` | Sysmon ground truth: the OriginalFileName Sysmon logged for each exact build (by SHA256). A mismatch is shown on the binary's page |
-| `data/validation/sysmon-summary.json` | Totals for the last Sysmon run, and the targets that couldn't be launched |
+| `data/validation/sysmon-summary.json` | Totals for the last Sysmon run, the targets that couldn't be launched, and builds whose Sandbox copy has a SHA256 no parsed build matches (`sandbox_build_differs`): those can neither confirm nor contradict a parsed value |
 | `data/curated/<name>.yml` | Hand-written notes on binaries that need context |
 | `data/targets.json` | Binary names gathered from LOLBAS, LOLRMM, Sysinternals and SigmaHQ, with the claims those projects make |
 | `data/sources/sigma_original_filenames.json` | Every OriginalFileName literal in SigmaHQ Windows rules, used as a cross-check |
 | `data/coverage.json`, `data/COVERAGE.md` | What's covered, and why anything isn't |
-| `schema/` | JSON Schemas for every data file the site reads; `npm test` validates them all |
+| `schema/` | JSON Schemas for every committed data file; `npm test` validates them all |
 | `site/` | The static site (Astro). It derives gotchas, query snippets and lookup exports from `data/` at build time |
 
 Downloads (CSV, JSON, KQL datatable, rename-detection lookup) are on the site's [Lookups](https://adversarial-detection-engineering.github.io/ofndb/lookups/) page.
@@ -39,6 +39,7 @@ Downloads (CSV, JSON, KQL datatable, rename-detection lookup) are on the site's 
 - **Windows built-ins.** Every build Winbindex knows of is downloaded from the Microsoft symbol server and kept only when its SHA256 matches.
 - **Sysinternals and vendor tools.** Downloaded from their official sources.
 - **Ground truth.** In a disposable Windows Sandbox running Sysmon, every target is created suspended and killed before it executes. Sysmon's logged OriginalFileName is then compared with the parsed value: 0 mismatches so far.
+- **Pipeline.** The collection pipeline (PE parser, Winbindex fetcher, Sandbox validator) is private for now; everything it emits is published here, keyed by the SHA256 of every input, so each value can be independently re-derived from the binary it names.
 
 ## Run the site locally
 
