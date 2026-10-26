@@ -11,7 +11,7 @@ interface Props {
 }
 const {
   title,
-  description = 'OriginalFilename values for LOLBins, Windows binaries and common tools, exactly as Sysmon and EDRs log them.',
+  description = 'OriginalFilename values for LOLBins, Windows binaries and common tools, parsed from the PE and checked against Sysmon.',
 } = Astro.props;
 
 const nav = [
@@ -22,6 +22,8 @@ const nav = [
 ];
 const current = Astro.url.pathname;
 const isCurrent = (path: string) => (path === '' ? current === href('') : current.startsWith(href(path)));
+const canonical = new URL(current, Astro.site).href;
+const fullTitle = title === SITE_NAME ? title : `${title} · ${SITE_NAME}`;
 ---
 
 <!doctype html>
@@ -29,8 +31,14 @@ const isCurrent = (path: string) => (path === '' ? current === href('') : curren
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title === SITE_NAME ? title : `${title} · ${SITE_NAME}`}</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
     <link rel="icon" href={href('favicon.svg')} type="image/svg+xml" />
   </head>
   <body>
@@ -48,7 +56,7 @@ const isCurrent = (path: string) => (path === '' ? current === href('') : curren
     <footer class="site-footer">
       <div class="wrap">
         <p>
-          Data updated {stats.updated} · {stats.entries.toLocaleString('en-US')} binaries ·
+          {stats.updated && <>Data updated {stats.updated} · </>}{stats.entries.toLocaleString('en-US')} binaries ·
           {stats.builds.toLocaleString('en-US')} parsed builds · {stats.verified_entries.toLocaleString('en-US')} confirmed
           against Sysmon {stats.sysmon_versions.join(', ')}
         </p>
@@ -62,13 +70,14 @@ const isCurrent = (path: string) => (path === '' ? current === href('') : curren
       document.addEventListener('click', async (ev) => {
         const btn = ev.target.closest('[data-copy]');
         if (btn) {
+          btn.dataset.label ??= btn.textContent;
+          const reset = () => { btn.textContent = btn.dataset.label; btn.classList.remove('done'); };
           try {
             await navigator.clipboard.writeText(btn.dataset.copy);
-            const label = btn.textContent;
             btn.textContent = 'Copied';
             btn.classList.add('done');
-            setTimeout(() => { btn.textContent = label; btn.classList.remove('done'); }, 1200);
           } catch { btn.textContent = 'Copy failed'; }
+          setTimeout(reset, 1200);
           return;
         }
         const tab = ev.target.closest('[role="tab"]');

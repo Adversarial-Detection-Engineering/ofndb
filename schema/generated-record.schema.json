@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ofndb/schema/generated-record.schema.json",
   "title": "Generated binary record (data/generated/<name>.json)",
-  "description": "Owned by the collector. Never hand-edited.",
+  "description": "Generated from the binary. Never hand-edited.",
   "type": "object",
   "required": ["name", "schema_version", "builds", "original_filenames"],
   "properties": {
@@ -28,7 +28,9 @@
           "windows_versions": { "type": "array", "items": { "type": "string" } },
           "first_seen": { "type": ["string", "null"] },
           "last_seen": { "type": ["string", "null"] },
-          "download_url": { "type": "string", "format": "uri" }
+          "download_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "signing_status": { "enum": ["Signed", "Unsigned", "Unknown"] },
+          "is_apphost": { "type": "boolean" }
         },
         "dependentRequired": { "original_filename": ["machine", "has_version_resource"] }
       }

@@ -20,6 +20,8 @@ export const FLAG_LABELS: Record<string, string> = {
   'partial-no-ofn': 'Some builds lack OriginalFilename',
   'differs-from-name': 'Differs from file name',
   apphost: '.NET apphost',
+  'dll-ofn': 'Names a DLL',
+  'sensor-mismatch': 'Sysmon logged a different value',
   shared: 'Shared with other binaries',
   'lolrmm-mismatch': 'LOLRMM value disagrees',
   'rmm-name-collision': 'Name reused by an RMM tool',

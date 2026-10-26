@@ -19,11 +19,18 @@ function expectPage(path, needles) {
   for (const n of needles) if (!html.includes(n)) fail(`${file} lacks ${JSON.stringify(n)}`);
 }
 
-// known answers (all Sysmon-confirmed or parsed during collection)
+// known answers (all Sysmon-confirmed or parsed from the binary)
 expectPage('', ['Cmd.Exe', 'pwsh.dll', 'psexec.c']);
 expectPage('b/cmd.exe', ['Cmd.Exe', 'Sysmon-confirmed', "OriginalFileName: 'Cmd.Exe'"]);
 expectPage('b/powershell.exe', ['PowerShell.EXE']);
 expectPage('b/pwsh.exe', ['pwsh.dll', '.NET apphost']);
+// a DLL name on a native Windows binary is not a .NET apphost
+for (const n of ['w32tm.exe', 'msinfo32.exe', 'wmiadap.exe']) {
+  expectPage(`b/${n}`, ['Names a DLL']);
+  if (read(join('b', n, 'index.html')).includes('.NET apphost')) fail(`b/${n} is called a .NET apphost`);
+}
+expectPage('b/cmd.exe', ['rel="canonical"', 'Signature', 'logsource:']);
+expectPage('', ['Data updated 20']);
 expectPage('b/nltest.exe', ['nltestrk.exe', 'nltest.exe', 'Value changed across builds', 'in~ (&quot;nltestrk.exe&quot;, &quot;nltest.exe&quot;)']);
 expectPage('b/tar.exe', ['bsdtar']);
 expectPage('b/psexec.exe', ['psexec.c']);
@@ -61,6 +68,9 @@ for (const line of ['original_filename,image_name', 'psexec.c,psexec.exe', 'nlte
 }
 if (!read('exports/ofn_pairs.kql').includes('datatable(ofn: string, img: string)')) fail('ofn_pairs.kql malformed');
 JSON.parse(read('exports/ofn.json'));
+if (!existsSync(join(DIST, '404.html'))) fail('404.html missing');
+const sitemap = read('sitemap.xml');
+if (!sitemap.includes(`${BASE}b/cmd.exe/</loc>`) || (sitemap.match(/<url>/g) || []).length < rows) fail('sitemap.xml incomplete');
 
 // every page: no rendering leaks, every internal link resolves
 const pages = [];

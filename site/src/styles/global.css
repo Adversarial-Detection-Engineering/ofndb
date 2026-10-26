@@ -127,6 +127,7 @@ td.ok { color: var(--ok); font-weight: 600; white-space: nowrap; }
 .empty { padding: 1rem; color: var(--muted); }
 td.bad { color: var(--bad); text-decoration: line-through; }
 td.good { color: var(--ok); font-weight: 600; }
+td.mm { color: var(--bad); font-weight: 600; }
 
 /* badges */
 .cat, .badge {

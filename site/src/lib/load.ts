@@ -3,7 +3,7 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { parse as parseYaml } from 'yaml';
-import { deriveAll, type Curated, type DataRecord, type Inputs, type Verification } from './derive';
+import { deriveAll, type Curated, type DataRecord, type Inputs, type Mismatch, type Verification } from './derive';
 
 const DATA = resolve(process.env.OFNDB_DATA ?? join(process.cwd(), '..', 'data'));
 
@@ -24,11 +24,16 @@ function loadInputs(): Inputs {
     }
   }
 
+  // a mismatch is a finding, so it's shown on the page rather than dropped
   const verified: Record<string, Verification> = {};
+  const mismatches: Record<string, Mismatch> = {};
   const sysmonPath = join(DATA, 'validation', 'sysmon.json');
   if (existsSync(sysmonPath)) {
     for (const r of json(sysmonPath)) {
-      if (r.parsed && r.match) verified[r.sha256] = { sysmon_version: r.sysmon_version, os_build: r.os_build, date: r.verified };
+      if (!r.parsed) continue;
+      const v = { sysmon_version: r.sysmon_version, os_build: r.os_build, date: r.verified };
+      if (r.match) verified[r.sha256] = v;
+      else mismatches[r.sha256] = { ...v, sysmon_value: r.sysmon_original_filename, parsed_value: r.parsed_original_filename };
     }
   }
 
@@ -39,6 +44,7 @@ function loadInputs(): Inputs {
     targets: json(join(DATA, 'targets.json')).targets,
     curated,
     verified,
+    mismatches,
     coverage: existsSync(covPath) ? json(covPath).summary : {},
     sigmaRelease: existsSync(sigmaPath) ? json(sigmaPath).sigma_release : null,
   };

@@ -71,7 +71,7 @@ const desc = e.primary
           {e.notes && <p class="note" set:html={md(e.notes)} />}
           <ul>
             {e.gotchas.map((g) => (
-              <li set:html={md(g)} />
+              <li set:html={md(g.text)} />
             ))}
           </ul>
         </section>
@@ -138,7 +138,7 @@ const desc = e.primary
       <div class="table-wrap">
         <table class="grid small">
           <thead>
-            <tr><th>SHA256</th><th>Version</th><th>Arch</th><th>OriginalFilename</th><th>Windows releases</th><th>Source</th><th>Sysmon</th></tr>
+            <tr><th>SHA256</th><th>Version</th><th>Arch</th><th>OriginalFilename</th><th>Windows releases</th><th>Signature</th><th>Source</th><th>Sysmon</th></tr>
           </thead>
           <tbody>
             {
@@ -151,9 +151,12 @@ const desc = e.primary
                   <td class="mono">{b.version}</td>
                   <td>{b.machine}</td>
                   <td class="mono">{b.original_filename ?? <span class="none">none</span>}</td>
-                  <td>{b.releases.length > 0 ? (b.releases.length > 2 ? `${b.releases[0]} … ${b.releases[b.releases.length - 1]} (${b.releases.length})` : b.releases.join(', ')) : (b.product ?? '')}</td>
+                  <td title={b.os_builds.length ? `OS builds ${b.os_builds[0]} … ${b.os_builds[b.os_builds.length - 1]} (${b.os_builds.length})` : undefined}>
+                    {b.releases.length > 0 ? (b.releases.length > 2 ? `${b.releases[0]} … ${b.releases[b.releases.length - 1]} (${b.releases.length})` : b.releases.join(', ')) : (b.product ?? '')}
+                  </td>
+                  <td>{b.signature}</td>
                   <td>{b.sources.map((s) => sourceLabel[s] ?? s).join(', ')}</td>
-                  <td class="ok">{b.verified ? '✓' : ''}</td>
+                  <td class={b.mismatch ? 'mm' : 'ok'}>{b.verified ? '✓' : b.mismatch ? '✗' : ''}</td>
                 </tr>
               ))
             }

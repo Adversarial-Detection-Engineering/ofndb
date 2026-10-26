@@ -10,7 +10,7 @@ const quickFlags = [
   ['drift', 'Changed across builds'],
   ['no-ofn', 'No OriginalFilename'],
   ['differs-from-name', 'Differs from file name'],
-  ['apphost', '.NET apphost'],
+  ['dll-ofn', 'Names a DLL'],
 ];
 const searchText = (e: Entry) =>
   [e.name, ...e.distinct_values, e.description ?? '', e.company ?? '', ...e.internal_names].join(' ').toLowerCase();
@@ -20,8 +20,8 @@ const searchText = (e: Entry) =>
   <section class="hero">
     <h1>OriginalFilename, as sensors log it</h1>
     <p class="lede">
-      The <code>OriginalFileName</code> value Sysmon, Defender and Elastic report for {stats.entries.toLocaleString('en-US')}
-      LOLBins, Windows binaries and admin tools. Parsed from the PE itself across {stats.builds.toLocaleString('en-US')} builds,
+      The <code>OriginalFileName</code> value for {stats.entries.toLocaleString('en-US')} LOLBins, Windows binaries and admin
+      tools. Parsed from the PE itself across {stats.builds.toLocaleString('en-US')} builds,
       then checked against real Sysmon events. Not the <code>.MUI</code> value Explorer shows you.
     </p>
   </section>
@@ -97,31 +97,49 @@ const searchText = (e: Entry) =>
         }
         count.textContent = `${shown} binar${shown === 1 ? 'y' : 'ies'}`;
         empty.hidden = shown > 0;
+        // every filter lives in the URL, so a filtered view can be shared
         const url = new URL(location.href);
-        q.value ? url.searchParams.set('q', q.value) : url.searchParams.delete('q');
+        const set = (k, v) => (v ? url.searchParams.set(k, v) : url.searchParams.delete(k));
+        set('q', q.value);
+        set('cat', cat);
+        set('flags', [...flags].join(','));
+        set('verified', verified ? '1' : '');
         history.replaceState(null, '', url);
       };
 
-      document.querySelectorAll('button[data-cat]').forEach((b) => b.addEventListener('click', () => {
-        cat = b.dataset.cat;
-        document.querySelectorAll('button[data-cat]').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
-        apply();
-      }));
-      document.querySelectorAll('button[data-flag]').forEach((b) => b.addEventListener('click', () => {
+      const catButtons = document.querySelectorAll('button[data-cat]');
+      const flagButtons = document.querySelectorAll('button[data-flag]');
+      const verifiedButton = document.querySelector('button[data-verified]');
+      const setCat = (c) => {
+        cat = c;
+        catButtons.forEach((x) => x.setAttribute('aria-pressed', String(x.dataset.cat === c)));
+      };
+      catButtons.forEach((b) => b.addEventListener('click', () => { setCat(b.dataset.cat); apply(); }));
+      flagButtons.forEach((b) => b.addEventListener('click', () => {
         const on = b.getAttribute('aria-pressed') !== 'true';
         b.setAttribute('aria-pressed', String(on));
         on ? flags.add(b.dataset.flag) : flags.delete(b.dataset.flag);
         apply();
       }));
-      document.querySelector('button[data-verified]').addEventListener('click', (ev) => {
+      verifiedButton.addEventListener('click', () => {
         verified = !verified;
-        ev.currentTarget.setAttribute('aria-pressed', String(verified));
+        verifiedButton.setAttribute('aria-pressed', String(verified));
         apply();
       });
       q.addEventListener('input', apply);
-      const initial = new URLSearchParams(location.search).get('q');
-      if (initial) { q.value = initial; apply(); }
-      q.focus();
+
+      const params = new URLSearchParams(location.search);
+      q.value = params.get('q') ?? '';
+      const initialCat = params.get('cat') ?? '';
+      if ([...catButtons].some((b) => b.dataset.cat === initialCat)) setCat(initialCat);
+      for (const f of (params.get('flags') ?? '').split(',')) {
+        const b = [...flagButtons].find((x) => x.dataset.flag === f);
+        if (b) { flags.add(f); b.setAttribute('aria-pressed', 'true'); }
+      }
+      if (params.get('verified') === '1') { verified = true; verifiedButton.setAttribute('aria-pressed', 'true'); }
+      if (params.size) apply();
+      // no autofocus on touch screens: it pops the keyboard over the table
+      if (matchMedia('(pointer: fine)').matches) q.focus();
     })();
   </script>
 </Base>

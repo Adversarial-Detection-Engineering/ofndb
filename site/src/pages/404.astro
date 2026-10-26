@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import { href } from '../lib/util';
+---
+
+<Base title="Not found" description="This page doesn't exist.">
+  <article class="prose">
+    <h1>Not found</h1>
+    <p class="lede">
+      No page here. Binary pages live at <code>/b/&lt;file name&gt;/</code>; the <a href={href('')}>library</a> searches every
+      file name and OriginalFilename.
+    </p>
+  </article>
+</Base>

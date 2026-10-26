@@ -7,7 +7,8 @@
   "additionalProperties": false,
   "properties": {
     "notes": { "type": "string", "minLength": 20 },
-    "gotchas": { "type": "array", "items": { "type": "string", "minLength": 10 } }
+    "gotchas": { "type": "array", "items": { "type": "string", "minLength": 10 } },
+    "apphost": { "type": "boolean", "description": "Hand-verified: the .exe is a .NET apphost launcher." }
   },
   "anyOf": [{ "required": ["notes"] }, { "required": ["gotchas"] }]
 }

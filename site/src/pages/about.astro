@@ -24,8 +24,8 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
         <a href={href('gotchas/#mui')}>gotcha 1</a>).
       </li>
       <li>
-        <strong>Windows built-ins, every build.</strong> Winbindex lists each known build of a Windows file. The collector downloads
-        each one from the Microsoft symbol server and keeps it only if its SHA256 matches Winbindex: the server's timestamp/size key
+        <strong>Windows built-ins, every build.</strong> Winbindex lists each known build of a Windows file. Each one is downloaded
+        from the Microsoft symbol server and keeps it only if its SHA256 matches Winbindex: the server's timestamp/size key
         collides often and can return a different build than the one requested.
       </li>
       <li>
@@ -53,7 +53,9 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
     <h2>Coverage</h2>
     <p>
       {n(stats.entries)} binaries and {n(stats.builds)} parsed builds; {n(stats.verified_entries)} binaries confirmed against Sysmon
-      {stats.sysmon_versions.join(', ')} with zero mismatches. Of {n(stats.targets)} target names gathered from LOLBAS, LOLRMM,
+      {stats.sysmon_versions.join(', ')}, {stats.mismatched_entries
+        ? `and ${n(stats.mismatched_entries)} where Sysmon logged a different value (flagged on their pages)`
+        : 'with zero mismatches'}. Defender and Elastic values aren't sensor-checked yet. Of {n(stats.targets)} target names gathered from LOLBAS, LOLRMM,
       Sysinternals and SigmaHQ ({stats.sigma_release}), {n(stats.targets_collected)} are covered so far. Third-party tools and RMM
       agents are next.
     </p>

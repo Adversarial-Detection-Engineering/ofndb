@@ -8,12 +8,12 @@ const { entries } = siteData();
 const byFlag = (f: string) => entries.filter((e) => e.flags.includes(f));
 const drift = entries.filter((e) => e.flags.includes('drift') || e.flags.includes('case-drift'));
 const noOfn = byFlag('no-ofn');
-const apphost = byFlag('apphost');
+const dllNamed = byFlag('dll-ofn');
 const differs = byFlag('differs-from-name')
-  .filter((e) => !e.flags.includes('apphost'))
+  .filter((e) => !e.flags.includes('dll-ofn'))
   .sort((a, b) => b.sigma_rule_refs - a.sigma_rule_refs || a.name.localeCompare(b.name));
-const driftGotcha = (e: Entry) =>
-  e.gotchas.find((g) => g.startsWith('OriginalFilename changed') || g.startsWith('Casing differs')) ?? '';
+const driftGotcha = (e: Entry) => e.gotchas.find((g) => g.kind === 'drift' || g.kind === 'case-drift')?.text ?? '';
+const dllOf = (e: Entry) => e.distinct_values.find((v) => v.toLowerCase().endsWith('.dll')) ?? '';
 
 // Observed on Windows 11 build 26300: Explorer / (Get-Item x).VersionInfo vs. raw PE resource (= Sysmon)
 const mui = [
@@ -47,14 +47,21 @@ const mui = [
     </div>
     <p>Every value in this library comes from parsing <code>RT_VERSION</code> straight out of the PE bytes, never from those APIs.</p>
 
-    <h2 id="apphost">2. .NET apphosts report a DLL</h2>
+    <h2 id="apphost">2. Some executables report a DLL name</h2>
     <p>
-      .NET (Core) apps ship a small native launcher, <code>name.exe</code>, that loads <code>name.dll</code>. The build copies
-      the DLL's version resource into the launcher, so the OriginalFilename of the <code>.exe</code> process is the DLL's name:
-      <a href={href('b/pwsh.exe/')}><code>pwsh.exe</code></a> logs <code>pwsh.dll</code>.
+      An <code>.exe</code> process can log an OriginalFilename ending in <code>.dll</code>. One cause is the .NET (Core) apphost: a
+      small native launcher, <code>name.exe</code>, that loads <code>name.dll</code> and carries a copy of the DLL's version
+      resource, so <a href={href('b/pwsh.exe/')}><code>pwsh.exe</code></a> logs <code>pwsh.dll</code>. Most of the others are
+      ordinary native Windows binaries whose version resource simply names a DLL, such as <code>w32tm.exe</code> →
+      <code>w32time.dll</code>. Either way, a rule that expects an <code>.exe</code> value misses them.
     </p>
     <ul class="cols">
-      {apphost.map((e) => <li><a href={href(`b/${e.slug}/`)} set:html={wbr(e.name)} /> → <code set:html={wbr(e.distinct_values.find((v) => v.toLowerCase().endsWith('.dll')) ?? '')} /></li>)}
+      {dllNamed.map((e) => (
+        <li>
+          <a href={href(`b/${e.slug}/`)} set:html={wbr(e.name)} /> → <code set:html={wbr(dllOf(e))} />
+          {e.flags.includes('apphost') && <span class="muted"> (.NET apphost)</span>}
+        </li>
+      ))}
     </ul>
 
     <h2 id="drift">3. The value changes between builds</h2>

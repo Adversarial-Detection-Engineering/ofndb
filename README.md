@@ -1,6 +1,6 @@
 # ofndb
 
-The `OriginalFileName` that Sysmon, Microsoft Defender and Elastic log for LOLBins, Windows binaries, Sysinternals and admin tools. Each value is read from the binary itself and confirmed against live Sysmon events.
+The `OriginalFileName` of LOLBins, Windows binaries, Sysinternals and admin tools: the field Sysmon logs as `OriginalFileName`, Microsoft Defender as `ProcessVersionInfoOriginalFileName` and Elastic as `process.pe.original_file_name`. Each value is read from the binary itself and, wherever a build could be launched, confirmed against a live Sysmon event. Defender and Elastic values are not sensor-checked yet.
 
 **Site:** https://adversarial-detection-engineering.github.io/ofndb/
 
@@ -22,11 +22,13 @@ Detection rules key on OriginalFileName because it survives renaming, but the us
 | path | contents |
 |---|---|
 | `data/generated/<name>.json` | Every parsed build of a binary: SHA256, architecture, version strings, OriginalFilename, Windows releases, source |
-| `data/validation/sysmon.json` | Sysmon ground truth: the OriginalFileName Sysmon logged for each exact build (by SHA256) |
+| `data/validation/sysmon.json` | Sysmon ground truth: the OriginalFileName Sysmon logged for each exact build (by SHA256). A mismatch is shown on the binary's page |
+| `data/validation/sysmon-summary.json` | Totals for the last Sysmon run, and the targets that couldn't be launched |
 | `data/curated/<name>.yml` | Hand-written notes on binaries that need context |
 | `data/targets.json` | Binary names gathered from LOLBAS, LOLRMM, Sysinternals and SigmaHQ, with the claims those projects make |
-| `data/COVERAGE.md` | What's covered, and why anything isn't |
-| `schema/` | JSON Schemas every data file is validated against |
+| `data/sources/sigma_original_filenames.json` | Every OriginalFileName literal in SigmaHQ Windows rules, used as a cross-check |
+| `data/coverage.json`, `data/COVERAGE.md` | What's covered, and why anything isn't |
+| `schema/` | JSON Schemas for every data file the site reads; `npm test` validates them all |
 | `site/` | The static site (Astro). It derives gotchas, query snippets and lookup exports from `data/` at build time |
 
 Downloads (CSV, JSON, KQL datatable, rename-detection lookup) are on the site's [Lookups](https://adversarial-detection-engineering.github.io/ofndb/lookups/) page.

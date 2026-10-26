@@ -1,7 +1,7 @@
 {
  "summary": {
   "updated": "2026-10-26",
-  "targets": 1296,
+  "targets": 1276,
   "collected": 501,
   "sysmon_verified_targets": 402,
   "sysmon_mismatch_targets": 0,
@@ -21,7 +21,7 @@
     "collected": 151
    },
    "sigma": {
-    "targets": 961,
+    "targets": 941,
     "collected": 452
    },
    "curated": {
@@ -30,7 +30,7 @@
    }
   },
   "missing_reasons": {
-   "third-party tool: not collected yet": 453,
+   "third-party tool: not collected yet": 433,
    "RMM tool: not collected yet": 220,
    "Microsoft product outside Windows (Office/VS/SQL/SDK): not collected yet": 66,
    "no file extension (non-Windows binary)": 14,
@@ -158,186 +158,6 @@
   ]
  },
  "targets": [
-  {
-   "name": "      .exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": " bc of e.g. ipython.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".doc.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".docx.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".gif.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".jpeg.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".jpg.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".mkv.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".mov.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".mp3.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".mp4.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".pdf.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".png.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".ppt.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".pptx.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".rtf.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".svg.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".txt.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".xls.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
-  {
-   "name": ".xlsx.exe",
-   "sources": [
-    "sigma"
-   ],
-   "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
-  },
   {
    "name": "111.exe",
    "sources": [

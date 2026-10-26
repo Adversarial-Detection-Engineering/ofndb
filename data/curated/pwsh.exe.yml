@@ -3,3 +3,4 @@ notes: >-
   that loads `pwsh.dll`. The build copies the DLL's version resource into the
   launcher, so Sysmon and MDE report `pwsh.dll` for `pwsh.exe` processes.
   Windows PowerShell 5.1 (`powershell.exe`) reports `PowerShell.EXE`.
+apphost: true

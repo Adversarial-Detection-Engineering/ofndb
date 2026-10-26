@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ofndb/schema/coverage.schema.json",
+  "title": "Coverage report (data/coverage.json)",
+  "description": "Per-target coverage status and its summary. Mirrored by data/COVERAGE.md.",
+  "type": "object",
+  "required": ["summary", "targets"],
+  "properties": {
+    "summary": {
+      "type": "object",
+      "required": ["targets", "collected"],
+      "properties": {
+        "updated": { "type": "string", "format": "date" },
+        "targets": { "type": "integer", "minimum": 0 },
+        "collected": { "type": "integer", "minimum": 0 },
+        "sysmon_mismatch_targets": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "targets": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "sources", "status"],
+        "properties": {
+          "name": { "$ref": "targets.schema.json#/$defs/name" },
+          "sources": { "type": "array", "minItems": 1 },
+          "status": { "type": "string" }
+        }
+      }
+    }
+  }
+}
