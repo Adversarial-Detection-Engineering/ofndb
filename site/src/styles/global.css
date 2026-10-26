@@ -103,6 +103,14 @@ nav a.gh svg { display: block; }
 .search-row input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
 .count { color: var(--muted); font-size: 0.9rem; white-space: nowrap; }
 .chips { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.45rem 0; }
+.filter-group { display: flex; align-items: baseline; gap: 0.7rem; }
+.filter-group + .filter-group { border-top: 1px solid var(--line); padding-top: 0.15rem; }
+.filter-group .chips { flex: 1; min-width: 0; }
+.filter-label {
+  flex: 0 0 5.5rem; font: 600 0.72rem var(--sans); text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.chip[data-empty] { opacity: 0.45; }
 .chip {
   font: 0.85rem var(--sans); padding: 0.28rem 0.7rem; border-radius: 999px; border: 1px solid var(--line);
   background: var(--surface); color: var(--text); cursor: pointer;
@@ -115,14 +123,46 @@ nav a.gh svg { display: block; }
 /* tables */
 .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); margin: 0.75rem 0; }
 table { border-collapse: collapse; width: 100%; font-size: 0.93rem; }
-th, td { text-align: left; padding: 0.5rem 0.75rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--line); vertical-align: top; }
 th { font-weight: 600; color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; background: var(--surface-2); }
 tbody tr:last-child td { border-bottom: 0; }
+/* Mid widths: columns size to their content and the card hugs the table, so there is
+   no slack for auto layout to hand to arbitrary columns. Never `width: 1%` here — that
+   squeezes a column to min-content, and the wbr hints inside each name are break
+   opportunities Chrome takes even under nowrap, so a two-row view rendered `pwsh.dll`
+   as `pwsh.` + `dll`. Below 641px the original wrapping layout stands: the wbr hints
+   are load-bearing there and the Category column is hidden. */
+@media (min-width: 641px) {
+  table.lib { width: auto; }
+  .lib-wrap { width: fit-content; max-width: 100%; }
+  table.lib th:nth-child(2), table.lib td:nth-child(2) { padding-right: 1.5rem; }
+  /* one 58-char name would otherwise set this column ~35% wider than the next
+     longest (43 chars) needs; past the cap a name wraps on its wbr hints */
+  table.lib td:first-child { max-width: 24rem; }
+}
+/* Wide screens: pin the two name columns so a 2-row filter renders the same geometry
+   as the full 1043-row table — only the row count changes, not the table's shape.
+   Category absorbs the remainder, which leaves Sysmon at min-content on the right.
+   Held back to 1100px because the fixed 49rem of names only fits without wrapping
+   once the container is wider than that. */
+@media (min-width: 1100px) {
+  table.lib { width: 100%; }
+  .lib-wrap { width: auto; }
+  /* Every column carries a share. Do NOT give one column `width: 100%` to absorb the
+     slack: that demand wins outright and starves the others down to min-content, which
+     is where the `pwsh.` + `dll` wrap comes from. Shares sum to 92%, so Sysmon takes
+     the remaining ~8% and its centred glyph lands near the right edge. */
+  table.lib th:first-child, table.lib td:first-child { width: 34%; max-width: none; }
+  table.lib th:nth-child(2), table.lib td:nth-child(2) { width: 34%; }
+  table.lib th:nth-child(3), table.lib td:nth-child(3) { width: 24%; }
+}
 table.lib td:first-child a { font-family: var(--mono); font-weight: 600; text-decoration: none; }
 table.lib td:first-child a:hover { text-decoration: underline; }
 table.lib tbody tr:hover { background: var(--surface-2); }
-td.desc { color: var(--muted); }
 td.ok { color: var(--ok); font-weight: 600; white-space: nowrap; }
+/* the Sysmon flag is a single glyph: centre it under its header, and sit it on the
+   row's middle so it stays with the binary name when that name wraps on mobile */
+table.lib th:last-child, table.lib td:last-child { text-align: center; vertical-align: middle; }
 .small, table.small { font-size: 0.85rem; }
 .none { color: var(--muted); font-style: italic; font-family: var(--sans); }
 .more { margin-left: 0.4rem; font: 600 0.75rem var(--sans); color: var(--accent); background: var(--accent-soft); padding: 0.05rem 0.4rem; border-radius: 999px; }
@@ -204,5 +244,7 @@ dl.defs dd { margin: 0.25rem 0 0 0; color: var(--muted); }
   .hide-sm { display: none; }
   .header-row { gap: 0.5rem 1rem; padding: 0.5rem 0; }
   .finder { position: static; }
-  th, td { padding: 0.45rem 0.55rem; }
+  th, td { padding: 0.45rem 0.45rem; }
+  .filter-group { flex-direction: column; gap: 0; }
+  .filter-label { flex: none; }
 }

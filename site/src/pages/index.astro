@@ -63,20 +63,26 @@ const jsonLd = {
       />
       <span id="count" class="count" aria-live="polite">{entries.length} binaries</span>
     </div>
-    <div class="chips" role="group" aria-label="Category">
-      <button class="chip" aria-pressed="true" data-cat="">All</button>
-      {cats.map((c) => <button class="chip" aria-pressed="false" data-cat={c}>{CATEGORY_LABELS[c]} <span>{stats.categories[c]}</span></button>)}
+    <div class="filter-group">
+      <span class="filter-label" id="lbl-cat">Categories</span>
+      <div class="chips" role="group" aria-labelledby="lbl-cat">
+        <button class="chip" aria-pressed="true" data-cat="">All <span>{stats.entries}</span></button>
+        {cats.map((c) => <button class="chip" aria-pressed="false" data-cat={c}>{CATEGORY_LABELS[c]} <span>{stats.categories[c]}</span></button>)}
+      </div>
     </div>
-    <div class="chips flags" role="group" aria-label="Only show">
-      {quickFlags.map(([f, label]) => <button class="chip chip-flag" aria-pressed="false" data-flag={f}>{label} <span>{stats.flags[f] ?? 0}</span></button>)}
-      <button class="chip chip-flag" aria-pressed="false" data-verified>Sysmon-confirmed <span>{stats.verified_entries}</span></button>
+    <div class="filter-group">
+      <span class="filter-label" id="lbl-prop">Properties</span>
+      <div class="chips flags" role="group" aria-labelledby="lbl-prop">
+        {quickFlags.map(([f, label]) => <button class="chip chip-flag" aria-pressed="false" data-flag={f}>{label} <span>{stats.flags[f] ?? 0}</span></button>)}
+        <button class="chip chip-flag" aria-pressed="false" data-verified>Sysmon-confirmed <span>{stats.verified_entries}</span></button>
+      </div>
     </div>
   </section>
 
-  <div class="table-wrap">
+  <div class="table-wrap lib-wrap">
     <table class="lib" id="lib">
       <thead>
-        <tr><th>Binary</th><th>OriginalFilename</th><th class="hide-sm">Description</th><th class="hide-sm">Category</th><th title="Confirmed against a live Sysmon event">Sysmon</th></tr>
+        <tr><th>Binary</th><th>OriginalFilename</th><th class="hide-sm">Category</th><th title="Confirmed against a live Sysmon event">Sysmon</th></tr>
       </thead>
       <tbody>
         {
@@ -87,7 +93,6 @@ const jsonLd = {
                 {e.primary ? <Fragment set:html={wbr(e.primary)} /> : <span class="none">none</span>}
                 {e.distinct_values.length > 1 && <span class="more" title={e.distinct_values.join(', ')}>+{e.distinct_values.length - 1}</span>}
               </td>
-              <td class="hide-sm desc">{e.description}</td>
               <td class="hide-sm"><span class={`cat cat-${e.category}`}>{CATEGORY_LABELS[e.category]}</span></td>
               <td class="ok">{e.verified ? <span title="Confirmed against Sysmon">✓</span> : ''}</td>
             </tr>
@@ -108,20 +113,46 @@ const jsonLd = {
       const flags = new Set();
       let verified = false;
 
+      // dataset parsing hoisted out of the filter loop: it reruns on every keystroke.
+      // Astro drops an attribute whose value is the empty string, so a row with no
+      // flags has no data-flags at all — hence the ?? '' guards.
+      const data = rows.map((r) => ({
+        row: r,
+        s: r.dataset.s ?? '',
+        cats: (r.dataset.cat ?? '').split(' '),
+        flags: (r.dataset.flags ?? '').split(' '),
+        v: r.dataset.v === '1',
+      }));
+      const hit = (d, terms, c, fl, v) =>
+        terms.every((t) => d.s.includes(t)) &&
+        (!c || d.cats.includes(c)) &&
+        fl.every((f) => d.flags.includes(f)) &&
+        (!v || d.v);
+
       const apply = () => {
         const terms = q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+        const activeFlags = [...flags];
         let shown = 0;
-        for (const r of rows) {
-          const ok =
-            terms.every((t) => r.dataset.s.includes(t)) &&
-            (!cat || r.dataset.cat.split(' ').includes(cat)) &&
-            [...flags].every((f) => r.dataset.flags.split(' ').includes(f)) &&
-            (!verified || r.dataset.v === '1');
-          r.hidden = !ok;
+        for (const d of data) {
+          const ok = hit(d, terms, cat, activeFlags, verified);
+          d.row.hidden = !ok;
           if (ok) shown++;
         }
         count.textContent = `${shown} binar${shown === 1 ? 'y' : 'ies'}`;
         empty.hidden = shown > 0;
+        // every chip's number is what the result count would be with that chip on,
+        // so a count never contradicts what clicking it produces
+        const tally = (c, fl, v) => data.reduce((n, d) => n + (hit(d, terms, c, fl, v) ? 1 : 0), 0);
+        const setCount = (b, n) => {
+          const s = b.querySelector('span');
+          if (s) s.textContent = n;
+          b.toggleAttribute('data-empty', n === 0);
+        };
+        catButtons.forEach((b) => setCount(b, tally(b.dataset.cat, activeFlags, verified)));
+        flagButtons.forEach((b) =>
+          setCount(b, tally(cat, flags.has(b.dataset.flag) ? activeFlags : [...activeFlags, b.dataset.flag], verified)),
+        );
+        setCount(verifiedButton, tally(cat, activeFlags, true));
         // every filter lives in the URL, so a filtered view can be shared
         const url = new URL(location.href);
         const set = (k, v) => (v ? url.searchParams.set(k, v) : url.searchParams.delete(k));
@@ -162,7 +193,7 @@ const jsonLd = {
         if (b) { flags.add(f); b.setAttribute('aria-pressed', 'true'); }
       }
       if (params.get('verified') === '1') { verified = true; verifiedButton.setAttribute('aria-pressed', 'true'); }
-      if (params.size) apply();
+      apply(); // unconditional: the chip counts are computed here, not rendered static
       // no autofocus on touch screens: it pops the keyboard over the table
       if (matchMedia('(pointer: fine)').matches) q.focus();
     })();

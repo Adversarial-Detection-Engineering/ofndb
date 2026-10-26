@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { siteData } from '../lib/load';
-import { href } from '../lib/util';
+import { href, repoFile } from '../lib/util';
 
 const { stats } = siteData();
 const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
@@ -19,9 +19,9 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
     <h2>Where the values come from</h2>
     <ol>
       <li>
-        <strong>Raw PE parsing.</strong> Every value is read from the <code>RT_VERSION</code> resource inside the binary, using
-        <code>pefile</code>. Windows' own version APIs are never used, because they return the localized MUI value (see
-        <a href={href('gotchas/#mui')}>gotcha 1</a>).
+        <strong>Raw PE parsing.</strong> Every value is read from the <code>RT_VERSION</code> resource inside the binary,
+        using <code>pefile</code>. Windows' own version APIs are never used, because they return the localized MUI value
+        (see <a href={href('gotchas/#mui')}>gotcha 1</a>).
       </li>
       <li>
         <strong>Windows built-ins, every build.</strong> Winbindex lists each known build of a Windows file. Each one is downloaded
@@ -32,8 +32,8 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
         <strong>Sysinternals</strong> come from live.sysinternals.com; vendor tools from the vendor's own download.
       </li>
       <li>
-        <strong>Sensor ground truth.</strong> A disposable Windows Sandbox installs Sysmon, then creates every target process
-        <em>suspended</em> and kills it before its first instruction runs. Sysmon still logs the process-creation event, so each
+        <strong>Sensor ground truth.</strong> A disposable Windows Sandbox installs Sysmon, then creates every target
+        process <em>suspended</em> and kills it before its first instruction runs. Sysmon still logs the process-creation event, so each
         binary's logged OriginalFileName is compared with the parsed value, matched by exact SHA256, without executing anything.
       </li>
     </ol>
@@ -64,15 +64,16 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
     <p>
       Built on <a href="https://lolbas-project.github.io/">LOLBAS</a>, <a href="https://lolrmm.io/">LOLRMM</a>,
       <a href="https://winbindex.m417z.com/">Winbindex</a>, <a href="https://github.com/SigmaHQ/sigma">SigmaHQ</a>,
-      <a href="https://learn.microsoft.com/sysinternals/">Sysinternals</a> and
-      <a href="https://github.com/erocarrera/pefile">pefile</a>.
+      <a href="https://learn.microsoft.com/sysinternals/">Sysinternals</a>
+      and <a href="https://github.com/erocarrera/pefile">pefile</a>.
     </p>
 
     <h2>Contributing</h2>
     <p>
       The most valuable contribution is sensor evidence: if your Sysmon, Defender or Elastic data shows a different OriginalFilename
       for a binary, open an issue with its SHA256 and the logged value. Missing binaries and context notes
-      (<code>data/curated/&lt;name&gt;.yml</code>) are welcome too. See <code>CONTRIBUTING.md</code>.
+      (<code>data/curated/&lt;name&gt;.yml</code>) are welcome too.
+      See <a href={repoFile('CONTRIBUTING.md')}><code>CONTRIBUTING.md</code></a>.
     </p>
   </article>
 </Base>

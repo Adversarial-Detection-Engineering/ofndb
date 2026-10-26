@@ -1,7 +1,7 @@
 ---
 import '../styles/global.css';
 import { siteData } from '../lib/load';
-import { SITE_NAME, href } from '../lib/util';
+import { REPO_URL, SITE_NAME, href } from '../lib/util';
 
 const { stats } = siteData();
 
@@ -20,7 +20,6 @@ const nav = [
   ['lookups/', 'Lookups'],
   ['about/', 'About'],
 ];
-const REPO_URL = 'https://github.com/Adversarial-Detection-Engineering/ofndb';
 const current = Astro.url.pathname;
 const isCurrent = (path: string) => (path === '' ? current === href('') : current.startsWith(href(path)));
 const canonical = new URL(current, Astro.site).href;

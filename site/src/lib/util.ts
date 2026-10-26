@@ -1,5 +1,10 @@
 export const SITE_NAME = 'ofndb';
 
+export const REPO_URL = 'https://github.com/Adversarial-Detection-Engineering/ofndb';
+
+/** Link to a file at the repo's default branch. */
+export const repoFile = (path: string) => `${REPO_URL}/blob/main/${path}`;
+
 /** Base path with exactly one trailing slash, e.g. "/" or "/ofndb/". */
 export const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 

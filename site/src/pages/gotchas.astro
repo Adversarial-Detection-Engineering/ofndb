@@ -31,8 +31,8 @@ const mui = [
 
     <h2 id="mui">1. Explorer and PowerShell show you the wrong value</h2>
     <p>
-      The file Properties dialog, <code>(Get-Item x).VersionInfo</code> and .NET <code>FileVersionInfo</code> load the
-      <em>localized</em> MUI copy of the version resource. Sysmon and EDR sensors read the binary's own resource. If you
+      The file Properties dialog, <code>(Get-Item x).VersionInfo</code> and .NET <code>FileVersionInfo</code> load
+      the <em>localized</em> MUI copy of the version resource. Sysmon and EDR sensors read the binary's own resource. If you
       copy the value from Explorer into a rule, the rule never fires.
     </p>
     <div class="table-wrap">
@@ -118,9 +118,22 @@ const mui = [
     <h2 id="spoof">7. OriginalFilename is attacker-controlled</h2>
     <p>
       It survives renaming, which is why it's useful, but it's just a string in a resource section. Anyone can set it on their own
-      tool, or edit it on a copied binary. Editing a signed binary breaks its signature: Authenticode covers the resources, and
-      catalog-signed Windows files stop matching their catalog hash. Pair OriginalFileName with signature status and signer for
-      anything that matters.
+      tool, or edit it on a copied binary. Easier still, they can strip the version resource and leave nothing to match: the process
+      then logs <code>-</code>, exactly like the <a href="#none">{noOfn.length} binaries above</a> that simply ship without one.
+      Spoofing a value is the loud option; removing it is the quiet one.
+    </p>
+    <p>
+      Editing a signed binary breaks its signature: Authenticode hashes the resources, and catalog-signed Windows files stop
+      matching their catalog hash. So pair OriginalFileName with signature status and signer — and know which half is doing the
+      work. A renamed but unmodified signed binary keeps a valid signature and its real signer, so only OriginalFileName catches
+      it; a forged value breaks the signature, so only the signature catches that. Each check covers the other's blind spot.
+    </p>
+    <p>
+      Neither sensor hands you both in one record. Sysmon's process creation event (ID 1) carries no signature fields at all —
+      signature data is on driver load (6) and image load (7). Defender XDR's <code>DeviceProcessEvents</code> gives
+      you <code>ProcessVersionInfoOriginalFileName</code> for the created process, but its signature
+      columns, <code>InitiatingProcessSignatureStatus</code> and <code>InitiatingProcessSignerType</code>, describe
+      the <em>initiating</em> process; for the created one, join <code>SHA1</code> to <code>DeviceFileCertificateInfo</code>.
     </p>
 
     <h2 id="names">8. One file name, different binaries</h2>
