@@ -5,12 +5,12 @@ Generated. Do not edit.
 | | count |
 |---|---|
 | targets | 1369 |
-| collected (≥1 parsed build) | 505 |
-| Sysmon-verified (≥1 build) | 505 |
+| collected (≥1 parsed build) | 506 |
+| Sysmon-verified (≥1 build) | 506 |
 | Sysmon mismatches | 0 |
-| parsed builds | 5090 |
-| Sysmon-verified builds (all records) | 5778 of 5818 |
-| extra records (host binaries not in any target source) | 538 |
+| parsed builds | 5091 |
+| Sysmon-verified builds (all records) | 5823 of 5863 |
+| extra records (host binaries not in any target source) | 565 |
 
 ## By source
 
@@ -19,14 +19,14 @@ Generated. Do not edit.
 | lolbas | 245 | 158 |
 | lolrmm | 291 | 5 |
 | sysinternals | 151 | 151 |
-| sigma | 1003 | 457 |
+| sigma | 1003 | 458 |
 | curated | 42 | 42 |
 
 ## Why targets are missing
 
 | reason | count |
 |---|---|
-| third-party tool: not collected yet | 484 |
+| third-party tool: not collected yet | 483 |
 | RMM tool: not collected yet | 256 |
 | Microsoft product outside Windows (Office/VS/SQL/SDK): not collected yet | 66 |
 | no file extension (non-Windows binary) | 14 |
@@ -57,6 +57,6 @@ Any difference counts here: a different value, casing only, or some builds with 
 - `sysmon.exe`: none, `sysmon.exe`
 - `taskmgr.exe`: `Taskmgr.exe`, `taskmgr.exe`
 
-## No OriginalFilename in any build (11)
+## No OriginalFilename in any build (12)
 
-`anydesk.exe`, `ldmdump.exe`, `openconsole.exe`, `pcalua.exe`, `reghide.exe`, `rootkitrevealer.exe`, `scp.exe`, `sftp.exe`, `ssh-shellhost.exe`, `ssh.exe`, `sysmon64.exe`
+`anydesk.exe`, `ldmdump.exe`, `ngrok.exe`, `openconsole.exe`, `pcalua.exe`, `reghide.exe`, `rootkitrevealer.exe`, `scp.exe`, `sftp.exe`, `ssh-shellhost.exe`, `ssh.exe`, `sysmon64.exe`

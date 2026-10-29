@@ -1,0 +1,48 @@
+{
+ "name": "sas.dll",
+ "builds": [
+  {
+   "sha256": "212cdb17ac4e8fe6db2d7ecef95905f92f79f9785d4977adf6e2173a957d3b20",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "sas.dll",
+   "internal_name": "sas",
+   "file_description": "WinLogon Software SAS Library",
+   "company_name": "Microsoft Corporation",
+   "product_name": "Microsoft® Windows® Operating System",
+   "file_version": "6.1.7125.0 (winmain.090505-1530)",
+   "fixed_file_version": "6.1.7125.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "GlavSoft",
+   "product": "TightVNC",
+   "release": "2.8.89",
+   "last_seen": "2.8.89",
+   "download_url": "https://www.tightvnc.com/download/2.8.89/tightvnc-2.8.89-gpl-setup-64bit.msi",
+   "rmm_tool": "TightVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "sas.dll",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "6.1.7125.0",
+   "max_version": "6.1.7125.0",
+   "first_seen": "2.8.89",
+   "last_seen": "2.8.89",
+   "provenance": "parsed"
+  }
+ ]
+}

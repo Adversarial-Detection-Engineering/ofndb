@@ -1,0 +1,72 @@
+{
+ "name": "vncpasswd.exe",
+ "builds": [
+  {
+   "sha256": "e3c84e87dc8cdfc816194215ea77bc1451f200a663a9d2124adf6b26253c9263",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vncpasswd.exe",
+   "internal_name": "vncpasswd",
+   "file_description": "VNC® Password Utility",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  },
+  {
+   "sha256": "54cafb934d95a931f92e69ffb8d33bfc9c33cc8045ad846bc321170a365e6083",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vncpasswd.exe",
+   "internal_name": "vncpasswd",
+   "file_description": "VNC® Password Utility",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "vncpasswd.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "7.18.1.23",
+   "max_version": "7.18.1.23",
+   "first_seen": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "provenance": "parsed"
+  }
+ ]
+}

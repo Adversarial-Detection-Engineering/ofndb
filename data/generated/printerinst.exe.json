@@ -1,0 +1,72 @@
+{
+ "name": "printerinst.exe",
+ "builds": [
+  {
+   "sha256": "9e9533a0fc32dfa2f8b899b1c2e9078b07f9e5bf8eaf9363630415e6e7757b21",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "printerinst.exe",
+   "internal_name": "printerinst",
+   "file_description": "VNC® Printer Installer",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  },
+  {
+   "sha256": "5ce63582ce356ee15712c7b56adb267e3e02e3153c14aaa45aaa059280a40667",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "printerinst.exe",
+   "internal_name": "printerinst",
+   "file_description": "VNC® Printer Installer",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "printerinst.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "7.18.1.23",
+   "max_version": "7.18.1.23",
+   "first_seen": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "provenance": "parsed"
+  }
+ ]
+}

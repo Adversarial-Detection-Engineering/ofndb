@@ -1,0 +1,48 @@
+{
+ "name": "ngrok.exe",
+ "builds": [
+  {
+   "sha256": "867143a1c945e7006740422972f670055e83cc0a99b3fa71b14deababca927fe",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": "The ngrok agent gets you online in one line.",
+   "company_name": null,
+   "product_name": "ngrok agent",
+   "file_version": null,
+   "fixed_file_version": "0.0.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "ngrok",
+   "product": "ngrok",
+   "release": "3.3.1",
+   "last_seen": "3.3.1",
+   "download_url": "https://bin.equinox.io/a/cJk8dzafvmN/ngrok-v3-3.3.1-windows-amd64.zip",
+   "rmm_tool": "ngrok",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "0.0.0.0",
+   "max_version": "0.0.0.0",
+   "first_seen": "3.3.1",
+   "last_seen": "3.3.1",
+   "provenance": "parsed"
+  }
+ ]
+}

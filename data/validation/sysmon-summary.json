@@ -1,9 +1,9 @@
 {
  "date": "2026-10-29",
- "targets": 1611,
- "staged": 275,
+ "targets": 1460,
+ "staged": 124,
  "suspended": {
-  "match": 1239,
+  "match": 1308,
   "mismatch": 0,
   "sandbox_build_differs": 2,
   "covered_by_copy": 88,
@@ -11,7 +11,7 @@
   "no_event": 0
  },
  "image_load": {
-  "match": 236,
+  "match": 16,
   "mismatch": 0,
   "sandbox_build_differs": 0,
   "covered_by_copy": 0,

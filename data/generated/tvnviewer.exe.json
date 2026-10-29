@@ -1,0 +1,48 @@
+{
+ "name": "tvnviewer.exe",
+ "builds": [
+  {
+   "sha256": "babb33c51193017cf9f73b6a819ddc4d72a384649df5c1d0d3594593bc5668c5",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "tvnviewer.exe",
+   "internal_name": "tvnviewer",
+   "file_description": "TightVNC Viewer",
+   "company_name": "GlavSoft LLC.",
+   "product_name": "TightVNC",
+   "file_version": "2, 8, 89, 0",
+   "fixed_file_version": "2.8.89.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "GlavSoft",
+   "product": "TightVNC",
+   "release": "2.8.89",
+   "last_seen": "2.8.89",
+   "download_url": "https://www.tightvnc.com/download/2.8.89/tightvnc-2.8.89-gpl-setup-64bit.msi",
+   "rmm_tool": "TightVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "tvnviewer.exe",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "2.8.89.0",
+   "max_version": "2.8.89.0",
+   "first_seen": "2.8.89",
+   "last_seen": "2.8.89",
+   "provenance": "parsed"
+  }
+ ]
+}

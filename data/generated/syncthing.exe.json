@@ -1,0 +1,48 @@
+{
+ "name": "syncthing.exe",
+ "builds": [
+  {
+   "sha256": "cd9aea20afda2b9bdba5aff2e6ac964ed5c2e741ed4ceb48ad9e1be096ca7891",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "syncthing",
+   "internal_name": "syncthing",
+   "file_description": "Syncthing - Open Source Continuous File Synchronization",
+   "company_name": "The Syncthing Authors",
+   "product_name": "Syncthing",
+   "file_version": "2.1.7",
+   "fixed_file_version": "2.1.7.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Syncthing",
+   "product": "Syncthing",
+   "release": "2.1.7",
+   "last_seen": "2.1.7",
+   "download_url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-amd64-v2.1.7.zip",
+   "rmm_tool": "Syncthing",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "syncthing",
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "2.1.7.0",
+   "max_version": "2.1.7.0",
+   "first_seen": "2.1.7",
+   "last_seen": "2.1.7",
+   "provenance": "parsed"
+  }
+ ]
+}

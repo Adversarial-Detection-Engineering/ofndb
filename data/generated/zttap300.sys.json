@@ -1,0 +1,72 @@
+{
+ "name": "zttap300.sys",
+ "builds": [
+  {
+   "sha256": "a50f5eec4753b7a587c27f78440b1c6c1a7aa65aba0914ab9997f0c94965678d",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "zttap300.sys",
+   "internal_name": "zttap300.sys",
+   "file_description": "ZeroTier One Virtual Network Port",
+   "company_name": "ZeroTier Networks LLC",
+   "product_name": "ZeroTier One Virtual Network Port",
+   "file_version": "3.0.0 3/0",
+   "fixed_file_version": "3.0.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "ZeroTier, Inc.",
+   "product": "ZeroTier One",
+   "release": "1.16.2",
+   "last_seen": "1.16.2",
+   "download_url": "https://download.zerotier.com/RELEASES/1.16.2/dist/ZeroTierOne.msi",
+   "rmm_tool": "ZeroTier",
+   "sources": [
+    "rmm"
+   ]
+  },
+  {
+   "sha256": "4221486a0d36ef96ab1ed2a537747388655c4c2e470911646f4102d0b88fbdc6",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "zttap300.sys",
+   "internal_name": "zttap300.sys",
+   "file_description": "ZeroTier One Virtual Network Port",
+   "company_name": "ZeroTier Networks LLC",
+   "product_name": "ZeroTier One Virtual Network Port",
+   "file_version": "3.0.0 3/0",
+   "fixed_file_version": "3.0.0.0",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "ZeroTier, Inc.",
+   "product": "ZeroTier One",
+   "release": "1.16.2",
+   "last_seen": "1.16.2",
+   "download_url": "https://download.zerotier.com/RELEASES/1.16.2/dist/ZeroTierOne.msi",
+   "rmm_tool": "ZeroTier",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "zttap300.sys",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "3.0.0.0",
+   "max_version": "3.0.0.0",
+   "first_seen": "1.16.2",
+   "last_seen": "1.16.2",
+   "provenance": "parsed"
+  }
+ ]
+}

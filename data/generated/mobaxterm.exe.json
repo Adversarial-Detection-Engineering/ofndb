@@ -1,0 +1,48 @@
+{
+ "name": "mobaxterm.exe",
+ "builds": [
+  {
+   "sha256": "e9a66144b3a1c4d32f8062b1eb34e26e9ed5298106abf1982b4654ab107f13a5",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "MobaXterm",
+   "internal_name": "MobaXterm",
+   "file_description": "MobaXterm",
+   "company_name": "Mobatek",
+   "product_name": "MobaXterm",
+   "file_version": "26.6.0.5560",
+   "fixed_file_version": "26.6.0.5560",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "Mobatek",
+   "product": "MobaXterm",
+   "release": "26.6.0.5560",
+   "last_seen": "26.6.0.5560",
+   "download_url": "https://download.mobatek.net/2662026100713843/MobaXterm_Installer_v26.6.zip",
+   "rmm_tool": "MobaXterm",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "MobaXterm",
+   "builds": 1,
+   "machines": [
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "26.6.0.5560",
+   "max_version": "26.6.0.5560",
+   "first_seen": "26.6.0.5560",
+   "last_seen": "26.6.0.5560",
+   "provenance": "parsed"
+  }
+ ]
+}

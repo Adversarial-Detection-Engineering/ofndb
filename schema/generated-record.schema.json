@@ -19,7 +19,7 @@
           "sources": {
             "type": "array",
             "minItems": 1,
-            "items": { "enum": ["winbindex", "local", "vendor", "sysinternals"] }
+            "items": { "enum": ["winbindex", "local", "vendor", "sysinternals", "rmm"] }
           },
           "machine": { "type": "string" },
           "has_version_resource": { "type": "boolean" },

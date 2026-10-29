@@ -2,13 +2,13 @@
  "summary": {
   "updated": "2026-10-29",
   "targets": 1369,
-  "collected": 505,
-  "sysmon_verified_targets": 505,
+  "collected": 506,
+  "sysmon_verified_targets": 506,
   "sysmon_mismatch_targets": 0,
-  "builds": 5090,
-  "all_builds": 5818,
-  "sysmon_verified_builds": 5778,
-  "extra_records_not_in_targets": 538,
+  "builds": 5091,
+  "all_builds": 5863,
+  "sysmon_verified_builds": 5823,
+  "extra_records_not_in_targets": 565,
   "by_source": {
    "lolbas": {
     "targets": 245,
@@ -24,7 +24,7 @@
    },
    "sigma": {
     "targets": 1003,
-    "collected": 457
+    "collected": 458
    },
    "curated": {
     "targets": 42,
@@ -32,7 +32,7 @@
    }
   },
   "missing_reasons": {
-   "third-party tool: not collected yet": 484,
+   "third-party tool: not collected yet": 483,
    "RMM tool: not collected yet": 256,
    "Microsoft product outside Windows (Office/VS/SQL/SDK): not collected yet": 66,
    "no file extension (non-Windows binary)": 14,
@@ -148,6 +148,7 @@
   "no_original_filename": [
    "anydesk.exe",
    "ldmdump.exe",
+   "ngrok.exe",
    "openconsole.exe",
    "pcalua.exe",
    "reghide.exe",
@@ -8615,8 +8616,15 @@
     "sigma"
    ],
    "in_winbindex": false,
-   "status": "missing",
-   "reason": "third-party tool: not collected yet"
+   "status": "collected",
+   "builds": 1,
+   "original_filenames": [
+    null
+   ],
+   "windows_versions": 0,
+   "gap_groups": 0,
+   "sysmon_verified": 1,
+   "sysmon_mismatch": 0
   },
   {
    "name": "nimgrab.exe",

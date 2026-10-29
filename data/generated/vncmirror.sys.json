@@ -1,0 +1,72 @@
+{
+ "name": "vncmirror.sys",
+ "builds": [
+  {
+   "sha256": "ebfb6c530b4ac714963d31b5d424e7af2b7d2ca1cf3e455294be1e56cc8a3a12",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vncmirror.sys",
+   "internal_name": "enterprise4/vncmirror",
+   "file_description": "VNC Mirror Miniport",
+   "company_name": "RealVNC Ltd.",
+   "product_name": "VNC Server for Windows",
+   "file_version": "1.8.0.0 built by: WinDDK",
+   "fixed_file_version": "1.8.0.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  },
+  {
+   "sha256": "2764c7a11fd5672fbf72cdd4331f1895b5084664919ad4fc855dfdd451403d4c",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vncmirror.sys",
+   "internal_name": "enterprise4/vncmirror",
+   "file_description": "VNC Mirror Miniport",
+   "company_name": "RealVNC Ltd.",
+   "product_name": "VNC Server for Windows",
+   "file_version": "1.8.0.0 built by: WinDDK",
+   "fixed_file_version": "1.8.0.0",
+   "has_embedded_signature": false,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "vncmirror.sys",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "1.8.0.0",
+   "max_version": "1.8.0.0",
+   "first_seen": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "provenance": "parsed"
+  }
+ ]
+}

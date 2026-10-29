@@ -240,7 +240,9 @@ export function categorize(target: Target | undefined, builds: Build[]): string[
   const srcs = new Set(target?.sources ?? []);
   const buildSrcs = new Set(builds.flatMap((b) => b.sources));
   if (srcs.has('lolbas')) cats.add('lolbin');
-  if (srcs.has('lolrmm') && ownsRmm(builds, target?.lolrmm ?? [])) cats.add('rmm');
+  // a build collected from an RMM tool's own installer (source "rmm") IS that tool; so is a
+  // vendor build LOLRMM names. A Microsoft build with a colliding name is neither.
+  if (buildSrcs.has('rmm') || (srcs.has('lolrmm') && ownsRmm(builds, target?.lolrmm ?? []))) cats.add('rmm');
   if (srcs.has('sysinternals') || buildSrcs.has('sysinternals')) cats.add('sysinternals');
   if ((buildSrcs.has('winbindex') || buildSrcs.has('local')) && !cats.has('sysinternals')) cats.add('windows');
   if (!cats.size) cats.add('thirdparty');

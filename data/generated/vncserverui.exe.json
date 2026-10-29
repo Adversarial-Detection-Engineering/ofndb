@@ -1,0 +1,72 @@
+{
+ "name": "vncserverui.exe",
+ "builds": [
+  {
+   "sha256": "8c555b1d56fa1654fe68341d5a4213e4cf9bca543127f2bb60e711e9a9e1c695",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "vncserverui.exe",
+   "internal_name": "vncserverui",
+   "file_description": "RealVNC® Server",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  },
+  {
+   "sha256": "3d0d54676ca3effea4a41cf4d21bb1aff08411831c47c36fc2a291ee6f7f174c",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "vncserverui.exe",
+   "internal_name": "vncserverui",
+   "file_description": "RealVNC® Server",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "vncserverui.exe",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "7.18.1.23",
+   "max_version": "7.18.1.23",
+   "first_seen": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "provenance": "parsed"
+  }
+ ]
+}

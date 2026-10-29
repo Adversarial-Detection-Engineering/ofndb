@@ -1,0 +1,72 @@
+{
+ "name": "wm_hooks.dll",
+ "builds": [
+  {
+   "sha256": "b2471b8a16041982beebbaa8144718bc865a57bd996284cfa78c1cac1e7ca296",
+   "machine": "x64",
+   "has_version_resource": true,
+   "original_filename": "wm_hooks.dll",
+   "internal_name": "wm_hooks",
+   "file_description": "RealVNC® Server Hooks DLL",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  },
+  {
+   "sha256": "545865eaa3c785ce51e0caf18e071e050120ecd25a7ec23537b82b7e5cabf636",
+   "machine": "x86",
+   "has_version_resource": true,
+   "original_filename": "wm_hooks.dll",
+   "internal_name": "wm_hooks",
+   "file_description": "RealVNC® Server Hooks DLL",
+   "company_name": "RealVNC",
+   "product_name": "VNC®",
+   "file_version": "7.18.1 (r23)",
+   "fixed_file_version": "7.18.1.23",
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "RealVNC",
+   "product": "VNC Server",
+   "release": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "download_url": "https://downloads.realvnc.com/download/file/vnc.files/VNC-Server-7.18.1-Windows-msi.zip",
+   "rmm_tool": "RealVNC",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": "wm_hooks.dll",
+   "builds": 2,
+   "machines": [
+    "x64",
+    "x86"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": "7.18.1.23",
+   "max_version": "7.18.1.23",
+   "first_seen": "7.18.1.23",
+   "last_seen": "7.18.1.23",
+   "provenance": "parsed"
+  }
+ ]
+}

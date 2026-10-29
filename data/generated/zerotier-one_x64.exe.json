@@ -1,0 +1,48 @@
+{
+ "name": "zerotier-one_x64.exe",
+ "builds": [
+  {
+   "sha256": "c4f25ee78ab8c8c97ea502cc0ac60b1c7931264ff81e5317b7258b8fcec6f7bd",
+   "machine": "x64",
+   "has_version_resource": false,
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
+   "fixed_file_version": null,
+   "has_embedded_signature": true,
+   "is_dotnet": false,
+   "vendor": "ZeroTier, Inc.",
+   "product": "ZeroTier One",
+   "release": "1.16.2",
+   "last_seen": "1.16.2",
+   "download_url": "https://download.zerotier.com/RELEASES/1.16.2/dist/ZeroTierOne.msi",
+   "rmm_tool": "ZeroTier",
+   "sources": [
+    "rmm"
+   ]
+  }
+ ],
+ "schema_version": 1,
+ "updated": "2026-10-29",
+ "original_filenames": [
+  {
+   "value": null,
+   "builds": 1,
+   "machines": [
+    "x64"
+   ],
+   "sources": [
+    "rmm"
+   ],
+   "windows_versions": [],
+   "min_version": null,
+   "max_version": null,
+   "first_seen": "1.16.2",
+   "last_seen": "1.16.2",
+   "provenance": "parsed"
+  }
+ ]
+}

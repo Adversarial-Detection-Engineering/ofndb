@@ -230,3 +230,10 @@ test('ofn.csv has one row per value, empty for none', () => {
   assert.ok(rows.some((r) => r.startsWith('setup.exe,SETUP.EXE,1,')));
   assert.ok(rows.some((r) => r.startsWith('setup.exe,,1,')));
 });
+
+test('a build from an RMM installer (source rmm) is categorized rmm', () => {
+  const e = entry('tvnserver.exe', [build('a', 'tvnserver.exe', '', { sources: ['rmm'], windows_versions: [] })]);
+  assert.ok(e.categories.includes('rmm'));
+  const win = entry('svchost.exe', [build('a', 'svchost.exe', '1809', { sources: ['winbindex'] })]);
+  assert.ok(!win.categories.includes('rmm'));
+});
