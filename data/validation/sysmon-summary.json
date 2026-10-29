@@ -1,488 +1,345 @@
 {
- "date": "2026-10-26",
- "targets": 1336,
+ "date": "2026-10-29",
+ "targets": 1611,
+ "staged": 275,
  "suspended": {
   "match": 1239,
   "mismatch": 0,
   "sandbox_build_differs": 2,
-  "not_launchable": 95,
+  "covered_by_copy": 88,
+  "not_launchable": 46,
+  "no_event": 0
+ },
+ "image_load": {
+  "match": 236,
+  "mismatch": 0,
+  "sandbox_build_differs": 0,
+  "covered_by_copy": 0,
+  "not_launchable": 0,
   "no_event": 0
  },
  "not_launchable": [
   {
-   "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\Feedback\\dump64.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Program Files\\dotnet\\dotnet.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\Terminal\\ServiceHub\\os64\\OpenConsole.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector\\VSDiagnostics.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_64\\vmconnect\\v4.0_10.0.0.0__31bf3856ad364e35\\vmconnect.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\Microsoft.NET\\assembly\\GAC_MSIL\\InspectVhdDialog\\v4.0_10.0.0.0__31bf3856ad364e35\\InspectVhdDialog.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\notepad.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\amd-smi.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
    "path": "C:\\Windows\\System32\\AMD\\ANR\\AMDNoiseSuppression.exe",
+   "sha256": "f7ee1340a4491a1eae7bfa3f778c8ebf9107e6feefe8073f281415fba3c785d9",
+   "mode": "suspended",
    "win32_error": 3,
    "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\amdlogum.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\atieah64.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\atieclxx.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\bash.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
   },
   {
    "path": "C:\\Windows\\System32\\Boot\\winload.exe",
+   "sha256": "621ae8d11424320152f9b83c8f0529ff1f1c04614a44306d12227c5a699bbab2",
+   "mode": "suspended",
    "win32_error": 193,
    "reason": "not a valid Win32 application"
   },
   {
-   "path": "C:\\Windows\\System32\\CCG.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\clinfo.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\cmdiag.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\cmimageworker.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\cmproxyd.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\dgtrayicon.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
    "path": "C:\\Windows\\System32\\dpnsvr.exe",
+   "sha256": "7bacf93d7efd1870cc8def5876998ab4d58e58091be80185fcd1497e85ff7b63",
+   "mode": "suspended",
    "win32_error": 5,
    "reason": "access denied"
   },
   {
-   "path": "C:\\Windows\\System32\\drivers\\NVIDIA Corporation\\Drs\\dbInstaller.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\EASPolicyManagerBrokerHost.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\EEURestart.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\hcsdiag.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\hnsdiag.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\hvc.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\hvsiproxyapp.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\HvsiSettingsWorker.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\ManagedWindowsVM.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\MCU.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\copilotapp.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\elevated_tracing_service.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\Installer\\copilot_setup.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\mscopilot.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\msedgewebview2.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\notification_helper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\platform_experiences_helper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\undocked_copilot\\copilotapphost.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Microsoft-Edge-WebView\\undocked_copilot\\RestartAgent.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\MpSigStub.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\MRT.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\mtkbtsvc.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\nmbind.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\nmscrub.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\notepad.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Npcap\\NpcapHelper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\Npcap\\WlanHelper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\nvdebugdump.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\nvidia-pcc.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\nvidia-smi.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\nvspinfo.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\scp.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\sftp.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-add.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-agent.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-keygen.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-keyscan.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-pkcs11-helper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh-sk-helper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\OpenSSH\\ssh.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\psr.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\SecurityHealth\\10.0.29680.1000-0\\SecurityHealthHost.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
-  },
-  {
    "path": "C:\\Windows\\System32\\tcblaunch.exe",
+   "sha256": "0195b18a5f5db86d6bba9b8585c1383ff36c5b08792a6a612762e6024f71156c",
+   "mode": "suspended",
    "win32_error": 193,
    "reason": "not a valid Win32 application"
-  },
-  {
-   "path": "C:\\Windows\\System32\\unregmp2.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vfpctrl.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmcompute.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmconnect.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmms.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmnat.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmnetdhcp.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmplatformca.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmsp.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vmwp.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vulkaninfo-1-999-0-0-0.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\vulkaninfo.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\WDAGNetDiag.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell_ise.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\WindowsSandbox.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\WindowsSandboxClient.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
   },
   {
    "path": "C:\\Windows\\System32\\winload.exe",
+   "sha256": "621ae8d11424320152f9b83c8f0529ff1f1c04614a44306d12227c5a699bbab2",
+   "mode": "suspended",
    "win32_error": 193,
    "reason": "not a valid Win32 application"
   },
   {
-   "path": "C:\\Windows\\System32\\WorkFolders.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\System32\\wslconfig.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
-   "path": "C:\\Windows\\SysWOW64\\atieah32.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
-  },
-  {
    "path": "C:\\Windows\\SysWOW64\\dplaysvr.exe",
+   "sha256": "0a89b5a50312dc08832f53b75034b4c702bff96618ff02f643f8ebd1ac5244dd",
+   "mode": "suspended",
    "win32_error": 5,
    "reason": "access denied"
   },
   {
    "path": "C:\\Windows\\SysWOW64\\dpnsvr.exe",
+   "sha256": "0a89b5a50312dc08832f53b75034b4c702bff96618ff02f643f8ebd1ac5244dd",
+   "mode": "suspended",
    "win32_error": 5,
    "reason": "access denied"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\hvsiproxyapp.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\kit\\stage\\f7ee1340a4491a1eae7bfa3f778c8ebf9107e6feefe8073f281415fba3c785d9.exe",
+   "sha256": "f7ee1340a4491a1eae7bfa3f778c8ebf9107e6feefe8073f281415fba3c785d9",
+   "mode": "suspended",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\notepad.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\cache\\7d\\7db031e345b5e5b030a993b186d224e88bfbdbf78d2494692095c3627e210a5b",
+   "sha256": "7db031e345b5e5b030a993b186d224e88bfbdbf78d2494692095c3627e210a5b",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\Npcap\\NpcapHelper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
+   "path": "C:\\cache\\d2\\d292b7d864d0c66cc47a6563370acb163f53ec70f75e85b1b0a225de30775022",
+   "sha256": "d292b7d864d0c66cc47a6563370acb163f53ec70f75e85b1b0a225de30775022",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\Npcap\\WlanHelper.exe",
-   "win32_error": 3,
-   "reason": "path not found (absent in Sandbox)"
+   "path": "C:\\cache\\d8\\d8ce2f8f461a028dda7e4f2bfbce11c408836e7a2754a85498783613e8403f1f",
+   "sha256": "d8ce2f8f461a028dda7e4f2bfbce11c408836e7a2754a85498783613e8403f1f",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\psr.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\cache\\b1\\b1917deb8b3b8d7578c13d2ea6e29c2d35917640a279f01190750fad70391df4",
+   "sha256": "b1917deb8b3b8d7578c13d2ea6e29c2d35917640a279f01190750fad70391df4",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\unregmp2.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\cache\\23\\23832d7a6e85912323d4cdb85278680201740905e6f0e5525070ef7f4de2c1ae",
+   "sha256": "23832d7a6e85912323d4cdb85278680201740905e6f0e5525070ef7f4de2c1ae",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\vulkaninfo-1-999-0-0-0.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\cache\\8d\\8dd2104593f97e5c8343b73270e857e3f4f122a16f74fdfce40c9cf15b5f937f",
+   "sha256": "8dd2104593f97e5c8343b73270e857e3f4f122a16f74fdfce40c9cf15b5f937f",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\vulkaninfo.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\cache\\4e\\4eeb4c8419924091957b3f143f72c2c6fe037b4c5b3cf3d24b831b5a64c94d5d",
+   "sha256": "4eeb4c8419924091957b3f143f72c2c6fe037b4c5b3cf3d24b831b5a64c94d5d",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
   },
   {
-   "path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell_ise.exe",
-   "win32_error": 2,
-   "reason": "file not found (absent in Sandbox)"
+   "path": "C:\\cache\\85\\85310c09439e9f51af5c612ba5a110fa099e170e16a365909f5d91aa7948b32c",
+   "sha256": "85310c09439e9f51af5c612ba5a110fa099e170e16a365909f5d91aa7948b32c",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\ee\\eec698cad03d94201c8ba373bffdb35d5b33ed3380a6710d5aa316b264a821cf",
+   "sha256": "eec698cad03d94201c8ba373bffdb35d5b33ed3380a6710d5aa316b264a821cf",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\20\\20033667367cd4cd48b47c8365b39baba3c94be0b105f5c28617a5845e111e65",
+   "sha256": "20033667367cd4cd48b47c8365b39baba3c94be0b105f5c28617a5845e111e65",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\3d\\3df826c4524e93e6e80687a6b50157c974e4215d8d33b4ff943529dfb7eed00c",
+   "sha256": "3df826c4524e93e6e80687a6b50157c974e4215d8d33b4ff943529dfb7eed00c",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\kit\\stage\\0a89b5a50312dc08832f53b75034b4c702bff96618ff02f643f8ebd1ac5244dd.exe",
+   "sha256": "0a89b5a50312dc08832f53b75034b4c702bff96618ff02f643f8ebd1ac5244dd",
+   "mode": "suspended",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
+  },
+  {
+   "path": "C:\\kit\\stage\\7bacf93d7efd1870cc8def5876998ab4d58e58091be80185fcd1497e85ff7b63.exe",
+   "sha256": "7bacf93d7efd1870cc8def5876998ab4d58e58091be80185fcd1497e85ff7b63",
+   "mode": "suspended",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
+  },
+  {
+   "path": "C:\\cache\\af\\af75598a78b5f9b55f0804a3d48611fff6bf7346012fc260a863381a88ca7be1",
+   "sha256": "af75598a78b5f9b55f0804a3d48611fff6bf7346012fc260a863381a88ca7be1",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\9d\\9d29ddd628fdfb610913663828147f64d512e04c740b8d1b4a1a69dc378b7eb4",
+   "sha256": "9d29ddd628fdfb610913663828147f64d512e04c740b8d1b4a1a69dc378b7eb4",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\2b\\2b5089d56eb0ec9b2854102b5fe984f5be96756a170cc46774021e36b315edc3",
+   "sha256": "2b5089d56eb0ec9b2854102b5fe984f5be96756a170cc46774021e36b315edc3",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\9f\\9f9c61c9241608b05b4ee3b8141f8bec07d70b95e024d4bfa7c108c2aa420881",
+   "sha256": "9f9c61c9241608b05b4ee3b8141f8bec07d70b95e024d4bfa7c108c2aa420881",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\43\\4346962b31d93dd4e8b5164e6167bb030fc0ca7c77ec0bb6ab798a1e8cd9488e",
+   "sha256": "4346962b31d93dd4e8b5164e6167bb030fc0ca7c77ec0bb6ab798a1e8cd9488e",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\c2\\c22feda76575fb73d75ac33f6053a8404353c3fc66abd21bef084ebc4a192cb8",
+   "sha256": "c22feda76575fb73d75ac33f6053a8404353c3fc66abd21bef084ebc4a192cb8",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\d1\\d1ac8602757973a74dfec0e394f5cd1e80d7161b774d13a7ec72a9d4647f0119",
+   "sha256": "d1ac8602757973a74dfec0e394f5cd1e80d7161b774d13a7ec72a9d4647f0119",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\b8\\b8d1e5082367206db083debe3b9577307c62988dc1d7bb529610889ab27decfe",
+   "sha256": "b8d1e5082367206db083debe3b9577307c62988dc1d7bb529610889ab27decfe",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\89\\89b58963587a2d04556eb18091fb021873dbddb9212b1abb3561e811892b30fa",
+   "sha256": "89b58963587a2d04556eb18091fb021873dbddb9212b1abb3561e811892b30fa",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\ca\\ca58a7bde163c9310f2ba6e2378be7364a1505ca5356af0784d9f2792a435143",
+   "sha256": "ca58a7bde163c9310f2ba6e2378be7364a1505ca5356af0784d9f2792a435143",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\b9\\b9315c9bd42f84a755baa8081d40b5363097bebe9c2963e334b22c48c3816b88",
+   "sha256": "b9315c9bd42f84a755baa8081d40b5363097bebe9c2963e334b22c48c3816b88",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\68\\68a3cf0e9bbce710f2e9001571603b0ce6531565cd5b628935a790d4deace899",
+   "sha256": "68a3cf0e9bbce710f2e9001571603b0ce6531565cd5b628935a790d4deace899",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\4e\\4ecdd4beee61e9868200671472ad1c2900c875e2c0232cdd5ae0bb077c8ef729",
+   "sha256": "4ecdd4beee61e9868200671472ad1c2900c875e2c0232cdd5ae0bb077c8ef729",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\e6\\e6e888d8881d0e23a4723239bcc90ee886f116334f6e759942da2b67ca19e0bf",
+   "sha256": "e6e888d8881d0e23a4723239bcc90ee886f116334f6e759942da2b67ca19e0bf",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\c2\\c2ef646dbe4e385a777765f1494194be0db79682fc8c311c174c9281feb6b7b6",
+   "sha256": "c2ef646dbe4e385a777765f1494194be0db79682fc8c311c174c9281feb6b7b6",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\7a\\7ac5ccb16a4f68692e2e9aae04b969b8ad9da9728e38f4eaa0edb138cb040c1d",
+   "sha256": "7ac5ccb16a4f68692e2e9aae04b969b8ad9da9728e38f4eaa0edb138cb040c1d",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\95\\95e5843867ce6b187f2ef902f0f172a4c52c6094678e200bf9966b12bd6fb5d6",
+   "sha256": "95e5843867ce6b187f2ef902f0f172a4c52c6094678e200bf9966b12bd6fb5d6",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\3b\\3b40f59f576079e19886b1edb608eaf1ec85264545efe4c42a2ceb081e0ef61e",
+   "sha256": "3b40f59f576079e19886b1edb608eaf1ec85264545efe4c42a2ceb081e0ef61e",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\b5\\b53dcf5d10575bf89e573a7c044190c29fcd7edcd2e83297626ff7cb8eb94135",
+   "sha256": "b53dcf5d10575bf89e573a7c044190c29fcd7edcd2e83297626ff7cb8eb94135",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\8f\\8fe58e1f1d073b15c7fcde5e40df100ac889344690cc95bc5f38486fc95cbebf",
+   "sha256": "8fe58e1f1d073b15c7fcde5e40df100ac889344690cc95bc5f38486fc95cbebf",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\66\\667c4e36fb25784fdd6877a91ddb3a49a6847834bb822eb0afb31ad3028d0421",
+   "sha256": "667c4e36fb25784fdd6877a91ddb3a49a6847834bb822eb0afb31ad3028d0421",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\1a\\1a873b6f067c3c766c47a36547ea4d51e209ad62db69971eb8f39e640588b383",
+   "sha256": "1a873b6f067c3c766c47a36547ea4d51e209ad62db69971eb8f39e640588b383",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\cache\\94\\94d482305aca8c4250b1a0f84ac0c2a3ea4c8e79eb3e0b5f1348dd996736d71a",
+   "sha256": "94d482305aca8c4250b1a0f84ac0c2a3ea4c8e79eb3e0b5f1348dd996736d71a",
+   "mode": "suspended",
+   "win32_error": 577,
+   "reason": "image requires a valid signature (FORCE_INTEGRITY)"
+  },
+  {
+   "path": "C:\\kit\\stage\\0195b18a5f5db86d6bba9b8585c1383ff36c5b08792a6a612762e6024f71156c.exe",
+   "sha256": "0195b18a5f5db86d6bba9b8585c1383ff36c5b08792a6a612762e6024f71156c",
+   "mode": "suspended",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
+  },
+  {
+   "path": "C:\\kit\\stage\\621ae8d11424320152f9b83c8f0529ff1f1c04614a44306d12227c5a699bbab2.exe",
+   "sha256": "621ae8d11424320152f9b83c8f0529ff1f1c04614a44306d12227c5a699bbab2",
+   "mode": "suspended",
+   "win32_error": 193,
+   "reason": "not a valid Win32 application"
   }
  ],
  "sandbox_build_differs": [

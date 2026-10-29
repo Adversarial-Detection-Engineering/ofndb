@@ -193,7 +193,34 @@ test('sigma literals matching no record name or carried value become orphans', (
   };
   const { sigmaOrphans } = deriveAll(inp);
   // carried value and record name both vouch; the orphan merges its case variants
-  assert.deepEqual(sigmaOrphans, [{ value: 'PsExeSvc.exe', rules: 3 }]);
+  assert.deepEqual(sigmaOrphans, [{ value: 'PsExeSvc.exe', rules: 3, refs: [] }]);
+});
+
+test('Sigma rule refs merge across case variants and name the rules in the gotcha', () => {
+  const rule = (title: string) => ({ id: null, title, path: `rules/windows/${title}.yml` });
+  const inp = {
+    records: [{ name: 'pcalua.exe', builds: [build('a', null, '1809')] }],
+    targets: {}, curated: {}, verified: {}, coverage: {}, sigmaRelease: 'r2026-07-01',
+    sigmaValues: { 'Pcalua.exe': 1, 'PCALUA.EXE': 2 },
+    sigmaRules: { 'Pcalua.exe': [rule('A')], 'PCALUA.EXE': [rule('A'), rule('B')] },
+  };
+  const g = deriveAll(inp).entries[0].gotchas.find((x) => x.kind === 'sigma-mismatch')!;
+  assert.ok(g.text.endsWith('Rules: "A", "B".'), g.text);
+});
+
+test('a padded value gets its own gotcha, not differs-from-name, and snippets match both spellings', () => {
+  const padded = 'WEXTRACT.EXE            ';
+  const rec = { name: 'wextract.exe', builds: [build('a', padded, '1809')] };
+  const e = buildEntry('wextract.exe', rec, undefined, {}, { ['a'.repeat(64)]: { sysmon_version: '15', os_build: 'x', date: 'd' } }, new Map());
+  assert.ok(e.flags.includes('padded-ofn') && !e.flags.includes('differs-from-name'));
+  assert.ok(e.gotchas.some((g) => g.text.includes('padded with 12 spaces, and Sysmon logs the padding verbatim')));
+  assert.ok(e.snippets.kql.includes(`"${padded}"`) && e.snippets.kql.includes('"WEXTRACT.EXE"'));
+});
+
+test('another language table with a different value is flagged', () => {
+  const e = entry('x.exe', [build('a', 'x.exe', '1809', { other_table_original_filenames: ['y.exe'] })]);
+  assert.ok(e.flags.includes('multi-table'));
+  assert.ok(e.gotchas.some((g) => g.kind === 'multi-table' && g.text.includes('`y.exe`')));
 });
 
 test('ofn.csv has one row per value, empty for none', () => {

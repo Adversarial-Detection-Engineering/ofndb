@@ -5,12 +5,12 @@
    "sha256": "b4fb03747dcb2893e8a9fb7d759abbe8afbd0d5d83763d79bdf5ca92abbf6e04",
    "machine": "x64",
    "has_version_resource": true,
-   "original_filename": "OpenConsole.exe",
-   "internal_name": "Host.EXE",
-   "file_description": "OpenConsole.exe",
-   "company_name": "Microsoft Corporation",
-   "product_name": "Windows Terminal",
-   "file_version": "1.22.2503.25001",
+   "original_filename": null,
+   "internal_name": null,
+   "file_description": null,
+   "company_name": null,
+   "product_name": null,
+   "file_version": null,
    "fixed_file_version": "1.22.2503.25001",
    "has_embedded_signature": true,
    "is_dotnet": false,
@@ -18,14 +18,17 @@
    "observed_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\Terminal\\ServiceHub\\os64\\OpenConsole.exe",
    "sources": [
     "local"
+   ],
+   "other_table_original_filenames": [
+    "OpenConsole.exe"
    ]
   }
  ],
  "schema_version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "original_filenames": [
   {
-   "value": "OpenConsole.exe",
+   "value": null,
    "builds": 1,
    "machines": [
     "x64"

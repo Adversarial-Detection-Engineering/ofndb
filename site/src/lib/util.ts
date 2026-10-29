@@ -31,6 +31,8 @@ export const FLAG_LABELS: Record<string, string> = {
   shared: 'Shared with other binaries',
   'lolrmm-mismatch': 'LOLRMM value disagrees',
   'rmm-name-collision': 'Name reused by an RMM tool',
+  'padded-ofn': 'Padded with spaces',
+  'multi-table': 'Unselected string table',
 };
 
 const ESC: Record<string, string> = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };

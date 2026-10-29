@@ -2,13 +2,19 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ofndb/schema/sysmon-summary.schema.json",
   "title": "Sysmon run summary (data/validation/sysmon-summary.json)",
-  "description": "Totals for the last Sysmon validation run, the targets that couldn't be launched, and Sandbox copies whose SHA256 matches no parsed build.",
+  "description": "Totals for the last Sysmon validation run per pass (suspended EXEs, image-load DLLs), the targets that couldn't be launched or mapped, and Sandbox copies whose SHA256 matches no parsed build.",
   "type": "object",
   "required": ["date", "targets", "suspended", "not_launchable", "sandbox_build_differs", "no_event"],
   "properties": {
     "date": { "type": "string", "format": "date" },
     "targets": { "type": "integer", "minimum": 0 },
+    "staged": { "type": "integer", "minimum": 0 },
     "suspended": {
+      "type": "object",
+      "required": ["match", "mismatch", "sandbox_build_differs", "not_launchable", "no_event"],
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    },
+    "image_load": {
       "type": "object",
       "required": ["match", "mismatch", "sandbox_build_differs", "not_launchable", "no_event"],
       "additionalProperties": { "type": "integer", "minimum": 0 }

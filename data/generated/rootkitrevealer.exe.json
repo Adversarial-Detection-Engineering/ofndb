@@ -14,9 +14,6 @@
    "fixed_file_version": "1.71.0.0",
    "has_embedded_signature": true,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "vendor": "Microsoft (Sysinternals)",
    "product": "Sysinternals Rootkitrevealer",
    "release": "2006-11-01",
@@ -28,7 +25,7 @@
   }
  ],
  "schema_version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "original_filenames": [
   {
    "value": null,

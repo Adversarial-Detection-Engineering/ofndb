@@ -2,11 +2,27 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ofndb/schema/sigma-original-filenames.schema.json",
   "title": "Sigma OriginalFileName literals (data/sources/sigma_original_filenames.json)",
-  "description": "Every OriginalFileName literal in SigmaHQ Windows rules at one release, with its rule count. A cross-check, never data.",
+  "description": "Every exact (unmodified) OriginalFileName literal in SigmaHQ Windows rules at one release, with its rule count and the rules that use it. A cross-check, never data.",
   "type": "object",
   "required": ["sigma_release", "values"],
   "properties": {
     "sigma_release": { "type": "string", "pattern": "^r\\d{4}-\\d{2}-\\d{2}$" },
-    "values": { "type": "object", "additionalProperties": { "type": "integer", "minimum": 1 } }
+    "values": { "type": "object", "additionalProperties": { "type": "integer", "minimum": 1 } },
+    "rules": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["path"],
+          "properties": {
+            "id": { "type": ["string", "null"] },
+            "title": { "type": ["string", "null"] },
+            "path": { "type": "string", "pattern": "\\.yml$" }
+          }
+        }
+      }
+    }
   }
 }

@@ -35,12 +35,12 @@
    "sha256": "62f302a1ba4c7b47f8d4a2bc1d1ec8fd2cc6e2c0bfdd5fc765ad428a92013c90",
    "machine": "x64",
    "has_version_resource": true,
-   "original_filename": null,
-   "internal_name": null,
-   "file_description": null,
-   "company_name": null,
-   "product_name": null,
-   "file_version": null,
+   "original_filename": "MSCONFIG.EXE",
+   "internal_name": "MSCONFIG",
+   "file_description": "MSCONFIG MFC APPLICATION",
+   "company_name": "Microsoft® Windows® Operating System",
+   "product_name": "MSCONFIG APPLICATION",
+   "file_version": "1, 0, 0, 1",
    "fixed_file_version": "1.0.0.1",
    "has_embedded_signature": false,
    "is_dotnet": false,
@@ -559,7 +559,7 @@
   }
  ],
  "schema_version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "original_filenames": [
   {
    "value": "msconfig.EXE",
@@ -593,7 +593,7 @@
    "provenance": "parsed"
   },
   {
-   "value": null,
+   "value": "MSCONFIG.EXE",
    "builds": 1,
    "machines": [
     "x64"

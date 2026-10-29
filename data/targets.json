@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "sigma_release": "r2026-07-01",
  "counts": {
-  "targets": 1276,
-  "pe": 1236,
-  "in_winbindex": 361,
+  "targets": 1369,
+  "pe": 1329,
+  "in_winbindex": 368,
   "lolbas": 245,
-  "lolrmm": 254,
+  "lolrmm": 291,
   "sysinternals": 151,
-  "sigma": 941,
+  "sigma": 1003,
   "curated": 42
  },
  "targets": {
@@ -24,7 +24,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -40,7 +40,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -48,7 +48,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -60,11 +60,19 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "7zg.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "7zr.exe": {
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -73,6 +81,21 @@
     "sigma"
    ],
    "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "aa_v3.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Ammyy Admin",
+     "claimed_original_filename": null,
+     "description": "Ammyy Admin",
+     "product": null
+    }
+   ],
    "is_pe": true,
    "in_winbindex": false
   },
@@ -388,15 +411,42 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "agent-windows-amd64.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Roster",
+     "claimed_original_filename": null,
+     "description": "Windows distribution filename specified by the repository deployment script; no PE metadata was inspected.",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "agent.exe": {
    "sources": [
     "lolrmm"
    ],
    "lolrmm": [
     {
+     "tool": "Go Mini RMM",
+     "claimed_original_filename": null,
+     "description": "Generic Windows agent filename used by the repository installer; filename-only process detection would be too broad.",
+     "product": null
+    },
+    {
      "tool": "Monitic",
      "claimed_original_filename": null,
      "description": "Monitic primary agent binary (~50-60 MB .NET executable, signed by VAULT BİLİŞİM SİSTEMLERİ LTD.ŞTİ.). Installed to C:\\Program Files\\Monitic\\agent.exe and registered as a SYSTEM service via `agent.exe install`. Bundles RustDesk for remote desktop (libvpx-1.dll, WinPthreadGC.dll observed in dropped-files), the kopia.io backup engine, and uses WMI (`Get-WmiObject Win32_BIOS / Win32_Processor / Win32_DiskDrive / Win32_BaseBoard`) for hardware fingerprinting. Spawns a child `tunnel.exe` (taskkill /IM tunnel.exe /F observed in lifecycle). Observed sha256 9c6b26fe30870775a42d02804c9094c83479850a87703d95ebd8631ad8188b8e (11/2025).",
+     "product": null
+    },
+    {
+     "tool": "Basic RMM Agent",
+     "claimed_original_filename": "agent.exe",
+     "description": "Basic RMM monitoring and management agent",
      "product": null
     }
    ],
@@ -465,6 +515,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "allocentra-agent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Allocentra",
+     "claimed_original_filename": "allocentra-agent.exe",
+     "description": "Allocentra RMM Agent",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "alpemix.exe": {
    "sources": [
     "lolrmm"
@@ -481,6 +546,14 @@
    "in_winbindex": false
   },
   "amazon-ssm-agent.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "amigo.exe": {
    "sources": [
     "sigma"
    ],
@@ -642,7 +715,7 @@
      "C:\\Program Files (x86)\\Microsoft Office\\root\\client\\appvlp.exe"
     ]
    },
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 7,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -661,6 +734,46 @@
    "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "artifact.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "artifact32.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "artifact32big.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "artifact64.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "artifact_protected.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
   },
   "arubanetsvc.exe": {
    "sources": [
@@ -756,6 +869,14 @@
      "product": null
     }
    ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "atexec_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -1096,7 +1217,7 @@
      "C:\\Windows\\SysWOW64\\bash.exe"
     ]
    },
-   "sigma_rule_refs": 20,
+   "sigma_rule_refs": 21,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1127,6 +1248,21 @@
     ]
    },
    "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "beacon-agent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Beacon (Synertek)",
+     "claimed_original_filename": null,
+     "description": "Windows service binary name set by the reviewed installer source; no PE metadata was inspected.",
+     "product": null
+    }
+   ],
    "is_pe": true,
    "in_winbindex": false
   },
@@ -1169,9 +1305,39 @@
      "C:\\Windows\\SysWOW64\\bitsadmin.exe"
     ]
    },
-   "sigma_rule_refs": 25,
+   "sigma_rule_refs": 26,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "blackcryptagent.dll": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "BlackCrypt RMM Agent",
+     "claimed_original_filename": "BlackCryptAgent.dll",
+     "description": "BlackCrypt RMM Remote Management Agent (self-identified in PE resources)",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "bluetrait msp agent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Bluetrait",
+     "claimed_original_filename": "Bluetrait MSP Agent.exe",
+     "description": "Bluetrait MSP Agent",
+     "product": "Bluetrait"
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
   },
   "bma.exe": {
    "sources": [
@@ -1264,6 +1430,14 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "browser.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "browsercore.exe": {
    "sources": [
     "sigma"
@@ -1310,7 +1484,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 12,
+   "sigma_rule_refs": 11,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1362,7 +1536,7 @@
    "is_pe": true,
    "in_winbindex": false
   },
-  "ccmsetup.tmc00002.40.exe": {
+  "ccsvchst.exe": {
    "sources": [
     "sigma"
    ],
@@ -1424,7 +1598,7 @@
      "c:\\windows\\syswow64\\certoc.exe"
     ]
    },
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1458,7 +1632,7 @@
      "C:\\Windows\\SysWOW64\\certutil.exe"
     ]
    },
-   "sigma_rule_refs": 31,
+   "sigma_rule_refs": 32,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1513,11 +1687,27 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 15,
+   "sigma_rule_refs": 16,
    "is_pe": true,
    "in_winbindex": false
   },
   "chrome_frame_helper.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "chrome_installer.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "chrome_updater.exe": {
    "sources": [
     "sigma"
    ],
@@ -1538,7 +1728,7 @@
      "c:\\windows\\syswow64\\cipher.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1648,6 +1838,14 @@
      "product": null
     }
    ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "cleanapi.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -1771,7 +1969,16 @@
   },
   "cloudflared.exe": {
    "sources": [
+    "lolrmm",
     "sigma"
+   ],
+   "lolrmm": [
+    {
+     "tool": "CloudFlare Tunnel",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
    ],
    "sigma_rule_refs": 3,
    "is_pe": true,
@@ -1813,7 +2020,7 @@
      "C:\\Windows\\SysWOW64\\cmd.exe"
     ]
    },
-   "sigma_rule_refs": 142,
+   "sigma_rule_refs": 134,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1864,7 +2071,7 @@
      "C:\\Windows\\SysWOW64\\cmstp.exe"
     ]
    },
-   "sigma_rule_refs": 9,
+   "sigma_rule_refs": 10,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -1992,7 +2199,7 @@
      "c:\\windows\\system32\\conhost.exe"
     ]
    },
-   "sigma_rule_refs": 13,
+   "sigma_rule_refs": 14,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -2059,7 +2266,7 @@
      "C:\\Windows\\SysWOW64\\control.exe"
     ]
    },
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -2312,7 +2519,7 @@
      "C:\\Windows\\SysWOW64\\cscript.exe"
     ]
    },
-   "sigma_rule_refs": 78,
+   "sigma_rule_refs": 73,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -2337,7 +2544,7 @@
      "c:\\Program Files (x86)\\Microsoft Web Tools\\Packages\\Microsoft.Net.Compilers.X.Y.Z\\tools\\csi.exe"
     ]
    },
-   "sigma_rule_refs": 3,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -2388,7 +2595,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 24,
+   "sigma_rule_refs": 26,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -2535,6 +2742,14 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "dcomexec_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "dctask64.exe": {
    "sources": [
     "sigma"
@@ -2655,14 +2870,6 @@
    "is_pe": true,
    "in_winbindex": false
   },
-  "devicecensus.exe": {
-   "sources": [
-    "sigma"
-   ],
-   "sigma_rule_refs": 1,
-   "is_pe": true,
-   "in_winbindex": true
-  },
   "devicecredentialdeployment.exe": {
    "sources": [
     "lolbas",
@@ -2747,6 +2954,14 @@
    ],
    "is_pe": true,
    "in_winbindex": false
+  },
+  "dfrgui.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": true
   },
   "dfserv.exe": {
    "sources": [
@@ -2971,7 +3186,7 @@
      "C:\\Windows\\SysWOW64\\diskshadow.exe"
     ]
    },
-   "sigma_rule_refs": 3,
+   "sigma_rule_refs": 4,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3118,7 +3333,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3173,6 +3388,14 @@
     ]
    },
    "sigma_rule_refs": 2,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "dpapi_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3243,7 +3466,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 3,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3346,7 +3569,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3362,7 +3585,7 @@
      "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\Extensions\\TestPlatform\\Extensions\\DumpMinitool.exe"
     ]
    },
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3370,7 +3593,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3493,6 +3716,21 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "endar.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Endar",
+     "claimed_original_filename": null,
+     "description": "Misleading release filename: the reviewed endar.exe is a stripped Linux x86-64 ELF PyInstaller executable, not a Windows PE. It bundles Python 3.8 and an endar.pyc entry point.",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "epad.exe": {
    "sources": [
     "sigma"
@@ -3522,7 +3760,7 @@
      "C:\\Windows\\SysWOW64\\esentutl.exe"
     ]
    },
-   "sigma_rule_refs": 3,
+   "sigma_rule_refs": 4,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3562,7 +3800,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3592,7 +3830,7 @@
      "C:\\Program Files\\Microsoft Office\\Office12\\Excel.exe"
     ]
    },
-   "sigma_rule_refs": 26,
+   "sigma_rule_refs": 24,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3635,7 +3873,7 @@
      "C:\\Windows\\SysWOW64\\explorer.exe"
     ]
    },
-   "sigma_rule_refs": 27,
+   "sigma_rule_refs": 28,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3768,9 +4006,17 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 14,
+   "sigma_rule_refs": 7,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "finddelegation_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
   },
   "findlinks.exe": {
    "sources": [
@@ -3811,7 +4057,7 @@
      "C:\\Windows\\SysWOW64\\findstr.exe"
     ]
    },
-   "sigma_rule_refs": 17,
+   "sigma_rule_refs": 10,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3828,7 +4074,7 @@
      "c:\\windows\\syswow64\\finger.exe"
     ]
    },
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -3836,7 +4082,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 11,
+   "sigma_rule_refs": 12,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -3990,7 +4236,7 @@
      "C:\\Windows\\SysWOW64\\forfiles.exe"
     ]
    },
-   "sigma_rule_refs": 9,
+   "sigma_rule_refs": 11,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -4003,6 +4249,14 @@
    "in_winbindex": true
   },
   "foxitpdfreader.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "foxprow.exe": {
    "sources": [
     "sigma"
    ],
@@ -4190,7 +4444,7 @@
      "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\fsi.exe"
     ]
    },
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -4206,7 +4460,7 @@
      "c:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional\\Common7\\IDE\\CommonExtensions\\Microsoft\\FSharp\\fsianycpu.exe"
     ]
    },
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -4239,6 +4493,14 @@
    ],
    "is_pe": true,
    "in_winbindex": false
+  },
+  "fsquirt.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": true
   },
   "fsscheduler.exe": {
    "sources": [
@@ -4921,6 +5183,69 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "getadusers_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "getnpusers_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "getpac_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "getscreen.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "GetScreen",
+     "claimed_original_filename": "getscreen.exe",
+     "description": "Getscreen.me agent (ProductName/InternalName: Getscreen.me, CompanyName: Point B Ltd). Distributed as a UPX-packed PE32 (x86) GUI executable from https://getscreen.me/download/getscreen-x86.exe. Current binaries (file version 3.5.0+) are signed by POINT B LTD (Cyprus, registered HE 430957) on a GlobalSign GCC R45 EV CodeSigning chain. Older 2020-2021 era binaries were signed by OOO \"GET SKRIN SOFTVER\" on a COMODO RSA Extended Validation Code Signing CA chain (now expired).",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "getst_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "gettgt_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "getuserspns_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "gfxdownloadwrapper.exe": {
    "sources": [
     "sigma"
@@ -5222,6 +5547,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "gxm.agent.dll": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "GxM RMM Agent",
+     "claimed_original_filename": "GxM.Agent.dll",
+     "description": "GxM RMM endpoint agent — authorized remote monitoring and support for managed clients (self-identified in assembly metadata)",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "hamakaze.exe": {
    "sources": [
     "sigma"
@@ -5302,6 +5642,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "helpwire quick.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "HelpWire",
+     "claimed_original_filename": "helpwire.exe",
+     "description": "HelpWire Operator",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "hex2dec.exe": {
    "sources": [
     "sigma",
@@ -5341,7 +5696,7 @@
      "C:\\Windows\\SysWOW64\\hh.exe"
     ]
    },
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 9,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -5396,7 +5751,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -5460,6 +5815,14 @@
    ],
    "is_pe": true,
    "in_winbindex": false
+  },
+  "icacls.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": true
   },
   "id_tray.exe": {
    "sources": [
@@ -5582,7 +5945,7 @@
      "C:\\Windows\\Microsoft.NET\\Framework64\\v2.0.50727\\ieexec.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -5613,7 +5976,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -5624,6 +5987,14 @@
    "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "ifmap_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
   },
   "iissetup.exe": {
    "sources": [
@@ -5864,7 +6235,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 3,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -5956,7 +6327,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 6,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -6078,11 +6449,19 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 11,
+   "sigma_rule_refs": 13,
    "is_pe": true,
    "in_winbindex": false
   },
   "javaws.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "jbosssvc.exe": {
    "sources": [
     "sigma"
    ],
@@ -6208,6 +6587,14 @@
      "product": null
     }
    ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "kavremover.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -6393,11 +6780,41 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "level.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Level",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "lhdfrgui.exe": {
    "sources": [
     "sigma"
    ],
    "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "lightrmmagentservice.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "LightRmmAgent",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
    "is_pe": true,
    "in_winbindex": false
   },
@@ -6788,6 +7205,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "lunixar.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Lunixar",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "lusmbios32.exe": {
    "sources": [
     "lolrmm"
@@ -6952,7 +7384,16 @@
   },
   "meshagent.exe": {
    "sources": [
+    "lolrmm",
     "sigma"
+   ],
+   "lolrmm": [
+    {
+     "tool": "MeshCentral",
+     "claimed_original_filename": null,
+     "description": "MeshCentral Background Service Agent",
+     "product": null
+    }
    ],
    "sigma_rule_refs": 2,
    "is_pe": true,
@@ -6973,11 +7414,19 @@
      "C:\\Program Files (x86)\\Windows Kits\\10\\bin\\x64\\mftrace.exe"
     ]
    },
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 7,
    "is_pe": true,
    "in_winbindex": false
   },
   "microscmgmt.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "microsoft.configurationmanagement.exe": {
    "sources": [
     "sigma"
    ],
@@ -7036,7 +7485,8 @@
   },
   "microsoft.workflow.compiler.exe": {
    "sources": [
-    "lolbas"
+    "lolbas",
+    "sigma"
    ],
    "lolbas": {
     "url": "https://lolbas-project.github.io/lolbas/Binaries/Microsoft.Workflow.Compiler/",
@@ -7045,6 +7495,7 @@
      "C:\\Windows\\Microsoft.Net\\Framework64\\v4.0.30319\\Microsoft.Workflow.Compiler.exe"
     ]
    },
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7052,7 +7503,23 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 14,
+   "is_pe": true,
+   "in_winbindex": true
+  },
+  "microsoftedgecp.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": true
+  },
+  "microsoftedgesh.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7072,11 +7539,34 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "mimikatz_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "minesweeper.exe": {
    "sources": [
     "sigma"
    ],
    "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "minirmmagent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Mini RMM Agent",
+     "claimed_original_filename": null,
+     "description": "Mini RMM Agent (self-identified in assembly metadata)",
+     "product": null
+    }
+   ],
    "is_pe": true,
    "in_winbindex": false
   },
@@ -7094,7 +7584,7 @@
      "C:\\Windows\\SysWOW64\\mmc.exe"
     ]
    },
-   "sigma_rule_refs": 11,
+   "sigma_rule_refs": 13,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7185,6 +7675,21 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "mousewithoutborders.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Mouse Without Borders",
+     "claimed_original_filename": "MouseWithoutBorders.exe",
+     "description": "Mouse Without Borders",
+     "product": "Mouse Without Borders"
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "mousocoreworker.exe": {
    "sources": [
     "sigma"
@@ -7237,7 +7742,7 @@
      "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.23110.3-0\\X86\\MpCmdRun.exe"
     ]
    },
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7375,7 +7880,7 @@
      "C:\\Program Files (x86)\\MSBuild\\14.0\\bin\\MSBuild.exe"
     ]
    },
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 11,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7465,7 +7970,7 @@
      "C:\\Windows\\SysWOW64\\Msdt.exe"
     ]
    },
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 10,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7490,7 +7995,7 @@
      "c:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
     ]
    },
-   "sigma_rule_refs": 20,
+   "sigma_rule_refs": 22,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7548,7 +8053,7 @@
      "C:\\Windows\\SysWOW64\\mshta.exe"
     ]
    },
-   "sigma_rule_refs": 65,
+   "sigma_rule_refs": 64,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7567,6 +8072,14 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "msidb.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 2,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "msiexec.exe": {
    "sources": [
     "lolbas",
@@ -7580,7 +8093,7 @@
      "C:\\Windows\\SysWOW64\\msiexec.exe"
     ]
    },
-   "sigma_rule_refs": 26,
+   "sigma_rule_refs": 28,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7589,7 +8102,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 12,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7705,6 +8218,14 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "mssense.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 4,
+   "is_pe": true,
+   "in_winbindex": true
+  },
   "msteams.exe": {
    "sources": [
     "sigma"
@@ -7715,7 +8236,16 @@
   },
   "mstsc.exe": {
    "sources": [
+    "lolrmm",
     "sigma"
+   ],
+   "lolrmm": [
+    {
+     "tool": "mstsc.exe (Microsoft Remote Desktop Connection)",
+     "claimed_original_filename": "mstsc.exe",
+     "description": "Remote Desktop Connection",
+     "product": null
+    }
    ],
    "sigma_rule_refs": 4,
    "is_pe": true,
@@ -7733,7 +8263,7 @@
      "no default"
     ]
    },
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 7,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -7782,7 +8312,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 33,
+   "sigma_rule_refs": 26,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7791,7 +8321,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 31,
+   "sigma_rule_refs": 24,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7894,6 +8424,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "netmaster_client.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "NetMaster",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "netscan.exe": {
    "sources": [
     "sigma"
@@ -7915,7 +8460,7 @@
      "C:\\WINDOWS\\SysWOW64\\Netsh.exe"
     ]
    },
-   "sigma_rule_refs": 18,
+   "sigma_rule_refs": 19,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -7923,9 +8468,32 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 4,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "netview_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "nexusrmm.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Nexus RMM (Scogo)",
+     "claimed_original_filename": "nexusrmm.exe",
+     "description": "Nexus RMM Agent Setup",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
   },
   "nezha-agent.exe": {
    "sources": [
@@ -7980,7 +8548,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -7993,6 +8561,14 @@
    "in_winbindex": false
   },
   "nimgrab.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "nimscan.exe": {
    "sources": [
     "sigma"
    ],
@@ -8060,7 +8636,15 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "nmapanswermachine_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -8100,7 +8684,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 8,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8213,7 +8797,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 6,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8236,7 +8820,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -8244,7 +8828,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -8252,7 +8836,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -8400,6 +8984,37 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "obfusc.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "obfuscated.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "obliance-agent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Obliance",
+     "claimed_original_filename": null,
+     "description": "Windows MSI source names this endpoint service executable; no PE metadata was inspected.",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "odbcad32.exe": {
    "sources": [
     "lolbas"
@@ -8428,7 +9043,7 @@
      "C:\\Windows\\SysWOW64\\odbcconf.exe"
     ]
    },
-   "sigma_rule_refs": 9,
+   "sigma_rule_refs": 11,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8500,7 +9115,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8532,7 +9147,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8541,6 +9156,29 @@
     "sigma"
    ],
    "sigma_rule_refs": 2,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "opale-agent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Opale",
+     "claimed_original_filename": null,
+     "description": "Default Windows agent filename copied by the repository installer; build-time branding can change this name.",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "opdump_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -8559,9 +9197,39 @@
      "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.18.10301.0_x64__8wekyb3d8bbwe\\OpenConsole.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "opendesk-rmm-agent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "OpenDesk RMM Agent",
+     "claimed_original_filename": "opendesk-rmm-agent.exe",
+     "description": "OpenDesk RMM Agent - Gerenciamento Remoto",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "openuem-agent-setup.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "OpenUEM",
+     "claimed_original_filename": null,
+     "description": "Official Windows installer filename; no PE metadata was inspected.",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
   },
   "openwith.exe": {
    "sources": [
@@ -8636,7 +9304,7 @@
      "C:\\Program Files\\Microsoft Office\\Office12\\Outlook.exe"
     ]
    },
-   "sigma_rule_refs": 21,
+   "sigma_rule_refs": 22,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -8663,6 +9331,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "parsecd.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Parsec",
+     "claimed_original_filename": null,
+     "description": "Parsec",
+     "product": "Parsec"
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "passworddump.exe": {
    "sources": [
     "sigma"
@@ -8683,7 +9366,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8707,7 +9390,7 @@
      "C:\\Windows\\System32\\pcalua.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -8864,7 +9547,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9052,6 +9735,22 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "poc.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "poqexec.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 2,
+   "is_pe": true,
+   "in_winbindex": true
+  },
   "portmon.exe": {
    "sources": [
     "sigma",
@@ -9119,7 +9818,7 @@
      "C:\\Program Files\\Microsoft Office\\Office12\\Powerpnt.exe"
     ]
    },
-   "sigma_rule_refs": 21,
+   "sigma_rule_refs": 19,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9127,7 +9826,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 234,
+   "sigma_rule_refs": 180,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -9135,7 +9834,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 51,
+   "sigma_rule_refs": 43,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -9258,7 +9957,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9361,6 +10060,21 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "proxiport.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "ProxiPort",
+     "claimed_original_filename": null,
+     "description": "ProxiPort client for Windows",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "prtg probe.exe": {
    "sources": [
     "sigma"
@@ -9400,6 +10114,14 @@
     "sigma"
    ],
    "sigma_rule_refs": 3,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "psexec_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9556,7 +10278,7 @@
     "sigma",
     "sysinternals"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9565,7 +10287,7 @@
     "sigma",
     "sysinternals"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9573,7 +10295,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9651,7 +10373,7 @@
     "sigma",
     "sysinternals"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9660,7 +10382,7 @@
     "sigma",
     "sysinternals"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9668,7 +10390,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9695,7 +10417,7 @@
     "sigma",
     "sysinternals"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9704,7 +10426,7 @@
     "sigma",
     "sysinternals"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9712,7 +10434,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9731,19 +10453,11 @@
    "is_pe": false,
    "in_winbindex": true
   },
-  "pwsh.dll": {
-   "sources": [
-    "sigma"
-   ],
-   "sigma_rule_refs": 60,
-   "is_pe": true,
-   "in_winbindex": false
-  },
   "pwsh.exe": {
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 155,
+   "sigma_rule_refs": 163,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9767,7 +10481,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 5,
+   "sigma_rule_refs": 7,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9775,7 +10489,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9783,7 +10497,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -9856,7 +10570,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10023,7 +10737,22 @@
      "no default"
     ]
    },
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "rdclient.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "RdViewer",
+     "claimed_original_filename": "rdclient.exe",
+     "description": "Remote-control client; the correlated July campaign sample has original filename rdclient.exe and impersonates Windows service-host version metadata",
+     "product": null
+    }
+   ],
    "is_pe": true,
    "in_winbindex": false
   },
@@ -10040,6 +10769,14 @@
     "sysinternals"
    ],
    "sigma_rule_refs": 2,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "rdp_check_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -10075,6 +10812,36 @@
    "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "rdserver.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "RdViewer",
+     "claimed_original_filename": "RdServer.exe",
+     "description": "Server executable in the inspected official RdViewerPro archive; PE version 6.6.4.0, independent of the advertised suite version",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "rdservice.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "RdViewer",
+     "claimed_original_filename": "rdservice.exe",
+     "description": "Windows service module; the correlated sample identifies product RdViewer 服务程序 and version 6.6.8.0",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
   },
   "reagentc.exe": {
    "sources": [
@@ -10113,7 +10880,7 @@
      "C:\\Windows\\SysWOW64\\reg.exe"
     ]
    },
-   "sigma_rule_refs": 59,
+   "sigma_rule_refs": 51,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10147,7 +10914,7 @@
      "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\regasm.exe"
     ]
    },
-   "sigma_rule_refs": 9,
+   "sigma_rule_refs": 8,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10258,7 +11025,7 @@
      "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\RegSvcs.exe"
     ]
    },
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10275,7 +11042,7 @@
      "C:\\Windows\\SysWOW64\\regsvr32.exe"
     ]
    },
-   "sigma_rule_refs": 67,
+   "sigma_rule_refs": 64,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10311,9 +11078,33 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "remoteagentagent.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "RemoteAgentAgent",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "remotedesktopmanager.exe": {
    "sources": [
+    "lolrmm",
     "sigma"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Devolutions Remote Desktop Manager",
+     "claimed_original_filename": "RemoteDesktopManager",
+     "description": null,
+     "product": null
+    }
    ],
    "sigma_rule_refs": 1,
    "is_pe": true,
@@ -10489,6 +11280,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "rmm.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "RMMCRAT",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "rmmmaxagentservice.exe": {
    "sources": [
     "lolrmm"
@@ -10523,7 +11329,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 4,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10700,7 +11506,7 @@
      "C:\\Windows\\SysWOW64\\rundll32.exe"
     ]
    },
-   "sigma_rule_refs": 108,
+   "sigma_rule_refs": 107,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10779,6 +11585,21 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "rustdesk.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "RustDesk",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "rutserv.exe": {
    "sources": [
     "sigma"
@@ -10791,11 +11612,19 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 10,
+   "sigma_rule_refs": 11,
    "is_pe": true,
    "in_winbindex": false
   },
   "safetykatz.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "sambapipe_windows.exe": {
    "sources": [
     "sigma"
    ],
@@ -10821,6 +11650,14 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "schdplus.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "schtasks.exe": {
    "sources": [
     "curated",
@@ -10835,7 +11672,7 @@
      "c:\\windows\\syswow64\\schtasks.exe"
     ]
    },
-   "sigma_rule_refs": 51,
+   "sigma_rule_refs": 52,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10857,7 +11694,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 9,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -10897,7 +11734,7 @@
      "C:\\Windows\\SysWOW64\\scriptrunner.exe"
     ]
    },
-   "sigma_rule_refs": 6,
+   "sigma_rule_refs": 8,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -11047,11 +11884,18 @@
    "is_pe": true,
    "in_winbindex": false
   },
-  "sentinelagent.exe": {
+  "sentinel-agent.exe": {
    "sources": [
-    "sigma"
+    "lolrmm"
    ],
-   "sigma_rule_refs": 1,
+   "lolrmm": [
+    {
+     "tool": "Sentinel RMM",
+     "claimed_original_filename": null,
+     "description": "Windows filename configured by the repository PyInstaller specification; Linux and macOS builds use sentinel-agent.",
+     "product": null
+    }
+   ],
    "is_pe": true,
    "in_winbindex": false
   },
@@ -11092,7 +11936,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 10,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -11163,7 +12007,7 @@
      "product": null
     }
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -11209,7 +12053,7 @@
      "C:\\Windows\\System32\\OpenSSH\\sftp.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -11217,7 +12061,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 12,
+   "sigma_rule_refs": 14,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -11319,6 +12163,14 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "sharpview.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "shdocvw.dll": {
    "sources": [
     "lolbas"
@@ -11387,14 +12239,6 @@
    },
    "is_pe": true,
    "in_winbindex": true
-  },
-  "shinstutil.exe": {
-   "sources": [
-    "sigma"
-   ],
-   "sigma_rule_refs": 1,
-   "is_pe": true,
-   "in_winbindex": false
   },
   "shutdown.exe": {
    "sources": [
@@ -11535,6 +12379,22 @@
    "is_pe": true,
    "in_winbindex": true
   },
+  "smbclient_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "smbserver_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "smss.exe": {
    "sources": [
     "curated",
@@ -11551,6 +12411,22 @@
    "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "sniff_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "sniffer_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
   },
   "snippingtool.exe": {
    "sources": [
@@ -11585,6 +12461,14 @@
    "in_winbindex": true
   },
   "spiceworks-finder.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "split_windows.exe": {
    "sources": [
     "sigma"
    ],
@@ -11629,7 +12513,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -11695,11 +12579,19 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "sqlserver.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "sqlservr.exe": {
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -11715,7 +12607,7 @@
      "C:\\Program files (x86)\\Microsoft SQL Server\\130\\Tools\\Binn\\sqlps.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -11811,6 +12703,21 @@
     }
    ],
    "is_pe": false,
+   "in_winbindex": false
+  },
+  "stifler.clientapp.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "StifleR (2Pint Software)",
+     "claimed_original_filename": null,
+     "description": null,
+     "product": null
+    }
+   ],
+   "is_pe": true,
    "in_winbindex": false
   },
   "stordiag.exe": {
@@ -11949,7 +12856,7 @@
      "product": null
     }
    ],
-   "sigma_rule_refs": 38,
+   "sigma_rule_refs": 43,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -12009,14 +12916,6 @@
    },
    "is_pe": false,
    "in_winbindex": true
-  },
-  "sysinfo.exe": {
-   "sources": [
-    "sigma"
-   ],
-   "sigma_rule_refs": 1,
-   "is_pe": true,
-   "in_winbindex": false
   },
   "sysmon.exe": {
    "sources": [
@@ -12191,7 +13090,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 4,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -12532,6 +13431,14 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "ticketer_windows.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "tieringengineservice.exe": {
    "sources": [
     "sigma"
@@ -12589,7 +13496,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 9,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -12655,6 +13562,21 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "topiad.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "Vicarius vRx",
+     "claimed_original_filename": null,
+     "description": "vRx Agent",
+     "product": "vRx Agent"
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "tor.exe": {
    "sources": [
     "sigma"
@@ -12675,7 +13597,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -12691,7 +13613,7 @@
      "no default"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -12716,6 +13638,14 @@
     "sigma"
    ],
    "sigma_rule_refs": 2,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "trufflesnout.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -12819,7 +13749,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -12832,6 +13762,21 @@
      "tool": "Freshservice",
      "claimed_original_filename": "UninstallStatusUpdater.exe",
      "description": "Freshservice Discovery Probe uninstall reporter",
+     "product": null
+    }
+   ],
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "unirmm.exe": {
+   "sources": [
+    "lolrmm"
+   ],
+   "lolrmm": [
+    {
+     "tool": "UniSystem RMM",
+     "claimed_original_filename": "UniRMM.exe",
+     "description": "Servico de Gerenciamento Remoto",
      "product": null
     }
    ],
@@ -12870,6 +13815,14 @@
    "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "unzip.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
   },
   "updata.exe": {
    "sources": [
@@ -13043,7 +13996,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -13060,7 +14013,7 @@
      "C:\\Windows\\SysWOW64\\verclsid.exe"
     ]
    },
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 4,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13113,7 +14066,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 17,
+   "sigma_rule_refs": 18,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -13346,7 +14299,7 @@
      "C:\\Windows\\System32\\vssadmin.exe"
     ]
    },
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 5,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13393,7 +14346,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 15,
+   "sigma_rule_refs": 17,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13418,7 +14371,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13476,6 +14429,14 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "wdac wizard.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "webbrowserpassview.exe": {
    "sources": [
     "sigma"
@@ -13488,7 +14449,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 3,
+   "sigma_rule_refs": 4,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -13538,7 +14499,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 8,
+   "sigma_rule_refs": 7,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13609,7 +14570,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 17,
+   "sigma_rule_refs": 18,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13638,6 +14599,14 @@
    "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
+  },
+  "win32calc.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": true
   },
   "winchk32.exe": {
    "sources": [
@@ -13765,9 +14734,58 @@
    "is_pe": true,
    "in_winbindex": false
   },
+  "winpeasany.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "winpeasany_ofs.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "winpeasx64.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "winpeasx64_ofs.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "winpeasx86.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
+  "winpeasx86_ofs.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
+  },
   "winproj.exe": {
    "sources": [
-    "lolbas"
+    "lolbas",
+    "sigma"
    ],
    "lolbas": {
     "url": "https://lolbas-project.github.io/lolbas/OtherMSBinaries/Winproj/",
@@ -13787,6 +14805,7 @@
      "C:\\Program Files\\Microsoft Office\\root\\Office16\\WinProj.exe"
     ]
    },
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -13833,7 +14852,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13887,7 +14906,7 @@
      "C:\\Program Files\\Microsoft Office\\Office12\\winword.exe"
     ]
    },
-   "sigma_rule_refs": 32,
+   "sigma_rule_refs": 30,
    "is_pe": true,
    "in_winbindex": false
   },
@@ -13960,7 +14979,7 @@
      "C:\\Windows\\SysWOW64\\wbem\\wmic.exe"
     ]
    },
-   "sigma_rule_refs": 46,
+   "sigma_rule_refs": 54,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -13969,7 +14988,7 @@
     "curated",
     "sigma"
    ],
-   "sigma_rule_refs": 7,
+   "sigma_rule_refs": 10,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -14017,7 +15036,7 @@
      "C:\\Windows\\System32\\WorkFolders.exe"
     ]
    },
-   "sigma_rule_refs": 1,
+   "sigma_rule_refs": 3,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -14090,7 +15109,7 @@
      "C:\\Windows\\SysWOW64\\wscript.exe"
     ]
    },
-   "sigma_rule_refs": 83,
+   "sigma_rule_refs": 78,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -14122,7 +15141,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 6,
+   "sigma_rule_refs": 8,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -14141,6 +15160,14 @@
    "sigma_rule_refs": 2,
    "is_pe": true,
    "in_winbindex": true
+  },
+  "wsudo-bridge.exe": {
+   "sources": [
+    "sigma"
+   ],
+   "sigma_rule_refs": 1,
+   "is_pe": true,
+   "in_winbindex": false
   },
   "wsudo.exe": {
    "sources": [
@@ -14249,7 +15276,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 10,
+   "sigma_rule_refs": 6,
    "is_pe": true,
    "in_winbindex": true
   },
@@ -14296,7 +15323,7 @@
    "sources": [
     "sigma"
    ],
-   "sigma_rule_refs": 2,
+   "sigma_rule_refs": 1,
    "is_pe": true,
    "in_winbindex": false
   },

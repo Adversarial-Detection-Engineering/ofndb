@@ -149,12 +149,12 @@
    "sha256": "c2bad053dd1f52e97745e6f593500058fe58766d738a8f50bfac8be7cd414a72",
    "machine": "x86",
    "has_version_resource": true,
-   "original_filename": null,
-   "internal_name": null,
-   "file_description": null,
-   "company_name": null,
-   "product_name": null,
-   "file_version": null,
+   "original_filename": "Taskmgr.exe",
+   "internal_name": "Task Manager",
+   "file_description": "Task Manager",
+   "company_name": "Microsoft® Windows® Operating System",
+   "product_name": "Task Manager",
+   "file_version": "1, 0, 0, 1",
    "fixed_file_version": "1.0.0.1",
    "has_embedded_signature": true,
    "is_dotnet": false,
@@ -238,12 +238,12 @@
    "sha256": "7a6b67ab0c3632296e1e2d88cd79e23badb68b006d5e4fb41416196724afa40e",
    "machine": "x64",
    "has_version_resource": true,
-   "original_filename": null,
-   "internal_name": null,
-   "file_description": null,
-   "company_name": null,
-   "product_name": null,
-   "file_version": null,
+   "original_filename": "Taskmgr.exe",
+   "internal_name": "Task Manager",
+   "file_description": "Task Manager",
+   "company_name": "Microsoft® Windows® Operating System",
+   "product_name": "Task Manager",
+   "file_version": "1, 0, 0, 1",
    "fixed_file_version": "1.0.0.1",
    "has_embedded_signature": true,
    "is_dotnet": false,
@@ -1397,11 +1397,11 @@
   }
  ],
  "schema_version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "original_filenames": [
   {
    "value": "Taskmgr.exe",
-   "builds": 26,
+   "builds": 28,
    "machines": [
     "x64",
     "x86"
@@ -1417,6 +1417,7 @@
     "11-26H1",
     "1507",
     "1511",
+    "1607",
     "1703",
     "1709",
     "1803",
@@ -1428,28 +1429,9 @@
     "21H2",
     "22H2"
    ],
-   "min_version": "10.0.10240.20747",
+   "min_version": "1.0.0.1",
    "max_version": "10.0.28000.3086",
    "first_seen": "2016-11-08",
-   "last_seen": "2026-10-13",
-   "provenance": "parsed"
-  },
-  {
-   "value": null,
-   "builds": 2,
-   "machines": [
-    "x64",
-    "x86"
-   ],
-   "sources": [
-    "winbindex"
-   ],
-   "windows_versions": [
-    "1607"
-   ],
-   "min_version": "1.0.0.1",
-   "max_version": "1.0.0.1",
-   "first_seen": "2024-08-13",
    "last_seen": "2026-10-13",
    "provenance": "parsed"
   },

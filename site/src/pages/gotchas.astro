@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import type { Entry } from '../lib/derive';
+import { sigmaRuleUrl, type Entry } from '../lib/derive';
 import { siteData } from '../lib/load';
 import { href, md, wbr } from '../lib/util';
 
@@ -147,11 +147,20 @@ const mui = [
       SigmaHQ ({stats.sigma_release}) rules match {sigmaOrphans.length} <code>OriginalFileName</code> literals that no binary here
       is named and no parsed build carries. Each one is either a binary this library hasn't collected yet (DLLs loaded by
       image_load rules, third-party tools) — or a rule arm that can never fire. Until the binary is parsed, the value is an
-      unverified claim.
+      unverified claim. A value that starts with a backslash is a path fragment written as an exact match, so it never fires.
     </p>
     <ul class="cols">
       {sigmaOrphans.map((s) => (
-        <li><code set:html={wbr(s.value)} /> <span class="muted">({s.rules} rule{s.rules > 1 ? 's' : ''})</span></li>
+        <li>
+          <code set:html={wbr(s.value)} />{' '}
+          {s.refs.length === 1 && (
+            <span class="muted">(<a href={sigmaRuleUrl(stats.sigma_release, s.refs[0].path)} title={s.refs[0].title ?? s.refs[0].path}>1 rule</a>)</span>
+          )}
+          {s.refs.length > 1 && (
+            <span class="muted">(rules {s.refs.map((r, i) => <>{i > 0 && ', '}<a href={sigmaRuleUrl(stats.sigma_release, r.path)} title={r.title ?? r.path}>{i + 1}</a></>)})</span>
+          )}
+          {!s.refs.length && <span class="muted">({s.rules} rule{s.rules > 1 ? 's' : ''})</span>}
+        </li>
       ))}
     </ul>
   </article>

@@ -14,9 +14,6 @@
    "fixed_file_version": "10.0.26100.9549",
    "has_embedded_signature": true,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "scan_label": "host 10.0.26300",
    "observed_path": "C:\\Windows\\System32\\aitstatic.exe",
    "sources": [
@@ -25,7 +22,7 @@
   }
  ],
  "schema_version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "original_filenames": [
   {
    "value": null,

@@ -9,7 +9,7 @@
     "required": ["name", "sha256", "parsed", "match", "sysmon_version", "os_build", "verified"],
     "properties": {
       "name": { "type": "string", "pattern": "^[^A-Z]+$" },
-      "mode": { "enum": ["run", "suspended"] },
+      "mode": { "enum": ["run", "suspended", "image_load"] },
       "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
       "sysmon_original_filename": { "type": ["string", "null"] },
       "parsed_original_filename": { "type": ["string", "null"] },

@@ -14,9 +14,6 @@
    "fixed_file_version": "10.0.26100.9711",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "11-24H2"
    ],
@@ -47,9 +44,6 @@
    "fixed_file_version": "10.0.28000.3231",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "11-26H1"
    ],
@@ -76,9 +70,6 @@
    "fixed_file_version": "10.0.19041.7802",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "21H2"
    ],
@@ -106,9 +97,6 @@
    "fixed_file_version": "10.0.17763.9376",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "1809"
    ],
@@ -136,9 +124,6 @@
    "fixed_file_version": "10.0.14393.9612",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "1607"
    ],
@@ -166,9 +151,6 @@
    "fixed_file_version": "10.0.10240.21161",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "1507"
    ],
@@ -196,9 +178,6 @@
    "fixed_file_version": "10.0.26100.5074",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "11-24H2",
     "11-25H2"
@@ -229,9 +208,6 @@
    "fixed_file_version": "10.0.19041.906",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "2004",
     "21H1"
@@ -273,9 +249,6 @@
    "fixed_file_version": "10.0.17134.1",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "1803"
    ],
@@ -368,9 +341,6 @@
    "fixed_file_version": "10.0.18362.449",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "1903"
    ],
@@ -406,9 +376,6 @@
    "fixed_file_version": "10.0.10586.1540",
    "has_embedded_signature": false,
    "is_dotnet": false,
-   "other_table_original_filenames": [
-    ""
-   ],
    "windows_versions": [
     "1511"
    ],
@@ -425,7 +392,7 @@
   }
  ],
  "schema_version": 1,
- "updated": "2026-10-26",
+ "updated": "2026-10-29",
  "original_filenames": [
   {
    "value": null,

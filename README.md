@@ -22,11 +22,11 @@ Detection rules key on OriginalFileName because it survives renaming, but the us
 | path | contents |
 |---|---|
 | `data/generated/<name>.json` | Every parsed build of a binary: SHA256, architecture, version strings, OriginalFilename, Windows releases, source |
-| `data/validation/sysmon.json` | Sysmon ground truth: the OriginalFileName Sysmon logged for each exact build (by SHA256). A mismatch is shown on the binary's page |
+| `data/validation/sysmon.json` | Sysmon ground truth: the OriginalFileName Sysmon logged for each exact build (by SHA256), from process creation (EID 1) for executables and image load (EID 7) for DLLs. Rows accumulate across runs. A mismatch is shown on the binary's page |
 | `data/validation/sysmon-summary.json` | Totals for the last Sysmon run, the targets that couldn't be launched, and builds whose Sandbox copy has a SHA256 no parsed build matches (`sandbox_build_differs`): those can neither confirm nor contradict a parsed value |
 | `data/curated/<name>.yml` | Hand-written notes on binaries that need context |
 | `data/targets.json` | Binary names gathered from LOLBAS, LOLRMM, Sysinternals and SigmaHQ, with the claims those projects make |
-| `data/sources/sigma_original_filenames.json` | Every OriginalFileName literal in SigmaHQ Windows rules, used as a cross-check |
+| `data/sources/sigma_original_filenames.json` | Every exact OriginalFileName literal in SigmaHQ Windows rules and the rules that use it, used as a cross-check |
 | `data/coverage.json`, `data/COVERAGE.md` | What's covered, and why anything isn't |
 | `schema/` | JSON Schemas for every committed data file; `npm test` validates them all |
 | `site/` | The static site (Astro). It derives gotchas, query snippets and lookup exports from `data/` at build time |

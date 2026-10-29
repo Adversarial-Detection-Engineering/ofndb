@@ -32,9 +32,11 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
         <strong>Sysinternals</strong> come from live.sysinternals.com; vendor tools from the vendor's own download.
       </li>
       <li>
-        <strong>Sensor ground truth.</strong> A disposable Windows Sandbox installs Sysmon, then creates every target
-        process <em>suspended</em> and kills it before its first instruction runs. Sysmon still logs the process-creation event, so each
-        binary's logged OriginalFileName is compared with the parsed value, matched by exact SHA256, without executing anything.
+        <strong>Sensor ground truth.</strong> A disposable Windows Sandbox installs Sysmon, then creates every collected
+        executable build, historical Winbindex builds included, <em>suspended</em> and kills it before its first instruction runs.
+        Sysmon still logs the process-creation event. DLLs are mapped as images without running any of their code, which Sysmon
+        logs as an image-load event carrying the same field. Each logged OriginalFileName is compared with the parsed value, matched
+        by exact SHA256, without executing anything.
       </li>
     </ol>
 
@@ -43,7 +45,7 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
       <dt><span class="badge badge-ok">Sysmon-confirmed</span></dt>
       <dd>A live Sysmon event for this exact build (same SHA256) logged this value.</dd>
       <dt><span class="badge">Parsed</span></dt>
-      <dd>Read from the binary's version resource; no live event for that build yet (other Windows releases, DLLs).</dd>
+      <dd>Read from the binary's version resource; no live event for that build yet (most often an old build that Windows refuses to load because it requires a signature this OS can't verify).</dd>
     </dl>
     <p>
       Values other projects publish (LOLRMM's PEMetadata, Sigma rule literals) are only used as cross-checks, never as data. Where
@@ -52,7 +54,8 @@ const n = (x: number | null | undefined) => (x ?? 0).toLocaleString('en-US');
 
     <h2>Coverage</h2>
     <p>
-      {n(stats.entries)} binaries and {n(stats.builds)} parsed builds; {n(stats.verified_entries)} binaries confirmed against Sysmon
+      {n(stats.entries)} binaries and {n(stats.builds)} parsed builds; {n(stats.verified_builds)} builds
+      ({n(stats.verified_entries)} binaries) confirmed against Sysmon
       {stats.sysmon_versions.join(', ')}, {stats.mismatched_entries
         ? `and ${n(stats.mismatched_entries)} where Sysmon logged a different value (flagged on their pages)`
         : 'with zero mismatches'}. Defender and Elastic values aren't sensor-checked yet. Of {n(stats.targets)} target names gathered from LOLBAS, LOLRMM,

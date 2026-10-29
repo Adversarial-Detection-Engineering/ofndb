@@ -24,6 +24,8 @@ export interface Build {
   signature_type?: string;
   /** Set only when the build was identified as a .NET apphost launcher. */
   is_apphost?: boolean;
+  /** OriginalFilename values in the version resource's other language tables, when they differ. */
+  other_table_original_filenames?: string[];
 }
 export interface DataRecord {
   name: string;
@@ -72,15 +74,34 @@ export interface Inputs {
   mismatches?: Record<string, Mismatch>;
   coverage: { targets?: number; collected?: number };
   sigmaRelease: string | null;
-  /** Exact OriginalFileName literals in SigmaHQ Windows rules -> rule count (noise already stripped by the loader). */
+  /** Exact OriginalFileName literals in SigmaHQ Windows rules -> rule count. */
   sigmaValues?: Record<string, number>;
+  /** The same literals -> the rules that use them. */
+  sigmaRules?: Record<string, SigmaRule[]>;
+}
+
+export interface SigmaRule {
+  id: string | null;
+  title: string | null;
+  /** Path in the SigmaHQ repo at the release. */
+  path: string;
 }
 
 /** The Sigma literal that names this binary, if any. */
 export interface SigmaClaim {
   value: string;
   rules: number;
+  refs?: SigmaRule[];
 }
+
+/** A rule's page in the SigmaHQ repo at the release the literals came from. */
+export const sigmaRuleUrl = (release: string | null, path: string) =>
+  `https://github.com/SigmaHQ/sigma/blob/${release ?? 'master'}/${path}`;
+
+const ruleTitles = (refs: SigmaRule[]) => {
+  const titles = uniqSorted(refs.map((r) => r.title ?? r.path.split('/').at(-1)!));
+  return titles.slice(0, 3).map((t) => `"${t}"`).join(', ') + (titles.length > 3 ? ` and ${titles.length - 3} more` : '');
+};
 
 export const CATEGORY_ORDER = ['lolbin', 'rmm', 'sysinternals', 'windows', 'thirdparty'];
 
@@ -351,7 +372,30 @@ export function buildEntry(
   } else if (dll) {
     add('dll-ofn', `OriginalFilename names a DLL (\`${dll}\`), not an executable. Rules expecting \`.exe\` values miss it.`);
   }
-  if (distinct.length && distinct.every((v) => v.toLowerCase() !== name.toLowerCase())) {
+  const padded = distinct.find((v) => v !== v.trim());
+  if (padded) {
+    const verifiedPadded = builds.some((b) => b.original_filename === padded && b.sha256 in verified);
+    const spaces = padded.length - padded.trim().length;
+    add(
+      'padded-ofn',
+      `OriginalFilename is \`${padded.trim()}\` padded with ${spaces} space${spaces > 1 ? 's' : ''}` +
+        (verifiedPadded ? ', and Sysmon logs the padding verbatim' : '') +
+        `. An exact match on \`${padded.trim()}\` never fires: trim the field first, or use startswith. The snippets below match both spellings.`,
+    );
+  }
+  const otherTables = uniqSorted(builds.flatMap((b) => b.other_table_original_filenames ?? []));
+  if (otherTables.length) {
+    const hidden = builds.filter((b) => b.other_table_original_filenames?.length);
+    const confirmed = hidden.some((b) => b.sha256 in verified);
+    add(
+      'multi-table',
+      `${hidden.length} build${hidden.length > 1 ? 's carry' : ' carries'} a version-resource string table that the Translation list doesn't select, ` +
+        `naming ${otherTables.map((v) => `\`${v}\``).join(', ')}. Sysmon reads only the table the first Translation entry names` +
+        (confirmed ? ' (confirmed on this binary)' : '') +
+        '; a parser or sensor that reads the other table reports the other value.',
+    );
+  }
+  if (distinct.length && distinct.every((v) => v.trim().toLowerCase() !== name.toLowerCase())) {
     add('differs-from-name', `OriginalFilename doesn't match the file name: a rule using \`OriginalFileName: ${name}\` never fires.`);
   }
   const others = uniqSorted(distinct.flatMap((v) => shared.get(v.toLowerCase()) ?? []).filter((n) => n !== name));
@@ -389,7 +433,8 @@ export function buildEntry(
       `${sigma.rules} SigmaHQ rule${sigma.rules > 1 ? 's match' : ' matches'} \`OriginalFileName: ${sigma.value}\`, but ` +
         (distinct.length
           ? `parsed builds carry ${distinct.map((v) => `\`${v}\``).join(', ')}: those rule arms never fire.`
-          : 'no observed build carries an OriginalFilename: those rule arms never fire.'),
+          : 'no observed build carries an OriginalFilename: those rule arms never fire.') +
+        (sigma.refs?.length ? ` Rules: ${ruleTitles(sigma.refs)}.` : ''),
     );
   }
   gotchas.push(...(curated.gotchas ?? []).map((text) => ({ kind: 'curated', text })));
@@ -419,8 +464,10 @@ export function buildEntry(
     lolrmm_tools: uniqSorted(claims.map((c) => c.tool)),
     sigma_rule_refs: target?.sigma_rule_refs ?? 0,
     build_count: builds.length,
+    verified_build_count: builds.filter((b) => b.sha256 in verified).length,
     gap_count: rec.gaps?.length ?? 0,
-    snippets: snippets(name, distinct),
+    // a padded value is matched both as carried and trimmed: sensors and pipelines differ on trimming
+    snippets: snippets(name, distinctCi([...distinct, ...distinct.map((v) => v.trim())])),
     builds: builds.map((b) => ({
       sha256: b.sha256,
       machine: b.machine,
@@ -457,12 +504,15 @@ export function deriveAll(inp: Inputs) {
       shared.set(v.toLowerCase(), names);
     }
   }
-  // Sigma literal (lowercase) -> first spelling seen, rule counts of case variants merged
+  // Sigma literal (lowercase) -> first spelling seen, rule counts and rules of case variants merged
   const sigmaByLower = new Map<string, SigmaClaim>();
   for (const [v, n] of Object.entries(inp.sigmaValues ?? {})) {
+    const refs = inp.sigmaRules?.[v] ?? [];
     const cur = sigmaByLower.get(v.toLowerCase());
-    if (cur) cur.rules += n;
-    else sigmaByLower.set(v.toLowerCase(), { value: v, rules: n });
+    if (cur) {
+      cur.rules += n;
+      for (const r of refs) if (!cur.refs!.some((c) => c.path === r.path)) cur.refs!.push(r);
+    } else sigmaByLower.set(v.toLowerCase(), { value: v, rules: n, refs: [...refs] });
   }
   const entries = inp.records
     .filter((rec) => rec.builds.some((b) => 'original_filename' in b))
@@ -490,6 +540,7 @@ export function deriveAll(inp: Inputs) {
     updated,
     entries: entries.length,
     builds: entries.reduce((n, e) => n + e.build_count, 0),
+    verified_builds: entries.reduce((n, e) => n + e.verified_build_count, 0),
     verified_entries: entries.filter((e) => e.verified).length,
     mismatched_entries: entries.filter((e) => e.flags.includes('sensor-mismatch')).length,
     categories: count(entries.flatMap((e) => e.categories)),

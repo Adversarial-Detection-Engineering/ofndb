@@ -3,7 +3,7 @@
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { parse as parseYaml } from 'yaml';
-import { deriveAll, type Curated, type DataRecord, type Inputs, type Mismatch, type Verification } from './derive';
+import { deriveAll, type Curated, type DataRecord, type Inputs, type Mismatch, type SigmaRule, type Verification } from './derive';
 
 const DATA = resolve(process.env.OFNDB_DATA ?? join(process.cwd(), '..', 'data'));
 
@@ -40,13 +40,11 @@ function loadInputs(): Inputs {
   const covPath = join(DATA, 'coverage.json');
   const sigmaPath = join(DATA, 'sources', 'sigma_original_filenames.json');
   const sigmaSrc = existsSync(sigmaPath) ? json(sigmaPath) : null;
-  // keep only literals usable as exact values: drop endswith patterns (leading \), command-line
-  // noise (leading -), absence checks ("null"), and extractor junk carrying quotes or comments
-  const sigmaValues: Record<string, number> = {};
-  for (const [v, n] of Object.entries<number>(sigmaSrc?.values ?? {})) {
-    if (v.startsWith('\\') || v.startsWith('-') || v === 'null' || /['#]/.test(v)) continue;
-    sigmaValues[v] = n;
-  }
+  // The collector keeps only exact (unmodified) OriginalFileName values, comments and quotes
+  // stripped. A leading backslash stays on purpose: as an exact value it never matches, and
+  // that is worth showing.
+  const sigmaValues: Record<string, number> = sigmaSrc?.values ?? {};
+  const sigmaRules: Record<string, SigmaRule[]> = sigmaSrc?.rules ?? {};
   return {
     records,
     targets: json(join(DATA, 'targets.json')).targets,
@@ -56,6 +54,7 @@ function loadInputs(): Inputs {
     coverage: existsSync(covPath) ? json(covPath).summary : {},
     sigmaRelease: sigmaSrc?.sigma_release ?? null,
     sigmaValues,
+    sigmaRules,
   };
 }
 
